@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Replace strings in the generated website code
     steps:
-    - uses: actions/checkout@v2
-      name: Check out repository
-    - run: |
-      find . -type f -exec sed -i '' -e 's,blog-dynamic.codeberryschool.com,codeberryschool.com,g' {} +
-      find . -type f -exec sed -i '' -e 's#<meta name="robots" content="nofollow, noindex">##g' {} +
-      find . -type f -exec sed -i '' -e 's#"\\/wp-include#"\\/blog\\/wp-include#g' {} +
-      name: Replace strings
+    - name: Check out repository
+      uses: actions/checkout@v2
+    - name: Replace strings
+      run: |
+      find . -type f -exec sed -i 's#blog-dynamic.codeberryschool.com#codeberryschool.com#g' {} +
+      find . -type f -exec sed -i 's#<meta name="robots" content="nofollow, noindex">##g' {} +
+      find . -type f -exec sed -i 's#"\\/wp-include#"\\/blog\\/wp-include#g' {} +
