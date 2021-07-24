@@ -1,4 +1,4 @@
-name: Replace strings in the generated website code
+"name: Replace strings in the generated website code
 on:
   push:
     branches: [ master ]
@@ -14,5 +14,5 @@ jobs:
     - name: Replace strings
       run: |
       find . -type f -exec sed -i 's#blog-dynamic.codeberryschool.com#codeberryschool.com#g' {} +
-      find . -type f -exec sed -i 's#<meta name="robots" content="nofollow, noindex">##g' {} +
-      find . -type f -exec sed -i 's#"\\/wp-include#"\\/blog\\/wp-include#g' {} +
+      find . -type f -exec sed -i 's#<meta name=\"robots\" content=\"nofollow, noindex\">##g' {} +
+      find . -type f -exec sed -i 's#\"\\/wp-include#\"\\/blog\\/wp-include#g' {} +
