@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mailchimp portugues | CodeBerry Blog</title>
+	<atom:link href="/blog/ptbr/tag/mailchimp-portugues/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 29 Nov 2019 09:12:35 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Eu sou András P. Tóth, empreendedor em série e é assim que eu trabalho</title>
+		<link>/blog/ptbr/eu-sou-andras-p-toth-empreendedor-em-serie-e-e-assim-que-eu-trabalho/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 12 Sep 2018 15:37:31 +0000</pubDate>
+				<category><![CDATA[Entrevista]]></category>
+		<category><![CDATA[András P. Tóth]]></category>
+		<category><![CDATA[BME]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[Ciência da Computação]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[empreendedor em ingles]]></category>
+		<category><![CDATA[empreendedor em série]]></category>
+		<category><![CDATA[empreendedorismo em ti]]></category>
+		<category><![CDATA[Escola de Programação CodeBerry]]></category>
+		<category><![CDATA[eu empreendedor]]></category>
+		<category><![CDATA[eu empreendo]]></category>
+		<category><![CDATA[eu sou empreendedor]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Hungría]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Mailchimp]]></category>
+		<category><![CDATA[mailchimp portugues]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[serie para empreendedores]]></category>
+		<category><![CDATA[sou empreendedor]]></category>
+		<category><![CDATA[sou um empreendedor]]></category>
+		<category><![CDATA[Universidade de Tecnologia de Budapeste]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6228</guid>
+
+					<description><![CDATA[András P. Tóth estudou Ciência da Computação na Universidade de Tecnologia de Budapeste e agora trabalha como empreendedor em série no setor de TI. Ele atualmente está construindo a Escola de Programação CodeBerry com seus amigos. Eles esperam diminuir a escassez de profissionais de TI na Hungria. Durante a entrevista, Andris nos contou a história [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>András P. Tóth</strong> estudou Ciência da Computação na Universidade de Tecnologia de Budapeste e agora trabalha como empreendedor em série no setor de TI. Ele atualmente está construindo a Escola de Programação CodeBerry com seus amigos. Eles esperam diminuir a escassez de profissionais de TI na Hungria.</p>
+<p>Durante a entrevista, Andris nos contou a história de seu primeiro salário de cerca de R$ 400 e sua primeira venda de empresa, bem como os gatos do Instagram e o caminho que há para os desenvolvedores húngaros.</p>
+<blockquote>
+<ul>
+<li><strong>Eu moro aqui:</strong> Budapeste, Hungria.</li>
+<li><strong>Eu trabalho aqui:</strong> principalmente em casa, às vezes em cyber cafés.</li>
+<li><strong>Eu uso:</strong> iPhone | MacBook Air | Sublime Text | bash | PHP | Node.js | Mailchimp | Google</li>
+<li><strong>Meu estilo de trabalho em poucas palavras:</strong> pequenos passos todos os dias.</li>
+</ul>
+</blockquote>
+<p><strong>Quando perguntam sobre sua profissão, o que você responde?</strong></p>
+<p>Eu costumo dizer que eu construo empresas. Se sinto que as pessoas não entenderam direito, acrescento que crio empresas no setor de TI. Meu trabalho é dar empregos a outras pessoas.</p>
+<p><strong>Me conte mais sobre o que você faz em relação à programação?</strong></p>
+<p>Normalmente estou ocupado em vários projetos diferentes ao mesmo tempo. Alguns são com fins lucrativos (como a Escola de Programação CodeBerry), alguns são sem fins lucrativos (por exemplo, Invisible University, YearCompass). Às vezes, apenas programo para relaxar.<br />
+Nós começamos a Escola de Programação CodeBerry em 2016 com alguns amigos. Ensinamos programação a pessoas que nunca fizeram isso antes e as ajudamos a encontrar um emprego. Entre outras várias tarefas, tenho muitas coisas para fazer como desenvolvedor nesta empresa:</p>
+<ul>
+<li>Eu sou um dos mentores de programação que ajuda os alunos com coisas técnicas.</li>
+<li>Eu escrevo muito código para o nosso site, bem como para os lugares com os quais a CodeBerry se conecta com outros softwares como pesquisas, análises e soluções de pagamento.</li>
+<li>Eu crio módulos para o sistema que lida com os deveres de casa de programação como estatísticas administrativas, insígnias, indicadores de progresso.</li>
+</ul>
+<p>Eu relaxo programando pequenas coisas que eu acho interessantes. Alguns dos meus projetos recentes incluem:</p>
+<ul>
+<li>um script do Instagram que ganhou seguidores para o perfil do nosso gato.</li>
+<li>um bot do Slack que cria fotos de todos os companheiros de equipe.</li>
+<li>um gráfico de temperatura (com dados coletados por sensores).</li>
+<li>um plug-in do Chrome que compartilha a imagem da webcam com outro computador.</li>
+</ul>
+<p style="text-align: left;"><strong>Como é o seu espaço de trabalho?</strong><br />
+<img loading="lazy" class="size-full wp-image-5817 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2016/09/Andras_P_Toth_pic1-3.jpeg" alt="" width="800" height="600" /></p>
+<p style="text-align: center;">A mesa do Andris (Crédito: András P. Tóth)</p>
+<p><strong>Quando, onde e como você aprendeu a programar?</strong></p>
+<p>Eu tinha 10 anos quando conseguimos um C64 de Natal. Aprendi programação com a ajuda de livros e amigos. Nós tínhamos uma pequena equipe cativada pela subcultura demoscene. Todos nós queríamos criar arte. Nós desenhamos, compusemos música, programamos e, é claro, competíamos uns com os outros.</p>
+<p>Meu primeiro trabalho remunerado foi criar uma loja virtual para uma empresa italiana quando eu tinha dezesseis anos. Com a ajuda de uma conexão de internet discada, eu ficava on-line toda noite e tentava montar um site a partir de trechos de código que encontrava na internet. Eu tinha 18 anos quando me candidatei para a universidade, onde estudei Ciência da Computação.</p>
+<p>No meu terceiro ano, comecei a trabalhar como desenvolvedor e gerente de projetos. Um ano depois, criei minha primeira empresa.</p>
+<p><strong>Quais são as oportunidades de emprego para desenvolvedores web? Em média, quanto tempo você utiliza procurando emprego?</strong></p>
+<p>Eu nunca procurei emprego antes. Até a metade da faculdade, as pessoas sempre me abordavam com trabalhos de desenvolvedor e, depois disso, sempre trabalhei para minha própria empresa. Eu ainda recebo e-mails via LinkedIn a cada duas semanas perguntando se estou interessado em trabalhos de desenvolvedor, então acho que o mercado está bem aberto para nós.</p>
+<p><strong>Como é o sua agenda diária, semanal e anual?</strong></p>
+<p>Normalmente, eu me levanto entre 6:30 e 7:30 da manhã, dependendo das reuniões. Eu malho, tomo banho, tomo café da manhã e trabalho até o meio-dia. Eu almoço com alguém, trabalho novamente até as cinco e depois tento relaxar. Eu trabalho em casa, na maioria das vezes, então eu cochilo à tarde, mas isso resulta em eu ter que trabalhar tarde da noite. Isso não é bom para ninguém.</p>
+<p>Quase sempre, aplico a técnica Pomodoro ao meu trabalho. 25 minutos de trabalho seguidos de um descanso de 5 minutos preenchido com algumas tarefas.</p>
+<p>Temos discussões operativas na segunda-feira e discussões estratégicas toda manhã de terça-feira. De terça-feira a quinta-feira, todos nós trabalhamos de nossos escritórios em casa e, na sexta-feira, organizamos reuniões ao vivo ou on-line para resumir a semana.</p>
+<p>Meu trabalho é bastante diversificado. Uma parte dele é a comunicação (conversas internas, reuniões externas e orientação a códigos), uma parte é marketing (gerenciar anúncios, redigir textos e colocar sistemas de marketing para funcionar), e o restante é técnico (todos os tipos de tarefas de programação).<br />
+Quatro vezes por ano, eu tiro uma semana de folga. Eu também tenho viagens de alguns dias com os colegas duas vezes por ano.</p>
+<p>A Universidade Invisível faz com que duas semanas a cada seis meses sejam bem lotadas (no início e no final de cada semestre) e o YearCompass deixa dezembro e janeiro intensos. Isso faz com que eu aceite menos trabalhos nesses períodos.</p>
+<p><strong>O que te surpreendeu sobre esse trabalho que você nunca pensou antes?</strong></p>
+<p>O tempo voa quando você programa. Eu começo a resolver um problema e em um piscar de olhos já é noite. Isso realmente me surpreendia no começo.</p>
+<p>A outra coisa é a velocidade com que todo o conhecimento de programação evolui. Ocupei-me com marketing por alguns anos e, quando voltei para a programação, mal conseguia entender o que meus colegas estavam falando. Deve ter sido um sentimento semelhante ao que as pessoas idosas experimentam quando seus filhos tentam explicar coisas mais modernas.</p>
+<p><strong>Você tem habilidades que surpreenderiam as pessoas comuns?</strong></p>
+<p>Quando alguém nos pede ajuda (por exemplo, &#8220;a Internet está inativa&#8221; ou &#8220;a impressora não funciona&#8221;), geralmente também não sabemos a solução. Tudo o que fazemos é ler com paciência a mensagem de erro e encontrar a resposta na internet.</p>
+<p><strong>Com quem você trabalha?</strong></p>
+<p>Eu trabalho muito sozinho. Temos reuniões semanais e conversamos todos os dias com colegas quando trabalhamos juntos em alguma tarefa. Também troco emails com fornecedores, parceiros, consultores e imprensa com frequência.</p>
+<p><strong>Quais são os caminhos típicos de carreira em sua profissão?</strong></p>
+<p>Eu acho que existem alguns caminhos para os profissionais de TI:</p>
+<ul>
+<li>Você pode escolher o tamanho e o estilo da empresa: freelancer, startup, pequenas empresas, empresas de médio porte, empresas multinacionais e governamentais.</li>
+<li>Você pode escolher um tópico: operacional, desenvolvimento, planejamento, teste ou até mesmo gerenciamento, vendas, suporte, crescimento, dados, etc.</li>
+<li>Você se diferencia por sua experiência: iniciante, junior, sênior etc.<br />
+e dentro de cada caminho, há muitas junções específicas (por exemplo, um desenvolvedor pode ser um especialista angular de desenvolvimento web front-end)</li>
+<li>Você pode optar por navegar por esses caminhos durante sua vida profissional.</li>
+</ul>
+<p>Eu vejo muitos exemplos entre meus amigos também:</p>
+<ul>
+<li>É comum ir do zero ao infinito na carreira de programador.</li>
+<li>Há muitos “comecei como especialista em TI, mas descobri que era bom com pessoas, então me tornei gerente”.</li>
+<li>Também há alguns &#8220;comecei em empresas multinacionais, mas estou tentando construir meu próprio negócio&#8221;.</li>
+<li>E poucos dos meus amigos começaram a administrar sua própria empresa em primeiro lugar.</li>
+</ul>
+<p><strong>Quais são seus planos, como você deseja continuar?</strong></p>
+<p>Estou na minha primeira venda da empresa (&#8220;Gyümölcstárhely&#8221;, um serviço de hospedagem na web, foi minha primeira empresa, que foi comprada por uma das maiores empresas de hospedagem da Europa) e também tenho muitos projetos que não deram certo. Até agora, eu realmente gostei dessa combinação empreendedor-desenvolvedor, então é provavelmente o que eu vou continuar fazendo.</p>
+<p><strong>Que outra profissão você escolheria se tivesse que mudar? Você conseguiria mudar?</strong></p>
+<p>Eu não mudaria. Eu realmente gosto de ensinar, então eu até consigo me imaginar fazendo algum tipo de coisa de treinador ou consultor. Eu provavelmente poderia mudar para um trabalho normal de TI e, possivelmente, marketing devido à minha experiência de empreendedorismo.</p>
+<p><strong>Quais habilidades os grandes desenvolvedores e especialistas em TI exigem? Para quem você não recomenda essa profissão?</strong></p>
+<p>Eu acho as seguintes habilidades importantes:</p>
+<ul>
+<li>Engajamento em detalhes: é muito difícil programar em um estilo superficial. Você tem que prestar atenção aos detalhes.</li>
+<li>Capacidade de concentração: encontrar um único erro às vezes leva horas.</li>
+<li>Saber inglês: se eu ficar empacado, é muito mais fácil encontrar ajuda na internet em inglês.</li>
+</ul>
+<p>Eu não recomendo esta profissão se você não tiver essas habilidades.</p>
+<p><strong>Qual é a sua parte favorita?</strong></p>
+<p>Eu amo programas que você pode deixar executando por horas, dias ou semanas, fazendo algo útil. Criar algo que funcione também é uma ótima sensação.</p>
+<p><strong>O que te irrita mais? Quais são as dificuldades e perigos da sua profissão?</strong></p>
+<p>As &#8220;guerras religiosas profissionais&#8221; podem ser irritantes e divertidas. Ver pessoas brigarem por qual é o melhor editor de texto ou qual melhor framework de JavaScript&#8230;</p>
+<p>Não é fácil acompanhar a tecnologia em constante mudança, decidindo qual linguagem de programa usar ou qual nova ferramenta é boa o suficiente para ser aprendida.</p>
+<p>Além disso, existem perigos nesta profissão:</p>
+<ul>
+<li>Ficar sentado o dia todo: você vai precisa de um esforço extra se não quiser acabar virando um geek gordo.</li>
+<li>A bolha: é fácil pensar que uma empresa repleta de profissionais de TI é composta de homens bem pagos de 20 a 50 anos que entendem de piadas de programação.</li>
+</ul>
+<p><strong>Quão estável é o seu trabalho? Quanto tempo você leva trabalhando para a mesma empresa?</strong></p>
+<p>Eu trabalho em uma startup. Há projetos que mudam rapidamente, processos subdesenvolvidos e maior incerteza em comparação a uma empresa maior e que funciona bem. Eu trabalhei de 5 a 6 anos em minhas empresas anteriores; nós sempre começávamos empresas novas depois.</p>
+<p>Eu nunca ouvi falar de um profissional de TI ser demitido entre meus amigos. Alguns são mais leais e trabalham décadas na mesma empresa, enquanto outros mudam a cada poucos anos, motivados por salários mais altos e papéis mais interessantes.</p>
+<p><strong>Se você tivesse que pedir uma coisa em nome de todos os desenvolvedores, qual seria?</strong></p>
+<p>Como especialista em TI, eu pediria para ler as mensagens de erro e procure-as no Google antes de nos ligar.<br />
+Como empresário, eu desejo e-mails claros e compreensíveis quando busco ajuda depois que algo sai errado. O que tentaram fazer, o que eles esperavam que acontecesse e o que aconteceu em vez disso. Assim, vamos pensar juntos na solução.</p>
+<p><strong>Quanto dá para ganhar nesta profissão (sendo um novato, experiente e veterano)?</strong></p>
+<p>Na minha experiência como empreendedor:</p>
+<ul>
+<li>Eu não fiz um centavo durante o primeiro ano. Eu apenas alimentei o projeto com o meu dinheiro.</li>
+<li>O primeiro mês após o ponto de inflexão eu poderia me pagar R$ 450. Mais tarde, meu salário cresceu lentamente para R$ 50000.</li>
+<li>Ganhei uma quantia maior vendendo minha empresa. O suficiente para cobrir todas as despesas nos próximos 4 ou 5 anos, o que deixou que eu me concentrasse no meu próximo projeto.</li>
+</ul>
+<p>Meus amigos desenvolvedores geralmente ganham mais do que isso. Na maior parte do tempo, eles têm um acordo de sigilo, de modo que só podemos falar de valores aproximados: eles ganham de R$ 50000 a R$ 70000 anuais na Hungria, até mais se forem líderes e bem acima de R$ 100000 nos países do primeiro mundo. Vale a pena navegar no Glassdoor. Eles têm muita informação sobre salários.</p>
+<p><strong>Qual você acha que é a melhor maneira de aprender a programar?</strong></p>
+<p>Há vários ótimos cursos online e offline. Coletamos todos em um site: http://programozastanfolyam.com./</p>
+<p>As coisas a seguir foram as que mais me ajudaram:</p>
+<ul>
+<li>Ter que digitar a solução para uma determinada tarefa em vez de lê-la em um livro ou assistir a um vídeo.</li>
+<li>Projetos específicos que eu poderia concluir, por exemplo, criar um site para um amigo ou um projeto.</li>
+<li>Um amigo ou mentor que já sabia programar e poderia me ajudar quando eu tive problemas.</li>
+</ul>
+<p><strong>Por que vale a pena aprender programação?</strong></p>
+<p>Para mim, a programação:</p>
+<ul>
+<li>Me permite experimentar criar algo.</li>
+<li>Oferece oportunidades de trabalho e apoio financeiro estável.</li>
+<li>É relaxante</li>
+</ul>
+<p><em><strong>Aviso: O Blog da CodeBerry é publicado pela Escola de Programação CodeBerry, co-fundada por András.<br />
+Você gostou desta história? Inscreva-se a nossa newsletter que enviaremos as melhores publicações todas as semanas. Sem spam, sem besteira. Você sempre pode optar por sair.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

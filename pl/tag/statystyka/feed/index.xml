@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>statystyka | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/statystyka/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 15 Sep 2020 12:13:47 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Programowanie w Pythonie &#8211; język Python dla początkujących</title>
+		<link>/blog/pl/programowanie-w-pythonie/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 05:53:17 +0000</pubDate>
+				<category><![CDATA[Języki programowania]]></category>
+		<category><![CDATA[analiza danych]]></category>
+		<category><![CDATA[dynamika]]></category>
+		<category><![CDATA[język]]></category>
+		<category><![CDATA[programowanie]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[statystyka]]></category>
+		<category><![CDATA[Sztuczna inteligencja]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=8880</guid>
+
+					<description><![CDATA[W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć. Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w Szkole Programowania CodeBerry. Języki [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego</strong>, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<h3>Języki programowania</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><strong>Programowanie w Pythonie &#8211; język Python dla początkujących</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP &#8211; programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/podstawy-javascript/" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript – język JavaScript dla początkujących</a></li>
+</ul>
+<p>&nbsp;</p>
+<h2>Czym jest Python?</h2>
+<p><span style="font-weight: 400;">Python jest wysokopoziomowym („High-Level”), uniwersalnym językiem programowania, który został zaprojektowany tak, aby był niezwykle łatwy do odczytania i zrozumienia. „High-Level” oznacza, że Python jest bliższy językom ludzkim niż inne języki programowania. Python ma żywą i aktywną społeczność, a ucząc się tego języka, otrzymuje się dostęp do wielu wspaniałych narzędzi, stworzonych przez programistów Pythona, od momentu jego powstania.</span></p>
+<p>&nbsp;</p>
+<h2>Jak wygląda programowanie w Pythonie?</h2>
+<p><span style="font-weight: 400;">Filozofia Pythona znajduje się w dokumencie o nazwie „</span><a href="https://www.python.org/dev/peps/pep-0020/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">The Zen of Python</span></a><span style="font-weight: 400;">”. Zgodnie z nim, Python opiera się na następujących zasadach projektowania:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Piękno jest lepsze niż brzydota</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wyraźne jest lepsze niż dorozumiane</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Proste jest lepsze niż skomplikowane</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Złożoność jest lepsza niż skomplikowanie</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Liczy się czytelność</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I więcej&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Python jest zdolny do wykonywania różnych zadań z wykorzystaniem dodatków. Dzięki ogromnej ilości specjalistycznych bibliotek dla Pythona ten uniwersalny język może być ponownie wykorzystany do wykonywania niesamowitej ilości rzeczy. Na przykład, specjalistyczne biblioteki pozwalają programistom używać Pythona w dość technicznych dziedzinach, takich jak sztuczna inteligencja, nauka o danych i statystyka. </span></p>
+<p><span style="font-weight: 400;">Poza nauką podstaw Pythona, należy dowiedzieć się, jak poruszać się po niektórych bibliotekach, które odpowiadają Twojej konkretnej dziedzinie. Podobnie jak w JavaScript, nauka jak korzystać z konkretnych bibliotek i frameworków będzie kluczową częścią Twojej bieżącej edukacji. </span></p>
+<p>&nbsp;</p>
+<h2>Zastosowania dla Pythona</h2>
+<p><span style="font-weight: 400;">Python jest uważany przez wielu za „szwajcarski scyzoryk” języków programowania i nadal odgrywa tę rolę wraz z rosnącą liczbą wyspecjalizowanych bibliotek i frameworków. </span></p>
+<p><span style="font-weight: 400;">Jeśli odwiedzisz stronę </span><a href="https://www.python.org/about/apps/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pythona</span></a><span style="font-weight: 400;">, znajdziesz listę programów, jak również odpowiednie biblioteki i frameworki dla każdego z nich. Niektóre z tych aplikacji służą do Web Development (tworzenie stron internetowych), Scientific and Numeric (nauka i kalkulacje), Education (edukacja), Desktop GUIs (interfejsy użytkowników), Software Development (tworzenie aplikacji) i Business Applications (tworzenie aplikacji biznesowych). Python jest również jednym z głównych języków programowania dla Sztucznej Inteligencji, dzięki popularnemu frameworkowi TensorFlow opracowanemu przez dział AI Google. </span></p>
+<p>&nbsp;</p>
+<h2>Ile zarabiają programiści Pythona?</h2>
+<p><span style="font-weight: 400;">W Polsce średnie zarobki zaczynają się od 6 800 zł miesięcznie, a dochodzą nawet do 11 000. Oczywiście zależy to od regionu, umiejętności i wiedzy programisty. Młodszy specjalista Python może zarobić od 3 do 5 tysięcy złotych na miesiąc.</span></p>
+<p>&nbsp;</p>
+<p><b>Jak nauczyć się Pythona?</b></p>
+<p><span style="font-weight: 400;">Dzięki popularności Pythona i jego wiekowi (27 lat), ten język programowania ma wiele zasobów edukacyjnych dostępnych dla nowych uczniów. Jeśli wolisz bardziej tradycyjną metodę nauki, kursy uniwersyteckie są doskonałym wyborem. Z drugiej strony, kursy programowania i online są nastawione na szybkich, samo zmotywowanych uczniów.</span></p>
+<p><span style="font-weight: 400;">Jeśli chcesz dowiedzieć się więcej o różnych możliwościach nauki programowania, zapoznaj się z naszym artykułem „</span><a href="https://codeberryschool.com/blog/pl/jak-nauczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Jak nauczyć się programowania?</span></a><span style="font-weight: 400;">”. </span></p>
+<p>&nbsp;</p>
+<h2>Jak długo zajmuje nauka Pythona?</h2>
+<p><span style="font-weight: 400;">Ilość czasu potrzebnego na naukę języka programowania zależy od metod, których używasz, Twojego zaangażowania w naukę oraz od tego, ile godzin zainwestujesz tygodniowo. Nie możesz oczekiwać, że dowiesz się wszystkiego o Pythonie po ukończeniu semestralnego kursu na lokalnym uniwersytecie lub 14-tygodniowego programu na bootcampie. </span></p>
+<p><span style="font-weight: 400;">Poza podstawami trzeba będzie poświęcić dużo czasu na naukę korzystania z różnych frameworków i bibliotek. Niektóre z najbardziej znaczących frameworków dla Pythona to </span><a href="https://www.djangoproject.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Django</span></a><span style="font-weight: 400;"> i </span><a href="http://www.web2py.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Web2Py</span></a><span style="font-weight: 400;">. Podobnie jak w przypadku JavaScript, bycie „ekspertem” w Pythonie obejmuje wiedzę na temat różnych frameworków, które zostały stworzone na przestrzeni lat.</span></p>
+<p>&nbsp;</p>
+<h2>Czy Python jest dla mnie odpowiedni?</h2>
+<p><span style="font-weight: 400;">Aby określić, czy język programowania jest odpowiedni dla Ciebie, musisz dowiedzieć się, w jaki sposób jest on zgodny z Twoimi długoterminowymi celami. Programowanie w Pythonie wykorzystać można do wielu różnych zadań, co czyni go dobrym punktem wyjścia dla każdego programisty. Jednakże, jeśli jesteś gotowy zostać programistą internetowym &#8211; nie powinieneś inwestować dużo czasu w naukę Pythona. Zamiast tego, powinieneś skupić się na HTML, CSS i JavaScript. </span></p>
+<p><span style="font-weight: 400;">Aby dowiedzieć się, czy Python jest dla Ciebie odpowiedni, sprawdź nasz artykuł „</span><a href="https://codeberryschool.com/blog/pl/jaki-jezyk-programowania-wybrac/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Jaki język programowania wybrać?</span></a><span style="font-weight: 400;">”</span><span style="font-weight: 400;">. Tam dowiesz się o wielu innych językach programowania i co możesz z nimi zrobić.</span></p>
+<p>&nbsp;</p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego</strong>, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<h3>Języki programowania</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><strong>Programowanie w Pythonie &#8211; język Python dla początkujących</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP &#8211; programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/podstawy-javascript/" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript – język JavaScript dla początkujących</a></li>
+</ul>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<div id="gtx-trans" style="position: absolute; left: 517px; top: 163.425px;">
+<div class="gtx-trans-icon"></div>
+</div>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

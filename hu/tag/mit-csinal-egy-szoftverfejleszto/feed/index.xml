@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mit csinál egy szoftverfejlesztő | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/mit-csinal-egy-szoftverfejleszto/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 02 Mar 2021 19:19:51 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Van-e különbség programozó és szoftverfejlesztő között?</title>
+		<link>/blog/hu/kulonbseg-programozo-es-szoftverfejleszto/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 13 Sep 2020 22:01:06 +0000</pubDate>
+				<category><![CDATA[Tippek és trükkök pályakezdő programozóknak]]></category>
+		<category><![CDATA[backend fejlesztő]]></category>
+		<category><![CDATA[full stack fejlesztő]]></category>
+		<category><![CDATA[mérnökinformatikus mit csinál]]></category>
+		<category><![CDATA[mit csinál egy programozó]]></category>
+		<category><![CDATA[mit csinál egy szoftverfejlesztő]]></category>
+		<category><![CDATA[programozó feladata]]></category>
+		<category><![CDATA[programozó szoftverfejlesztő]]></category>
+		<category><![CDATA[programozó szoftverfejlesztő különbség]]></category>
+		<category><![CDATA[szoftver fejlesztő]]></category>
+		<category><![CDATA[szoftverfejlesztő]]></category>
+		<category><![CDATA[szoftverfejlesztő és tesztelő]]></category>
+		<category><![CDATA[szoftverfejlesztő és tesztelő mit csinál]]></category>
+		<category><![CDATA[szoftverfejlesztő feladata]]></category>
+		<category><![CDATA[szoftverfejlesztő mit csinál]]></category>
+		<category><![CDATA[szofverfejleszto]]></category>
+		<category><![CDATA[webdesigner feladata]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9891</guid>
+
+					<description><![CDATA[Mi a különbség programozó és szoftverfejlesztő között? A többi IT-s szakmával mi a helyzet? Megválaszoljuk a kérdéseket, ki mit csinál az informatika világában. Kinek mik a fő feladatai, miben hasonlítanak és miben térnek el a szakmák. Szeretnénk egy átlátható összefoglalót adni, ami tisztázza a sokat hallott-látott kifejezéset azok számára, akik még nem mozognak otthonosan ezen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Mi a különbség programozó és szoftverfejlesztő között? A többi IT-s szakmával mi a helyzet? Megválaszoljuk a kérdéseket, ki mit csinál az informatika világában. Kinek mik a fő feladatai, miben hasonlítanak és miben térnek el a szakmák. </span></p>
+<p><span style="font-weight: 400;">Szeretnénk egy átlátható összefoglalót adni, ami tisztázza a sokat hallott-látott kifejezéset azok számára, akik még nem mozognak otthonosan ezen a területen.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Fontos kiemelni, hogy sok esetben nincs éles határ az egyes szerepek között, adott cégtől, szaktudástól, megrendeléstől is függhet, hogy kinek milyen feladatokat kell pontosan ellátnia.&nbsp;</span></p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12046 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/12.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/12.png 1024w, /blog/wp-content/uploads/2018/09/12-300x100.png 300w, /blog/wp-content/uploads/2018/09/12-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Mi a különbség </span><i><span style="font-weight: 400;">programozó</span></i><span style="font-weight: 400;"> és <em>szoftver</em></span><em><span style="font-weight: 400;">fejlesztő</span></em><span style="font-weight: 400;"> között?&nbsp;</span></h2>
+<p><span style="font-weight: 400;">Mindennapi szóhasználatban a kettő gyakorlatilag felcserélhető, sőt, a </span><i><span style="font-weight: 400;">programozás</span></i><span style="font-weight: 400;"> és a </span><i><span style="font-weight: 400;">fejlesztés</span></i><span style="font-weight: 400;"> mellé még a </span><i><span style="font-weight: 400;">kódolás</span></i><span style="font-weight: 400;"> kifejezést is hozzátehetjük. Angolul a </span><strong><i>programmer</i></strong><span style="font-weight: 400;">, </span><strong><i>developer</i></strong><span style="font-weight: 400;"> és a </span><strong><i>coder</i></strong><span style="font-weight: 400;"> a legtöbb szövegkörnyezetben szintén egyenértékűen használható. </span></p>
+<p><span style="font-weight: 400;">Ezek mind azt a tudást és szerepkört jelentik, hogy valaki különböző programnyelveket használva létrehozza azokat az utasítássorokat, amik a gépek számára értelmezhetők, és amiken keresztül létrejön a felhasználható szoftver.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Attól függetlenül, hogy mindennapi nyelvhasználatban ezek általában ugyanazt jelentik, egyes munkaadók differenciálhatják, hogy mit értenek </span><i><span style="font-weight: 400;">szoftverfejlesztő</span></i><span style="font-weight: 400;"> vagy </span><i><span style="font-weight: 400;">programozó</span></i><span style="font-weight: 400;"> alatt. </span></p>
+<p><span style="font-weight: 400;">Vannak, akik a&nbsp; szoftverfejlesztést átfogóbb tervezői feladatnak látják, magas szintű döntéshozatallal (pl. a szoftverfejlesztő tervezi meg az adatbázist, vagy egy komplexebb szoftver részei között hogyan mozog majd az adat), ezzel szemben a programozást konkrétan csak a programsorok megírására értik, amit a tervezők iránymutatása alapján hajtanak végre (pl. egy legördülő menü hibás megjelenésének megjavítása, vagy egy adott kimenettel és bemenettel rendelkező függvény megírása).&nbsp;</span></p>
+<p><div style="width: 765px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1427751840561-9852520f8ce8?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=755&amp;q=80" alt="Programozó szoftverfejlesztő pozíciók nagy számmal várják a jelentkezőket" width="755" height="500"><p class="wp-caption-text">Credit: <a href="https://unsplash.com/" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h2><span style="font-weight: 400;">Mi a különbség </span><i><span style="font-weight: 400;">szoftvermérnök</span></i><span style="font-weight: 400;"> és a </span><i><span style="font-weight: 400;">programozó</span></i><span style="font-weight: 400;"> között?</span></h2>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">szoftvermérnök</span></i><span style="font-weight: 400;"> (Software Engineer) minden esetben mérnöki végzettségű, tehát egyetemi képzésben részesült, legalább BsC szintű diplomával rendelkezik informatikai területen (mérnökinformatikus, programtervező informatikus, stb). Feladatait és hatáskörét az adott cég szabja meg, de mindenképpen felsőoktatási intézményben képzett programozói pozíció.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Az egyetemi képzésben a Computer Science (</span><i><span style="font-weight: 400;">számítástechnika</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">számítástudomány</span></i><span style="font-weight: 400;">, </span><i><span style="font-weight: 400;">informatika</span></i><span style="font-weight: 400;"> kifejezésekkel adható vissza magyarul) elméleti, matematikai alapjait oktatják hangsúlyosabban, a programozási gyakorlat kevésbé van előtérben. </span></p>
+<p><span style="font-weight: 400;">A szoftvermérnöki pozíciókban otthonosan kell mozogni a <strong>fejlesztés elméleti oldalán</strong> (pl. adatstruktúrák tervezése, algoritmusok hatékonysága stb.) és a <strong>gyakorlati megvalósításban</strong> is.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Ha nem </span><i><span style="font-weight: 400;">szoftvermérnököt</span></i><span style="font-weight: 400;"> keresnek egy munkára, hanem </span><i><span style="font-weight: 400;">programozót</span></i><span style="font-weight: 400;"> vagy </span><i><span style="font-weight: 400;">szoftverfejlesztőt</span></i><span style="font-weight: 400;">, akkor nem feltétlenül elvárás a diploma, könnyen lehet, hogy tanfolyamokon megszerzett és egyénileg csiszolgatott programozói tudás elegendő a felvételhez. Persze a gyors tanulás és nyitottság az új ismeretekre elengedhetetlen.</span></p>
+<h2><span style="font-weight: 400;">Mi a különbség </span><i><span style="font-weight: 400;">webdesigner</span></i><span style="font-weight: 400;"> és a </span><i><span style="font-weight: 400;">webfejlesztő</span></i><span style="font-weight: 400;"> között?</span></h2>
+<p><span style="font-weight: 400;">Egy igényes és jól működő weboldal létrehozása általában több különböző szakember feladata. A </span><i><span style="font-weight: 400;">designerek</span></i><span style="font-weight: 400;"> általában valamilyen termék vizuális tervezésért, arculatért felelnek – a </span><i><span style="font-weight: 400;">webdesigner</span></i><span style="font-weight: 400;"> egy olyan </span><i><span style="font-weight: 400;">designer</span></i><span style="font-weight: 400;">, aki weboldalak vizuális megjelenését tervezi meg. A </span><i><span style="font-weight: 400;">webdesignerek </span></i><span style="font-weight: 400;">grafikai tervezőszoftvereket (pl. Photoshop, Illustrator, Sketch stb.) használnak.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Érteniük kell a </span><a href="http://blog.codebuild.hu/szinelmelet-1-resz-az-alapok/" target="_blank" rel="noopener external" data-wpel-link="external"><b>színelmélethez</b></a><b><i>, </i></b><a href="https://szoftver.hu/hirmorzsak/9-tipografiai-hiba-amit-kezdo-grafikusok-leggyakrabban-elrontanak" target="_blank" rel="noopener external" data-wpel-link="external"><b>tipográfiához</b></a><span style="font-weight: 400;">, hasznosak lehetnek a grafikai ismeretek, mint a </span><b>vektorgrafika</b><span style="font-weight: 400;">, illetve az </span><b>alapvető nyomdai ismeretek</b><span style="font-weight: 400;"> (hiszen a honlapokon és a nyomtatott anyagokon megjelenő arculat gyakran egyezik, érdemes lehet tudni, hogyan jelenik meg papíron is az, ami a képernyőn).</span></p>
+<p><span style="font-weight: 400;">Fontos az oldalak felépítésének alapvető ismerete, ehhez jól jöhet, ha a </span><i><span style="font-weight: 400;">webdesigne</span></i><span style="font-weight: 400;">r sem járatlan a<a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"> HTML és a CSS</a> alapjaiban, tehát a sitebuilding (magyarul weboldalépítés) nyelvei nincsenek kínaiul a számára. A </span><i><span style="font-weight: 400;">webdesigner</span></i><span style="font-weight: 400;"> mindezzel együtt nem programozó (általában, de akadhatnak kivételek), hanem a vizualitásért felelős tervező.&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">webfejlesztők</span></i><span style="font-weight: 400;"> feladata a honlapok létrehozása és működtetése, webes nyelvek használatával (pl. <a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">HTML, CSS, JavaScript,</a> feladattól függően esetleg <a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Java</a>, <a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python</a>, <a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">PHP</a>, SQL stb). A </span><i><span style="font-weight: 400;">designerekkel</span></i><span style="font-weight: 400;"> szemben a </span><i><span style="font-weight: 400;">webfejlesztők</span></i><span style="font-weight: 400;"> programozók, akik megírják a szükséges programkódot ahhoz, hogy a honlap működjön.</span></p>
+<p><div style="width: 760px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" alt="A különbség programozó és szoftverfejlesztő pozíció között cégenként is eltérő lehet." width="750" height="500"><p class="wp-caption-text">A különbség programozó és szoftverfejlesztő pozíció között cégenként is eltérő lehet. Credit: <a href="https://unsplash.com/" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h2><span style="font-weight: 400;">Mi a különbség </span><i><span style="font-weight: 400;">UI</span></i> <i><span style="font-weight: 400;">designer</span></i><span style="font-weight: 400;"> és </span><i><span style="font-weight: 400;">UX designer</span></i><span style="font-weight: 400;"> között?</span></h2>
+<p><b>A UI (user interface, magyarul felhasználói felület) </b><span style="font-weight: 400;">megtervezésekor az esztétikai szempontok mellett a felhasználói igényeket és a brand arculatát is figyelembe kell venni és ennek megfelelő designt alkotni. A </span><i><span style="font-weight: 400;">UI designer </span></i><span style="font-weight: 400;">a felületen látható színeket, ábrák, gombok, stb. vizuális megjelenését tervezi, ehhez leginkább grafikai szoftvereket használ.</span></p>
+<p><b>A UX (user experience, magyarul felhasználói élmény)</b><span style="font-weight: 400;"> tervezéséhez a felhasználói igények pontos felmérésére van szükség, ehhez a </span><i><span style="font-weight: 400;">UX designerek</span></i><span style="font-weight: 400;"> interjúkat készítenek és visszajelzést kérnek a felhasználóktól. </span></p>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">UX designer</span></i><span style="font-weight: 400;"> ezek alapján tervezi meg az oldal szerkezetét, a különböző menüpontokat, a navigáció lépéseit, és így tovább. Ebben olyan szoftverek vannak a segítségére, amiket kifejezetten felhasználói élmény tervezésére és optimalizálásra hoztak létre.&nbsp;</span></p>
+<h2><span style="font-weight: 400;">Mi a különbség frontend, backend és full-stack fejlesztő között?</span></h2>
+<p><strong>A <i>frontend,</i> más néven <i>kliens oldal</i></strong><span style="font-weight: 400;"> az, amit <a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"><strong>látunk egy honlapból</strong></a>: a gombok, a képek, a szöveg, az interakció – azaz minden program, ami a kliensen, a böngészőben fut. </span></p>
+<p><i><span style="font-weight: 400;">Frontend fejlesztőknek</span></i><span style="font-weight: 400;"> hívjuk azokat, akik designerek tervei alapján létrehozzák a honlap, vagy a mobilalkalmazás felületét, azaz a frontendet, mindent, amit a felhasználó lát és amivel interakcióba lép. </span><span style="font-weight: 400;">Webes projetek esetén főként HTML-ben, CSS-ben és <a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">JavaScriptben</a> dolgoznak, időnként JavaScript keretrendszereket használnak (pl. <a href="https://codeberryschool.com/blog/hu/mit-kell-tudnod-reactot-tanulni/" data-wpel-link="external" target="_blank" rel="external">React</a>, AngularJS, Vue.js).</span></p>
+<p><strong>A <i>backend</i>, más néven <i>szerver oldal</i></strong><span style="font-weight: 400;"> az, amit nem látunk egy honlapból: adatok mentése és betöltése egy adatbázisokból, számolások, a klienstől érkező kérések kiszolgálása, API végpontok biztosítása – azaz minden program, ami a szerveren fut. </span></p>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">backend fejlesztők, </span></i><span style="font-weight: 400;">más néven a </span><i><span style="font-weight: 400;">szerveroldali programozók </span></i><span style="font-weight: 400;">dolgoznak a </span><i><span style="font-weight: 400;">backenden</span></i><span style="font-weight: 400;">. A leggyakoribb szerveroldali nyelvek a <a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python</a>, Node.js, PHP és a <a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Java</a>.</span></p>
+<p><strong><i>Full-stack fejlesztőnek</i></strong><span style="font-weight: 400;"> hívják azokat a fejlesztőket, akik a <strong>kliens- és szerveroldali programozáshoz egyaránt </strong>értenek.</span></p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Mi a különbség egy </span><i><span style="font-weight: 400;">rendszeradminisztrátor</span></i><span style="font-weight: 400;"> és egy </span><i><span style="font-weight: 400;">DevOps mérnök</span></i><span style="font-weight: 400;"> között?</span></h2>
+<p><span style="font-weight: 400;">Angolul </span><strong><i>system administrato</i></strong><span style="font-weight: 400;"><strong>r</strong> vagy </span><i><span style="font-weight: 400;">sysadmin </span></i><span style="font-weight: 400;">(időnként nagy betűvel írják: </span><i><span style="font-weight: 400;">SysAdmin</span></i><span style="font-weight: 400;">), ő felelős a szerverek üzemeltetéséért, karbantartásáért, megbízható működéséért. Munkakörébe tartozik a <strong>rendszerek telepítése és támogatása,</strong> a leállások és egyéb <strong>problémák kezelése.</strong> Általában része a feladatkörnek egy kis programozás is: olyan programok (scriptek) írása, amik rendszeres, ismétlődő feladatokat automatizálnak.</span></p>
+<p><span style="font-weight: 400;">A </span><strong><i>DevOps mérnök </i></strong><span style="font-weight: 400;">(időnként kis betűvel írják: </span><i><span style="font-weight: 400;">devops</span></i><span style="font-weight: 400;">) határszerepet tölt be a rendszergazda hardveres és a fejlesztők szoftveres feladatai közt. Lehet olyan fejlesztő, aki az i<strong>nfrastruktúra telepítésével, tesztelésével, üzemeltetésével </strong>kapcsolatos munkákban vesz részt és támogatja a felhasználók munkáját, vagy lehet olyan rendszeradminisztrátor, aki magabiztosabb a programozásban, átlátja, <strong>frissíti, aktualizálja a szükséges kódokat.</strong> </span></p>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">DevOps mérnök</span></i><span style="font-weight: 400;"> fontos feladata a rendszer biztonságának kialakítása, a hackertámadások elleni védelem kiépítése. Munkájának elengedhetetlen része a folyamatos kapcsolattartás a fejlesztőkkel, felhasználókkal és a rendszergazdával, így jó kommunikációs készségekkel kell rendelkeznie, valamint jól kell tudnia csapatban dolgozni.&nbsp;</span></p>
+<p><div style="width: 677px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=667&amp;q=80" alt="A szoftver architect magas szintű tervezési és kivitelezési kérdésekben dönt." width="667" height="500"><p class="wp-caption-text">A szoftver architect magas szintű tervezési és kivitelezési kérdésekben dönt. Credit: <a href="https://unsplash.com/" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h2><span style="font-weight: 400;">Mit csinál egy </span><i><span style="font-weight: 400;">szoftver architect</span></i><span style="font-weight: 400;">?&nbsp;</span></h2>
+<p><span style="font-weight: 400;">A </span><strong><i>szoftver architect</i></strong><span style="font-weight: 400;"> sok tapasztalatot igénylő, nagy felelősséggel járó fejlesztői szerepkör. A magyar IT közegben is “architect”-ként szoktak rá hivatkozni, nem szokás fordítani. (Az ‘építész’-hez, amit eredetileg a szó jelent, csak elvont értelemben van köze.)&nbsp;</span></p>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">szoftver architect</span></i><span style="font-weight: 400;"><strong> magas szintű tervezési és kivitelezési kérdésekben dönt,</strong> a szoftver tervezés és szoftver fejlesztés lehetőségeinek, technológiáinak széles eszköztárát ismeri. Általában jelen van az üzleti partnerekkel és megrendelőkkel való kommunikációban is.</span></p>
+<h2><span style="font-weight: 400;">Mit csinál egy </span><i><span style="font-weight: 400;">etikus hacker</span></i><span style="font-weight: 400;">?</span></h2>
+<p><span style="font-weight: 400;">A köznyelvben </span><i><span style="font-weight: 400;">“hacker”</span></i><span style="font-weight: 400;"> kifejezést olyan személyekre használjuk, akik informatikai tudásukkal és tapasztalatukkal visszaélve illetéktelenül törnek be számítógépes rendszerekbe adatszerzés, károkozás céljából.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Ezzel szemben az </span><strong><i>etikus hacker</i></strong><span style="font-weight: 400;">, aki hivatalos felhatalmazással, szerződéses <strong>felkérés keretében méri fel egy informatikai rendszer biztonságát</strong> azáltal, hogy megpróbál bejutni illetve adatokat szerezni. Tudását és tapasztalatát tesztelésre és a biztonsági hibák feltárására használja fel. Részletesen dokumentálja a folyamatot, ismerteti a rendszer üzemeltetőivel a talált biztonsági hibákat.</span></p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12054 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png 1024w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-300x100.png 300w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Mit csinál egy </span><i><span style="font-weight: 400;">szoftvertesztelő</span></i><span style="font-weight: 400;">?</span></h2>
+<p><span style="font-weight: 400;">Mielőtt egy termék piacra kerül, vagy átadják a megrendelőnek, tesztek hosszú sora fut le, hogy kiderüljön, minden megfelelően működik-e. Alapvetően kétféle különböző tesztelési metódust különböztetünk meg, a manuális és az automatizált tesztelést.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A </span><b>manuális tesztelők</b><span style="font-weight: 400;"> a végfelhasználó szerepébe bújva próbálják ki a szoftver (weblap, applikáció stb.) funkcióit, és dokumentálják a működési hibákat. Egyedi helyzeteket is modelleznek, mi történik, ha a felhasználó véletlenül ér hozzá a képernyőhöz, vagy milyen hibaüzenetet kap, ha nem létező felhasználónévvel próbál belépni. </span></p>
+<p><span style="font-weight: 400;">A manuális tesztelő általában<strong> pontos forgatókönyvek alapján tesztel,</strong> mindig alaposan dokumentálja a folyamatot és visszajelzést ad a fejlesztőknek a talált hibákról. A tesztelés eljárásait és protokollját, valamit a szükséges fogalmakat néhány hónapos tanulás során el lehet sajátítani, majd némi gyakorlatot követően el lehet helyezkedni az IT területen.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Az </span><b>automatizált tesztelés</b><span style="font-weight: 400;"> során már nem egy tesztelő megy végig az adott felületen és szűri a hibákat, hanem tesztelésre specializált eszközöket használ, vagy hoz létre. <strong>A tesztautomatizálók maguk is programoznak,</strong> a teszteléshez szükséges folyamatokat automatizáló szakemberek vagy csapatok fejlesztik.</span></p>
+<p><div style="width: 759px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1573166364366-3f4f8b1857ea?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=749&amp;q=80" alt="A data analyst adatot tisztít, alakít át és segít a csapat tagjainak az adat értelmezésében és vizualizálásában." width="749" height="500"><p class="wp-caption-text">A data analyst adatot tisztít, alakít át és segít a csapat tagjainak az adat értelmezésében és vizualizálásában. Credit: <a href="https://unsplash.com/" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h2><span style="font-weight: 400;">Mi a különbség a data analyst és a data scientist között?</span></h2>
+<p><span style="font-weight: 400;">Magyarországon sem az adatszakértő, sem az adattudós nem terjedt el, hazai közegben is leginkább </span><i><span style="font-weight: 400;">data analyst</span></i><span style="font-weight: 400;">-ként és </span><i><span style="font-weight: 400;">data scientist</span></i><span style="font-weight: 400;">-ként utalunk azokra, akik adatok elemzésével foglalkoznak.</span></p>
+<p><strong>A <i>data analyst</i></strong><span style="font-weight: 400;"><strong> adatot tisztít, alakít át </strong>és segít a csapat tagjainak az adat értelmezésében és vizualizálásában. A fő eszközei az Excel, SQL, R és adatvizualizációs eszközök, pl. Tableau, Data Studio.</span></p>
+<p><strong>A <i>data scientist</i></strong><span style="font-weight: 400;"> komplex projekteket visz, <strong>adatok elemzésével trendeket, mintákat állapít meg,</strong> elemzéseket, előrejelzéseket készít és információt szolgáltat a döntési folyamatok támogatására. Általában magas szintű matematikai, statisztikai, programozói ismeretekkel rendelkezik. </span></p>
+<p><span style="font-weight: 400;">A leggyakrabban használt eszközei SASS, <a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python</a>, R, Tensorflow, Hadoop, Spark. Keresett és nagyon jól fizetett szakma, de komplexitása miatt nagy tudást és tapasztalatot igényel.</span></p>
+<p><strong>A Codeberry blogján összegyűjtjük neked a leghasznosabb tippeket és trükköket tartalmazó cikkeket,</strong> hogy könnyebben eligazodj a programozás útvesztőjében.</p>
+<p>Ha tetszett a cikk, ajánljuk figyelmedbe további bejegyzéseinket is a témában:</p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/bar-elmondta-volna-nekem-ezeket-valaki-amikor-programozni-tanultam/" data-wpel-link="external" target="_blank" rel="external">Bár elmondta volna nekem ezeket valaki, amikor programozni tanultam – És pár dolog, amit mások tanítása során tanultam</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/10-dolog-ami-megvaltozott-az-eletemben/" data-wpel-link="external" target="_blank" rel="external">10 dolog, ami megváltozott az életemben, amikor megtanultam kódolni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/onbizalom-novelo-tipp-allasinterjuhoz/" data-wpel-link="external" target="_blank" rel="external">4 tipp állásinterjúhoz önbizalom növelésre</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/igy-hasznald-a-seo-t-alapok/" data-wpel-link="external" target="_blank" rel="external">SEO alapok &#8211; így épül fel egy egészséges honlap</a></li>
+<li><strong>Van-e különbség programozó és szoftverfejlesztő között?</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/15-otthonrol-vegezheto-munka/" data-wpel-link="external" target="_blank" rel="external">A 15 leggyakoribb otthonról végezhető munka 2020-ban</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/legkeresettebb-programnyelvek/" data-wpel-link="external" target="_blank" rel="external">A 11 legkeresettebb programnyelv, amellyel mindig lesz munkád</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-ingyen/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">4+1 egyszerű mód, hogy ingyen tanulhass programozni &#8211; programozás ingyenes hozzáféréssel kezdőknek</span></a></li>
+</ul>
+</li>
+</ul>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mikrohullámú sütőktől a webfejlesztésig &#8211; Binecz Árpád diákunk története</title>
+		<link>/blog/hu/binecz-arpad-diakunk-webfejlesztes/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2017 04:01:12 +0000</pubDate>
+				<category><![CDATA[CodeBerry Programozóiskola – Diákjaink Történetei]]></category>
+		<category><![CDATA[beágyazott szoftverfejlesztő]]></category>
+		<category><![CDATA[Binecz Árpád]]></category>
+		<category><![CDATA[Bootstrap. JQuery]]></category>
+		<category><![CDATA[code berry]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[codeberry school kft]]></category>
+		<category><![CDATA[codebery]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[junior webfejlesztő állás]]></category>
+		<category><![CDATA[kezdő webfejlesztő állás]]></category>
+		<category><![CDATA[legkisebb mikrohullámú sütő]]></category>
+		<category><![CDATA[mérnök informatikus mit csinál]]></category>
+		<category><![CDATA[mikrohullámú sütő]]></category>
+		<category><![CDATA[mikrohullámú sütő története]]></category>
+		<category><![CDATA[mit csinál egy szoftverfejlesztő]]></category>
+		<category><![CDATA[mit csinál egy villamosmérnök]]></category>
+		<category><![CDATA[műszaki informatikus mit csinál]]></category>
+		<category><![CDATA[php programozó]]></category>
+		<category><![CDATA[SCSS]]></category>
+		<category><![CDATA[sitebuilder]]></category>
+		<category><![CDATA[sitebuilder állás]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[szoftverfejlesztő]]></category>
+		<category><![CDATA[szoftverfejlesztő mit csinál]]></category>
+		<category><![CDATA[villamosmérnök mit csinál]]></category>
+		<category><![CDATA[webfejlesztés]]></category>
+		<category><![CDATA[webfejlesztő cég]]></category>
+		<category><![CDATA[webfejlesztő mit csinál]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4695</guid>
+
+					<description><![CDATA[Binecz Árpád (Bini) beágyazott szoftverfejlesztőként kezdte, aztán dolgozott startupnál, alapított saját céget, most pedig váltott egyet, és junior sitebuilderként webfejlesztéssel foglalkozik. A CodeBerry &#8220;Diákjaink története&#8221; sorozat 2. részében ismét egy nálunk végzett diákkal beszélgettünk. Ha te is szívesen megismerkednél a webfejlesztéssel, a következő cikkekből megtudhatod, hogyan vágj bele, illetve tippekkel és trükkökkel is segítünk, hogy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<section>
+<p id="07ea"><strong>Binecz Árpád</strong> (Bini) beágyazott szoftverfejlesztőként kezdte, aztán dolgozott startupnál, alapított saját céget, most pedig váltott egyet, és junior sitebuilderként webfejlesztéssel foglalkozik. A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">CodeBerry &#8220;Diákjaink története&#8221; sorozat</a> 2. részében ismét egy nálunk végzett diákkal beszélgettünk.</p>
+<p><em>Ha te is szívesen megismerkednél a webfejlesztéssel, a következő cikkekből megtudhatod, hogyan vágj bele, illetve tippekkel és trükkökkel is segítünk, hogy a lehető leghamarabb új karriered építésébe kezdhess:</em></p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" data-wpel-link="external" target="_blank" rel="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" data-wpel-link="external" target="_blank" rel="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" data-wpel-link="external" target="_blank" rel="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" data-wpel-link="external" target="_blank" rel="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" data-wpel-link="external" target="_blank" rel="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" data-wpel-link="external" target="_blank" rel="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" data-wpel-link="external" target="_blank" rel="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+</ul>
+</section>
+<section>
+<div>
+<div>
+<h4 id="eff5"><strong>Mivel foglalkoztál, mielőtt váltottál a webfejlesztésre?</strong></h4>
+<p id="cd18">Végzettségem szerint okleveles villamosmérnök vagyok, beágyazott szoftverfejlesztéssel foglalkoztam egy autóipari cégnél négy évig. Ezenkívül dolgoztam startupnál, és csináltam saját szabadidőszervező vállalkozást is, amit aztán eladtam.</p>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<section>
+<div>
+<div>
+<h4 id="6df7"><strong>Mit csinál egy beágyazott szoftverfejlesztő?</strong></h4>
+<p id="a959">A beágyazott szoftverfejlesztő olyan mérnök, aki áramköröket programoz — nem a számítógépet, hanem például a mikrohullámú sütődet vagy az autódat. A feladata az, hogy amikor megnyomsz egy gombot, akkor történjen is valami a mikróban.</p>
+<h4 id="2151"><strong>Az eredetei szakmád könnyebbé tette a tanulást?</strong></h4>
+<p id="0ba0">Jócskán. Algoritmikus gondolkodásban, stb. nagyon sokat segített.</p>
+<p><div style="width: 3787px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.pexels.com/photos/109371/pexels-photo-109371.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Webfejlesztéssel akár saját projektjeid is megvalósíthatod" width="3777" height="2034" /><p class="wp-caption-text">Webfejlesztéssel akár saját projektjeid is megvalósíthatod</p></div></p>
+<h4 id="229d"><strong>Miért döntöttél úgy, hogy váltasz a webfejlesztés irányába?</strong></h4>
+<p id="4551">Egyrészt nagyon érdekel az IoT. (<a href="https://hu.wikipedia.org/wiki/Dolgok_internetje" target="_blank" rel="noopener external" data-wpel-link="external">Internet of Things — a szerk.</a>) Az eszközök oldalát jól ismertem az eredeti szakmámnak hála, de fogalmam sem volt, hogy mindez hogyan jelenik meg a böngészőben. Kíváncsi voltam erre. Mérnöknek is azért tanultam, mert szeretem érteni a dolgokat. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p id="292b">A másik oka pedig az, hogy szeretnék még vállalkozást csinálni, és ez egy viszonylag jó útnak tűnik. Elkezdeni saját weblapokkal, aztán alapítani egy pici digitális ügynökséget. Sok ismerősöm megcsinálta most ezt a környezetemben, és egy járható, király útnak tűnik.</p>
+<p id="3ff1"><strong>Ha megkérdezik most, hogy mi a foglalkozásod, mit válaszolsz?</strong></p>
+<p id="9a1e">Attól függ, hogy ki kérdezi — egy laikus, vagy egy műszaki egyetemista barátom. A laikusoknak kezdő informatikus vagyok, a barátaimnak junior sitebuilder. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<section>
+<div>
+<div>
+<h4 id="b2bb"><strong>Ez mit jelent? Mivel telik a napod?</strong></h4>
+<p id="f621">Nagy informatikai rendszereket építünk az Apertus Kft.-ben, ennek egy kis szeletéért felelek én. Kicsit leegyszerűsítve: kapok kész designokat, és ezeket alakítom weboldallá. A dolgok külsején dolgozom, de például a gombot, amire kattint a felhasználó már nem én csinálom.</p>
+<p id="d486">Egy többszörös képzavarral élve, körülbelül így írnám le a sitebuilder munkát: egy jó ugródeszkának tartom, ez egy olyan tudás, amit gyorsan fel lehet szedni, és megvetheted a lábadat a webfejlesztési technológiák ingoványos talaján, illetve az informatikai munkaerőpiacon egyaránt.</p>
+<h4 id="74ee"><strong>Milyen nyelveket használsz a napi munkád során?</strong></h4>
+<p id="e106"><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" data-wpel-link="external" target="_blank" rel="external">HTML5, CSS3, SCSS, Bootstrap.</a> JQuery egyszer fordult elő. Sitebuilderként én megcsinálom a darabokat, amelyeket a vezető fejlesztő átemel és összerakja belőle a kész oldalt.</p>
+<p><div id="attachment_8525" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8525" loading="lazy" class="wp-image-8525 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2017/01/computer-1245714_1920-1024x680.jpg" alt="A webfejlesztés izgalmas és kreatív foglalkozás" width="1024" height="680" srcset="/blog/wp-content/uploads/2017/01/computer-1245714_1920-1024x680.jpg 1024w, /blog/wp-content/uploads/2017/01/computer-1245714_1920-300x199.jpg 300w, /blog/wp-content/uploads/2017/01/computer-1245714_1920-768x510.jpg 768w, /blog/wp-content/uploads/2017/01/computer-1245714_1920-1536x1020.jpg 1536w, /blog/wp-content/uploads/2017/01/computer-1245714_1920-1080x717.jpg 1080w, /blog/wp-content/uploads/2017/01/computer-1245714_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-8525" class="wp-caption-text">A webfejlesztés izgalmas és kreatív foglalkozás</p></div></p>
+<h4 id="1ac7"><strong>Élvezed a munkát?</strong> <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h4>
+<p id="bd97">Igen. Jó a társaság, magammal vagyok még egy picit elégedetlen. Azt érzem, hogy lehetne ezt még gyorsabban, jobban csinálni, gyorsabban tanulni.</p>
+<h4 id="8c1d"><strong>Mennyi ideig kerestél állást?</strong></h4>
+<p id="89d5">Júniusban hagytam ott az előző állásom, júliusban kezdtem el tanulni, szeptember elején kaptam állást. Barátokon keresztül jött a megkeresés.</p>
+</div>
+</div>
+</section>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<section>
+<div>
+<div>
+<h4 id="e18a"><strong>Használtál valamilyen más forrást a tanuláshoz a CodeBerry mellett?</strong></h4>
+<p id="ab82">Nem, csak a CodeBerry-t.</p>
+<h4 id="db85"><strong>Mint “végzett hallgató”, van-e valamilyen tipped azok számára, akik most kezdik a kódolást?</strong></h4>
+<p id="9569">Szerintem érdemes átnézni a területet gyorsan, aztán választani egy technológiát, és azt nyomni minél mélyebben, keményebben. Érdemes megtanulni a legkisebb eladható egységet a legmélyebben, és nem arra törekedni, hogy mindenhez érts egy picit. Például a<a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"> HTML5, CSS3, SCSS, Bootstrap kombóval</a> már simán el lehet menni junior fejlesztőnek itthon.</p>
+</div>
+<p id="7307" class="graf graf--p graf-after--figure"><em><strong>A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">“CodeBerry Programozóiskola — Diákjaink Történetei”</a> sorozatban olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként.</strong></em></p>
+<p><em>Ha te is szívesen lépnél fejlesztői pályára, a következő cikkekből megtudhatod, hogyan vágj bele, illetve tippekkel és trükkökkel is segítünk, hogy a lehető leghamarabb új karriered építésébe kezdhess:</em></p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" data-wpel-link="external" target="_blank" rel="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" data-wpel-link="external" target="_blank" rel="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" data-wpel-link="external" target="_blank" rel="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" data-wpel-link="external" target="_blank" rel="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" data-wpel-link="external" target="_blank" rel="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" data-wpel-link="external" target="_blank" rel="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" data-wpel-link="external" target="_blank" rel="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+</ul>
+<p id="df8c" class="graf graf--p graf-after--p graf--trailing"><em><strong>Szeretnél te is megtanulni programozni? Gyere és próbáld ki ingyen az első 25 leckét a<a class="markup--anchor markup--p-anchor" href="https://codeberryschool.com/hu/" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/" data-="" data-wpel-link="external"> CodeBerry Programozóiskolában</a>.</strong></em></p>
+</div>
+</section>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>paleta kolorów strona internetowa | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/paleta-kolorow-strona-internetowa/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 03 Nov 2020 08:39:42 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Kolory HTML &#8211; kody kolorów</title>
+		<link>/blog/pl/kolory-html-kody-kolorow/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2020 15:22:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[HEX]]></category>
+		<category><![CDATA[HSL]]></category>
+		<category><![CDATA[HSLA]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[HTML kolory]]></category>
+		<category><![CDATA[kody kolorów]]></category>
+		<category><![CDATA[kolory HTML]]></category>
+		<category><![CDATA[kolory podstawowe]]></category>
+		<category><![CDATA[paleta kolorów strona internetowa]]></category>
+		<category><![CDATA[RGB]]></category>
+		<category><![CDATA[strona internetowa]]></category>
+		<category><![CDATA[tag]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10478</guid>
+
+					<description><![CDATA[W HTML możemy stworzyć strukturę strony internetowej i jej nagłówki, akapity oraz linki. Tworząc urozmaiconą i dobrze zorganizowaną stronę internetową, należy wziąć pod uwagę jednak także inne aspekty poza transparentnością, na przykład kolory HTML. Jeśli interesują Cię podstawy HTML, koniecznie przeczytaj również inny artykuł, który napisaliśmy &#8211; Tworzenie stron internetowych – przewodnik dla początkujących. W [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">W HTML możemy stworzyć strukturę strony internetowej i jej nagłówki, akapity oraz linki. Tworząc urozmaiconą i dobrze zorganizowaną stronę internetową, należy wziąć pod uwagę jednak także inne aspekty poza transparentnością, na przykład kolory HTML.</span></p>
+<p><span style="font-weight: 400;">Jeśli interesują Cię podstawy HTML, koniecznie przeczytaj również inny artykuł, który napisaliśmy &#8211; </span><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Tworzenie stron internetowych – przewodnik dla początkujących</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">W tym poście przyjrzymy się jak można zdefiniować kolory i odcienie w kodzie HTML, z dużą ilością przykładowych ilustracji.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Kolory HTML &#8211; nazwy</span></h2>
+<p><span style="font-weight: 400;">Istnieją miliony odcieni kolorów, które mogą być wyświetlane przez nowoczesne przeglądarki. Nie da się ich wszystkich wymienić i wyliczyć, dlatego w świecie IT używamy kodów do definiowania kolorów i odcieni.</span></p>
+<p><span style="font-weight: 400;">HTML wspiera 140 </span><a href="https://www.tutorialspoint.com/html/html_color_names.htm" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">standardowych nazw kolorów</span></a><span style="font-weight: 400;">, ale można też zdefiniować dowolny inny odcień na swojej stronie internetowej, używając kodów kolorystycznych. Wstępnie zakodowane kolory mogą być zdefiniowane przez ich konkretne nazwy (jak aqua, black, green, hotpink, itp.), więc nie musimy szukać żadnych konkretnych kodów, aby zdefiniować dokładnie te kolory.</span></p>
+<p><span style="font-weight: 400;">Istnieje wiele systemów kodowania kolorów, a kody te zawierają proporcje różnych składników (kolory podstawowe) i wartości parametrów (np. przezroczystość lub nasycenie). W tym artykule zajmiemy się szczegółowo systemem szesnastkowym i wymienimy tylko pozostałe opcje.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10479" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/html-kolory.jpg" alt=" Kolory HTML pozwalają stworzyć nieskończoną ilość różnorodnych kolorystycznie ilustracji." width="945" height="825" srcset="/blog/wp-content/uploads/2020/11/html-kolory.jpg 945w, /blog/wp-content/uploads/2020/11/html-kolory-300x262.jpg 300w, /blog/wp-content/uploads/2020/11/html-kolory-768x670.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" /></p>
+<h2><span style="font-weight: 400;">Wybieranie i mieszanie kolorów</span></h2>
+<p><span style="font-weight: 400;">Kody kolorów możemy znaleźć za pomocą narzędzi do wybierania kolorów.</span></p>
+<p><span style="font-weight: 400;">Oto kilka przykładów:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Paleta kolorów</span></a></li>
+<li style="font-weight: 400;"><a href="https://htmlcolorcodes.com/color-picker/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Przejścia i różnice pomiędzy cieniami</span></a></li>
+<li style="font-weight: 400;"><a href="https://imagecolorpicker.com/en/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Identyfikowanie kolorów ze zdjęcia</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Każdy kolor, który nasze oczy mogą wykryć, jest mieszaniną różnych proporcji kolorów bazowych. W IT, różne odcienie są wyświetlane poprzez mieszanie kolorów bazowych czerwonego, zielonego i niebieskiego (RGB).</span></p>
+<p><span style="font-weight: 400;">(W teorii kolorów, kolory bazowe to czerwony, żółty i niebieski, ale ze względu na pewne cechy ekranów komputerowych, musimy używać innych kolorów w IT).</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Kod kolorystyczny w systemie szesnastkowym</span></h2>
+<p><span style="font-weight: 400;">Spośród wszystkich opcji kodów kolorystycznych, najbardziej zwięzła, a co za tym idzie, najczęściej używana podczas edycji kodu HTML  jest forma szesnastkowa.</span></p>
+<p><span style="font-weight: 400;">Kod kolorystyczny zaczyna się od znaku #, po którym następuje seria sześciu znaków. Możemy określić dokładny kolor, który chcemy użyć za pomocą cyfr (0-9) i liter (a-f). Pierwsze dwa znaki definiują wartość koloru czerwonego (RR), drugi zestaw dwóch definiuje kolor zielony (GG), a trzeci zestaw dwóch definiuje kolor niebieski (BB).</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Przykład: #eb4034</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Różne odcienie szarości zawierają tę samą ilość wszystkich składników.</span></p>
+<p><span style="font-weight: 400;">np.,</span></p>
+<p><span style="font-weight: 400;">#404040</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">#bebebe</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Kod koloru czarnego:</span></p>
+<p><span style="font-weight: 400;">#000000</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Kolor biały zawiera maksymalną wartość wszystkich składników.</span></p>
+<p><span style="font-weight: 400;">#ffffff</span></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">Krótsze wartości szesnastkowe</span></h3>
+<p><span style="font-weight: 400;">Czasami możemy użyć jeszcze krótszych kodów; dla kolorów, które mają te same znaki dla każdego komponentu, możemy użyć tylko trzech znaków i uzyskać ten sam kolor. </span></p>
+<p><span style="font-weight: 400;">Kod #000 definiuje kolor czarny, podobnie jak #000000, natomiast #0ff tworzy ten sam turkusowy kolor co #00ffff. </span></p>
+<p><span style="font-weight: 400;">Krótsza wersja #cc2244 to #c24</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Gdzie powinien znajdować się kod koloru HTML?</span></h2>
+<p><span style="font-weight: 400;">Możemy zdefiniować kolory w postaci atrybutów w tagu, do którego dany kolor się odnosi. Możemy zdefiniować kolor tła strony internetowej w ramach tagu &lt;body&gt;, a kolor nagłówka głównego powinien znajdować się w tagu &lt;h1&gt;, itp.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Atrybuty:</span></h3>
+<p><span style="font-weight: 400;">W ramach tagu </span><b>&lt;body&gt;</b><span style="font-weight: 400;"> możemy zdefiniować kolor tekstu za pomocą atrybutu</span><b> 'text'</b><span style="font-weight: 400;">, a kolor tła za pomocą atrybutu </span><b>&#8217;bgcolor'</b><span style="font-weight: 400;">. Możemy użyć atrybutu </span><b>&#8217;color'</b><span style="font-weight: 400;"> w obrębie tagu </span><b>&lt;font&gt;</b><span style="font-weight: 400;"> do zmiany koloru.</span></p>
+<p><iframe style="width: 100%; height: 26rem;" title="Attribútumok" src="https://codepen.io/codeberryschool/embed/eYZjKQd?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/eYZjKQd" target="_blank" rel="noopener external" data-wpel-link="external">Attribútumok</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">W HTML możemy użyć tagu </span><b>&lt;style&gt;</b><span style="font-weight: 400;"> we wszystkich innych elementach, aby nadpisać dowolną globalnie zdefiniowaną informację (np. format, styl, kolor), aby wyświetlić coś innego w określonej lokalizacji.</span></p>
+<p><iframe style="width: 100%; height: 26rem;" title="Attribútumok2" src="https://codepen.io/codeberryschool/embed/RwaBJde?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/RwaBJde" target="_blank" rel="noopener external" data-wpel-link="external">Attribútumok2</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Inne opcje kodowania kolorystycznego</span></h2>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">RGB, RGBA</span></h3>
+<p><span style="font-weight: 400;">Możemy zdefiniować stosunek czerwonego, zielonego i niebieskiego w skali od 0 do 255, a nie tylko w postaci szesnastkowej. Aby to zrobić, musimy umieścić kod za </span><b>text,</b> <b>bgcolor,</b><span style="font-weight: 400;"> itp. w tej formie: </span><b>rgb(192,192,192). </b></p>
+<p><span style="font-weight: 400;">Używając kodów RGBA, oprócz wartości kolorów bazowych, masz także inny komponent, który odnosi się do przezroczystości, zwany Kanałem Alfa. Parametr alfa jest liczbą z zakresu od 0.0 (całkowicie przezroczysty) do 1.0 (wcale nie przezroczysty). Tak wygląda kolor w kodzie RGBA: rgba(255, 99, 71, 0.5)</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">HSL, HSLA</span></h3>
+<p><span style="font-weight: 400;">W HTML możemy zdefiniować kolory za pomocą odcienia, nasycenia i jasności (HSL). Wartość odcienia wyrażana jest w stopniach w oparciu o jego położenie na kole kolorów.</span></p>
+<p><span style="font-weight: 400;">Nasycenie jest wartością procentową, 0% określa odcień szarości, a 100% określa pełny kolor. Jasność jest również wartością procentową, przy czym 0% to kolor czarny, a 100% to biały. Kody kolorów HSL wyglądają tak:</span></p>
+<p><span style="font-weight: 400;">hsl(36, 100%, 50%)</span></p>
+<p><span style="font-weight: 400;">Można również dodać wartość alfa, która odnosi się do przezroczystości koloru.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Wypróbuj różne kolory HTML i formy kodowania kolorów, aby znaleźć ten, który jest najlepszy dla danego projektu i z którym możesz pracować najbardziej efektywnie. Przy odrobinie praktyki możesz z łatwością zdefiniować najładniejsze kolory HTML dla Twojej strony.</span></p>
+<p>&nbsp;</p>
+<p>W naszej serii <a href="https://codeberryschool.com/blog/pl/category/jezyki-programowania/" data-wpel-link="external" target="_blank" rel="external">samouczków programowania</a> znajdziesz przydatne materiały, które pomogą Ci poprawić umiejętności programowania i przyspieszyć proces uczenia się.</p>
+<p>Chcesz nauczyć się kodować online? Przyjdź i wypróbuj nasze pierwsze <a href="https://orange.codeberryschool.com/auth/signup?gclid=&amp;referrer_code=&amp;utm_source=www.google.com&amp;utm_campaign=link&amp;utm_content=20200902%3Bwww.google.com%3Blink%3B%3B%3B20200902%3Bcodeberryschool.com%3Blink%3B%3B%3B20200903%3Bwww.google.com%3Blink%3B%3B%3B20200903%3Bcodeberryschool.com%3Blink%3B%3B%3B20200930%3Bwww.google.com%3Blink%3B%3B%3B20201004%3Bwww.google.com%3Blink%3B%3B%3B20201016%3Bwww.google.com%3Blink%3B%3B%3B20201018%3Bwww.google.com%3Blink&amp;locale=pl-PL" data-wpel-link="external" target="_blank" rel="external">25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

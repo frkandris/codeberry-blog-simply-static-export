@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>koodaus koulutus | CodeBerry Blog</title>
+	<atom:link href="/blog/fi/tag/koodaus-koulutus/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 15 Jun 2021 12:38:07 +0000</lastBuildDate>
+	<language>fi-FI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Kuinka oppia koodaamaan &#038; muita aloittelevan koodarin kysymyksiä</title>
+		<link>/blog/fi/kuinka-oppia-koodaamaan/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 12:37:20 +0000</pubDate>
+				<category><![CDATA[Ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[java ohjelmointi]]></category>
+		<category><![CDATA[javascript ohjelmointi]]></category>
+		<category><![CDATA[koodari koulutus]]></category>
+		<category><![CDATA[koodariksi]]></category>
+		<category><![CDATA[koodaus koulutus]]></category>
+		<category><![CDATA[koodaus kurssit]]></category>
+		<category><![CDATA[koodauskoulutus]]></category>
+		<category><![CDATA[koodauskurssi]]></category>
+		<category><![CDATA[kuinka oppia koodaamaan]]></category>
+		<category><![CDATA[kuinka oppia koodaamaan ilmaiseksi]]></category>
+		<category><![CDATA[ohjelmointi kurssi]]></category>
+		<category><![CDATA[ohjelmointi kurssi netissä]]></category>
+		<category><![CDATA[opettele koodaamaan]]></category>
+		<category><![CDATA[opi javaa]]></category>
+		<category><![CDATA[opi javascriptia]]></category>
+		<category><![CDATA[opi pythonia]]></category>
+		<category><![CDATA[python ohjelmointi]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13407</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen! Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmointikoulu CodeBerryssä. &#160; Johdanto Olet tehnyt upean [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa </strong><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<p>&nbsp;</p>
+<h1>Johdanto</h1>
+<p>Olet tehnyt upean päätöksen astuessasi ohjelmoinnin maailmaan ja päättänyt kenties vihdoin ruksia “opi koodaamaan”-elämäntavoitteesi. Koskaan ei ole liian myöhäistä oppia uusi, monimuotoinen taito – olemme innoissamme voidessamme olla osana matkaasi, ainakin tämän artikkelin verran!</p>
+<p><b>Artikkelissamme “Kuinka oppia koodaamaan” katsomme seuraavia asioita:</b></p>
+<ul>
+<li aria-level="1">Mitkä ohjelmointikielet sopivat parhaiten aloittelijoille</li>
+<li aria-level="1">Saatavillasi olevia opetusmateriaaleja</li>
+<li aria-level="1">Ensimmäiset askeleet koodauksen opetteluun</li>
+<li aria-level="1">Miten kehittyä ohjelmoijaksi</li>
+</ul>
+<p>Haluamme myös ohjata sinut sellaisten lisämateriaalien luo, jotka auttavat sinua jatkamaan opiskelua itsenäisesti. Näihin materiaaleihin kuuluu videoita, podcasteja, sovelluksia, pelejä ja niin edelleen.</p>
+<p>Aloitetaan kuitenkin tärkeimmistä asioista, joita tarvitset menestyäksesi koodarina:</p>
+<h1>Aloittelijoille sopivat ohjelmointikielet</h1>
+<h2>Python</h2>
+<p>Python on tehokas, korkean tason ohjelmointikieli, jota voidaan käyttää moniin eri tarkoituksiin. Voit muun muassa luoda työpöytäsovelluksia, kehittää web-sovelluksia ja jopa ratkaista matemaattisia yhtälöitä!</p>
+<p>Kun kuulet termin “korkean tason ohjelmointikieli”, saatat ajatella että se on hankalampi oppia tai monimutkaisempi kuin muut ohjelmointikielet. “Korkea taso” viittaa kuitenkin vain siihen, että kieli on kehittyneempi ja se on lähempänä ihmisten kieliä. Korkea taso säästää sinulta aikaa ja hermoja mahdollistamalla koodin kirjoittamisen luonnollisemmalla tavalla!</p>
+<p>Matalan tason ohjelmointikielellä koodaus saattaa vaatia jatkuvaa toistamista ja itsestään selvien asioiden kirjoittamista. Pythonissa se ei yleensä ole tarpeen. Sen sijaan Pythonin avulla on mahdollista kirjoittaa helposti luettavaa ja ylläpidettävää koodia, mikä on yksi ohjelmoinnin tärkeimmistä asioista.</p>
+<p>Pythonista aloittaminen on yksi parhaista tavoista, joilla aloittelija voi nopeasti oppia ohjelmoinnin alkeet ja luoda pohjan tulevaisuuden opinnoille. Monien käyttökohteiden ja helposti kirjoitettavan syntaksin ansiosta Python on mahtava ohjelmointikieli, jos olet aloittamassa koodausuraasi!</p>
+<h2>JavaScript</h2>
+<p>JavaScript on webin ohjelmointikieli, joka tekee verkkosivuista interaktiivisia ja toimivia.</p>
+<p>Jos olet kiinnostunut verkkosivujen kehittämisestä, JavaScript on siihen välttämätön työkalu. Vaikka on totta, että HTML ja CSS pitävät huolen verkkosivustosi ulkoasusta ja järjestelystä, JavaScript on kieli joka herättää sisällön henkiin! Tällä kielellä pystyt luomaan “skriptejä”, jotka saavat sivuston reagoimaan haluamallasi tavalla klikatessasi painiketta, syöttäessäsi tietoja lomakkeeseen ja niin edelleen.</p>
+<p>JavaScriptin suosion ansiosta verkossa on sen opetteluun runsaasti materiaalia, kuten koodauskoulutuksia ja yliopistojen kursseja. Se on myös äärimmäisen monipuolinen kieli, sillä sitä voidaan käyttää niin verkkosivuilla (front-end) kuin myös palvelimen päässä (back-end) ajoympäristöjen kuten Node.js avulla.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12988" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2>Java</h2>
+<p>Java (älä sekoita JavaScriptiin) on yksi maailman suosituimmista ohjelmointikielistä, mutta siihen on syynsä, sillä Java on äärimmäisen monipuolinen ja monikäyttöinen. Jos päätät opetella tämän kielen, sinulla on hyvät mahdollisuudet saada työpaikka suuresta yrityksestä! Teknologiajätit kuten Google, Facebook ja monet muut käyttävät Javaa (kuten myös JavaScriptiä ja Pythonia).</p>
+<p>Kun opettelet koodaamaan Javalla, tulet avaamaan itsellesi oven mahdollisuuksien maailmaan ohjelmistokehittäjän urallasi. Javan avulla voit kirjoittaa sovelluksia monille eri laitteille, kuten älypuhelimille, pankkiautomaateille, televisioille, tietokoneille ja niin edelleen.</p>
+<p>Javan avulla sinusta voi tulla myös Android-devaaja. Vaikka iOS-kehitys oli trendi menneinä vuosina (iOS käyttää Swift-kieltä), sovellusten kirjoittamisesta Android-laitteille on tullut todella suosittua!</p>
+<p>Kielen suosion ansiosta niin verkkomateriaaleja kuin perinteisiäkin lähteitä Javan opetteluun on tarjolla niin paljon, että valitseminen on vaikeaa.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13408" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/laptop-3087585_1920-1024x683.jpg" alt="Opi koodaamaan vaivattomasti netissä" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/laptop-3087585_1920-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/laptop-3087585_1920-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/laptop-3087585_1920-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/laptop-3087585_1920-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/laptop-3087585_1920-1080x720.jpg 1080w, /blog/wp-content/uploads/2021/06/laptop-3087585_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h1>Kuinka oppia koodaamaan?<b><br />
+</b></h1>
+<h2>Koodauskurssit</h2>
+<p>Kuten lyhyesti mainitsimme artikkelissamme “Aloittelijan opas web-kehitykseen”, koodauskurssit ovat lyhyitä ja tiiviitä koulutusohjelmia, jotka toimivat samaan tapaan kuin intin P-kausi. Et todennäköisesti tule juoksemaan renkaiden läpi tai harjaamaan vessanpönttöä hammasharjallasi, mutta sinun psyykkisiä rajojasi tullaan varmasti koettelemaan näillä intensiivisillä kursseilla.</p>
+<p>Koodauskurssit kestävät yleensä 14 viikkoa (3-4 kuukautta) ja ne opettavat sinulle tärkeimmät taidot, jotka tarvitset menestyäksesi tietyssä roolissa, kuten full-stack- tai front-end-devaajana. Monet työnantajat etsivät nousevia ohjelmistokehittäjiä kurssien loputtua ja valitsevat ryhmistä parhaat talentit!</p>
+<p>Jos ohjelmoinnista voisi oppia kaiken 14 viikossa, kukaan ei haluaisi opiskella tietotekniikan yliopistotutkintoa tai käyttäisi vuosia kehittäen taitojaan. Koodauskurssit kuitenkin opettavat sinulle taidot, jotka tarvitset aloittelevien ohjelmistokehittäjien positioihin, joihin ei välttämättä vaadita yliopistotutkintoa. Jos olet urasi alussa ja etsit ensimmäistä koodarin työtäsi, ohjelmointikurssi voi sopia tilanteeseesi hyvin.</p>
+<p>Koodauskurssit ovat myös mahtava vaihtoehto niille, jotka haluavat nopean katsauksen ohjelmointiin ja oppia alkeet mahdollisimman nopeasti. Jos tarkoituksenasi on jatkaa opiskelemista, suosittelemme kuitenkin täydentämään koulutustasi useammilla kursseilla, lisämateriaaleilla ja päivittäisillä harjoituksilla.</p>
+<h2>Yliopistokurssit</h2>
+<p>Tämä kiistattomasti perinteisin koulutusmuoto eli yliopistokurssit tarjoaa sinulle mahtavan yleiskatsauksen tietotekniikan maailmaan ja auttaa sinua ymmärtämään konsepteja koodin takana. Älä kuitenkaan odota, että professorisi tulevat pitämään sinua kädestä kiinni ja opettavat sinua koodaamaan Pythonilla, JavaScriptillä tai C++:lla! Yliopistot tarjoavat kursseja, joilla opetetaan jokaisen kielen alkeita, mutta tulet kuluttamaan suuremman osan ajastasi opiskellen erittäin monimutkaista matematiikkaa.</p>
+<p>Tutkimustyötä tai korkean profiilin firmoja kuten Googlea varten saatat tarvita tietotekniikan tutkinnon. Jos unelmasi on kuitenkin työskennellä keskisuuressa yrityksessä tai pelistudiossa, on hyvät mahdollisuudet siihen, ettei sinun tarvitse kouluttautua yliopistossa!</p>
+<p>Yliopistokursseilla tulet oppimaan ideoita, konsepteja ja teoriaa, mutta työelämässä hyödynnettävät taidot jäävät vähiin. On sinun kontollasi opetella ohjelmoimaan eri kielillä ja löytämään materiaaleja niiden opiskelua varten. Tämä saattaa olla masentava realiteetti joillekin, jotka valmistuvat tietotekniikan koulutusohjelmasta ja jättävät yliopiston ilman saavutuksen tunnetta. Kaikesta huolimatta oma motivaatio ja omatoiminen oppiminen ovat menestyksekkäitä koodareita yhdistäviä ominaisuuksia.</p>
+<p>Tämän vuoksi suosittelemme vapaa-ajan koodausta sekä vastavalmistuneille, että niille jotka vastikään pääsivät sisään tietotekniikan koulutusohjelmaan. Verkko-opinnot, koodauskurssit ja lisämateriaalit tulevat auttamaan sinua matkallasi ohjelmoinnin ammattilaiseksi!</p>
+<h2>Verkkokurssit</h2>
+<p>Verkkokurssit yhdistävät perinteisen koulutuksen koodauskurssien taitoihin keskittyvään filosofiaan. Tulet oppimaan ohjelmoinnin konseptien ja teorioiden lisäksi taitoja, joita tarvitset löytääksesi työpaikan alalta.</p>
+<p>Vapaus opiskella missä, milloin ja miten tahansa tarjoaa verkossa opiskeleville sellaista joustavuutta, joka ei ole perinteisten opiskelijoiden hyödynnettävissä. Sinun ei tarvitse erota työstäsi, muuttaa uuteen kaupunkiin tai pulittaa tuhansia euroja koulutuksesta oppiaksesi arvokkaita taitoja. Sen sijaan voit kehittää ammatillista osaamistasi mukavasti kotisohvaltasi käsin!</p>
+<p>Verkkokurssi tarjoaa sinulle yleensä tarvitsemasi materiaalit ja välineet digitaalisessa muodossa, ja toisin kuin yliopistokursseilla, sinun ei todennäköisesti tarvitse tuhlata rahojasi vanhoihin ja vanhentuneisiin oppikirjoihin. Sen sijaan tulet saamaan pääsyn alan ammattilaisten kirjoittamaan oppimateriaaliin!</p>
+<p>Englannin puhujille kursseja on tarjolla verkossa runsaasti sivustoilla kuten Codeacademy. Se on ilmainen alusta, joka opettaa monien ohjelmointikielien perusteita ilmaiseksi. Jos haluat kuitenkin erikoistua tiettyyn tehtävään, kuten web-kehitykseen, tietojenkäsittelyyn tai ohjelmistokehitykseen, sinun täytyy tilata maksullinen pro-jäsenyys. Pro-versio tarjoaa myös pääsyn kehittyneempiin materiaaleihin.</p>
+<p><a href="https://codeberryschool.com/fi" data-wpel-link="external" target="_blank" rel="external">CodeBerryltä</a> löydät perusteellisia kursseja, jotka on suunniteltu erityisesti tietyille urapoluille, kuten verkkosivujen suunnittelijalle tai frontend-kehittäjälle. Sen lisäksi että CodeBerry opettaa sinulle ohjelmointia omalla kielelläsi, he myös nimittävät sinulle koodausmentorin ja opiskelukaverin, sekä tarjoavat pääsyn ystävälliseen online-yhteisöön!</p>
+<p>&nbsp;</p>
+<h1><img loading="lazy" class="aligncenter size-large wp-image-13409" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/work-1627703_1920-1024x621.jpg" alt="Voit oppia koodaamaan lähes missä tahansa." width="1024" height="621" srcset="/blog/wp-content/uploads/2021/06/work-1627703_1920-1024x621.jpg 1024w, /blog/wp-content/uploads/2021/06/work-1627703_1920-300x182.jpg 300w, /blog/wp-content/uploads/2021/06/work-1627703_1920-768x466.jpg 768w, /blog/wp-content/uploads/2021/06/work-1627703_1920-1536x931.jpg 1536w, /blog/wp-content/uploads/2021/06/work-1627703_1920-1080x655.jpg 1080w, /blog/wp-content/uploads/2021/06/work-1627703_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></h1>
+<h1>Lisämateriaalit</h1>
+<p>Vaikka ainoastaan 20% maailman väestöstä puhuu englantia, on arvioitu että yli 55% internetin sisällöstä on kirjoitettu englanniksi. Se tarkoittaa, että suurin osa verkosta löytyvistä materiaaleista ei ole saatavilla äidinkielelläsi. Sen takia seuraavien resurssien saatavuus riippuu kielitaidostasi ja äidinkielestäsi.</p>
+<h2>Katsele videoita</h2>
+<p>Minä olen oppinut paljon tärkeitä taitoja vuosien varrella katselemalla YouTube-videoita. YouTube on mahtava ilmainen alusta, joka tarjoaa videoita ja kanavia lähes mistä tahansa aiheesta!</p>
+<p>Monet todelliset web-kehittäjät ja ohjelmoijat tekevät mahtavia videoita, jakavat henkilökohtaisia kokemuksiaan ja tarjoavat “sisäpiirin tietoa” siitä mitä sinun tulisi tietää. YouTubesta löytyy myös monia koodareiden haastatteluja, jotka jakavat mietteitään työpaikan löytämisestä tai siitä, miten he onnistuivat menestymään alalla.</p>
+<p>Vaikka YouTube-videot ovat mahtava lisä koodauksen opiskeluun, ne eivät ole kuitenkaan tarpeeksi yhtenäisiä tarjotakseen kattavaa koulutusta. Tulet myös huomaamaan, että tiedoissasi on aukkoja ja sinulla saattaa olla vaikeuksia löytää vastauksia kaikkein perusteellisimpiin kysymyksiisi.</p>
+<h2>Online-yhteisöt</h2>
+<p>Online-foorumeille ja -ryhmiin liittyminen auttaa sinua pääsemään kontaktiin muiden koodareiden kanssa, jotka saattavat osata ohjata sinua oikeaan suuntaan ja tarjota sinulle hyödyllisiä vinkkejä. Toisten kokemuksista oppiminen voi myös auttaa sinua välttämään niitä sudenkuoppia, joita he ovat kohdanneet urallaan.</p>
+<p>Tajusit sitä tai et, yhteisöön kuuluminen on myös tärkeä osa itseluottamuksesi ja identiteettisi kehittämistä “oikeana” koodarina. Vuorovaikutuksen kautta jätät taaksesi teeskentelijän identiteetin, joka saattaa vaivata uusien taitojen oppimisen ja uuden uran aloittamisen jälkeen. Etsiessäsi ensimmäistä työpaikkaasi tai unelmiesi työtä, yhteisö tarjoaa sinulle tukea ja pysyvyyttä, jota varmasti tulet tarvitsemaan matkallasi.</p>
+<p>Saatat löytää jopa avoimia työpaikkoja tai -mahdollisuuksia online-yhteisöjen kautta, sillä työnantajat usein selaavat yhteisöjä läpi löytääkseen koodarilahjakkuuksia. Voit myös verkostoitua muiden ohjelmoijien kanssa ja jopa tehdä projekteja yhteistyössä, vahvistaen näin yhteisöön kuuluvuuden tunnettasi.</p>
+<p>Tällaisten koodaukseen ja sitä ympäröiviin aiheisiin keskittyneiden yhteisöjen löytäminen omalla kielelläsi voi olla hankalaa. Onneksi CodeBerry antaa sinulle pääsyn online-yhteisöön, josta löydät muita äidinkieltäsi puhuvia opiskelijoita, jotka opiskelevat samaan tapaan kanssasi!</p>
+<h2>Koodausmentorin löytäminen</h2>
+<p>Yksi arvokkaimmista resursseista jota opiskelija voi toivoa, on itse asiassa toinen henkilö. Saman prosessin jo läpikäyneet mentorit ovat oikeita kultakaivoksia, jotka tarjoavat vinkkejä, temppuja ja kokemusta. Voit ajatella mentorin olevan tulevaisuuden sinä, joka auttaa sinua saavuttamaan nykyhetken tavoitteesi.</p>
+<p>Tulet oppimaan heidän virheistään ja selvittämään omiasi keskustellessasi mentorisi kanssa opiskelustasi ja etenemisestäsi.</p>
+<p>Mentorit voivat myös auttaa sinua valmistumisen jälkeen antamalla sinulle neuvoja työpaikan löytämisestä, portfoliosi laajentamisesta ja siitä, mitä tulet kohtaamaan työhaastattelussa.</p>
+<p>Jos tunnet henkilökohtaisesti koodarin tai kehittäjän, voit kysyä häneltä jos saisit ryhtyä hänen oppilaakseen ja auttaa hänen päivittäisissä töissään. Ammattilaisen mielestä helpot ja pitkäveteiset tehtävät saattaisivat olla sinulle mahtava oppimiskokemus. Tällä tavoin saat arvokkaita näkemyksiä ja kokemusta tarjoten hänelle vaihdossa työpanoksesi.</p>
+<p>On joitakin verkkosivustoja kuten codementor.io, jotka auttavat sinua löytämään mentoreita verkosta. Codementorista löydät kokeneita koodareita ja kehittäjiä, jotka tarjoavat sinulle ohjausta, mutta sillä on kuitenkin hintansa.</p>
+<p>Kulut voivat olla melkoiset, sillä mentorien palkka alkaa 10 dollarista 15 minuutin neuvontaa kohti (40 $/tunti). Suosittelemme tätä vaihtoehtoa vain siinä tapauksessa, että sinulla ei ole henkilökohtaisia kontakteja ohjelmoijiin.</p>
+<p>CodeBerry kuitenkin tarjoaa sinulle mentorin, joka auttaa sinua koodausurallasi.</p>
+<p>Koodausmentorimme ovat IT-alan ammattilaisia, joilla on vuosien kokemus alaltaan. He vastaavat kysymyksiisi chatin kautta, ja sen lisäksi he voivat auttaa sinua luomaan henkilökohtaisen opiskelusuunnitelman. He voivat myös tarkastaa koodiasi ja antaa kehitysehdotuksia, sekä pitää sinut motivoituneena opiskelemaan.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13412" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-1024x683.jpg" alt="Netissä on monia loistavia koodauspodcasteja" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/kate-oseen-XQKUIPjPl-s-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h2>Kuuntele podcasteja</h2>
+<p>Podcastien todellinen hienous piilee siinä, että ne ovat ilmaisia, tarjoavat tietoa ja oppimismahdollisuuden missä tahansa oletkin. Jos olet tylsistyneenä liikenneruuhkassa tai istut bussissa matkalla kotiin, voit vetää esiin kuulokkeesi ja kuunnella mahtavia keskusteluja!</p>
+<p>Koska koodaus on erittäin visuaalista, kuunteleminen ei ole välttämättä paras tapa sen opetteluun. Podcastit tarjoavat sinulle kuitenkin ajankohtaista tietoa viimeisimmistä päivityksistä ohjelmointikieliin ja niihin liittyviin teknologioihin.</p>
+<p>Mahtava koodaukseen liittyvä podcast aloittelijoille on CodeNewbie, joka kertoo uusien ohjelmoijien kokemuksista ja siitä miten he oppivat koodaamaan, miten he saivat ensimmäisen työpaikkansa ja niin edelleen. Muita suosittelemiamme podcasteja ovat Software Engineering Daily ja Coding blocks, jotka käyvät läpi teknisempiä aiheita ja tarjoavat paljon arvokasta tietoa ilmaiseksi.</p>
+<h2>Kirjat/materiaalit</h2>
+<p>On lähes mahdotonta muistaa kaikkia ohjelmointikielen komentoja. Kirjat ja muut online-resurssit, kuten W3 Schools, tarjoavat hyödyllistä dokumentaatiota kun tarvitset nopeaa vinkkiä tai muistutusta. Jos pidät enemmän tulostetuista materiaaleista, verkkosivustoilta kuten Amazon voit löytää paljon mahtavia kirjoja, jotka tarjoavat opastusta eri ohjelmointikieliin. Meille muille W3 Schools tarjoaa sivuillaan ilmaisia oppaita, jotka auttavat sinua koodauksen opiskelussa.</p>
+<h2>Kuinka oppia koodaamaan pelaamalla</h2>
+<p>Jos haluat oppia koodaamaan ja pitää hauskaa samalla, pelien ja sovellusten koodaus on sinua varten. Pelatessasi näitä interaktiivisia ja opettavaisia pelejä tulet nauttimaan ajastasi niin paljon, että unohdat itse asiassa opiskelevasi. Usein kirjojen ja ohjelmointidokumenttien lukeminen voi olla kuivaa, tylsää ja mahtava tapa unettomuuden selättämiseen. Pelit ja sovellukset pitävät kuitenkin mielenkiintosi yllä ja ne tarjoavat täydellisen mahdollisuuden oppimiseen.</p>
+<p>Pelit kuten CodeCombat ja CodinGame ovat äärimmäisen hauskoja ja auttavat jatkamaan opiskelua, kun sinusta tuntuu että aivosi ovat jäässä perinteisen opiskelusession jälkeen!</p>
+<p><a href="https://codecombat.com/" target="_blank" rel="noopener external" data-wpel-link="external">CodeCombat</a> on selainpohjainen RPG-peli, joka antaa sinun ohjata hahmoasi koodin avulla. Tämän metodin avulla opit aivan huomaamattasi kieliä kuten JavaScript ja Python. Puhumattakaan siitä, että se on mahtavaa hupia.</p>
+<p>Erilaisilla koodiriveillä liikuttelet, hyökkäät ja teet vaihtelevia toimintoja hahmollasi, jotka auttavat sinua tasojen läpi. Kiivetessäsi tasoja ylöspäin, tulet oppimaan tärkeitä ohjelmointikonsepteja, kuten syntaksi, argumentit, merkkijonot ja paljon muuta.</p>
+<p><a href="https://www.codingame.com/start" target="_blank" rel="noopener external" data-wpel-link="external">CodinGame</a> on toinen verkkosivusto, joka tarjoaa monia pelejä, jotka auttavat sinua kehittämään koodaustaitojasi. CodinGame on paljon hankalampi peli kuin CodeCombat, ja se on suunnattu niille, joilla on jo perustiedot ohjelmointikielien toiminnasta. Jos olet täysin koodausurasi alussa, suosittelemme kokeilemaan ensin yksinkertaisempia pelejä kuten CodeCombat.</p>
+<p>Henkilökohtaisesti minulla kesti melko pitkään ennen kuin tajusin miten sivusto toimii ja mitä minun pitäisi tehdä. Kun opin käyttöliittymän, koodasin menemään Pythonilla ohjaten avaruusalustani ja ampuen alieneita laserilla. Se oli todella hauskaa!</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12915" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Testimonial-2.png 1024w, /blog/wp-content/uploads/2021/04/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Harjoittelu ja hyvät opiskelutavat</h1>
+<p>Kuten viisas mies joskus tokaisi, “Harjoitus tekee mestarin”.</p>
+<p>Riippumatta siitä miten monta oppikirjaa luet, videota katsot tai monelleko oppitunnille osallistut, sinun täytyy kirjoittaa koodia säännöllisesti vahvistaaksesi osaamistasi. Etsi työstettäviä projekteja ja aseta henkilökohtaisia tavoitteita, joiden ansiosta pääset kokeilemaan rajojasi ja oppimaan uusia taitoja. Ajan myötä tulet löytämään itsesi valmistumasta ensimmäiseen työpaikkaasi!</p>
+<p>Sinulla tulisi myös olla motivaatiota ja oma-aloitteisuutta opetellaksesi tarvittavia taitoja. Itseoppineet koodarit ovat usein alansa huipulla, sillä he ovat pysyneet parhaiten kärryillä teknologian ja ohjelmointikielten muutoksista.</p>
+<p>Monilla urilla on mahdollista kehittyä tietyn aiheen asiantuntijaksi, jolloin voit istua alas, rentoutua ja lopettaa kehittymisen. Ohjelmoijana tällaista mahdollisuutta ei ole, vaan sinun tulee aina jatkaa uuden oppimista. Jos lopetat opiskelun ja trendien seuraamisen, tietämyksesi alkaa vanhentua saman tien.</p>
+<p>CodeBerryn tiimi rohkaisee sinua elinikäiseen oppimiseen ja jatkuvaan koodaustaitojen kehittämiseen. Jos olet kiinnostunut oppimaan koodausta opetettuna omalla kielelläsi, saamaan oman mentorin ja haluat pääsyn ystävälliseen online-yhteisöön, vieraile verkkosivustollamme ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">rekisteröidy kokeillaksesi 25 ensimmäistä tehtäväämme ilmaiseksi.</a></p>
+<h1>Aloita ohjelmointikielien tutkiminen</h1>
+<p>Kun opit enemmän ohjelmoinnista ja alat tunnistaa henkilökohtaisia tavoitteitasi, sinulle tulee selviämään mitkä kielet sopivat sinulle parhaiten. Rohkaisemme sinua aloittamaan eri ohjelmointikielien tutkailun, ja selvittämään mikä sopii tarpeisiisi. Seuraavassa artikkelissamme &#8220;<a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Mikä ohjelmointikieli sopii sinulle parhaiten?</a>&#8221; tarjoamme sinulle yleiskatsauksen suosituimpiin ohjelmointikieliin, jotta voit aloittaa opiskelun.</p>
+<p>Kiitos lukemisesta, nähdään seuraavassa artikkelissa!</p>
+<p>&nbsp;</p>
+<p><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa </strong><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

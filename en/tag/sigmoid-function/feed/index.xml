@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sigmoid function | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/sigmoid-function/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 27 Jun 2021 13:32:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best way of using Python Functions</title>
+		<link>/blog/en/python-functions/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2021 12:48:41 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[create a function in python]]></category>
+		<category><![CDATA[dot product]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[how to define function in python]]></category>
+		<category><![CDATA[lambda funtion in python]]></category>
+		<category><![CDATA[leetcode]]></category>
+		<category><![CDATA[map function in python]]></category>
+		<category><![CDATA[ord function python]]></category>
+		<category><![CDATA[plot function python]]></category>
+		<category><![CDATA[pow function python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python any function]]></category>
+		<category><![CDATA[python apply function to list]]></category>
+		<category><![CDATA[python function optional argument]]></category>
+		<category><![CDATA[python import function from file]]></category>
+		<category><![CDATA[python next function]]></category>
+		<category><![CDATA[python online compiler]]></category>
+		<category><![CDATA[python threading]]></category>
+		<category><![CDATA[python timer]]></category>
+		<category><![CDATA[sigmoid function]]></category>
+		<category><![CDATA[softmax function]]></category>
+		<category><![CDATA[what is a function in python]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13518</guid>
+
+					<description><![CDATA[What is a Python function? A Python function is essentially a piece of code that we assign a name and we can use over and over again in the rest of our program. &#160; Creating a Python function In Python, a function is created using the keyword &#8220;def&#8221; followed by the name of the function [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2>What is a Python function?</h2>
+<p><span style="font-weight: 400;">A Python function is essentially a piece of code that we assign a name and we can use</span> <span style="font-weight: 400;">over and over again in the rest of our program.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python function – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/7xcprWGn4xY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><span style="font-weight: 400;">Creating a Python function</span></h2>
+<p><span style="font-weight: 400;">In Python, a function is created using the keyword &#8220;</span><span style="font-weight: 400;">def&#8221;</span><span style="font-weight: 400;"> followed by the name of the function and a pair of parentheses. When coming up with a name for a function we should always use something that makes sense or and kind of fits in with what your code is doing. This makes your code <a href="https://dzone.com/articles/10-tips-how-to-improve-the-readability-of-your-sof" target="_blank" rel="noopener external" data-wpel-link="external">more readable.</a></span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12196 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1-1.png" alt="How to create Python functions?" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Example one</span></h2>
+<p><span style="font-weight: 400;">In this article, we are going to name the Python function </span><span style="font-weight: 400;">myfunction </span><span style="font-weight: 400;">because it is just an example. After the name of the function and the parentheses, we should do a full colon. It is important to note that after we hit enter everything that happens in this function has to be indented.</span></p>
+<p><span style="font-weight: 400;"> Inside the body of the function, we are going to print out </span><span style="font-weight: 400;">“this is my function”. </span><span style="font-weight: 400;">If we save this program and run it we will not get any output because we have not yet called the function. To call a function in python type the </span>name of the function followed by parentheses which just has this one line of code in. It prints out ”this is in my function” and there we go:</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/functions1?lite=1&amp;" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We can also use a return statement to return things out of our Python function. To demonstrate that we are going to take away the print statement from the body of the function. Instead, we are going to assign the string “</span><span style="font-weight: 400;">this is my function”</span><span style="font-weight: 400;"> to the variable</span><span style="font-weight: 400;"> “name”. </span></p>
+<p><span style="font-weight: 400;">Now if we run this nothing will happen because we have removed the print statement. Now to return something out of our Python function, we simply type the word &#8220;return&#8221; and then</span> <span style="font-weight: 400;">whatever it is, we are returning, in this case, we are returning </span><span style="font-weight: 400;">”name”. </span></p>
+<p><span style="font-weight: 400;">In order to actually get some output when we run this function, we should put a print statement around where we are calling</span><span style="font-weight: 400;"> myfunction(). </span><span style="font-weight: 400;">So it&#8217;s important to make sure that if you&#8217;re always returning something from your function.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/functions2?lite=1&amp;" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<h2><span style="font-weight: 400;">Example two</span></h2>
+<p><span style="font-weight: 400;">I</span><span style="font-weight: 400;">n this example, we are going to create a function by the name </span><span style="font-weight: 400;">“add10” </span><span style="font-weight: 400;">and then pass it </span><span style="font-weight: 400;">one </span><span style="font-weight: 400;">parameter</span><span style="font-weight: 400;"> x </span><span style="font-weight: 400;">in between the parentheses</span><span style="font-weight: 400;">. </span><span style="font-weight: 400;">Now, this basically means that when we call for this function we have to put in th</span><span style="font-weight: 400;">is parameter or argument in here that basically says we need a value for x.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Now inside the body function place, y = x+10 and then return y on the next line. This function takes the value that we pass to it and then adds a 10 to it. Finally, print out the function</span><span style="font-weight: 400;"> add10() </span><span style="font-weight: 400;">and then pass an argument inside the parentheses, in this case, we are going to pass</span><span style="font-weight: 400;"> 5</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;"> So when we run this it is going to execute the function, take the 5 as x and then a</span><span style="font-weight: 400;">pply it and come out of the other end we get 15. As shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/functions3?lite=1&amp;" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<h2><span style="font-weight: 400;">Example three</span></h2>
+<p><span style="font-weight: 400;">In this example, we are going to write a function that splits a sentence into words and returns how many words were in that sentence. We are going to define a function by the name </span><span style="font-weight: 400;">splitandcount()</span><span style="font-weight: 400;"> and then we’re going to pass a parameter by the name </span><span style="font-weight: 400;">“sentence”.</span></p>
+<p><span style="font-weight: 400;">Now in the body of the Python function we are going to declare a variable </span><span style="font-weight: 400;">s</span><span style="font-weight: 400;"> and assign it a method</span><span style="font-weight: 400;"> split() </span><span style="font-weight: 400;">as shown here</span><span style="font-weight: 400;"> s= sentence.split().</span></p>
+<p><span style="font-weight: 400;">We are now going to return the length of s. Now when we split a sentence or a string it splits it into words, individual words</span> <span style="font-weight: 400;">And then the length is basically the length of the list, </span><span style="font-weight: 400;">s</span><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">We can now go ahead and print the </span><span style="font-weight: 400;">splitandcount(“hello welcome to codeberry”) a</span><span style="font-weight: 400;">nd now when we run this we should get four out of there.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/functions4?lite=1&amp;" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener" data-wpel-link="internal">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener" data-wpel-link="internal">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener" data-wpel-link="internal">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener" data-wpel-link="internal">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener" data-wpel-link="internal">Best Programming Books You Must Read in 2021</a></li>
+<li class="post-title entry-title"><a class="et-accent-color" href="https://codeberryschool.com/blog/en/data-science-courses/" target="_blank" rel="noopener" data-wpel-link="internal">+10 Best Data Science Courses, Data Scientist Salaries, and Everything About DS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener" data-wpel-link="internal">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener" data-wpel-link="internal">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Java Arrays and ArrayLists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-sets/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Python Sets</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-dictionary/" target="_blank" rel="noopener" data-wpel-link="internal">Best ways of using a Python Dictionary</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-classes/" data-wpel-link="internal">Best way of using Python Classes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-way-of-using-python-range/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Python Range</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-if-else-statements/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python if-else</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-regex/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python RegEx</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-list/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Lists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-enumerate/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Enumerate</a></li>
+<li><strong>Best way of using Python Functions</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

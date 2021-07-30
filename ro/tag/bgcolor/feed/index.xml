@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bgcolor | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/bgcolor/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 23 Mar 2021 18:28:49 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Cum să creezi un tabel HTML perfect</title>
+		<link>/blog/ro/cum-sa-creezi-un-tabel-html-perfect/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 10 Mar 2021 10:33:23 +0000</pubDate>
+				<category><![CDATA[Tutoriale de programare]]></category>
+		<category><![CDATA[a tabelului]]></category>
+		<category><![CDATA[atributul border]]></category>
+		<category><![CDATA[bgcolor]]></category>
+		<category><![CDATA[colspan]]></category>
+		<category><![CDATA[heading]]></category>
+		<category><![CDATA[html table]]></category>
+		<category><![CDATA[rowspan]]></category>
+		<category><![CDATA[tabel html]]></category>
+		<category><![CDATA[tabele html]]></category>
+		<category><![CDATA[table]]></category>
+		<category><![CDATA[table border]]></category>
+		<category><![CDATA[tag-ul]]></category>
+		<category><![CDATA[td]]></category>
+		<category><![CDATA[th]]></category>
+		<category><![CDATA[tr]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12566</guid>
+
+					<description><![CDATA[Table, TR, TD, TH – cum să inserezi un tabel HTML Dacă vrem să punem un tabel pe un website pe care îl construim, trebuie să-l definim în codul HTML, inserând tag-urile necesare pentru a crea structura tabelului. Putem modifica aspectul și planul tabelului folosind diferite atribute. Vom vorbi despre astfel de atribute și cum [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Table, TR, TD, TH – cum să inserezi un tabel HTML</span></h2>
+<div class="wp-block-image">
+<figure class="alignright"><img loading="lazy" class="wp-image-12569 alignright" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/pexels-photo-1569076-1024x683.jpeg" alt="Crearea unui tabel HTML perfect" width="378" height="252" srcset="/blog/wp-content/uploads/2021/03/pexels-photo-1569076-1024x683.jpeg 1024w, /blog/wp-content/uploads/2021/03/pexels-photo-1569076-300x200.jpeg 300w, /blog/wp-content/uploads/2021/03/pexels-photo-1569076-768x512.jpeg 768w, /blog/wp-content/uploads/2021/03/pexels-photo-1569076-1536x1025.jpeg 1536w, /blog/wp-content/uploads/2021/03/pexels-photo-1569076-1080x720.jpeg 1080w, /blog/wp-content/uploads/2021/03/pexels-photo-1569076.jpeg 1880w" sizes="(max-width: 378px) 100vw, 378px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Dacă vrem să punem un tabel pe un website pe care îl construim, trebuie să-l definim în codul HTML, inserând tag-urile necesare pentru a crea structura tabelului. Putem modifica aspectul și planul tabelului folosind diferite atribute. Vom vorbi despre astfel de atribute și cum poți crea tabele HTML în acest articol, oferind și exemple editabile.</span></p>
+<p><span style="font-weight: 400;">Folosind tabele HTML, putem organiza text, numere, poze și linkuri în rânduri, coloane și celule.</span></p>
+<p><span style="font-weight: 400;">Putem crea un tabel HTML folosind tag-ul </span><b>&lt;table&gt;</b><span style="font-weight: 400;">. Pentru a adăuga rânduri, trebuie să folosim tag-uri </span><b>&lt;tr&gt;</b><span style="font-weight: 400;">, în timp ce poți adăuga celule cu tag-ul </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> tag (numele acestor tag-uri sunt prescurtări pentru „table row” și „table data”). Conținutul celulelor (datele) trebuie pus între tag-uri </span><b>&lt;td&gt;</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Heading-urile sunt importante pentru a crea tabele cât mai lizibile. Le putem crea folosind tag-uri </span><b>&lt;th&gt;</b><span style="font-weight: 400;">, făcând conținutul celulelor să fie heading-uri în loc de date: textul din aceste celule va fi îngroșat (bold).</span></p>
+<p><iframe style="width: 100%;" title="HTML Table 1 (ro-RO)" src="https://codepen.io/codeberryschool/embed/mdOQQPK?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/mdOQQPK" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 1 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<p><span style="font-weight: 400;">În mod implicit, conținutul pus între tag-urile </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> e aliniat spre stânga, în timp ce heading-urile sunt centrate.</span><!-- /wp:paragraph --></p>
+<p><!-- wp:image {"align":"center","id":12215,"linkDestination":"custom"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" class="wp-image-12215" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Website-creator-1-1.png" alt="Învață să creezi tabele HTML la CodeBerry" srcset="/blog/wp-content/uploads/2020/09/Website-creator-1-1.png 1024w, /blog/wp-content/uploads/2020/09/Website-creator-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Website-creator-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Captația – titlul unui tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h2>
+<p><span style="font-weight: 400;">Poți crea o descriere sau un titlul pentru tabel folosind tag-ul </span><b>&lt;caption&gt;</b><span style="font-weight: 400;">—textul va apărea deasupra tabelului. Captațiile sau titlurile trebuie plasate după tag-ul </span><b>&lt;table&gt;</b><span style="font-weight: 400;">, dar înainte de primul tag </span><b>&lt;tr&gt;</b><span style="font-weight: 400;">.</span><!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 2 (ro-RO)" src="https://codepen.io/codeberryschool/embed/MWbzzba?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/MWbzzba" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 2 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Table Border – bordura unui tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h2>
+<p><span style="font-weight: 400;">Informația despre bordura tabelului e scrisă în cod ca atributul </span><b>border</b><span style="font-weight: 400;"> al tag-ului </span><b>&lt;table&gt;.</b><span style="font-weight: 400;"> Dacă vrem să vedem liniile bordurii, vom folosi </span><b>border =</b> <b>“1”</b><span style="font-weight: 400;">, </span><b>“2”</b><span style="font-weight: 400;"> etc. în funcție de cât de groasă vrem să fie bordura.</span><!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 3 (ro-RO)" src="https://codepen.io/codeberryschool/embed/Pobxxbx?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/Pobxxbx" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 3 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Cellpadding, Cellspacing – spațierea celulelor unui tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h2>
+<p><span style="font-weight: 400;">Structura unui tabel nu trebuie să fie mereu cea implicită. Putem să mărim spațiul dintre celule sau să spațiem conținutul și bordurile celulelor pentru a face tabelul mai ușor de citit folosind atributele </span><b>cellpadding </b><span style="font-weight: 400;">și </span><b>cellspacing</b><span style="font-weight: 400;">. Și acestea trebuie puse înăuntrul tag-ului &lt;table&gt;.</span><!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 4 (ro-RO)" src="https://codepen.io/codeberryschool/embed/mdOQQxQ?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/mdOQQxQ" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 4 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 4 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/mdOQQxQ?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/mdOQQxQ'\u003eHTML Table 4 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"mdOQQxQ"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<p><iframe style="width: 100%;" title="HTML Table 5 (ro-RO)" src="https://codepen.io/codeberryschool/embed/oNYQQdd?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/oNYQQdd" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 5 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:heading --><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 5 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/oNYQQdd?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/oNYQQdd'\u003eHTML Table 5 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"oNYQQdd"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<h2><span style="font-weight: 400;">Width și Height – scalarea tabelelor HTML</span><!-- /wp:heading --></h2>
+<p><!-- wp:paragraph --><span style="font-weight: 400;">Putem seta înălțimea și lățimea tabelelor folosind atributele </span><b>width</b><span style="font-weight: 400;"> și </span><b>height</b><span style="font-weight: 400;">. Valoarea poate fi definită în pixeli sau în procente relative la dimensiunea întregului ecran.</span><!-- /wp:paragraph --><iframe style="width: 100%;" title="HTML Table 6 (ro-RO)" src="https://codepen.io/codeberryschool/embed/rNWQQKy?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/rNWQQKy" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 6 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 6 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/rNWQQKy?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/rNWQQKy'\u003eHTML Table 6 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"rNWQQKy"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<p><iframe style="width: 100%;" title="HTML Table 7 (ro-RO)" src="https://codepen.io/codeberryschool/embed/mdOQQKa?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/mdOQQKa" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 7 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Colspan și Rowspan – îmbinarea rândurilor și coloanelor într-un tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h2>
+<p><span style="font-weight: 400;">Pentru a îmbina rânduri și coloane, trebuie să folosești atributele </span><b>colspan</b><span style="font-weight: 400;"> (pentru coloane) și </span><b>rowspan</b><span style="font-weight: 400;"> (pentru rânduri) în tag-urile </span><b>&lt;td&gt;</b><span style="font-weight: 400;">, înainte de conținutul propriu-zis al celulelor. Putem defini câte celule vrem să îmbinăm cu valoarea care vine după atribut.</span><!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 8 (ro-RO)" src="https://codepen.io/codeberryschool/embed/QWGJJVb?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/QWGJJVb" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 8 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 8 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/QWGJJVb?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/QWGJJVb'\u003eHTML Table 8 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"QWGJJVb"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<p><iframe style="width: 100%;" title="HTML Table 9 (ro-RO)" src="https://codepen.io/codeberryschool/embed/vYyQQVQ?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/vYyQQVQ" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 9 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 9 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/vYyQQVQ?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/vYyQQVQ'\u003eHTML Table 9 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"vYyQQVQ"} --></p>
+<p><!-- wp:image {"align":"center","id":12216,"linkDestination":"custom"} --></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" class="wp-image-12216" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață despre crearea tabelelor HTML la CodeBerry" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Setări de culoare ale tabelelor</span><!-- wp:heading {"level":3} --><!-- /wp:heading --></h2>
+<h3><span style="font-weight: 400;">Bordercolor – culoarea bordurii unui tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h3>
+<p>Culoarea liniilor de bordură poate fi setată folosind atributul <strong>bordercolor</strong>. Putem defini culoarea pe care o vrem cu nume de culori sau coduri de culori. Poți citi mai multe despre acestea în articolul nostru intitulat <a href="https://codeberryschool.com/blog/ro/coduri-de-culori-html/" target="_blank" rel="noopener external" data-wpel-link="external">Coduri de culori HTML</a>.<!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 10 (ro-RO)" src="https://codepen.io/codeberryschool/embed/abBQQQV?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/abBQQQV" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 10 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h3><span style="font-weight: 400;">Bgcolor – culoarea de fundal a unui tabel HTML</span><!-- wp:paragraph --><!-- /wp:heading --></h3>
+<p><span style="font-weight: 400;">Poți defini culoarea de fundal a celulelor sau a întregului tabel folosind atributul </span><b>bgcolor</b><span style="font-weight: 400;">. Și în acest caz folosim nume de culori sau coduri de culori pentru a defini culori.</span><!-- /wp:paragraph --></p>
+<p><iframe style="width: 100%;" title="HTML Table 11 (ro-RO)" src="https://codepen.io/codeberryschool/embed/KKNrrJM?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/KKNrrJM" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 11 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 11 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/KKNrrJM?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/KKNrrJM'\u003eHTML Table 11 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"KKNrrJM"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<p><iframe style="width: 100%;" title="HTML Table 12 (ro-RO)" src="https://codepen.io/codeberryschool/embed/GRNwwzL?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/GRNwwzL" target="_blank" rel="noopener external" data-wpel-link="external">HTML Table 12 (ro-RO)</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe><!-- wp:image {"align":"center","id":12217,"linkDestination":"custom"} --></p>
+<p><!-- wp:cp/codepen-gutenberg-embed-block {"penURL":"\u003ciframe height=\u0022265\u0022 style=\u0022width: 100%;\u0022 scrolling=\u0022no\u0022 title=\u0022HTML Table 12 (ro-RO)\u0022 src=\u0022https://codepen.io/codeberryschool/embed/GRNwwzL?height=265\u0026theme-id=dark\u0026default-tab=html,result\u0026editable=true\u0022 frameborder=\u0022no\u0022 loading=\u0022lazy\u0022 allowtransparency=\u0022true\u0022 allowfullscreen=\u0022true\u0022\u003e See the Pen \u003ca href='https://codepen.io/codeberryschool/pen/GRNwwzL'\u003eHTML Table 12 (ro-RO)\u003c/a\u003e by CodeBerry School (\u003ca href='https://codepen.io/codeberryschool'\u003e@codeberryschool\u003c/a\u003e) on \u003ca href='https://codepen.io/'\u003eCodePen\u003c/a\u003e. \u003c/iframe\u003e","penID":"GRNwwzL"} --><!-- /wp:cp/codepen-gutenberg-embed-block --></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" class="wp-image-12217" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Website-creator-2.png" alt="Învață cum să creezi un tabel HTML la CodeBerry" srcset="/blog/wp-content/uploads/2020/09/Website-creator-2.png 1024w, /blog/wp-content/uploads/2020/09/Website-creator-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Website-creator-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<p><span style="font-weight: 400;">Sperăm că ai găsit informațiile necesare pentru a putea să creezi tabele lizibile și spectaculoase. Vrem să te încurajăm să dai clic pe interfața de editat și să încerci tot felul de setări. Definește noi dimensiuni și culori, și schimbă tabelul după cum îți place. Încearcă să găsești codurile pentru culorile tale preferate. Astfel poți practica ce ai învățat—te va ajuta să-ți </span><span style="font-weight: 400;">întărești</span><span style="font-weight: 400;"> cunoștințele și te va ajuta să înveți cum să creezi tabele.</span><!-- wp:paragraph --><!-- /wp:paragraph --></p>
+<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a class="rank-math-link" href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.<!-- /wp:paragraph --><!-- /wp:paragraph --><!-- wp:paragraph --><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

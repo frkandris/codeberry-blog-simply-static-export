@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rasmus lerdorf | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/rasmus-lerdorf/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 12 May 2021 12:48:56 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</title>
+		<link>/blog/ro/programare-php-pentru-incepatori/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2020 18:19:33 +0000</pubDate>
+				<category><![CDATA[Limbaje de programare]]></category>
+		<category><![CDATA[accesibil începătorilor]]></category>
+		<category><![CDATA[aplicațiilor web]]></category>
+		<category><![CDATA[codul php]]></category>
+		<category><![CDATA[dezvoltator web]]></category>
+		<category><![CDATA[in php]]></category>
+		<category><![CDATA[informații despre]]></category>
+		<category><![CDATA[invata PHP]]></category>
+		<category><![CDATA[învățare]]></category>
+		<category><![CDATA[limbaj]]></category>
+		<category><![CDATA[limbaj de scripting]]></category>
+		<category><![CDATA[limbajul PHP]]></category>
+		<category><![CDATA[pagini web]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[programare]]></category>
+		<category><![CDATA[programare php]]></category>
+		<category><![CDATA[programare wordpress]]></category>
+		<category><![CDATA[programarea web]]></category>
+		<category><![CDATA[programator PHP]]></category>
+		<category><![CDATA[rasmus lerdorf]]></category>
+		<category><![CDATA[server side]]></category>
+		<category><![CDATA[site-uri]]></category>
+		<category><![CDATA[ușor de învățat]]></category>
+		<category><![CDATA[web server]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10179</guid>
+
+					<description><![CDATA[În seria „Ghidul începătorului” de la Școala de Programare CodeBerry, vom răspunde la întrebările pe care le poți avea despre limbajul de programare pe care trebuie să-l alegi, cât vei câștiga, ce poți face în calitate de programator și de unde să începi. Ți-ar plăcea să înveți programare online? Vino și încearcă primele 25 de lecții gratuit la Școala [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ – Programarea în C++ pentru începători</a></li>
+<li><strong>Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# &#8211; Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+</ul>
+<h2><span style="font-weight: 400;">Utilizarea limbajului de programare PHP</span></h2>
+<p><span style="font-weight: 400;">Dacă vrei să devii dezvoltator web, cu siguranță ai auzit de PHP.</span> Limbajul de programare PHP <span style="font-weight: 400;">este cel mai folositor de studiat la începutul carierei tale în dezvoltarea web, deoarece este relativ ușor de învățat și îți oferă acces la o mulțime de joburi grozave încă de la bun început. De asemenea, există o șansă mare ca primele tale proiecte și activități part-time să implice lucrul cu acest limbaj de scripting. </span></p>
+<p><span style="font-weight: 400;">Unul dintre motivele principale pentru care există atât de multe oportunități pentru dezvoltatorii PHP este faptul că WordPress, cel mai popular instrument pentru construirea site-urilor web și aplicațiilor web, rulează cu PHP. De fapt, mai mult de 60 de milioane de site-uri de pe internet folosesc WordPress, precum și 30% dintre cele din top 10 de milioane. </span><span style="font-weight: 400;">Chiar dacă ar fi să înveți limbajul PHP pentru unicul scop de a lucra cu </span><a href="https://wordpress.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">WordPress</span></a><span style="font-weight: 400;">, tot ai sfârși prin a obține o incredibilă întoarcere a investiției. </span></p>
+<p><span style="font-weight: 400;">În calitate de programator PHP, vei putea să dezvolți și să vinzi teme și plugin-uri pentru WordPress, care e o bună modalitate de a face bani când ești de-abia la început.</span> <span style="font-weight: 400;">Cu toate acestea, PHP-ul merge mai departe de WordPress; acesta este folosit de un număr mare de afaceri online. În 2018, 83,5% dintre site-uri foloseau PHP ca limbaj de scripting server-side (de partea serverului), inclusiv giganții din tehnologie precum Facebook, Tumblr și Slack. Cu alte cuvinte, cunoașterea PHP-ului chiar îți poate deschide o mulțime de uși în calitate de dezvoltator web.</span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12338 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a> </p>
+<h2><span style="font-weight: 400;">Ce este limbajul de programare PHP?</span></h2>
+<p><span style="font-weight: 400;">Acest limbaj de scripting server-side (de partea serverului) este de obicei folosit în back-end pentru sarcini precum gestionarea datelor pe servere.</span> <span style="font-weight: 400;">PHP-ul a fost creat la început de Rasmus Lerdorf în 1994, și inițial acronimul venea de la „Personal Acasă Page”. Acum acronimul provine de la „Hypertext Preprocessor”.</span></p>
+<p><span style="font-weight: 400;">PHP-ul poate fi încorporat în codul HTML și a fost creat pentru a gestiona pagina web personală a lui Lerdoft din acea vreme. PHP-ul nu a fost niciodată proiectat sau nici măcar nu a intenționat să fie un limbaj de programare. În schimb, a crescut în mod organic. Aceasta a dus la multe inconsistențe în limbaj. </span></p>
+<p><span style="font-weight: 400;">De atunci, s-au făcut multe eforturi de către comunitate pentru a realiza un PHP mai curat și mai consistent — și chiar au avut succes.</span> <span style="font-weight: 400;">Pe lângă faptul că are o comunitate largă și aduce o mulțime de oportunități de joburi, PHP-ul este ușor de învățat și nu necesită pornirea de la zero. Având atâtea teme, plugin-uri și site-uri pentru WordPress disponibile, poți doar să iei ceva cod preexistent și să-l editezi pentru a crea ceva nou.</span></p>
+<p><span style="font-weight: 400;">De asemenea, PHP-ul este extrem de rapid de configurat pe calculatorul tău și nu-ți va lua zile întregi ca în cazul altor limbaje de programare. De parcă nu ar fi fost deja suficient de ușor, majoritatea site-urilor de găzduire web deja au PHP instalat pe web server, făcându-ți munca floare la ureche. Dacă întâmpini vreodată probleme pe viitor, există o comunitate mare și activă pe internet și o mulțime de documentație online disponibilă pentru a te ajuta.</span></p>
+<p><div id="attachment_10182" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10182" loading="lazy" class="size-full wp-image-10182" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/php-2.jpg" alt="Limbajul de programare PHP din spatele site-urilor WordPress este una dintre cele mai căutate abilități în zilele noastre" width="1024" height="683" srcset="/blog/wp-content/uploads/2020/10/php-2.jpg 1024w, /blog/wp-content/uploads/2020/10/php-2-300x200.jpg 300w, /blog/wp-content/uploads/2020/10/php-2-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10182" class="wp-caption-text">Limbajul de programare PHP din spatele site-urilor WordPress este una dintre cele mai căutate abilități în zilele noastre</p></div></p>
+<h3><span style="font-weight: 400;">Cum este să programezi în PHP? </span></h3>
+<p><span style="font-weight: 400;">Iată cum arată PHP-ul folosind clasicul exemplu cu „Hello World”: </span>  </p>
+<pre class="wp-block-code"><code class="language-php" lang="php">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;PHP Test&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;?php echo '&lt;p&gt;Hello World&lt;/p&gt;'; ?&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</code></pre>
+<p><span style="font-weight: 400;">După cum poți vedea, codul PHP este încorporat într-un document HTML. PHP-ul nu trebuie să fie cuprins în HTML, dar se întâmplă ca acestea să funcționeze bine împreună. </span> <span style="font-weight: 400;">Din moment ce nu este necesar să încorporăm PHP în HTML, am putea scrie și declarații precum: </span></p>
+<pre class="wp-block-code"><code class="language-php" lang="php">&lt;?='Hello world'; ?&gt;</code></pre>
+<h2><span style="font-weight: 400;">Cât câștigă un programator PHP?</span></h2>
+<p><span style="font-weight: 400;">Pe baza informațiilor de pe site-ul </span><a href="https://hu.indeed.com/salaries/php-fejleszt%C5%91-Salaries" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">indeed.com</span></a><span style="font-weight: 400;">, dezvoltatorii PHP din Statele Unite câștigă în medie 87,686 de dolari pe an (390,413 de lei/an), ceea ce înseamnă 7,307 (32,534 de lei/lună) brut, dacă au muncit în poziția curentă mai puțin de un an. Desigur că media include multe salarii din zone mai scumpe, precum San Francisco și New York, unde salariile sunt mari din cauza costului traiului. </span> <span style="font-weight: 400;">În România, salariile programatorilor PHP sunt în prezent următoarele:</span></p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator PHP junior</span></td>
+<td><span style="font-weight: 400;">3029-4411 RON net*</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator PHP middle</span></td>
+<td><span style="font-weight: 400;">6117-7225 RON net*</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator PHP senior</span></td>
+<td><span style="font-weight: 400;">9231-9345 RON net*</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">*</span><a href="https://cariera.ejobs.ro/salarii-it/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">sursa</span></a>  </p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12216" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață programare web la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Cum pot învăța PHP?</span></h2>
+<p><span style="font-weight: 400;">Limbajul PHP este recunoscut ca fiind ușor de învățat și accesibil începătorilor. Din acest motiv, mulți programatori aleg să înceapă cu PHP imediat după învățarea limbajelor precum HTML, CSS și JavaScript. În acest fel, pot începe cu programarea web back-end, în timp ce fac deja bani și obțin experiență de dezvoltare front-end.</span></p>
+<p><span style="font-weight: 400;">Dacă ți-ai dori să înveți PHP, iată câțiva pași pe care-i poți urma:</span> p<span style="font-weight: 400;">rimul pas este să te înscrii la un curs online bun sau la un bootcamp de programare care te va învăța PHP. Deoarece este destul de ușor de citit și înțeles spre deosebire de alte limbaje de programare, o persoană poate învăța cu ușurință PHP, fără a avea o educație formală.</span></p>
+<p><span style="font-weight: 400;">Al doilea pas pentru învățarea PHP-ului este găsirea unor resurse tipărite și digitale de calitate, pe care să le poți studia în timpul liber. Există o mulțime de cărți și manuale disponibile, care te pot învăța cum să programezi în PHP, precum și clipuri video și </span><a href="https://www.youtube.com/watch?v=JaTO46oiCEM&amp;list=PLRlcs-KgbzEdWyMgQ-vPiS70CaYC5ssBa" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">tutoriale online</span></a><span style="font-weight: 400;">. Deoarece PHP-ul există de atât de mult timp, ai putea chiar să găsești niște cărți bune de programare PHP și la librăriile de lângă tine.</span></p>
+<p><span style="font-weight: 400;">Al treilea pas este să cauți comunități online, forumuri și panouri de mesaje, de unde poți obține ajutor de la programatori PHP mai experimentați. Continuă să exersezi și să întrebi comunitatea dacă te-ai încurcat și nu poți găsi o soluție de unul singur. Atât Slack, cât și </span><a href="https://www.reddit.com/r/PHPhelp/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Reddit</span></a><span style="font-weight: 400;"> au comunități unde programatorii PHP discută activ pe aceste subiecte și răspund la întrebări.</span>  </p>
+<h3><span style="font-weight: 400;">De cât timp ai nevoie să înveți limbajul PHP? </span></h3>
+<p><span style="font-weight: 400;">Timpul de care ai nevoie pentru a învăța un limbaj de programare depinde de metodele pe care le folosești, de retenția învățării și de cât de multe ore aloci studiului pe săptămână. De asemenea, depinde de cum definești tu „a ști să programezi”. </span></p>
+<p><span style="font-weight: 400;">Cu toate acestea, datorită simplității sale incredibile, te poți aștepta să înveți noțiunile esențiale ale PHP-ului într-un timp surprinzător de scurt. </span> <span style="font-weight: 400;">Chiar dacă nu ai nicio experiență de programare anterioară, probabil că te poți aștepta să petreci de la câteva zile la vreo două săptămâni pentru a avea cunoștințe care să-ți permită lucrul în PHP. Învățarea funcțiilor suplimentare și familiarizarea suficientă cu PHP pentru a deveni un dezvoltator profesional îți va lua în jur de 3 luni. </span>  </p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata programare online la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Oare mi se potrivește limbajul de programare PHP? </span></h2>
+<p><span style="font-weight: 400;">Pentru a stabili dacă un limbaj de programare ți se potrivește, mai întâi trebuie să-ți dai seama dacă acesta corespunde cu țelurile tale pe termen lung. </span> <span style="font-weight: 400;">Învățarea PHP-ul reprezintă un punct de pornire grozav pentru începători. Îți permite să te implici în dezvoltarea back-end și să începi să obții un profit de pe urma investiției în cel mai scurt timp. </span></p>
+<p><span style="font-weight: 400;">Cu toate acestea, în prezent PHP-ul se limitează în principal la WordPress și, pentru a avea șanse maxime de angajare, recomandăm începătorilor să se apuce de limbaje mai populare precum HTML, CSS și JavaScript. Învățarea acestor trei limbaje îți vor permite să devii un programator mai versatil și mai documentat.</span> <span style="font-weight: 400;">Pentru a descoperi dacă PHP-ul ți se potrivește, te rugăm să citești articolul </span><a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Ce limbaj de programare ți se potrivește?</span></a><span style="font-weight: 400;">”.</span><span style="font-weight: 400;"> Acolo vei descoperi o varietate de informații despre alte limbaje de programare și ce poți face cu ele.</span></p>
+<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi. </p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ – Programarea în C++ pentru începători</a></li>
+<li><strong>Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# &#8211; Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+</ul>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

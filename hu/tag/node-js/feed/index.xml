@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Node.js | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/node-js/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 13 May 2021 17:13:52 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Programozási nyelv-e a JavaScript? &#8211; 10 bekezdés arról, hogy mire jó a Js</title>
+		<link>/blog/hu/programozasi-nyelv-e-a-javascript/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 17:13:52 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[backend]]></category>
+		<category><![CDATA[compiler]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[interpreter]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[keretrendszer]]></category>
+		<category><![CDATA[kliensoldali programozás]]></category>
+		<category><![CDATA[könyvtár]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[programozási nyelv]]></category>
+		<category><![CDATA[scripting]]></category>
+		<category><![CDATA[szkriptnyelv]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13125</guid>
+
+					<description><![CDATA[Rövid válasz a kérdésre: programozási nyelv-e a JavaScript? Igen, a JavaScript egy széleskörűen felhasználható, kimagaslóan népszerű programozási nyelv, azon belül pedig szkriptnyelv, ami a programozási nyelvek egyik típusát jelöli. A cikkben összefoglaljuk, mit jelent pontosan a programozási nyelv és a szkriptnyelv fogalma és miben különböznek. Ezután a JavaScripttel foglalkozunk, mire jó, miért ennyire népszerű, miért [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Rövid válasz a kérdésre: programozási nyelv-e a JavaScript?</span></h2>
+<p><span style="font-weight: 400;">Igen, a JavaScript egy széleskörűen felhasználható, kimagaslóan népszerű programozási nyelv, azon belül pedig szkriptnyelv, ami a programozási nyelvek egyik típusát jelöli. A cikkben összefoglaljuk, mit jelent pontosan a programozási nyelv és a szkriptnyelv fogalma és miben különböznek. Ezután a JavaScripttel foglalkozunk, mire jó, miért ennyire népszerű, miért érdemes megtanulni?</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12168 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/2.png 1024w, /blog/wp-content/uploads/2020/06/2-300x100.png 300w, /blog/wp-content/uploads/2020/06/2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Programozási nyelvek vs szkriptnyelvek </span></h2>
+<p><span style="font-weight: 400;">A szkriptnyelvek (scripting languages) a programozási nyelveken (programming languages) belül egy speciális kategóriát jelölnek. </span></p>
+<p><span style="font-weight: 400;">Amiket a programozási nyelvekről elmondhatunk, – hogy a számítógépekkel való kommunikációra létrehozott nyelvek, amiken keresztül utasításokat fogalmazhatunk meg és feladatok elvégzésére vehetjük rá a gépeket, – ezek a szkriptnyelvekre is igazak. </span></p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><span style="font-weight: 400;">Programozási nyelvek</span></td>
+<td><span style="font-weight: 400;">Szkriptnyelvek </span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Bemenet</span></td>
+<td><span style="font-weight: 400;">Az egész kódot egyben olvassa be </span></td>
+<td><span style="font-weight: 400;">Egyszerre csak egy sort olvas be</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Kimenet</span></td>
+<td><span style="font-weight: 400;">A bemenet és a kimenet között generál egy közbeeső kódot is, (object code)</span></td>
+<td><span style="font-weight: 400;">A bemenet és a kimenet közt nincs közbülső állomás </span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Munkamechanizmus</span></td>
+<td><span style="font-weight: 400;">A fordítás a végrehajtás előtt történik</span></td>
+<td><span style="font-weight: 400;">Egyszerre zajlik a fordítás és a végrehajtás </span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Sebesség</span></td>
+<td><span style="font-weight: 400;">Összehasonlítva: gyorsabb</span></td>
+<td><span style="font-weight: 400;">lassabb</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Memória</span></td>
+<td><span style="font-weight: 400;">Nagyobb memóriaigény az object code miatt</span></td>
+<td><span style="font-weight: 400;">Kisebb memóriaigény, mert a bemenet és a kimenet közt nem generál object code-ot</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Hibák</span></td>
+<td><span style="font-weight: 400;">A fordítás után jeleníti meg a hibákat, mindet egyszerre</span></td>
+<td><span style="font-weight: 400;">Minden hibát egyesével, sorról sorra jelenít meg</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Hibák észlelése</span></td>
+<td><span style="font-weight: 400;">Összehasonlítva: nehezebb</span></td>
+<td><span style="font-weight: 400;"> könnyebb</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Példák</span></td>
+<td><span style="font-weight: 400;">C, C++, C#, Go, Java, Kotlin, Rust, Swift, Objective-C</span></td>
+<td><span style="font-weight: 400;">JavaScript, PHP, Perl, Ruby, Python</span></td>
+</tr>
+</tbody>
+</table>
+<h3></h3>
+<h3><span style="font-weight: 400;">Programozási nyelvek </span></h3>
+<p><span style="font-weight: 400;">A programozási nyelvek a számítógépekkel való kommunikációra létrehozott nyelvek, amiken keresztül utasításokat adunk a számítógépnek, az pedig ezek segítségével pedig végrehajt valamilyen specifikus feladatot. </span></p>
+<p><span style="font-weight: 400;">Ezeket a nyelveket a gépek még nem közvetlenül értik meg, ugyanis a gépek nyelve az 1-esekből és 0-kból álló bináris kód. Az emberi nyelvekhez közel álló, könnyen írható és olvasható programozási nyelveket gépi kódra szükséges fordítani. Ezt a fordítást pedig speciális fordítók, úgynevezett compilerek végzik. </span></p>
+<p>&nbsp;</p>
+<blockquote>
+<p><span style="font-weight: 400;">Népszerű programozási nyelvek például: C, C++, C#, Java, Kotlin, Swift.</span></p>
+</blockquote>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Szkriptnyelvek</span></h3>
+<p><span style="font-weight: 400;">Ha definíciót keresünk, akkor az elsőre nehezen érthető “a szkriptnyelvek olyan programozási nyelvek, amelyek fordítása interpreter segítségével történik futásidőben, nem pedig compiler segítségével a futtatás előtt” definíciót adhatjuk. Erről részletesebben a “compiler vs interpreter” bekezdésben olvashatsz. </span></p>
+<p><span style="font-weight: 400;">Ha gyakorlati módon szeretnénk megközelíteni, akkor a szkriptnyelvek olyan programozási nyelvek, amiket arra terveztek, hogy könnyen írható, módosítható, átlátható legyen a kód. Még egy lépéssel közelebb állnak az emberi nyelvekhez, mint a többi programozási nyelv, könnyebb a kód értelmezése, így a nyelv tanulása is.</span></p>
+<p><span style="font-weight: 400;">Korlátozottabb a felhasználási körük, mint a programozási nyelveknek, ugyanis vannak feladatok, amire a szkriptnyelvek nem alkalmasak, mert csak bizonyos platformokon használhatók, (bár ezeknek a platformoknak a köre egyre bővül), és jóval lassabban futnak, mint a többi programnyelv. A “lassúság” oka a fordítás módjában keresendő, amiről a “compiler vs interpreter” bekezdésben olvashatsz részletesen. </span></p>
+<p>&nbsp;</p>
+<blockquote>
+<p><span style="font-weight: 400;">Népszerű szkriptnyelvek például: JavaScript, PHP, Perl, Ruby, Python.</span></p>
+</blockquote>
+<p>&nbsp;</p>
+<p><div style="width: 760px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1561736778-92e52a7769ef?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" alt="Programozási nyelv-e a JavaScript" width="750" height="500" /><p class="wp-caption-text">Forrás: <a href="https://unsplash.com/photos/0qvBNep1Y04" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">Interpreter vs compiler</span></h3>
+<p><span style="font-weight: 400;">A compilerek és az interpreterek egyaránt arra szolgálnak, hogy értelmezhetővé és végrehajthatóvá tegyék a programot annak az eszköznek, amin lefut. A fő különbség abban van, hogy a compiler egyben olvassa be és fordítja gépi kódra az egész programot, míg az interpreter soronként halad, egyesével olvassa be és hajtja végre az utasításokat. </span></p>
+<h4><span style="font-weight: 400;">A compilerek és az interpreterek előnyei és hátrányai</span></h4>
+<p><span style="font-weight: 400;">A compiler általi fordítás egyszer vesz igénybe hosszú időt, utána viszont a lefordított kód villámgyorsan le tud futni. Játékoknál, 3D animációknál vagy gépi látásnál, (ami a környezet kamerák általi érzékelése és értelmezése) például kritikus pont a futási sebesség, ezért ezeket a programokat általában compileres nyelveken írják. Emellett ha a fordításnál beállítjuk, a kód több eszközre (pl. mobiltelefonokra, okos eszközökre) is átvihető. </span></p>
+<p><span style="font-weight: 400;">Interpreter esetén soronként halad a fordítás: az interpreter folyamatosan beolvassa-végrehajtja az egyes utasításokat. Ez a compileres fordításhoz képest jóval lassabb, viszont nagy előnye, hogy a kód hibái “futásidőben” (runtime) derülnek ki: ha valamilyen hibát talál az interpreter, a futtatás azonnal leáll, és máris lehet a hibát keresni és javítani. </span></p>
+<p><span style="font-weight: 400;">Compiler esetében hosszú fordítási idő után derül csak ki, hogy ha valahol hiba van, majd a javítás után újra következik a hosszú várakozás, míg a javított programot megint lefordítja a compiler. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2></h2>
+<h2><span style="font-weight: 400;">Mire jó a JavaScript? </span></h2>
+<p><span style="font-weight: 400;">A JavaScript egy magas szintű programozási nyelv, a weboldalak létrehozásának és működtetésének alapvető technológiája a HTML és a CSS mellett. Ma a weben megtalálható honlapok kb 97%-ának kliensoldali működéséért felel. Minden ma használatos böngészőnek van JavaScript beolvasására alkalmas motorja, ami lefuttatja a JavaScript kódot a felhasználó eszközén. </span></p>
+<p><span style="font-weight: 400;">A weboldalak statikus szerkezetét a HTML adja, a megjelenést a CSS határozza meg, a JavaScript pedig eléri, hogy a felhasználó kapcsolatba tudjon lépni az oldallal. </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Milyen nyelv a JavaScript? </span></h3>
+<p><span style="font-weight: 400;">Sokféleképp lehet csoportosítani a programozási nyelveket, több különböző paradigmát alapul véve lehet rendszerezni őket. Ezek gyakran nem zárják ki egymást, mint ahogy a mindennapi életben is tekinthetünk több különböző szempontból ugyanarra a dologra, úgy a programozási nyelvek is egyszerre több paradigmába tartozhatnak. </span></p>
+<p><span style="font-weight: 400;">Így a JavaScript is támogatja például az </span><a href="https://hu.wikipedia.org/wiki/Esem%C3%A9nyvez%C3%A9relt_programoz%C3%A1s" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">eseményvezérelt</span></a><span style="font-weight: 400;">, </span><a href="https://hu.wikipedia.org/wiki/Esem%C3%A9nyvez%C3%A9relt_programoz%C3%A1s" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">funkcionális</span></a><span style="font-weight: 400;">, </span><a href="https://hu.wikipedia.org/wiki/Programoz%C3%A1si_paradigma" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">imperatív</span></a><span style="font-weight: 400;"> programozási stílusokat, de lehet </span><a href="https://hu.wikipedia.org/wiki/Objektumorient%C3%A1lt_programoz%C3%A1s" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">objektumorientált</span></a><span style="font-weight: 400;"> szemléletben is programozni benne. </span></p>
+<p><span style="font-weight: 400;">Olvass tovább, ha érdekelnek a JavaScript adattípusai, változói, ciklusai és a többi alapvető programozási fogalom: </span><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">A JavaScript programozás alapjai – JavaScript programozás kezdőknek.</span></a><span style="font-weight: 400;"> </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">JavaScript keretrendszerek és könyvtárak</span></h3>
+<p><span style="font-weight: 400;">Mind a keretrendszerek, mind a könyvtárak azt hivatottak segíteni, hogy gyorsabban és hatékonyabban tudjunk megoldani bizonyos programozási feladatokat, előre kialakított struktúrák, vagy előre megírt kódok segítségével. </span></p>
+<p><span style="font-weight: 400;">Elméletileg a “keretrendszer” és a “függvénykönyvtár” kategória jól megkülönböztethetők, mert: “</span><i><span style="font-weight: 400;">Ha a te kódod írod bele, akkor keretrendszer, ha az ő kódját húzod be a sajátodba akkor könyvtár.” </span></i><span style="font-weight: 400;">(</span><a href="https://www.training360.com/hirek/2020-02-keretrendszer-vagy-konyvtar" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">forrás</span></a><span style="font-weight: 400;">) De a gyakorlatban azt látjuk, hogy nem ilyen következetes sem a megnevezés, sem a használat.</span></p>
+<p><span style="font-weight: 400;"> 2021-ben a három </span><a href="https://codeberryschool.com/blog/hu/frontend-fejleszto-2021/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">legnépszerűbb JavaScript keretrendszer és könyvtár</span></a><span style="font-weight: 400;"> a React, az Angular és a Vue. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/react-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12234 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/01/React-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/01/React-2.png 1024w, /blog/wp-content/uploads/2020/01/React-2-300x100.png 300w, /blog/wp-content/uploads/2020/01/React-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">JavaScript a klinesoldali programozáson túl </span></h3>
+<p><span style="font-weight: 400;">Eredetileg a JavaScript a web – azon belül is a kliensoldali programozás, más néven frontend – nyelve volt. Mára viszont bővült a JavaScript felhasználási köre és számos új területen jelent meg. </span></p>
+<p><span style="font-weight: 400;">A Node.js futtatási környezet lehetővé teszi, hogy a JavaScriptet szerveroldali programozásban, más néven backend programozásban is használják.</span></p>
+<p><span style="font-weight: 400;">Ezen kívül a JavaScript megjelent már a mobilappok fejlesztésében, asztali alkalmazások készítésénél, vagy akár a mesterséges intelligencia világában. Jól mutatja a kiszélesedett lehetőségek körét, hogy a JavaScript már az IoT (Internet of Things) területén is megjelent, vagyis az internet segítségével összekötött, egymásnak adatot küldő, egymást vezérlő eszközök programozását is lehetővé teszi. </span></p>
+<p><span style="font-weight: 400;">Nagy utat tett meg a kliensoldali webfejlesztés óta, és továbbra is folyamatosan bővülni látszanak a lehetőségek, köszönhetően az újabb és újabb keretrendszerek megjelenésének. </span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Miért ennyire népszerű a JavaScript programozás? </span></h2>
+<p><span style="font-weight: 400;">Korábban említettük, hogy a JavaScript évek óta kirobbanthatatlan a legnépszerűbb programozás nyelvek mezőnyéből, a </span><a href="https://insights.stackoverflow.com/survey/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Stack Overflow felmérésben</span></a><span style="font-weight: 400;"> 1. helyen végzett. </span></p>
+<p><span style="font-weight: 400;">Ennek a kiemelkedő népszerűségnek az egyik oka a fent leírt változatos felhasználás, vagyis, hogy frontenden és backenden egyaránt lehet JavaScriptben programozni, ezen kívül pedig asztali szoftvereket, AI projekteket, mobilalkalmazásokat stb.-t lehet fejleszteni rajta. Ennek kapcsán meg is jelent a “</span><i><span style="font-weight: 400;">JavaScript everywhere</span></i><span style="font-weight: 400;">”, azaz a “</span><i><span style="font-weight: 400;">JavaScript mindenhol</span></i><span style="font-weight: 400;">” elve.</span></p>
+<p><span style="font-weight: 400;">Hatalmas programozó közösség áll a nyelv mögött, ami nagyban megkönnyíti a tanulást és a profi fejlesztővé válást ebben a nyelvben. Az IT iparág legnevesebb képviselői is nagyban támaszkodnak a JavaScriptre, használja a Google, Facebook, Microsoft, Paypal, Netflix és számtalan más óriáscég. </span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Érdemes-e megtanulni a JavaScriptet? </span></h2>
+<p><span style="font-weight: 400;">A JavaScript egyszerűen tanulható, hatékony technológia, kezdő programozók számára is ideális választás. Rövid idő alatt szerezhetünk sikerélményeket benne, első weboldalaink életre keltése például néhány hét alatt megtanulható, de további szorgalmas tanulással nem túl hosszú idő alatt eljuthatunk akár egy webfejlesztői állás megszerzéséig is. </span></p>
+<p><span style="font-weight: 400;">Ahogy korábban írtuk, a JavaScriptet az IT szinte minden területén alkalmazzák, így JavaScriptben szerzett erős programozói tudással nagyon könnyen lehet állást találni. </span></p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" data-wpel-link="external" target="_blank" rel="external">Android programozás</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" data-wpel-link="external" target="_blank" rel="external">Programozási nyelv-e a CSS?</a></li>
+<li><strong>Programozási nyelv-e a JavaScript?</strong></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Orvosból egészségügyi szoftverfejlesztő — Jankovics Péter diákunk története</title>
+		<link>/blog/hu/egeszsegugyi-szoftverfejleszto-orvos/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 20 Jul 2018 10:12:12 +0000</pubDate>
+				<category><![CDATA[CodeBerry Programozóiskola – Diákjaink Történetei]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[angular könyv]]></category>
+		<category><![CDATA[artvisual]]></category>
+		<category><![CDATA[backend PHP]]></category>
+		<category><![CDATA[c# gyakornok]]></category>
+		<category><![CDATA[c# programozó állás]]></category>
+		<category><![CDATA[c# visual studio code]]></category>
+		<category><![CDATA[c#programozó fizetés]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[egészségügyi szoftverfejlesztő]]></category>
+		<category><![CDATA[egészségügyi tanácsadó]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[jankovics péter]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[orvos]]></category>
+		<category><![CDATA[orvos fizetés]]></category>
+		<category><![CDATA[php programozás tananyag]]></category>
+		<category><![CDATA[php programozó]]></category>
+		<category><![CDATA[programozás home office]]></category>
+		<category><![CDATA[programozó állás]]></category>
+		<category><![CDATA[programozó fizetések]]></category>
+		<category><![CDATA[React]]></category>
+		<category><![CDATA[Symphony]]></category>
+		<category><![CDATA[szoftver fejlesztő]]></category>
+		<category><![CDATA[szoftverfejlesztő]]></category>
+		<category><![CDATA[szoftverfejlesztő fizetés]]></category>
+		<category><![CDATA[szoftverfejlesztő tananyag]]></category>
+		<category><![CDATA[visual studio programozás]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=5948</guid>
+
+					<description><![CDATA[Jankovics Péter (barátainak csak Ork) mindig valami olyat akart csinálni, ami jó másoknak. Így lett orvos, majd néhány év praktizálás és Németországba való költözést követően kezdett el programozást tanulni. Azóta nincs megállás. Azt állítja: az itt megtalált kreatív szabadság és az erre való készség összehasonlíthatatlan más szakmákkal. Itt lakom: Berlin, Németország Itt dolgozom: COPRA GmbH Ezt használom: C#, .NET, Visual Studio, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Jankovics Péter</strong><strong class="markup--strong markup--p-strong"> </strong>(barátainak csak Ork)<strong class="markup--strong markup--p-strong"> </strong>mindig valami olyat akart csinálni, ami jó másoknak. Így lett orvos, majd néhány év praktizálás és Németországba való költözést követően kezdett el programozást tanulni. Azóta nincs megállás. Azt állítja: az itt megtalált kreatív szabadság és az erre való készség összehasonlíthatatlan más szakmákkal.</p>
+<blockquote id="41a1" class="graf graf--blockquote graf-after--figure">
+<p><strong class="markup--strong markup--blockquote-strong">Itt lakom: </strong>Berlin, Németország<br />
+<strong class="markup--strong markup--blockquote-strong">Itt dolgozom:</strong> COPRA GmbH<br />
+<strong class="markup--strong markup--blockquote-strong">Ezt használom: </strong><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">C#</a>, <a href="https://hu.wikipedia.org/wiki/.NET_keretrendszer" target="_blank" rel="noopener external" data-wpel-link="external">.NET</a>, <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noopener external" data-wpel-link="external">Visual Studio</a>, Windows</p>
+</blockquote>
+<h4 id="73d4" class="graf graf--p graf-after--p">Ha megkérdezik, hogy mi a foglalkozásod, mit válaszolsz?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">“Lázadó vagyok!”. Mindig is lázadó voltam, nem a konvencionális utakat kerestem, így már nem nagyon szokták megkérdezni. Alkotok, minden nap újat tanulok, vagy építek. A nagymamámnak meg egyszerűen azt mondanám, hogy számítógéppel dolgozom.</p>
+<p class="graf graf--p graf-after--p">Egyébként hivatalosan egészségügyi szoftverfejlesztő és tanácsadó pozícióban dolgozom egy egészségügyi dokumentációs szoftvereket fejlesztő cégnél.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4 id="c8d9" class="graf graf--p graf-after--p">Mivel foglalkoztál korábban, mielőtt elkezdtél kódolni tanulni?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Orvosnak tanultam, Magyarországon kezdtem dolgozni orvosként, majd a barátnőmmel egy év után Németországba költöztünk. Itt további 4 évig dolgoztam orvosként.</p>
+<p class="graf graf--p graf-after--p">A családom, barátaim mai napig elsősorban egészségüggyel kapcsolatos kérdésekkel fordulnak hozzám, ezt láthatóan sosem fogom magam mögött hagyni, de ez nem baj, sőt, örülök, ha segíthetek.</p>
+<p><div style="width: 1890px" class="wp-caption alignnone"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/3129/laptop-notebook-grass-meadow.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Egészségügyi szoftverfejlesztőként kreatív és izgalmas karriert építhetsz" width="1880" height="1253" /><p class="wp-caption-text">Egészségügyi szoftverfejlesztőként kreatív és izgalmas karriert építhetsz</p></div></p>
+<h4 id="2056" class="graf graf--p graf-after--p">Miért döntöttél úgy, hogy elkezdesz webfejlesztést tanulni?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Mindig is volt bennem egy érdeklődés, egyfajta vonzalom a programozás iránt, szóval “kocka” vagyok valahol legbelül, de az orvoslás mellett ezt sokáig nem tudtam kihasználni. Az utolsó két évben lett annyi szabadidőm, hogy végre el tudjak kezdeni foglalkozni vele. Hobbikeresés volt, majd a hobbiból szenvedély lett, abból szerelem, ez pedig azóta is tart.</p>
+<p class="graf graf--p graf-after--p">Az orvosi szakmában minden szabályozva van (mert nagyon sok esetben a felelősséget a felettesek viselik), egy orvosnak gyakorlatilag nagyon kicsi a mozgástere a szigorúan szabályozott protokollok között. Rájöttem, hogy a programozás olyasvalami, amit mindig is kerestem, imádom csinálni.</p>
+<p class="graf graf--p graf-after--p">Ez a fajta szabadság összehasonlíthatatlan bármi mással. Konkrétan világokat tudok megmozgatni. Gondolj bele: a semmiből létrehozol egy működő valamit. Egy addig nem létező, gondolati konstrukciót. Teremtesz! Ez egy csoda! Egy szó, mint száz, megtaláltam magam, boldog vagyok!</p>
+<h4 id="a489" class="graf graf--p graf-after--p">Hogyan tanultál meg programozni? Milyen tanfolyamokat, könyveket, blogokat, könyveket stb. használtál?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Két éve találtam egy internetes programozó iskolát, ahol végigcsináltam az összes<a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" data-wpel-link="external" target="_blank" rel="external"> JavaScript, HTML és CSS</a>-hez kapcsolódó anyagot, adatbázis-kezelésbe és néhány más témakörbe is belekezdtem. Egy másik honlapon aztán elvégeztem egy teljes PHP kurzust is.</p>
+<p class="graf graf--p graf-after--p">Ennek a tudásnak köszönhetően sikerült szert tennem egy gyakornoki munkalehetőségre. Nekem a könyv, az írott anyag nem bizonyult annyira hasznosnak, én videókból és a hozzájuk kapcsolódó gyakorlatokból tudok jól tanulni. A programozásnál magát a gondolkodásmódot kellett elsajátítanom.</p>
+<h4 id="dba4" class="graf graf--p graf-after--p">Milyen volt a CodeBerryben tanulni? Mit adott neked a CodeBerry?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Amikor végignéztem a tananyagot, kiderült, hogy már elsajátítottam a CodeBerry által kínált anyag nagy részét. Azt a tanácsot kaptam, hogy ne fizessek elő, mert bár biztosan tudna még újat mondani, de a kurzus a programozás kezdő lépéseire fókuszál, én pedig azokon már túl voltam.</p>
+<p class="graf graf--p graf-after--p">Roppant szimpatikus volt ez a korrektség: végre egy hely, ahol nem akarnak lehúzni! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Mégis innen kaptam a legtöbbet az általam érintett iskolák közül. Több egyetemi ismerősöm dolgozik a CodeBerryben, nagyon támogatóan álltak hozzám, főleg az álláskeresés, a portfolióm és az önéletrajzom összerakásakor, amikor a legnagyobb szükségem volt rá.</p>
+<p class="graf graf--p graf-after--p">Amikor kétség merült fel bennem egy durva munkanap után, összetörve a fáradtságtól, ezek az emberek újra és újra elmondták, hogy amit csinálok az jó, tartsak ki, össze fog jönni! Ennél — a lelkesedés és a remény fenntartásánál — nem lehet többet adni.</p>
+<h4 id="7269" class="graf graf--p graf-after--p">Mennyi ideig kerestél állást? Nehéz volt munkahelyet találni?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Magyarországon ismerősök által néhány hét alatt sikerült programozó munkát találni (ezúton is hálás köszönet nekik és a volt kollégáknak is mindenért; remek emberek!).</p>
+<p class="graf graf--p graf-after--p">Berlinben más a helyzet, nagyon sokan akarnak ide jönni dolgozni. A gyakornoki pozíciókhoz nem ritka, hogy 1–3 év munkatapasztalatot várnak el. Három hónapig nem is találtam semmit, pedig rengeteg helyre pályáztam.</p>
+<p class="graf graf--p graf-after--p">Néhány helyre be is hívtak interjúzni, volt, ahol próbafeladatot is kaptam, megoldottam, de valahogy mindig volt tapasztaltabb jelentkező. Itt az első gyakornoki helyemet egy Facebook csoportból szereztem, szerződéssel dolgoztam náluk egy ideig. A jelenlegi munkahelyemmel egy fejvadász cég hozott össze.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4 id="4fb5" class="graf graf--p graf-after--p">Mesélj arról picit, hogy hol dolgozol most, mik a feladataid?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Jelenleg Berlinben dolgozom a COPRA GmbH-nál, ahol egészségügyi szoftvereket gyártanak: ez magában foglal egy komplett PDMS-t (Patient Data Management System), de a különböző osztályokon található szinte összes berendezéshez készítünk a saját programunkhoz kiegészítéseket, hogy kompatibilis legyen bármelyik géppel, illetve másik programmal.</p>
+<p class="graf graf--p graf-after--p">A pozícióm név szerint consultant, ami elsőre nem hangzik programozásnak, viszont a helyszínen mi tárgyalunk az orvosokkal és a többi felhasználóval a termékről (mit szeretnének, ez hogyan ültethető át gépi nyelvre, illetve mennyire működőképes és effektív, amit ők elképzeltek).</p>
+<p class="graf graf--p graf-after--p">Ha kisebb fejlesztésre van szükség, akkor azt mi magunk (a tanácsadók) is meg tudjuk csinálni, a nagyobb volumenű feladatokat pedig a fejlesztő csoporttal közösen végezzük el. A cégnek nagyon jó, hogy orvosi végzettségem és tapasztalatom is van, így tudom, hogy kiknek fejlesztek.</p>
+<p class="graf graf--p graf-after--p">Ha jól írom meg a programot, akár perceket is tudok spórolni egy ápolónak vagy orvosnak minden egyes beteg dokumentálásánál, ami mondjuk naponta 40 betegnél nagyon fontos, mert a spórolt időben az ápoló vagy orvos tud foglalkozni a beteggel a papírmunka helyett. Ha ezt az időt felszorzod a több tízezer felhasználónkkal egy évben, máris látszik, mennyi időt jelent ez.</p>
+<h4 id="8936" class="graf graf--p graf-after--p">Milyen szoftvereket, eszközöket, technológiákat használsz jelenleg a munkád során?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">A gyakornoki helyemen Windows 10, backend PHP és Symphony, Hapi.js, Node.js, frontend HTML, CSS, JavaScript, Angular, React. Jelenleg C#, .NET, Visual Studio, Win10, ami más, mint a webfejlesztés, de a kurzusok alatt tanult gépi logika mindig visszaköszön. <a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">C# kurzust</a> is végeztem korábban, amire pedig még szükség van, azt gyorsan és menet közben meg tudom tanulni.</p>
+<h4 id="9cd6" class="graf graf--p graf-after--p">Mi a nyelv, amin kommunikáltok?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Ez cégenként változó, az előző helyemen angol, a mostanin német a céges nyelv, de gyakorlatilag mindenkivel olyan nyelven beszélek, amit a legjobban megért.</p>
+<p class="graf graf--p graf-after--p">Berlinben teljesen vegyes a társaság: hollandok, angolok, németek, írek, svédek, kongóiak, ausztrálok, magyarok, közel-keletiek, távol-keletiek, brazilok, ukránok, kenyaiak már konkrétan voltak mind munkatársaim. Elképesztő társaság! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><div style="width: 1890px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Egészségügyi szoftverfejlesztőként te is része lehetsz egy nemzetközi csapatnak" width="1880" height="1253" /><p class="wp-caption-text">Egészségügyi szoftverfejlesztőként te is része lehetsz egy nemzetközi csapatnak</p></div></p>
+<h4 id="9647" class="graf graf--p graf-after--p">Kikkel dolgozol együtt, kik és hogyan segítik a munkádat?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">A mostani munkahelyem még nagyon friss, de az eddigi tapasztalataim nagyon jók. Az előző, gyakornoki pozícióban a napom szerencsére úgy nézett ki, ahogy csak megbeszéltem.</p>
+<p class="graf graf--p graf-after--p">Támogatták az otthonról való munkavégzést, de természetesen rendelkezésre állt az iroda is, ami egy nagyon jó, inspiráló környezetet biztosított, így jó volt bemenni. Volt olyan is, hogy a főnök jelezte, hogy menjek be, hogy gyorsabban haladjon a munka.</p>
+<p class="graf graf--p graf-after--p">Ezt egyébként én is éreztem, például a kérdéseimre hamarabb kaptam választ, ha bent voltam személyesen. De volt olyanra is példa, hogy nagyon belemerültem az adott feladatba, és a főnököm szólt, hogy 10 óránál többet minden nap bent lenni egy kicsit talán már túlzás… <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p class="graf graf--p graf-after--p">A jelenlegi munkahelyem valamivel kötöttebb (értsd: ha kések pl. két órát, akkor odaszólok, hogy kések, de van home office lehetőség is). Mindenki keményen küzd minden nap, hogy mi legyünk a legjobbak, ez inspirál. Jól érzem magam a munkahelyemen.</p>
+<p class="graf graf--p graf-after--p">Az időm nagy részét a tanácsadókkal töltöm, rengeteget kérdezek — 27-en vagyunk, szépen átlátható, hogy ki mihez ért, így közvetlenül azzal az emberrel tudok beszélni, akihez egy adott kérdés tartozik.</p>
+<p class="graf graf--p graf-after--p">Nagyon jó, laza és védett környezetek az eddigi munkahelyeim — ha bármikor kérdésem van, megmutatom a csapatunk vezetőjének, ő meg mond rá valamit, hogy jó, vagy ha nem jó, akkor miért nem jó, és merre fejlesszem tovább.</p>
+<p class="graf graf--p graf-after--p">Berlin pedig egyszerűen az egyik legjobb város, ahol életemben voltam. Egy magamfajta bevándorlónak ez a multikulturális környezet teret enged, hogy a legjobbat hozzam ki magamból.</p>
+<p><div style="width: 877px" class="wp-caption alignnone"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/3806690/pexels-photo-3806690.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="Egészségügyi szoftverfejlesztőként két érdekes szakmára is rálátásod nyílik" width="867" height="1300" /><p class="wp-caption-text">Egészségügyi szoftverfejlesztőként két érdekes szakmára is rálátásod nyílik</p></div></p>
+<h4 id="977c" class="graf graf--p graf-after--p">Fizetési dolgok hogyan alakulnak Németországban, elsősorban Magyarországhoz képest?<strong class="markup--strong markup--p-strong"><br />
+</strong></h4>
+<p class="graf graf--p graf-after--p">Leszögezem, hogy ez csak a saját tapasztalatom. Egy magyar cég nehezen veszi fel fizetések tekintetében a versenyt egy német társával, amennyiben hasonló profillal dolgoznak.</p>
+<p class="graf graf--p graf-after--p">Berlinben gyakornokként is lehet keresni annyit, amennyiből, ha szűkösen is, de már meg lehet élni. Jelenleg “pályakezdőként” a tech világban megkapom egy <a class="markup--anchor markup--p-anchor" href="https://www.google.hu/search?q=orvos+kezd%C5%91fizet%C3%A9s+n%C3%A9metorsz%C3%A1g" target="_blank" rel="noopener noreferrer external" data-href="https://www.google.hu/search?q=orvos+kezd%C5%91fizet%C3%A9s+n%C3%A9metorsz%C3%A1g" data-="" data-wpel-link="external">németországi orvos kezdő fizetését</a>, lepapírozva, tisztán.</p>
+<p class="graf graf--p graf-after--p">Ebben természetesen itt közre játszik az orvosi képesítésem is. A szerződésünkben szabályozva van a különböző szerepkörökben megvalósított projektmunkák órabérétől kezdve a havibéren át a készenléti időkig minden.</p>
+<p class="graf graf--p graf-after--p">A “transparency policy” minden cégnél más, azaz van olyan cég, ahol megosztják a dolgozókkal, hogy a cég mennyiért vállal egy projektet és ebből ki mennyit kap, és van olyan cég is, ahol inkább nem osztják meg egymással a fizetési adataikat a kollégák. Kérdezni viszont mindig szabad.</p>
+<p class="graf graf--p graf-after--p">Emellett természetesen a fizetés nem minden. Én nagy áldozatokat hoztam, hogy ma azért kapjak pénzt, amit szeretek csinálni, és megérte! Úgyhogy buzdítok mindenkit, aki elégedetlen a munkájával, hogy tanuljon és váltson.</p>
+<p class="graf graf--p graf-after--p">Az élet rövid és sokszor hirtelen ér véget. Olyan dolgokkal érdemes megtölteni, amik boldoggá tesznek.</p>
+<p><img loading="lazy" class="aligncenter wp-image-5950 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/07/Ork-asztala.png" alt="Így fest egy egészségügyi szoftverfejlesztő íróasztala" width="960" height="720" /></p>
+<p style="text-align: center;">Ork asztala &#8211; így dolgozik egy egészségügyi szoftverfejlesztő</p>
+<h4 id="5750" class="graf graf--p graf-after--figure">Mi a következő lépés a számodra? Merre tovább?</h4>
+<p class="graf graf--p graf-after--figure">Bár még képlékeny, de érdekel a biztonságtechnika, a mesterséges intelligencia témakörében az öntanító gépek, illetve a robotika, azon belül is a gépek valóság-leképezése.</p>
+<p class="graf graf--p graf-after--figure">Egy nap lehet, hogy például sebészeti gépek fejlesztésében veszek majd részt, mert ez elképesztő munkamennyiséget tudna levenni az orvosok válláról. Szükségük is van rá.</p>
+<p class="graf graf--p graf-after--figure">És a következő lépés? Mindig is olyan dolgokat csináltam, amikre azt mondják, hogy “szuper ötlet, de őrültség”, vagy másoknak lehetetlennek tűnik. De ahogy már mondtam: “Lázadó vagyok!” <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p id="9280" class="graf graf--p graf-after--p"><em><strong>A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">“CodeBerry Programozóiskola — Diákjaink Történetei” sorozatban</a> olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként.</strong></em></p>
+<p id="df8c" class="graf graf--p graf-after--p graf--trailing"><em><strong>Szeretnél te is megtanulni programozni? Gyere és próbáld ki ingyen az első 25 leckét a<a class="markup--anchor markup--p-anchor" href="https://codeberryschool.com/hu/" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/" data-="" data-wpel-link="external"> CodeBerry Programozóiskolában</a>.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pékségből Frontend fejlesztőig &#8211; Farkas János diákunk története</title>
+		<link>/blog/hu/peksegbol-frontend-fejlesztoig/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 28 Apr 2017 04:15:33 +0000</pubDate>
+				<category><![CDATA[CodeBerry Programozóiskola – Diákjaink Történetei]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[Bower]]></category>
+		<category><![CDATA[codeberry vélemény]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[CSS-tricks]]></category>
+		<category><![CDATA[front end blog]]></category>
+		<category><![CDATA[front end fejlesztő]]></category>
+		<category><![CDATA[front end fejlesztő képzés]]></category>
+		<category><![CDATA[front-end]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[frontend blog]]></category>
+		<category><![CDATA[frontend fejlesztő]]></category>
+		<category><![CDATA[frontend fejlesztő képzés]]></category>
+		<category><![CDATA[frontend képzés]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[grafikus]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[junior frontend fejlesztő]]></category>
+		<category><![CDATA[LESS]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[php programozó]]></category>
+		<category><![CDATA[PHPStorm]]></category>
+		<category><![CDATA[SCSS]]></category>
+		<category><![CDATA[Stack Overflow]]></category>
+		<category><![CDATA[W3Schools]]></category>
+		<category><![CDATA[webfejlesztő]]></category>
+		<category><![CDATA[webfejlesztő mit csinál]]></category>
+		<category><![CDATA[Y-collective]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4703</guid>
+
+					<description><![CDATA[Farkas János végzettsége szerint magasépítő technikus, alkalmazott grafikus és pék. Január óta a Y-collective-nél dolgozik junior frontend fejlesztőként. A &#8220;Codeberry Programozóiskola &#8211; Diákjaink történetei&#8221; című cikksorozatunkban bemutatjuk neked, milyen utat jártak &#8211; vagy járnak &#8211; be végzett diákjaink újdonsült szakterületükön. Itt lakom: Magyarország, Pécs Itt dolgozok: Y-collective Ennyi időt tanultam a CodeBerry-nél: 2 hónap Ezt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<figure id="aa93">
+<div>
+<p id="eaa8"><strong>Farkas János</strong> végzettsége szerint magasépítő technikus, alkalmazott grafikus és pék. Január óta a Y-collective-nél dolgozik junior frontend fejlesztőként.</p>
+<p><strong>A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">&#8220;Codeberry Programozóiskola &#8211; Diákjaink történetei&#8221;</a> című cikksorozatunkban bemutatjuk neked,</strong> milyen utat jártak &#8211; vagy járnak &#8211; be végzett diákjaink újdonsült szakterületükön.</p>
+<blockquote id="f1c9">
+<p><strong>Itt lakom</strong>: Magyarország, Pécs<br />
+<strong>Itt dolgozok</strong>: <a href="https://y-collective.com/" target="_blank" rel="noopener external" data-wpel-link="external">Y-collective</a><br />
+<strong>Ennyi időt tanultam a CodeBerry-nél</strong>: 2 hónap<br />
+<strong>Ezt használom</strong>: PHPStorm, Stack Overflow, CSS-tricks, W3Schools</p>
+</blockquote>
+<h4 id="2e8a"><strong>Ha megkérdezik, hogy mi a foglalkozásod most, mit válaszolsz?</strong></h4>
+<p id="49a1">Elsősorban azt mondom, hogy programozok, ezt mindenki érteni szokta.<br />
+Ha jobban is érdekli — általában így van — akkor rá szoktam térni, hogy honlapok felhasználói felületét készítem, azt, amivel a felhasználó találkozik. Néha pedig a szerver-oldali kódokba is belenyúlok…</p>
+</div>
+</figure>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<figure id="aa93">
+<div>
+<h4 id="39f1"><strong>Mivel foglalkoztál, mielőtt váltottál a frontend fejlesztői pályára?</strong></h4>
+<p id="b3d0">Frontend fejlesztőként most először dolgozom, persze azért jóval korábban kezdtem ismerkedni ezzel a területtel. Nagyjából 10 éve foglalkoztat ez a szakma, de komolyabban csak tavaly kezdtem bele. Néhány kisebb weboldalt készítettem eddig (ezeket most már másképp csinálnám :)). Munkámat tekintve a kereskedelemben dolgoztam az elmúlt 10 évben. Egy 7000 m2-es hipermarket pék osztály vezetőjeként irányítottam a termelést, beszerzést, beosztásokat és ami ehhez kapcsolódik. Úgyhogy a váltás elég éles volt nálam.</p>
+<p><div id="attachment_5705" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-5705" loading="lazy" class="wp-image-5705 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2017/04/Janos_Farkas_pic1.jpeg" alt="Így néz ki János, a junior frontend fejlesztő munkaasztala." width="800" height="543" /><p id="caption-attachment-5705" class="wp-caption-text">Így néz ki János, a junior frontend fejlesztő munkaasztala.</p></div></p>
+<h4 id="ef55"><strong>Miért döntöttél úgy, hogy frontend fejlesztő pályára lépsz?</strong></h4>
+<p id="9718">Mindig is vonzott a számítástechnika szoftveres része. Az internetnek és általában a webes technológiáknak évről-évre egyre nagyobb szerep jut mindennapjainkban. Ez magával vonzza azt is, hogy szükség van egyre több hozzáértő frontend fejlesztőre is. Szeretnék élni a lehetőséggel. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h4 id="bb6d"><strong>Mesélj arról picit, hogy hol dolgozol most, mik a feladataid? Hogy telik most egy napod, egy heted?</strong></h4>
+<p id="ff0b">A Y-collective-nél dolgozom junior sitebuilder-ként, Pécs belvárosában van az irodánk.<br />
+A hét eleji projektmenedzsment meeting-en meghatározásra, elosztásra kerülnek a feladatok, ezért nagyjából lehet tudni, hogy ki-ki mivel fog foglalkozni egész héten, esetleg következő héten.<br />
+Sok projektünk van, így a feladatok is elég változatosak. Illetve van, hogy becsúszik ad-hoc jelleggel valami sürgős kérés, vagy bug.<br />
+A napjaim rendszerint 6 óra felé kezdődnek egy kávéval. Közben átfutom a híreket, vagy olvasok valamit, ami előző nap foglalkoztatott. Legtöbbször biciklivel megyek be dolgozni, a munkaidő hivatalosan hajnali nyolctól délután négyig tart (+ fél/egy óra, amit pluszban rászánok).<br />
+Fejlesztésen kívül szokott lenni átalakítás, hibajavítás, meglévő modul importálása másik projektbe, adminisztrálás, adatbázis-módosítás…<br />
+Mostanában állunk rá egyre jobban egyedi wordpress fejlesztésekre.<br />
+Előfordul az is, hogy ehhez némi kutatást is kell végezni, vagy plugin-t cserélni, szóval nem unalmas.<br />
+Amit nap-mint-nap használok: PHP, HTML, CSS, SCSS/LESS, Javascript/jQuery, Node/Bower, Bootstrap, git.<br />
+Rendszeresen (hetente, kéthetente) van belső oktatás, meetup valamilyen témakörben.</p>
+<p><div style="width: 1510px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.pexels.com/photos/1181703/pexels-photo-1181703.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Frontend fejlesztőként a HTML, a CSS és a JavaScript lesznek a legjobb barátaid" width="1500" height="2250" /><p class="wp-caption-text">Frontend fejlesztőként a HTML, a CSS és a JavaScript lesznek a legjobb barátaid</p></div>
+</div>
+</figure>
+<h4 id="4bf3"><strong>Mennyi ideig kerestél állást? Nehéz volt munkahelyet találni frontend fejlesztőként?</strong></h4>
+<p id="5126">Tulajdonképpen nem kerestem sokáig állást, illetve nem számítottam rá, hogy ilyen hamar sikerül bekerülnöm az IT világába. Az egyik mentor — <a href="https://codeberryschool.com/blog/hu/freisinger-adam-vagyok-a-codeberry-school-egyik-alapitoja-es-igy-dolgozom/" data-wpel-link="external" target="_blank" rel="external">Freisinger Ádám </a>— keresett fel, hogy mi a célom a CodeBerry-n, mert elég jól haladok az anyaggal. Nem titkoltam el, hogy majd ebben szeretnék dolgozni, így beajánlott interjúra, aztán kaptam egy próbamunkát, majd állást.<br />
+Ezúton is mindenkinek köszönöm a támogatást, igyekszem meghálálni <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h4 id="e753"><strong>Hogyan tanultál meg programozni? Milyen tanfolyamokat, könyveket, stb. használtál?</strong></h4>
+<p id="fe78">Főképp online anyagok olvasásával, kutatásával, cikkekkel, tutorial-okkal, próbálgatással kezdtem. Majd még több autodidakta tanulás, aztán jött a CodeBerry.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4 id="bf0c"><strong>Mit adott neked a CodeBerry? Milyen volt az iskolánkban tanulni?</strong></h4>
+<p id="4fbb">Kerestem valamilyen online képzést, tanfolyamot, ami segít továbblépni, de ilyen-olyan okból egyik sem tűnt igazán jónak.<br />
+Aztán rábukkantam a CodeBerry-re. Nagyon tetszett az a megközelítés, hogy felismerték: nem csak az egyénnek kell eladni a képzést, hanem az ágazatnak is valóban szüksége van utánpótlásra. Ettől és eköré építve egyfajta szimbiotikus kapcsolat képe rajzolódik ki, ami mindenkinek jó.<br />
+A tanulás teljesen személyre szabott, mindenki a saját tempójában tud haladni, ha megakad, akkor van segítség, elérhető a Slack és a közösség, és Amanda.<br />
+Azt nem mondanám, hogy sok újdonságot találtam a tananyagok között, de nekem nagyon jó volt ismétlésre, a hiányosságok pótlására, elmélyítésre…<br />
+Amiben nekem személy szerint még pluszt nyújtott a CodeBerry, az az, hogy elég jól fel tudtam rajta mérni a tudásszintem, ezzel magabiztosabban tudtam meghozni a döntést, hogy van értelme belevágnom.</p>
+<p><div style="width: 1511px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/3183165/pexels-photo-3183165.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Frontend fejlesztőként izgalmas és kreatív feladatok várnak rád" width="1501" height="2250" /><p class="wp-caption-text">Frontend fejlesztőként izgalmas és kreatív feladatok várnak rád</p></div></p>
+<h4 id="7880"><strong>Van bármilyen tapasztalatod, tipped, trükköd, amit szívesen megosztanál azokkal, akik most kezdik a tanulást?</strong></h4>
+<p id="6a29">A tanulás mellett kezdjetek el egy projektet, megoldást adni egy valós problémára, legyen az bármilyen kicsi is. Nagyon sokat lehet így tanulni. Másolj megoldást, részleteket, de magad tervezd meg a saját verziódat és elemezd végig a számodra nem egyértelmű részeket. A tanulási irányt is rá lehet erre építeni.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4 id="5c54"><strong>Mi a következő lépés a számodra? Merre tovább?</strong></h4>
+<p id="5599">Mindenképpen és elsősorban szeretném elmélyíteni a tudásom és felzárkózni a munkatársaimhoz. Kiválóan felkészült, nagyon jól összeszokott a csapat itt nálunk, mindenki nagyon jó abban, amit csinál és minden nap nagyon sokat tanulok tőlük, általuk.<br />
+Azután a saját határaim elérése, azután pedig… azt majd meglátjuk. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p id="7307" class="graf graf--p graf-after--figure"><em><strong>A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">“CodeBerry Programozóiskola — Diákjaink Történetei”</a> sorozatban olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként.</strong></em></p>
+<p id="df8c" class="graf graf--p graf-after--p graf--trailing"><em><strong>Szeretnél te is megtanulni programozni? Gyere és próbáld ki ingyen az első 25 leckét a<a class="markup--anchor markup--p-anchor" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/" data-wpel-link="external"> CodeBerry Programozóiskolában</a>.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>P. Tóth András vagyok, sorozatvállalkozó, és így dolgozom</title>
+		<link>/blog/hu/p-toth-andras-vallalkozo-codeberry/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2016 03:15:25 +0000</pubDate>
+				<category><![CDATA[Bemutatkozik a CodeBerry csapat]]></category>
+		<category><![CDATA[BME]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[egyetem mellett munka]]></category>
+		<category><![CDATA[informatikus fizetés]]></category>
+		<category><![CDATA[informatikus fizetések]]></category>
+		<category><![CDATA[Láthatatlan Egyetem]]></category>
+		<category><![CDATA[Magyarország]]></category>
+		<category><![CDATA[Mailchimp]]></category>
+		<category><![CDATA[mailchimp magyar]]></category>
+		<category><![CDATA[mailchimp oktatás]]></category>
+		<category><![CDATA[mailchimp tanfolyam]]></category>
+		<category><![CDATA[mailchimp tippek]]></category>
+		<category><![CDATA[mailchimp vélemények]]></category>
+		<category><![CDATA[mennyit keres egy informatikus]]></category>
+		<category><![CDATA[mérnök informatikus]]></category>
+		<category><![CDATA[mérnök informatikus fizetés]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[P. Tóth András]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[programozó képzés munka mellett]]></category>
+		<category><![CDATA[python programozás tanfolyam]]></category>
+		<category><![CDATA[python programozó fizetés]]></category>
+		<category><![CDATA[python tanfolyam]]></category>
+		<category><![CDATA[school code]]></category>
+		<category><![CDATA[schoolcode]]></category>
+		<category><![CDATA[szoftverfejlesztő tanfolyam]]></category>
+		<category><![CDATA[tanfolyam vállalkozóknak]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4672</guid>
+
+					<description><![CDATA[P. Tóth András mérnök informatikusnak tanult a Budapesti Műszaki Egyetemen, most pedig sorozatvállalkozóként dolgozik az informatikai szektorban. Jelenleg a CodeBerry Programozóiskolát építi a barátaival, amitől azt remélik, hogy segít betölteni a Magyarországon tátongó informatikushiányt. A beszélgetés során Andris mesélt nekünk az útról az első 30 ezer forintos fizetéstől az első cégeladásig, illetve kitértünk cicás Instagram képekre [&#8230;]]]></description>
+										<content:encoded><![CDATA[<section></section>
+<section>
+<figure id="2086">
+<div>
+<section>
+<p id="40d5"><strong>P. Tóth András</strong> mérnök informatikusnak tanult a Budapesti Műszaki Egyetemen, most pedig sorozatvállalkozóként dolgozik az informatikai szektorban. Jelenleg a <a href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" data-="" data-wpel-link="external">CodeBerry Programozóiskolát</a> építi a barátaival, amitől azt remélik, hogy segít betölteni a Magyarországon tátongó informatikushiányt.</p>
+</section>
+<section>
+<div>
+<p id="fb73">A beszélgetés során Andris mesélt nekünk az útról az első 30 ezer forintos fizetéstől az első cégeladásig, illetve kitértünk cicás Instagram képekre és arra is, hogy milyen életútra számíthat egy fejlesztő illetve egy IT-vállalkozó Magyarországon.</p>
+</div>
+<blockquote>
+<div><strong>Itt lakom</strong>: Budapest, Magyarország</div>
+<div><strong>Itt dolgozok</strong>: legtöbbet itthon, néha kávézókban</div>
+<div><strong>Ezt használom</strong>: iPhone | MacBook Air | <a href="https://www.sublimetext.com/" target="_blank" rel="noopener external" data-wpel-link="external">Sublime Text</a> | <a href="http://nyelvek.inf.elte.hu/leirasok/Bash/index.php?chapter=1" target="_blank" rel="noopener external" data-wpel-link="external">bash</a> | PHP | <a href="https://nodejs.org/en/" target="_blank" rel="noopener external" data-wpel-link="external">Node.js</a> | <a href="https://mailchimp.com/" target="_blank" rel="noopener external" data-wpel-link="external">Mailchimp</a> | Google</div>
+<div><strong>Egy szó, ami leírja a munkastílusom</strong>: minden nap egy kis lépés</div>
+</blockquote>
+</section>
+<section>
+<div></div>
+<div>
+<h4 id="a779"><strong>Ha megkérdezik, hogy mi a foglalkozásod, mit válaszolsz?</strong></h4>
+<p id="ca07">Azt szoktam válaszolni, hogy “vállalkozásokat építek”. Ha látom, hogy nem ment át, akkor annyit szoktam hozzátenni, hogy “informatika témában építek cégeket, az a munkám, hogy más embereknek csinálok munkaköröket”.</p>
+<h4 id="aeca"><strong>Mesélj arról, hogy vállalkozóként mit és min dolgozol most programozás témában?</strong></h4>
+<p id="08cb">Általában több projekten dolgozom egyszerre — vannak forprofit projektek (például <a href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" data-="" data-wpel-link="external">CodeBerry Programozóiskola</a>), nonprofit projektek (például <a href="http://lathatatlanegyetem.hu/" target="_blank" rel="noopener noreferrer external" data-href="http://lathatatlanegyetem.hu/" data-wpel-link="external">Láthatatlan Egyetem</a>, <a href="http://yearcompass.com/" target="_blank" rel="noopener noreferrer external" data-href="http://yearcompass.com/" data-wpel-link="external">Éviránytű</a>) és vannak a “kikapcsolódásból programozom” projektjeim.</p>
+<p id="d7fd">2016 eleje óta dolgozunk néhány baráttal a CodeBerry Programozóiskolán — online tanítunk programozni olyanokat, akik még nem tudnak programozni, és a képzés végén segítünk nekik elhelyezkedni. Az egyéb szerepeim mellett, programozóként is több feladatot látok el a cégben:</p>
+<ul>
+<li id="1583">én vagyok az egyik kódmentor, aki segít, amikor valamelyik képzés résztvevőnek technikai kérdése van.</li>
+<li id="f5c1">a weboldalunkba írok rengeteg saját kódot, főleg olyan helyekre, ahol más szoftverekkel kapcsolódunk, például kérdőívekkel, analitikai szoftverekkel, fizetési megoldásokkal.</li>
+<li id="dfb2">a programozós feladatokat kiszolgáló rendszerünkbe írok modulokat, például adminisztrátori statisztikákat, jelvényeket, előrehaladás-jelzőt.</li>
+</ul>
+<p id="4247">Kikapcsolódásként mindenféle apróságot programozok, ami ott és akkor érdekesnek tűnik. A legutóbbi néhány projektem:</p>
+<ul>
+<li id="f2ff">Instagram script, ami a <a href="https://www.instagram.com/safranektheordinarycat/" target="_blank" rel="noopener noreferrer external" data-href="https://www.instagram.com/safranektheordinarycat/" data-="" data-wpel-link="external">cicánk Instagramjának</a> szerzett követőket</li>
+<li id="74bf">Slack bot, ami minden csapattagról készít fényképet</li>
+<li id="cc82">hőmérséklet grafikon (hőmérsékletszenzorok által gyűjtött adatokból)</li>
+<li id="99b4">Chrome plugin, ami a webkamera képét tudja megosztani egy másik számítógéppel.</li>
+</ul>
+</div>
+</section>
+</div>
+<p>&nbsp;</p>
+<div>
+<section>
+<div>
+<h4><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></h4>
+<section>
+<h4></h4>
+<h4 id="b7f0"><strong>Mikor, hol és hogyan tanultál programozni?</strong></h4>
+</section>
+<section>
+<p id="ceda">Tíz éves voltam, amikor karácsonyra egy C64-et kaptunk ajándékba. Könyvekből és barátoktól tanultam programozni. Volt egy kis csapatunk, akikkel beszippantott bennünket a “demoscene” szubkultúra, ahol mindenki számítógéppel próbált valamilyen művészeti alkotást létrehozni — rajzoltunk, zenét írtunk, programoztunk, és persze versenyeztünk a többiekkel.</p>
+<p id="9718">Az első fizetős munkámat tizenhat évesen vállaltam: egy olasz cégnek készítettem webáruházat. Betárcsázós internettel léptem fel éjszakánként otthonról, próbáltam összeollózni a neten talált programrészleteket valami működő egésszé. Tizennyolc voltam, amikor felvételiztem a BME-re, ahol már hivatalosan mérnökinformatikusnak tanultam.</p>
+<p id="f326">Harmadévben, egyetem mellett kezdtem el dolgozni programozóként és projektmenedzserként, negyedévben pedig megalapítottam az első saját cégemet.</p>
+</section>
+<h4 id="f959"><strong>Hogyan néz ki a munkahelyed? Hogyan néz ki az asztalod?</strong></h4>
+<p><div id="attachment_5733" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-5733" loading="lazy" class="wp-image-5733 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/09/Andras_P_Toth_pic1.jpeg" alt="A vállalkozói lét színtere" width="800" height="600" /><p id="caption-attachment-5733" class="wp-caption-text">A vállalkozói lét színtere &#8211; Andris asztala (Fotó: P. Tóth András)</p></div>
+</div>
+</section>
+</div><figcaption>                                                            </figcaption></figure>
+</section>
+<section>
+<section>
+<h4 id="e669"><strong>Milyenek a munkalehetőségek programozóként? Te általában mennyi ideig kerestél állást?</strong></h4>
+<p id="ff1a">Eddig még soha nem kerestem állást. Egyetem közepéig általában megtaláltak programozós munkákkal, utána pedig a saját cégeimben dolgoztam. Most körülbelül kéthetente kapok egy-egy emailt LinkedIn-en, hogy nem érdekel-e valamilyen programozós állás, szóval szerintem most elég jó a piaca a programozóknak.</p>
+<h4 id="1821"><strong>Hogy telik most egy napod, egy heted, egy hónapod, egy éved, mint vállalkozó?</strong></h4>
+<p id="2064">Általában reggel 6:30 és 7:30 között kelek, attól függően, hogy aznap reggel van-e valami reggeli megbeszélés. Torna, zuhany, reggeli, aztán délig munka, ebéd valakivel, körülbelül ötig munka, aztán igyekszem kikapcsolni. Mivel sokat dolgozom otthonról, ezért néha belefér egy délutáni alvás, de olyankor átlóg az estébe a munka, ami senkinek nem jó.</p>
+<p id="7c54">Legtöbbször a pomodoro technikával dolgozom — huszonöt perc munka, öt perc pihenés, amit általában valami apróbb házimunkával töltök.</p>
+<p id="f445">Hétfőn operatív, kedden délelőtt stratégiai megbeszéléseink vannak, kedd-szerda-csütörtök mindenki dolgozik otthonról, pénteken délelőtt hétzáró gyűléseket tartunk. A gyűléseken általában szoktunk élőben találkozni, de az utóbbi hetekben ezek közül is több online volt.</p>
+<p id="a647">A munkám elég változatos — egy része kommunikáció (belső megbeszélések, külső tárgyalások, kódmentorság), egy része marketing (hirdetések simogatása, szövegírás, marketing rendszerek technikai abajgatása), egy része tech (mindenféle programozós feladat).</p>
+<p id="8a86">Az évben van még egy ritmus — évente négyszer elmegyek körülbelül egy hét szabadságra, illetve évente kétszer elmegyünk egy pár napos céges elvonulásra.</p>
+<p id="013b">A Láthatatlan Egyetem miatt félévente két olyan hét van, ami kicsit sűrűbb (a félév indulásakor, illetve a lezáráskor), ilyenkor kicsit kevesebb munkát vállalok, illetve az Éviránytű miatt a december-január még intenzívebb.</p>
+<h4 id="da0e"><strong>Mi az, ami meglepett, amikor elkezdted csinálni, amit nem gondoltál volna előtte?</strong></h4>
+<p id="e3ca">Engem meglepett, hogy mennyire el lehet mélyedni a programozásban — nekiülök egy érdekes problémának, és hipp-hopp este van.</p>
+<p id="22f6">A másik, hogy mennyire gyorsan fejlődik, változik a tudásanyag — egy pár évig inkább marketinggel foglalkoztam, és amikor újra elkezdtem programozni, alig értettem, amiről a munkatársaim beszéltek. Olyasmi érzés volt, mint amit az öregebb emberek élhetnek át, amikor a gyerekeik olyan dolgokról magyaráznak nekik, amiket ők már nem ismernek, nem értenek.</p>
+</section>
+</section>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<section>
+<section>
+<h4 id="0ee7"><strong>Mi az a tudás, amit te tudsz, és az átlagember számára meglepő?</strong></h4>
+<p id="f230">Amikor valaki segítséget kér tőlünk (“nem megy az internet az emeleten”, vagy “nem működik a nyomtató”) legtöbbször mi sem tudjuk kapásból a probléma megoldását, csak türelmesen végigolvassuk a hibaüzeneteket és megkeressük a megoldást az interneten.</p>
+<h4 id="4c36"><strong>Kikkel dolgozol együtt vállalkozóként?</strong></h4>
+<p id="7e38">Sokat dolgozom egyedül. Heti szintű megbeszéléseink vannak a cégtársaimmal, illetve napi szinten chat-en egyeztetünk, ha egy részfeladaton épp együtt dolgozunk. Emellett sok emailt váltok beszállítókkal, partnerekkel, tanácsadókkal, sajtóval.</p>
+<h4 id="ecf7"><strong>Milyen tipikus életutak vannak a szakmádon belül?</strong></h4>
+<p id="da5e">Szerintem az informatikai pályán belül van néhány markáns elágazás:</p>
+<ul>
+<li id="7934">lehet választani cégméretet és cégstílust: szabadúszó, startup, kis cég, közép cég, multi, állami vállalat</li>
+<li id="a0c4">lehet választani témát: üzemeltetés, fejlesztés, tervezés, tesztelés, határterületként menedzsment, sales, support, growth, data és még egy csomó más</li>
+<li id="797a">tapasztalat szerint lehetsz pályakezdő, junior, normál, senior</li>
+<li id="a75e">és mindegyik pályán belül van még ezer apró finomság (pl. fejlesztőn belül webfejlesztő, azon belül frontend fejlesztő, azon belül Angular specialista.)</li>
+</ul>
+<p id="64d7">Ezek között az elágazások között el lehet navigálni egy életen át.</p>
+<p id="93d2">Az ismerőseim között is több példát látok:</p>
+<ul>
+<li id="1fb8">gyakori a “végigmegyünk a programozós pályán nullától végtelenig”</li>
+<li id="6aca">van bőven az “elkezdtem informatikusként, de kiderült, hogy tudok bánni az emberekkel, és vezető lettem” forgatókönyvből</li>
+<li id="cf59">néha akad egy-egy “elkezdtem multinál dolgozni, de megpróbálok egy saját vállalkozást”</li>
+<li id="116e">illetve van “eleve saját vállalkozást indítok” is.</li>
+</ul>
+<p><div style="width: 1698px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/2681319/pexels-photo-2681319.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="Vállalkozóként lehetőséged nyílik megvalósítani a saját elképzeléseidet" width="1688" height="2250" /><p class="wp-caption-text">Vállalkozóként lehetőséged nyílik megvalósítani a saját elképzeléseidet</p></div></p>
+<h4 id="2180"><strong>Mi a te életpályád, mint vállalkozó, hogyan tovább?</strong></h4>
+<p id="4330">Már túl vagyok az első cégeladáson (a Gyümölcstárhely nevű tárhelyszolgáltató cég volt az első cégem, amit megvásárolt Európa egyik legnagyobb hosting cége) és a sokadik elbukott projekten. Eddig kifejezetten élveztem ezt a vállalkozós-informatikus kombinációt, szóval szerintem ez várható a jövőben is.</p>
+<h4 id="70f3"><strong>Milyen foglalkozásra váltanál, ha váltanál? Milyen foglalkozásra tudnál váltani?</strong></h4>
+<p id="f128">Nem váltanék. A tanítást nagyon élvezem, szóval valamilyen tanácsadós-tréneres vonal elképzelhető. Valószínűleg tudnék sima informatikus pályára váltani, illetve a vállalkozós tapasztalatoknak köszönhetően talán marketing témára is.</p>
+<h4 id="4aa2"><strong>Milyennek kell lenni az embernek, hogy jó programozó, IT-vállalkozó, IT-szakember legyen? Kiknek nem javasolnád ezt a szakmát?</strong></h4>
+<p id="8219">Nekem fontosak a következők:</p>
+<ul>
+<li id="e4ed">részletek szeretete — most még elég nehéz “csak nagy vonalakban stimmeljen” módon programozni, figyelni kell az apróságokra</li>
+<li id="c61b">képesség az elmélyedésre — egy-egy hiba megtalálása néha órákat vesz időbe</li>
+<li id="307e">korrekt angol tudás — ha bárhol elakadok, a segítség online angol nyelven érhető el</li>
+</ul>
+<p id="4995">Azoknak nem javaslom ezt a szakmát, akikre a fentiek nem jellemzőek.</p>
+<h4 id="4dfe"><strong>Mit szeretsz benne leginkább?</strong></h4>
+<p id="ab9d">Nagyon szeretek olyan programokat készíteni, amit ott lehet hagyni, és órákig, napokig, hetekig is fut, és csinál valami hasznosat. Az a tudat, hogy készítettem valamit, ami most éppen működik, elképesztően jó érzés.</p>
+<h4 id="e517"><strong>Mi a legnehezebb, illetve mi a legbosszantóbb ebben a szakmában? Mik ennek a szakmának a veszélyei?</strong></h4>
+<p id="b54c">Valahol a bosszantó és a szórakoztató között félúton vannak szerintem a “szakmai vallásháborúk”, például ki milyen szövegszerkesztőt használ, szóközt vagy tabulátort kell-e használni a kód formázásánál, stb.</p>
+<p id="61fb">Nehéz ügy a folyamatosan változó technológia — nem könnyű eldönteni, hogy melyik programnyelv, melyik eszköz jutott el arra a szintre, hogy érdemes legyen megtanulni.</p>
+<p id="f346">Plusz, veszélye ennek a szakmának:</p>
+<ul>
+<li id="089b">az ülőmunka — extra energiát kell belefektetni, ha nem akarsz pocakos informatikus lenni</li>
+<li id="91ff">a buborék — könnyű azt hinni egy informatikusokkal teli munkahelyen, hogy mindenki jól kereső, 20–50 közötti férfi, aki érti a programozós vicceket.</li>
+</ul>
+<h4 id="b7ed"><strong>Mennyire biztos az állásod? Mennyi ideig dolgozik az ember egy helyen?</strong></h4>
+<p id="ffc4">Én egy induló vállalkozásban dolgozom, itt nagyobb a bizonytalanság, gyakrabban változnak a projektek, kidolgozatlanabbak a folyamatok, mint egy jól működő, nagyobb cégben. Az eddigi cégeimben öt-hat évet dolgoztam, utána új céget kezdtünk építeni.</p>
+<p id="328b">Az informatikus ismerőseim között még nem hallottam olyat, hogy valakit kirúgtak volna. Vannak nagyon hűségesek, akik évtizedek óta ugyanannál a cégnél dolgoznak és vannak olyanok is, akik pár évente állást váltanak. A fő motiváció általában az érdekesebb munka, illetve a magasabb fizetés.</p>
+</section>
+</section>
+<p>&nbsp;</p>
+<section>
+<section>
+<h4><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></h4>
+<h4></h4>
+<h4 id="93a7"><strong>Ha egy kérésed lehetne az emberekhez a szakmád nevében, mi lenne az?</strong></h4>
+<p id="f981">Informatikusként azt kérném, hogy olvassák el a hibaüzeneteket, és keressenek rá Google-ben, mielőtt felhívnak.</p>
+<p id="98dd">Vállalkozóként azt kérném, hogy ha valami nem működik, akkor írjanak egy érthető emailt — mit próbáltak csinálni, mire számítottak, mi történt ehelyett, és kitalálunk valamit.</p>
+<h4 id="d1b0"><strong>Mennyit keres átlagosan egy ember a szakmádban (pályakezdőként, tapasztaltként, veteránként)?</strong></h4>
+<p id="5fae">A vállalkozós világban az én tapasztalatom ez volt:</p>
+<ul>
+<li id="410f">az első évben nem kerestem semmit, csak tettem befelé a pénzt</li>
+<li id="699e">az első fizetésem nettó 30 ezer Ft volt, innen kezdett el felfelé araszolni, körülbelül nettó 300 ezer Ft-ig</li>
+<li id="c966">a cégeladásból érkezett komolyabb összeg, ami négy-öt évre fedezi a megélhetésünket, így lehet következő projekteken dolgozni</li>
+</ul>
+<p id="5dc0">A programozós világban dolgozó ismerőseim ennél általában többet keresnek. Gyakran titoktartási kötelezettségük van, így inkább nagyságrendekről szoktunk beszélgetni: 300–600 ezer Ft nettó körül Magyarországon, vezetőként még efelett, illetve bőven 1 millió Ft felett külföldön. Érdemes szétnézni a <a href="https://www.glassdoor.com/index.htm" target="_blank" rel="noopener noreferrer external" data-href="https://www.glassdoor.com/index.htm" data-="" data-wpel-link="external">Glassdoor</a> oldalon, ott bőségesen van infó fizetésekről.</p>
+<h4 id="c994"><strong>Szerinted hogyan lehet, hogyan érdemes megtanulni programozni?</strong></h4>
+<p id="5ba5">Sok jó offline és online kurzus van, ezeket össze is szedtük a <a href="http://programozastanfolyam.com/" target="_blank" rel="noopener noreferrer external" data-href="http://programozastanfolyam.com/" data-wpel-link="external">http://programozastanfolyam.com/</a> oldalon.</p>
+<section>
+<p id="adb1">Nekem az alábbiak segítettek a legtöbbet:</p>
+<ul>
+<li id="4664">ha volt konkrét feladat, aminek a megoldását én gépeltem be (tehát nem csak elolvastam a könyvet / megnéztem a videót, hanem konkrétan csinálnom is kellett valamit)</li>
+<li id="1250">konkrét projekt, aminek a befejezése felé tudtam törekedni (például “elkészítek egy honlapot egy projektnek, vagy egy ismerősnek”)</li>
+<li id="66f2">egy barát / mentor, aki már tudott programozni, és tudott segíteni, amikor elakadtam.</li>
+</ul>
+<h4 id="7ea2"><strong>Szerinted miért érdemes megtanulni programozni?</strong></h4>
+<p id="19ba">Nekem a programozás</p>
+<ul>
+<li id="34f0">alkotási élményt ad</li>
+<li id="dc29">munkalehetőséget, megélhetést teremt</li>
+<li>kikapcsolódási lehetőség.</li>
+</ul>
+<p id="7307" class="graf graf--p graf-after--figure"><em><strong>A <a href="https://codeberryschool.com/blog/hu/category/bemutatkozik-a-codeberry-csapat/" data-wpel-link="external" target="_blank" rel="external">“Bemutatkozik a Codeberry-csapat”</a> sorozatban alapítóink, munkatársaink mesélnek róla, hogy milyen is a világ informatikus szemszögből.</strong></em></p>
+<p id="df8c" class="graf graf--p graf-after--p graf--trailing"><em><strong>Szeretnél te is megtanulni programozni? Gyere és próbáld ki ingyen az első 25 leckét a<a class="markup--anchor markup--p-anchor" href="https://codeberryschool.com/hu/" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/" data-="" data-wpel-link="external"> CodeBerry Programozóiskolában</a>.</strong></em></p>
+</section>
+</section>
+</section>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

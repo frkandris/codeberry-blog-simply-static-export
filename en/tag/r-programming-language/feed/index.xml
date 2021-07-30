@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>r programming language | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/r-programming-language/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 25 Jun 2021 20:00:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>+10 Best Data Science Courses, Data Scientist Salaries, and Everything About DS</title>
+		<link>/blog/en/data-science-courses/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:00:41 +0000</pubDate>
+				<category><![CDATA[Programming courses]]></category>
+		<category><![CDATA[apache]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[big data]]></category>
+		<category><![CDATA[cassandra]]></category>
+		<category><![CDATA[data analyst]]></category>
+		<category><![CDATA[data cleaning]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[data scientist]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[internet of things]]></category>
+		<category><![CDATA[iot]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[MatLab]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[r programming language]]></category>
+		<category><![CDATA[sas]]></category>
+		<category><![CDATA[spaark]]></category>
+		<category><![CDATA[spss]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13495</guid>
+
+					<description><![CDATA[In this article, we’re going to examine the world of data science. We’ll untangle the often used (and misused) terms and expressions, and look at data science courses and data scientist salaries. What Even is Data Science, Business Intelligence and all the Other Expressions? You might find all these expressions a bit too much to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">In this article, we’re going to examine the world of data science. We’ll untangle the often used (and misused) terms and expressions, and look at data science courses and data scientist salaries.</span></p>
+<h2><span style="font-weight: 400;">What Even is Data Science, Business Intelligence and all the Other Expressions?</span></h2>
+<p><span style="font-weight: 400;">You might find all these expressions a bit too much to get your head around. </span><i><span style="font-weight: 400;">Data scientist, data engineer, data analyst, business analyst, deep learning engineer, machine learning engineer</span></i><span style="font-weight: 400;">… Why are there so many tasks in the world of data science, and what do they entail exactly? What technologies do they use and what are their purposes? This is what we’ll touch on first.</span></p>
+<p><span style="font-weight: 400;"><strong>Most languages use English terms</strong> because it is such a new field. You will find these in job advertisements, professional forums and courses.</span></p>
+<h3><span style="font-weight: 400;">BI vs Data Science</span></h3>
+<p><span style="font-weight: 400;"><strong>Business intelligence</strong> (or BI for short) and <strong>data science</strong> <strong>are the two biggest areas</strong> of professional data analysis. They both use large amounts of data to determine trends and patterns, however, there are many differences between them. They require different skills, and while <strong>business intelligence focuses on business life </strong>and the present, <strong>data science </strong>has a broader range that <strong>focuses mostly on the future</strong> — meaning they work with different perspectives.</span></p>
+<h4><span style="font-weight: 400;">Business intelligence (BI)</span></h4>
+<p><span style="font-weight: 400;"><strong>Business intelligence</strong> is the sum of strategies and technologies that an organization uses to <strong>collect and analyze large amounts of data.</strong> Its goal is to <strong>support strategic decisions</strong> with the trends and correlations it figures out.</span></p>
+<p><span style="font-weight: 400;">For example, business intelligence can be the feedback you can give on every assignment of CodeBerry’s online programming courses with small emoticons. It shows how you liked the assignments, and the collected feedback can be summarized so that the curriculum developers can upgrade the assignments that confused many people.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Data Science</span></h4>
+<p><span style="font-weight: 400;">Data science is a complex field of science that fuses </span><b>mathematics</b><span style="font-weight: 400;">, </span><b>statistics</b><span style="font-weight: 400;">, </span><b>machine learning</b><span style="font-weight: 400;">, </span><b>programming skills</b><span style="font-weight: 400;">, </span><b>presentation skills</b><span style="font-weight: 400;"> and other professions together. It creates models and </span><b>its goal is to predict things</b><span style="font-weight: 400;"> based on the information we got from the data.</span></p>
+<p><span style="font-weight: 400;">One of the main fields of science that supports artificial intelligence development is data science. It is present in many other fields as well—scientific innovation, research and development, social, health science and education.</span></p>
+<h3><span style="font-weight: 400;">Team Members of BI and Data Science Groups</span></h3>
+<h4><span style="font-weight: 400;">Data Scientist </span></h4>
+<p><span style="font-weight: 400;">Data scientists are experts that use scientific methods to </span><b>analyze large amounts of data</b><span style="font-weight: 400;"> to get some information out of them, in order to help </span><b>solve complex problems</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">They use their complex (usually mathematical, statistical, and programming) skills to clean and convert data to create models from it (mostly with methods that use machine learning) that they can use to make predictions. Besides a <strong>good knowledge of programming and statistics,</strong> they also <strong>need</strong> the skill <strong>to be able to quickly understand the field</strong> that uses the information they got from data analysis.</span></p>
+<p><span style="font-weight: 400;">They also need to be able to visualize and present their results, so <strong>good communications skills are also required.</strong></span></p>
+<h4><span style="font-weight: 400;">Data Analyst  </span></h4>
+<p><span style="font-weight: 400;"><strong>Data analysts only focus on</strong> </span><b>analyzing data</b><span style="font-weight: 400;">, which means their area of expertise is narrower than that of data scientists’.</span></p>
+<p><span style="font-weight: 400;">When browsing from data analyst job offers, some will say that the job requires strong mathematical, statistical, and programming skills, while others will state that data analysts mostly create SQL queries, analyses, and visualizations, meaning they won’t need mathematics or programming skills.</span></p>
+<p><span style="font-weight: 400;">The <strong>data analyst position is similar to data scientists’</strong> but is usually only some part of data science. (For example, sometimes, data analysts only create queries or visualizations, or maybe they won’t have to do needs assessments or communicate with clients.)</span></p>
+<h4><span style="font-weight: 400;">Data Engineer</span></h4>
+<p><b>Data engineers create and maintain the infrastructure for storing and handling data</b><span style="font-weight: 400;">. They write code that helps get the data from the servers to data analysts who will process them. They also handle systems that store extreme amounts of data and have an important role in preprocessing data, which means “cleaning” the data up, formatting it for analysis.</span></p>
+<h4><span style="font-weight: 400;">Business Analyst</span></h4>
+<p><span style="font-weight: 400;">The task of business analysts requires</span><b> assessment, keeping in contact with clients, decision-makers, and the IT team</b><span style="font-weight: 400;">. In order to do this, they must have excellent communication and presentation skills.</span></p>
+<p><span style="font-weight: 400;">In a nutshell, they are the ones who professionally </span><b>translate the needs of clients to the language of information technology</b><span style="font-weight: 400;">, and translate the feedback from the IT team for the clients as well.</span></p>
+<p><span style="font-weight: 400;">Business analysts also </span><b>analyze business data statistically</b><span style="font-weight: 400;">. They explore correlations in the data to support corporate development, product and service development, and financial decisions.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="Python for loop" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Machine Learning Engineer</span></h4>
+<p><span style="font-weight: 400;"><strong>Machine learning engineers are specialists in machine learning,</strong> so they set up systems related to machine learning, and are <strong>skilled in algorithms and creating data</strong> used for machine learning. They build prototype models in the production systems and maintain them.</span></p>
+<h3><span style="font-weight: 400;">What you must know about data</span></h3>
+<p><span style="font-weight: 400;">What kind of data are we talking about in the context of data science? Where do they get it from, how do they store and process it? What tasks need to be done in order to do so?</span></p>
+<h4><span style="font-weight: 400;">Big data  </span></h4>
+<p><span style="font-weight: 400;"><strong>Big data usually means</strong> </span><b>extreme amounts of data</b><span style="font-weight: 400;">. Often, we use big data to describe data that “can no longer be stored and managed on a normal desktop computer,” and traditional database management tools (like Excel or SQL) are not sufficient to handle them.</span></p>
+<p><span style="font-weight: 400;">Big data not only refers to the amount of data — but there are also quality requirements that the data set needs to meet. </span><b>Processing speed, variability, accuracy, reliability</b><span style="font-weight: 400;">, and </span><b>use value</b><span style="font-weight: 400;">: these are all requirements that decide whether we can call the data we’re using big data.</span></p>
+<p><span style="font-weight: 400;">Where do the large amounts of data that data scientists work with come from? Countless tools create large amounts of data: smartwatches, security systems, intelligent household appliances, bank transfers, purchase data, meteorological measurements, and so on ad infinitum. Also, a single user can generate large amounts of data with a single smartphone: calls, emails, messages, photos, searches, music and so on.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_13497" style="width: 758px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13497" loading="lazy" class="wp-image-13497 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1.png" alt="How you can find the best data science course?" width="748" height="440" srcset="/blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1.png 748w, /blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1-300x176.png 300w" sizes="(max-width: 748px) 100vw, 748px" /><p id="caption-attachment-13497" class="wp-caption-text">Source: <a href="https://www.scnsoft.com/blog/iot-big-data-nature" target="_blank" rel="noopener external" data-wpel-link="external">scnsoft.com</a></p></div></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Raw data</span></h4>
+<p><b>Raw data is data that hasn’t been processed yet</b><span style="font-weight: 400;">. Data engineers and data scientists get data in formats that are not suitable for analysis—they have inconsistencies, </span><b>missing data, duplications</b><span style="font-weight: 400;">, and even </span><b>typos</b><span style="font-weight: 400;">. This data needs to go through preprocessing (cleaning, converting, filtering) so that it can be used. This is called data preparation or data wrangling.</span></p>
+<h3><span style="font-weight: 400;">Technologies that use data science</span></h3>
+<h4><span style="font-weight: 400;">Artificial intelligence (AI for short)</span></h4>
+<p><span style="font-weight: 400;">Artificial intelligence is a field of science where people research and develop </span><b>computers capable of making decisions based on large amounts of data</b><span style="font-weight: 400;">. They use machine learning to achieve this.</span></p>
+<p><span style="font-weight: 400;">Artificial intelligence control </span><b>self-driving cars</b><span style="font-weight: 400;"> (like </span><a href="https://www.tesla.com/autopilot" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Tesla Autopilot</span></a><span style="font-weight: 400;">, </span><a href="https://waymo.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Waymo</span></a><span style="font-weight: 400;">),</span><b> robots that are aware of their surroundings</b><span style="font-weight: 400;"> (like </span><a href="https://www.softbankrobotics.com/emea/en/pepper" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pepper robot</span></a><span style="font-weight: 400;">, </span><a href="https://www.bostondynamics.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Boston Dynamics robots</span></a><span style="font-weight: 400;">), and </span><b>digital assistants</b><span style="font-weight: 400;"> that are capable of voice recognition and speech interpretation, like Siri and Alexa.</span></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Video of Pepper:</span></h4>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="We Interviewed Pepper — The Humanoid Robot" width="1080" height="608" src="https://www.youtube.com/embed/zJHyaD1psMc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Boston Dynamics robots:</span></h4>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Do You Love Me?" width="1080" height="608" src="https://www.youtube.com/embed/fn3KWM1kuAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Machine learning (ML for short)</span></h4>
+<p><span style="font-weight: 400;">Machine learning is a process during which a computer </span><b>tries to understand data sets</b><span style="font-weight: 400;"> with the help of </span><b>algorithms</b><span style="font-weight: 400;">, and makes predictions and decisions based on them. The system is based on past examples, and after a proper amount of input data, you can input something, and it can give back an output that makes sense which the computer has never seen before.</span></p>
+<p><span style="font-weight: 400;">For example, if we have a flashlight that we want to control with our voice, we can teach the computer using machine learning algorithms that it should switch on the light whenever we say “light”. As the amount of sound samples grows, the control mechanism becomes better and better, and it starts to recognize the word “light” more efficiently. After a while, it can even hear the word from full sentences as well, for example, “I need some lamplight.”</span></p>
+<h4><span style="font-weight: 400;">Deep learning, DL for short</span></h4>
+<p><span style="font-weight: 400;"><strong>Deep learning is a type of machine learning.</strong> It is <strong>the most complex of all machine learning algorithms,</strong> and it is <strong>based on the human brain.</strong> Deep learning requires more data and time, but it can give more precise results and learn more complex correlations than other types of machine learning.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13498" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/Data-Science-image1.png" alt="" width="923" height="563" srcset="/blog/wp-content/uploads/2021/06/Data-Science-image1.png 923w, /blog/wp-content/uploads/2021/06/Data-Science-image1-300x183.png 300w, /blog/wp-content/uploads/2021/06/Data-Science-image1-768x468.png 768w" sizes="(max-width: 923px) 100vw, 923px" /></p>
+<h2><span style="font-weight: 400;">Uses of data science </span></h2>
+<p><span style="font-weight: 400;">Data science is a varied field of science, and it has many uses in businesses, research and development, and it can even be used by civilians or in a social context.</span></p>
+<h3><span style="font-weight: 400;">Data science in medicine</span></h3>
+<p><span style="font-weight: 400;"><strong>They use research based on big data in drug development, genetic, genomic research.</strong> They use image recognition technology in diagnostics when analyzing X-ray, MRI, and CT recordings. They are also working on patient care using virtual assistants, and disease predictions. There are also some customized healthcare programs generated by these systems.</span></p>
+<h3><span style="font-weight: 400;">Data science and climate research</span></h3>
+<p><span style="font-weight: 400;">They use data science to <strong>create weather prediction models</strong> and to model and <strong>research climate change,</strong> <strong>analyze effects of global warming, predict natural disasters, monitor pollution</strong> and the air quality of cities, etc.</span></p>
+<h3><span style="font-weight: 400;">Data science, search engines, and recommendation systems</span></h3>
+<p><span style="font-weight: 400;">Data science technologies make the use of targeted ads and recommendations based on your interests possible on <strong>Youtube, Netflix, and Spotify.</strong></span></p>
+<p><span style="font-weight: 400;">Search engines also process large amounts of data. <strong>Dating apps like Tinder use data to find you a perfect match.</strong></span></p>
+<h3><span style="font-weight: 400;">Data science and route planning</span></h3>
+<p><span style="font-weight: 400;">Finding optimal routes, route planning applications: the <strong>route planners of Uber and Google are based on data science results.</strong> Coordinating traffic lights, measuring the traffic, monitoring traffic jams—a lot of valuable data comes from this. Giant companies like Amazon or eBay are also using data science to help with logistics optimization.</span></p>
+<h3><span style="font-weight: 400;">Data science and language technology</span></h3>
+<p><span style="font-weight: 400;">Developers face a serious challenge with human language recognition, interpretation and reproduction. <strong>There are many areas where human languages and machines meet,</strong> and data science plays a huge role in handling this. Speech recognition and automatic captioning are some of these areas.</span></p>
+<p><span style="font-weight: 400;">Automatic machine translation is developing lightning-fast, we only need to think about what Google translations were a few years ago and what they are now. Of course, they are far from perfect, but the translations already sound more natural, and they have better grammar as well than they did a few years ago.</span></p>
+<p><span style="font-weight: 400;"><strong>Virtual assistants</strong> are also an exciting topic, <strong>like Apple’s Siri or Amazon’s Alexa.</strong> These also need to recognize and interpret human speech and give appropriate answers, so it needs machine learning and other data science techniques.</span></p>
+<p><span style="font-weight: 400;"><strong>Creating accessible reading software</strong> for the visually impaired, <strong>and</strong> <strong>developing more natural human voices</strong> and intonations <strong>for robots</strong> are also goals achieved with dynamically evolving data science technologies.</span></p>
+<h3><span style="font-weight: 400;">Data science and augmented reality</span></h3>
+<p><span style="font-weight: 400;"><strong>Augmented reality</strong> is a set of technologies that <strong>puts digital content into cameras in real-time.</strong> We can, for example, try on clothes without physically putting them on, we can look at how some piece of IKEA furniture might look in our apartment, or we can put dog ears on ourselves in our selfies. The image recognition and interpretation required to do these things are all based on data science.</span></p>
+<p><span style="font-weight: 400;">Machine vision is a technology used to interpret surroundings, objects, and obstacles. This also requires data-based learning.</span></p>
+<p><strong>Data science is also needed when creating VR experiences.</strong></p>
+<h3><span style="font-weight: 400;">Data science and image recognition</span></h3>
+<p><span style="font-weight: 400;">Identifying and categorizing image content, image-based search, visual search engines: we couldn’t do any of it without machine learning and the use of neural networks.</span></p>
+<p><span style="font-weight: 400;">There are also some other useful and important technologies, like <strong>identification of faces, and face recognition in general, in forensics and security technology.</strong> There is also <strong>emotional recognition</strong> that can help us monitor the emotional state of psychiatric patients or astronauts. These technologies are currently being developed.</span></p>
+<h2><span style="font-weight: 400;">What does a data scientist actually do? </span></h2>
+<h3><span style="font-weight: 400;">Needs assessment, orientation, consulting the client</span></h3>
+<p><span style="font-weight: 400;">Data scientists have to thoroughly assess needs, know exactly what their research is going to be used for, and gain an in-depth knowledge of the project’s features.</span></p>
+<p><span style="font-weight: 400;"><strong>Business-centric thinking is usually unavoidable</strong>, as clients usually will have business goals (like wanting to sell more of a product or minimizing losses). When setting a project&#8217;s goals, <strong>the client&#8217;s viewpoint needs to be understood.</strong></span></p>
+<h3><span style="font-weight: 400;">Data preparation, cleaning and transforming</span></h3>
+<p><span style="font-weight: 400;">Once a data scientist knows the needs and the goals of data analysis, data collection or data “harvest” can begin from different sources.</span></p>
+<p>Managing<span style="font-weight: 400;"> big data cannot be done by ordinary data storing software (like Excel, MySQL, etc.) — <strong>we need software designed specifically for working with big data</strong> (like </span><b>Cassandra</b><span style="font-weight: 400;">, </span><b>Hadoop</b><span style="font-weight: 400;"> or </span><b>Spark</b><span style="font-weight: 400;">).</span></p>
+<p><span style="font-weight: 400;">Raw data can be missing some elements, have typos and duplicates, and it can consist of inconsistent different types of elements. This means that the first and most time-consuming step is the complex process of </span><b>cleaning</b><span style="font-weight: 400;">, then comes the </span><b>conversion</b><span style="font-weight: 400;">. For this, <strong>scientists need programming skills</strong> and software tools like </span><b>Talend</b><span style="font-weight: 400;"> and </span><b>Informatica</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Data engineers can be a great help with collecting and preprocessing data since they are specialists in this field.</span></p>
+<h3><span style="font-weight: 400;">Data analysis</span></h3>
+<p><span style="font-weight: 400;">Then comes data analysis, using mathematical and statistical methods.</span></p>
+<p><b>Python</b><span style="font-weight: 400;"> and </span><b>R</b><span style="font-weight: 400;"> (also, some other languages like MatLab and Scala), and statistics software like </span><b>SPSS</b><span style="font-weight: 400;"> and </span><b>SAS</b><span style="font-weight: 400;"> are used for creating models.</span></p>
+<p><span style="font-weight: 400;">In this phase, <strong>analysts are looking for trends</strong> using many different techniques like classification, clustering, regression, decision trees, machine learning, and neural networks.</span></p>
+<h3><span style="font-weight: 400;">Data visualization and presentation</span></h3>
+<p><span style="font-weight: 400;">The last phase of data science is visualizing and presenting the results to the clients or decision-makers — the data must be interpreted and explained to professionals who do not come from the world of programming and mathematics. The most often used tools for this are </span><b>Tableau, Power BI</b><span style="font-weight: 400;">, </span><b>the D3</b> <b>JavaScript library</b><span style="font-weight: 400;">,</span><b> Python visualization packages (Matplotlib, Seaborn, Plotly), and R ggplot.</b></p>
+<h3><span style="font-weight: 400;">Incorporating models into a corporate environment</span></h3>
+<p><span style="font-weight: 400;">After presenting the data, another process may begin, or a process might change in the life of the company. If a data scientist’s work can be incorporated into the operation of a corporation, the data scientist usually gets to be part of a team that completes this task.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">What do data scientists need to know?</span></h2>
+<p><span style="font-weight: 400;">Data science is the intersection of </span><b>statistics</b><span style="font-weight: 400;">, </span><b>programming</b><span style="font-weight: 400;"> and the field it’s being used in. Data scientists need to be able to see the process as a whole from </span><b>needs assessment</b><span style="font-weight: 400;"> to </span><b>presenting the results</b><span style="font-weight: 400;">, and they need good </span><b>communication and problem-solving skills</b><span style="font-weight: 400;">, and </span><b>teamwork</b><span style="font-weight: 400;">. A </span><b>practical approach</b><span style="font-weight: 400;">, </span><b>business skills</b><span style="font-weight: 400;">, and </span><b>insight into the area of use</b><span style="font-weight: 400;"> are also important.</span></p>
+<p><span style="font-weight: 400;">Data scientists also need to know data cleaning, processing, analysis and visualization software as well as </span><b>Python</b><span style="font-weight: 400;"> or </span><b>R</b><strong> programming.</strong></p>
+<p><span style="font-weight: 400;">Not all positions require a university degree, but <strong>data scientists usually must have at least BSc or MSc degrees</strong> in a related field of study (mathematics, IT, engineering) to get a job. This is because the mathematical and statistical skills needed for this job can be acquired mostly at universities. Data Science is often a specialization in some of these fields.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13499" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/data-science-2.png" alt="" width="1024" height="768" srcset="/blog/wp-content/uploads/2021/06/data-science-2.png 1024w, /blog/wp-content/uploads/2021/06/data-science-2-300x225.png 300w, /blog/wp-content/uploads/2021/06/data-science-2-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Data scientist salaries</span></h2>
+<p><span style="font-weight: 400;"><strong>Data science jobs are</strong> usually <strong>extremely well-paid,</strong> even compared to the field of IT. It is no coincidence that they get paid well — as a data scientist, you have complex tasks so you need to be versatile and have diversified knowledge to complete them.</span></p>
+<p><span style="font-weight: 400;">There are three main areas of data scientist jobs: developer, infrastructure, or manager.</span></p>
+<p><span style="font-weight: 400;">Of course, the salaries are different in these three areas. You can earn the most money as a manager, and the least amount in the field of infrastructure.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_13502" style="width: 834px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13502" loading="lazy" class="wp-image-13502 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/datasalary.png" alt="" width="824" height="355" srcset="/blog/wp-content/uploads/2021/06/datasalary.png 824w, /blog/wp-content/uploads/2021/06/datasalary-300x129.png 300w, /blog/wp-content/uploads/2021/06/datasalary-768x331.png 768w" sizes="(max-width: 824px) 100vw, 824px" /><p id="caption-attachment-13502" class="wp-caption-text"><a href="https://www.c-sharpcorner.com/blogs/data-scientist-vs-machine-learning-engineer-career-option-to-choose" target="_blank" rel="noopener external" data-wpel-link="external">Credit: C# corner</a></p></div></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Where can I learn this? – Data Science courses </span></h2>
+<p><span style="font-weight: 400;">There are two main learning paths to follow if you’d like to become a Data Scientist.</span></p>
+<p><span style="font-weight: 400;">The first option is to <strong>complete a data science course.</strong> You can find several pieces of training on the Internet even for free, and they are also worth a try if you’d like to take a look at this area.</span></p>
+<h3><span style="font-weight: 400;">Here we selected a few online Data Science course:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.datacamp.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DataCamp Free &#8211; Data Science course for Everyone</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">2 hours</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Free</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.hult.edu/lp/masters/live-online-msba/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Hult International Business School &#8211; Live Online Masters in Business Analytics</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">+ 1 year</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Udemy &#8211; The Data Science Course 2021: Complete Data Science Bootcamp</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">28,5 hours on-demand video</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: Check the website for actual pricing</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Coursera &#8211; IBM Data Science Professional Certificate</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">11 month</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Free</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.edx.org/course/subject/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">edX &#8211; Data Science courses on edX</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner, Intermediate, Advanced</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.skillshare.com/browse/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SkillShare &#8211; Online Data Science Courses</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner, Intermediate, Advanced</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.scalefree.com/datavaulttrainings/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ScaleFree &#8211; Data Vault 2.0 Training</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">6 weeks</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: </span><span style="font-weight: 400;">€</span><span style="font-weight: 400;">2.798</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://brainstation.io/course/online/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">BrainStation &#8211; Data Science Course Online</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SimpliLearn &#8211; Data Science Course</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">+ 220 hours</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: </span><span style="font-weight: 400;">€</span><span style="font-weight: 400;">1.499</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://emeritus.org/online-data-science-analytics-courses/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Emeritus &#8211; Online Data Science &amp; Analytics Courses</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.dataquest.io/data-science-courses-directory/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DataQuest &#8211; Data Science Courses Pathway</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">The second way to become a Data Scientist is to <strong>attend a University course.</strong> You can complete both undergraduate and graduate-level and you also have the option to take part as a guest student at the chosen courses.</span></p>
+<h3><span style="font-weight: 400;">Here we selected a few Uni degrees about Data Science:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://online-learning.harvard.edu/subject/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Harvard University &#8211; Online Data Science Courses</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13503" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/harvard-courses-1024x372.png" alt="" width="1024" height="372" srcset="/blog/wp-content/uploads/2021/06/harvard-courses-1024x372.png 1024w, /blog/wp-content/uploads/2021/06/harvard-courses-300x109.png 300w, /blog/wp-content/uploads/2021/06/harvard-courses-768x279.png 768w, /blog/wp-content/uploads/2021/06/harvard-courses-1080x392.png 1080w, /blog/wp-content/uploads/2021/06/harvard-courses.png 1322w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://courses.ceu.edu/courses/2020-2021/mastering-process-data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">CEU &#8211; Mastering the Process of Data Science</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13504" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/ceu_data_science.png" alt="" width="541" height="227" srcset="/blog/wp-content/uploads/2021/06/ceu_data_science.png 541w, /blog/wp-content/uploads/2021/06/ceu_data_science-300x126.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://www.ue-germany.com/blog/en-digital-business-data-science-bachelor-int" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">University of Europe &#8211; Digital Business &amp; Data Science</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13505" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/university_of_europe.png" alt="" width="972" height="470" srcset="/blog/wp-content/uploads/2021/06/university_of_europe.png 972w, /blog/wp-content/uploads/2021/06/university_of_europe-300x145.png 300w, /blog/wp-content/uploads/2021/06/university_of_europe-768x371.png 768w" sizes="(max-width: 972px) 100vw, 972px" /></p>
+<p><span style="font-weight: 400;">If you’d like to see more courses, here below you can check more lists about Data Science training options and other educational materials.</span></p>
+<h3><span style="font-weight: 400;">Collector pages:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.learndatasci.com/best-data-science-online-courses/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Top 8 Online Data Science Courses &#8211; 2021 Guide &amp; Reviews</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://towardsdatascience.com/5-online-data-science-courses-you-can-start-now-748e4a2b5403" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">5 Online Data Science Courses You Can Start Now</span></a></li>
+</ul>
+<p><div style="width: 810px" class="wp-caption aligncenter"><img loading="lazy" src="https://cdn-media-1.freecodecamp.org/images/1*ius9T3uGkd743dljInNF8w.jpeg" alt="" width="800" height="831" /><p class="wp-caption-text">Credit: <a href="https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/" target="_blank" rel="noopener external" data-wpel-link="external">FreeCodeCamp</a></p></div></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/?sh=d813f892bbf5" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">The 9 Best Free Online Data Science Courses in 2020</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">I Ranked Every Intro to Data Science Course on the Internet, Based on Thousands of Data Points</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.cio.com/article/3222879/15-data-science-certifications-that-will-pay-off.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">15 Data Science Course Certifications that pay off</span></a></li>
+</ul>
+<p><strong>In our article series <a href="https://codeberryschool.com/blog/en/category/programming-courses/" data-wpel-link="external" target="_blank" rel="external">“Programming courses”</a></strong><strong> we collected the learning opportunities,</strong> so if you want to learn to program, you can find these, and other interesting facts there which can help you find the perfect course.</p>
+<h3>Programing courses:</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/top-13-python-programming-courses/" target="_blank" rel="noopener external" data-wpel-link="external">Top 13 Python programming courses</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-course-java-programming-course/" target="_blank" rel="noopener external" data-wpel-link="external">Top 10 Java courses for beginners</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-courses-for-beginners/" target="_blank" rel="noopener external" data-wpel-link="external">Top 10 JavaScript courses for beginners</a></li>
+<li><a href="https://codeberryschool.com/blog/en/programming-for-kids/" target="_blank" rel="noopener external" data-wpel-link="external">A New Necessary Skill? Programming for Kids</a></li>
+<li><a href="https://codeberryschool.com/blog/en/programming-for-free/" target="_blank" rel="noopener external" data-wpel-link="external">4+1 easy ways of learning programming for free</a></li>
+<li class="post-title entry-title"><a class="et-accent-color" href="https://codeberryschool.com/blog/en/web-development-course/" target="_blank" rel="noopener external" data-wpel-link="external">10+ Best Web Development Courses Online</a></li>
+<li class="post-title entry-title"><a class="et-accent-color" href="https://codeberryschool.com/blog/en/programming-courses-with-job-guarantee/" target="_blank" rel="noopener external" data-wpel-link="external">Playing it safe – Top 10 Programming Courses With Job Guarantees</a></li>
+<li><strong>Data Science Courses, Data Scientist Salaries, and Everything About DS</strong></li>
+</ul>
+<p>Would you like to start programming online? Come and try <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">the first 25 lessons</a> of CodeBerry Programming School for free!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

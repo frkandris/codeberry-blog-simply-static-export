@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>c# kezdőknek | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/c-kezdoknek/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 15:12:39 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>A C# programozás alapjai – C# programozás kezdőknek</title>
+		<link>/blog/hu/a-c-sharp-programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2020 06:45:55 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[.net programozás]]></category>
+		<category><![CDATA[c sharp]]></category>
+		<category><![CDATA[c sharp programozás]]></category>
+		<category><![CDATA[c sharp programozás alapjai]]></category>
+		<category><![CDATA[c# alapok]]></category>
+		<category><![CDATA[c# kezdőknek]]></category>
+		<category><![CDATA[c# programozás]]></category>
+		<category><![CDATA[c# programozás kezdőknek]]></category>
+		<category><![CDATA[c# programozás könyv]]></category>
+		<category><![CDATA[c# programozás visual studio]]></category>
+		<category><![CDATA[c# programozási nyelv]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[programozás c#]]></category>
+		<category><![CDATA[unity programozás]]></category>
+		<category><![CDATA[unity programozó]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=8007</guid>
+
+					<description><![CDATA[A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket. Szeretnél online megtanulni programozni? Gyere, és próbáld ki az első 25 leckénket ingyen a CodeBerry Programozóiskolában! Bevezetés a programozásba A webprogramozás alapjai – Webfejlesztés kezdőknek A Java programozás alapjai – Java programozás kezdőknek Python [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>A CodeBerry Programozóiskola <a href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" target="_blank" rel="noopener external" data-wpel-link="external">“Programozási nyelvek” című cikksorozatából </a>megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><strong>A C# programozás alapjai – C# programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<h2>A C# felhasználási területei</h2>
+<p><span style="font-weight: 400;">A C# (ejtsd: „szí sárp”) egy objektumorientált programnyelv, amit elsősorban asztali, mobil- és webes alapú alkalmazások fejlesztésére használnak Windowsra és más Microsoft által kibocsátott termékekre. A C#-pal szinte bármit fejleszthetünk Microsoftra </span><a href="https://www.webmaster442.hu/mi-az-a-net-framework-es-mire-jo/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">a .NET keretrendszer</span></a><span style="font-weight: 400;"> használatával. A .NET keretrendszer rengeteg programnyelvet támogat, például a </span><a href="http://nyelvek.inf.elte.hu/leirasok/VisualBasic/index.php?chapter=1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">VB.NET-et</span></a><span style="font-weight: 400;">, a </span><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">C++-t</span></a><span style="font-weight: 400;"> és az </span><a href="https://schonherzbazis.hu/hirek/reszletek/Funkcionalis-nyelvek-Mik-is-ezek%2C-es-mire-szolgalnak" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">F#-ot</span></a><span style="font-weight: 400;">, de a C# a legnépszerűbb közülük.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Mi is pontosan a .NET?</h2>
+<p><span style="font-weight: 400;">Ahhoz, hogy jobban megértsük a C#-ot, először a .NET-ről kell beszélnünk, hiszen ez a keretrendszer szinte összenőtt a programnyelvvel. A .NET keretrendszert a Microsoft fejlesztette ki, és rengeteg osztálykönyvtárt (előre megírt kódot) tartalmaz, aminek a segítségével a fejlesztők gyorsabban és hatékonyabban hozhatnak létre új alkalmazásokat.</span></p>
+<p><span style="font-weight: 400;">A C#-ot és a .NET-et gyakran együtt emlegetik, mivel mindkettő a Microsoft terméke. De vannak más keretrendszerek is, amiket C#-pal használnak – ilyen például a Unity.</span></p>
+<p>&nbsp;</p>
+<h2>Játékfejlesztés Unityvel</h2>
+<p><span style="font-weight: 400;">A </span><a href="https://www.gamesbond.hu/2018/11/21/unity-szoftver-kezdoknek/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Unity</span></a><span style="font-weight: 400;"> egy olyan C# keretrendszer, amit kimondottan a számítógépes játékok készítésére fejlesztettek ki. Mára a Unity lett a legelterjedtebb játékmotor, és a legkelendőbb játékok egyharmada ezzel készül. A legtöbb VR-játék fejlesztésére is Unityt használnak. A Samsung Gear játékok körülbelül 90%-át, és az Oculus Rift játékok 53%-át Unityvel fejlesztették.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_8737" style="width: 333px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8737" loading="lazy" class="wp-image-8737 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Unity-LEGO.jpg" alt="Így néz ki a játékfejlesztés Unity-ben" width="323" height="500" srcset="/blog/wp-content/uploads/2020/06/Unity-LEGO.jpg 323w, /blog/wp-content/uploads/2020/06/Unity-LEGO-194x300.jpg 194w" sizes="(max-width: 323px) 100vw, 323px" /><p id="caption-attachment-8737" class="wp-caption-text">Így néz ki a játékfejlesztés Unity-ben</p></div></p>
+<h2>Webfejlesztés</h2>
+<p><span style="font-weight: 400;">A C# programnyelv egyik nagy előnye, hogy </span><a href="https://docs.microsoft.com/hu-hu/azure/app-service/app-service-web-get-started-dotnet-framework" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">felhasználhatod a Microsoft hatalmas eszközkönyvtárát a webfejlesztéshez.</span></a><span style="font-weight: 400;"> Az ASP.NET-en keresztül (ami a .NET keretrendszer része) weboldalakat, weblapokat és egyéb webes alkalmazásokat is fejleszthetsz a C#-pal.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_8738" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8738" loading="lazy" class="wp-image-8738 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/configure-web-app-project-framework-1024x711.png" alt="Az ASP.NET-en keresztül C#-pal is fejleszthetsz weboldalakat" width="1024" height="711" srcset="/blog/wp-content/uploads/2020/06/configure-web-app-project-framework-1024x711.png 1024w, /blog/wp-content/uploads/2020/06/configure-web-app-project-framework-300x208.png 300w, /blog/wp-content/uploads/2020/06/configure-web-app-project-framework-768x533.png 768w, /blog/wp-content/uploads/2020/06/configure-web-app-project-framework.png 1026w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-8738" class="wp-caption-text">Az ASP.NET-en keresztül C#-pal is fejleszthetsz weboldalakat</p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">A C# és a .NET</span> <span style="font-weight: 400;">keretrendszer kéz a kézben járnak, de nem feltétlenül kell a .NET framework-öt használnod, ha C# nyelven akarsz programozni. Csupán arról van szó, hogy ezek jól működnek együtt, mert mindkettőt a Microsoft fejlesztette.</span></p>
+<p>&nbsp;</p>
+<h2>Mobilalkalmazás-fejlesztés</h2>
+<p><span style="font-weight: 400;">A .NET keretrendszernek köszönhetően ezen a nyelven mobilalkalmazásokat is fejleszthetsz Windowsra, iOS-re és Androidra. Korábban csak Windows Phone-ra lehetett fejleszteni vele, de miután </span><a href="https://sg.hu/cikkek/it-tech/138681/miert-bukott-el-a-windows-mobile" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">az elbukott a piacon</span></a><span style="font-weight: 400;">, a Microsoft kiterjesztette a .NET keretrendszert, így lehetővé vált a platformfüggetlen fejlesztés is.</span></p>
+<p><span style="font-weight: 400;">Elkerülendő, hogy mobilalkalmazás-fejlesztő eszközei is elbukjanak a Windows Phone-nal együtt, a Microsoft inkább az iOS és az Android operációs rendszereken is engedélyezte a Visual Studio használatát.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_8739" style="width: 610px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8739" loading="lazy" class="wp-image-8739 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Codelane2x-600x450-1.png" alt=" Így néz ki a fejlesztés Visual Studioban" width="600" height="450" srcset="/blog/wp-content/uploads/2020/06/Codelane2x-600x450-1.png 600w, /blog/wp-content/uploads/2020/06/Codelane2x-600x450-1-300x225.png 300w" sizes="(max-width: 600px) 100vw, 600px" /><p id="caption-attachment-8739" class="wp-caption-text">Így néz ki a fejlesztés Visual Studioban</p></div></p>
+<h2>Platformfüggetlen fejlesztés</h2>
+<p><span style="font-weight: 400;">A </span><a href="https://www.monodevelop.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">MonoDevelop </span></a><span style="font-weight: 400;">és a </span><a href="https://docs.microsoft.com/en-us/xamarin/get-started/installation/windows" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Xamarin Studioshoz</span></a><span style="font-weight: 400;"> hasonló, a Microsofttól független harmadik féltől származó IDE-k („Integrated Development Environments”, azaz integrált fejlesztői környezetek) lehetővé teszik, hogy Mac OS-re és Linuxra való fejlesztéshez is használhassuk a C#-ot és a .NET keretrendszert.</span></p>
+<p><span style="font-weight: 400;">Ennek köszönhetően bármilyen platformra fejleszthetünk C#-ban, az Xboxtól kezdve az Androidon és a Mac OS-en keresztül a webfejlesztésig.</span></p>
+<p>&nbsp;</p>
+<h2>Mi az a C#?</h2>
+<p><span style="font-weight: 400;">A C#-ot a Microsoft egy dolgozója, Anders Hejlsberg fejlesztette ki 2000-ben a Sun Microsystems által készített Java konkurenciájaként. Hejlsberg azt állítja, hogy a C# közelebb áll a C++-hoz, bár sok közös tulajdonsága van a Javával is.</span></p>
+<p><span style="font-weight: 400;">A „C#” nevében a kottaírásban használatos kereszt szimbóluma jelenik meg, ami egy félhanggal megemeli az adott hangot, és amit angolul „C sharp”-ként lehetne kibontani. A C# emellett a C++++-ra is emlékeztet, ha a pluszokat egy 2&#215;2-es rácsban helyezzük el.</span></p>
+<p><span style="font-weight: 400;">A modern Java és a C++ programnyelvek nyomdokaiba lépve a C# is egy általános célú, objektumorientált nyelv, ami az egyszerűség mellett a kiemelkedő hatékonyságot célozza.</span></p>
+<p>&nbsp;</p>
+<h2>Milyen C#-ban programozni?</h2>
+<p><span style="font-weight: 400;">Így néz ki egy C#-kód a „Helló, világ!” példát használva:</span><b></b></p>
+<pre class="wp-block-code"><code class="language-csharp" lang="csharp">using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Helló, világ!");
+    }
+}</code></pre>
+<p>&nbsp;</p>
+<h2>Mennyit kereshetek a C# programozással?</h2>
+<p>A C#-fejlesztők bére a szaktudásuknak megfelelően változik, hiszen a .NET keretrendszerrel programok széles választéka hozható létre. Például egy olyan C#-fejlesztő, aki weboldalakat és webes alkalmazásokat készít, lehet, hogy ebben az esetben sokkal kevesebbet keres, mint egy szoftvermérnök vagy egy vezető .NET-fejlesztő, hiába használnak mindketten C#-ot.</p>
+<p>Az <a href="https://www.indeed.com/career/.net-developer/salaries" target="_blank" rel="noopener external" data-wpel-link="external">indeed.com</a> adatai alapján az Egyesült Államokban az 1–4 éve C#-fejlesztőként dolgozó programozók átlagosan évi 67 970 dollárt keresnek, ami havi bruttó 1,7 millió forintnak felel meg. Persze ebbe az olyan drága térségek bérei is beleszámítanak, mint San Francisco vagy New York, ahol a fizetések a magas megélhetési költségekhez igazodnak.</p>
+<p>Hazánkban jelenleg az alábbiak szerint alakulnak a C# programozással foglalkozó szakemberek fizetései:</p>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>Junior C# fejlesztő</td>
+<td>Bruttó 388.000 Ft</td>
+</tr>
+<tr>
+<td>Medior C# fejlesztő</td>
+<td>Bruttó 670,000 Ft</td>
+</tr>
+<tr>
+<td>Senior C# fejlesztő</td>
+<td>Bruttó 980.000 Ft</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p><em>Az adatok forrása: <a href="https://www.fizetesek.hu/fizetesek/informacios-technologiak/csharp-programozo" target="_blank" rel="noopener external" data-wpel-link="external">Fizetesek.hu</a></em></p>
+<p>&nbsp;</p>
+<p>A fizetési rangsorban egyébként a 72. helyet foglalja el a C# programozás, a hölgyek itt is elég alulreprezentáltak, mindössze 6%-át teszik ki a C# fejlesztőknek.</p>
+<p>Az átlagéletkor 24 év, úgyhogy ha fiatalos csapatban szeretnél dolgozni, akkor mindenképp jó helyen jársz.</p>
+<p>Ha pedig részletesebben is érdekel, mennyit kereshetsz napjainkban programozóként, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>Fizetési kalauzunkban</strong> </a>összegyűjtöttük a jelenlegi nemzetközi és hazai IT-s fizetéseket.</p>
+<h2>Hogyan tanulhatom meg a C# programozást?</h2>
+<p>A C#-ot több módon is megtanulhatod, például online tanfolyamok, egyetemi képzések vagy intenzív programozókurzusok keretében.</p>
+<h4><em>Online képzések</em></h4>
+<p>A C# programozás megtanulásának egyik legjobb (és legolcsóbb) módja az, ha magától a Microsofttól tanulsz. A <a href="https://docs.microsoft.com/hu-hu/learn/" target="_blank" rel="noopener external" data-wpel-link="external">Microsoft Virtuális Akadémiáján</a> keresztül ingyen megtanulhatsz C#-pal programozni kifejezetten erre a célra készített oktatói videósorozatok és egyéb források segítségével.</p>
+<p>Egyszerűen menj fel a Microsoft oldalára, kezdd el nézni a videókat és kövesd az utasításokat! A Microsoft Virtuális Akadémiájától még egy tanúsítványt is kapsz a végén, amit csatolhatsz az önéletrajzodhoz.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><em>Egyetem</em></h4>
+<p>Gyakran említjük a diákjainknak, hogy az egyetemi képzések mindig átfogóbb képet adnak, és megtanítják azokat az alapvető koncepciókat is, amikre a programozás elmélete épül. Azonban az informatikai képzések nem garantálják, hogy az egyetem befejeztével programozni is tudni fogsz.</p>
+<p>Az egyetemi képzésed 4 éve alatt leginkább a matematikát, az elektronikát és a számítógépes nyelvek működésének alapjait fogod tanulni. Ha egy bizonyos programnyelv érdekel, például a C#<strong>,</strong> akkor bizony a szabadidődet kell rááldoznod annak megtanulására.</p>
+<h4><em>Intenzív programozó kurzusok</em></h4>
+<p>Akinek nem fűlik a foga a hagyományos oktatási formákhoz, és azonnal bele szeretne kezdeni a karrierépítésbe, gyorsabban hozzájuthat a kívánt tudáshoz online képzések és tanfolyamok keretében. Itt nagyobb figyelmet fordítanak arra, hogy a résztvevők elsajátítsák a munka tényleges elvégzéséhez szükséges képességeket, mint arra, hogy minden sor kódot töviről hegyire megértsenek.</p>
+<p>Ha pedig szívesen olvasnál bővebben a témában, less be a <a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">“Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?”</a> című cikkünkbe. </p>
+<h2>Mennyi idő megtanulni a C# programozást?</h2>
+<p>Ahogy minden szakismeretnek, úgy egy programnyelv megtanulásának időtartama is nagy mértékben változhat az egyéntől függően. Ha rendelkezel programozói háttérrel, a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">C# programozás alapjainak</a> elsajátítása 2–3 hónapodba telhet.</p>
+<p>A fejlesztőként való elhelyezkedéshez szükséges tudás és képességek megszerzéséhez viszont körülbelül 1–2 évnyi gyakorlás kell.</p>
+<p>A webfejlesztői nyelvekkel (HTML, CSS és JavaScript) ellentétben egy intenzív, <a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">14 hetes kurzus keretében</a> nehéz mindent magadba szívni, ami elég ahhoz, hogy munkát is találj C#-fejlesztőként. Éppen ezért sokkal ritkábbak azok a programozókurzusok, amik C#-ot tanítanak. </p>
+<p>Egy ilyen programozókurzus sokat taníthat neked a C# programozásról, de ajánlott további időt szánni a tanulásra és gyakorlásra, mielőtt munkába állsz C#- vagy .NET-fejlesztőként.  </p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Jó választás nekem a C# programozás?</h2>
+<p>Mielőtt eldöntöd, megtanulj-e egy programnyelvet, mindig jó ötlet áttekinteni, hogy az hogyan illeszkedik a hosszú távú céljaidhoz. </p>
+<p>A C# sokak szerint egy elég nehezen megtanulható nyelv, ezért kezdő programozók számára nem feltétlenül ideális választás. Persze ez nem azt jelenti, hogy lehetetlen a semmiből megtanulni, de elég meredek a tanulási görbéje.</p>
+<p>A kezdőknek inkább az egyszerűbb nyelvek <a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">(pl. HTML, CSS vagy JavaScript) elsajátítását</a> javasoljuk, ugyanis nem árt némi előzetes programozási tapasztalat a C# megtanulásához. </p>
+<p>Hogy megtudd, neked való-e a C#<strong>,</strong> olvasd el a „<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a>” című cikkünket! Ebben több programnyelvet és azok felhasználási területeit is megismerheted.</p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “<a class="rank-math-link" href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelvek” című cikksorozatából</a> megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><strong>A C# programozás alapjai – C# programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen a CodeBerry Programozóiskolában!</a></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A C++ programozás alapjai – 8 top tudnivaló a C++ nyelvről kezdőknek</title>
+		<link>/blog/hu/a-c-programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2020 07:38:21 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[c# alapok]]></category>
+		<category><![CDATA[c# kezdőknek]]></category>
+		<category><![CDATA[c# programozás]]></category>
+		<category><![CDATA[c# programozás kezdőknek]]></category>
+		<category><![CDATA[c# programozási nyelv]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[cpp programozás]]></category>
+		<category><![CDATA[Programozás alapjai]]></category>
+		<category><![CDATA[programozás kezdőknek]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7973</guid>
+
+					<description><![CDATA[A  “Programozási nyelvek” sorozatunk ezen epizódjában a C++ programozás alapjai lesznek terítéken.  Ha a többi programozási nyelv is felkeltette az érdeklődésedet, további cikkeinkből megtudhatod, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket. Szeretnél online megtanulni programozni? Gyere, és próbáld ki az első 25 leckénket ingyen a CodeBerry Programozóiskolában! Bevezetés a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>A  “<a href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelvek” sorozatunk</a> ezen epizódjában a <a href="https://codeberryschool.com/hu/cpp-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external">C++ programozás alapjai</a> lesznek terítéken.  Ha a többi programozási nyelv is felkeltette az érdeklődésedet, további cikkeinkből megtudhatod</strong>, hogy milyen alapvető jellemzői vannak az <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">egyes programozási nyelveknek</a>, mire alkalmasak, kinek érdemes választani őket.</p>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><strong>A C++ programozás alapjai – a C++ programozásról kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<h2>A C++ felhasználása</h2>
+<p><span style="font-weight: 400;">A C++ programozással mindenféle menő dolgot készíthetsz, például </span><a href="https://www.howtogeek.com/659948/what-are-aaa-triple-a-video-games/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">AAA (azaz nagy költségvetésű)</span></a><span style="font-weight: 400;"> videojátokat vagy hatékony asztali alkalmazásokat és mobilalkalmazásokat. A C++ egy alacsony szintű programozási nyelv, így nehezebb megérteni, </span><span style="font-weight: 400;">más, mint magas szintű társai, </span><span style="font-weight: 400;"> de nagyobb kontrollt ad a hardver felett. Azt is mondják, hogy a C++ programozási nyelv  „közelebb visz a fémhez”. </span><a href="https://www.youtube.com/watch?v=lBRXOZSUw54" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Játékfejlesztők esetében</span></a><span style="font-weight: 400;"> ez</span><span style="font-weight: 400;"> a tökéletes választás, ha konzolokra </span><span style="font-weight: 400;">szeretne valaki</span><span style="font-weight: 400;"> videojátékokat fejleszteni.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/cpp-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12201 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/10.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/10.png 1024w, /blog/wp-content/uploads/2020/06/10-300x100.png 300w, /blog/wp-content/uploads/2020/06/10-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">A C++-t emellett rendszerprogramozásra, beágyazott rendszerekhez, valamint backend webfejlesztésre is használhatod. A C++ </span><span style="font-weight: 400;">nyelv is </span><span style="font-weight: 400;">nagyszerűen alkalmazható operációs rendszerek és eszközmeghajtók létrehozására és finomhangolására.</span></p>
+<p>&nbsp;</p>
+<p><div style="width: 970px" class="wp-caption aligncenter"><img loading="lazy" src="https://cdn.pixabay.com/photo/2014/05/02/21/50/blogging-336376_960_720.jpg" alt="C++ programozással kevesebben foglalkoznak, épp ezért nagyon értékes tudás" width="960" height="640" /><p class="wp-caption-text"> C++ programozással kevesebben foglalkoznak, épp ezért nagyon értékes tudás</p></div></p>
+<h2>Mi az a C++?</h2>
+<p><span style="font-weight: 400;">A C++ egy </span><a href="http://www.inczedy.hu/~viktoria/prog/2_ora/progr_nyelvek.pdf" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">általános célú programozási nyelv</span></a><span style="font-weight: 400;">, ami a C-re, a világon a legszélesebb körben használt programnyelvre épít. Az évek során a</span><span style="font-weight: 400;"> C nyelven írt kódok helyét</span><span style="font-weight: 400;"> átvették a nyelv modernebb változatai, például a C++ és a C♯.</span></p>
+<p><span style="font-weight: 400;">A C++ programozást 1985-ben találta fel Bjarne Stroustrup, hogy ezzel létrehozza az 1972-ben készített C programnyelv gyorsabb, erősebb változatát. A C++ nagyrészt a C szintaxisára épül, azonban belekerült néhány új funkció – például az osztályok, amelyek segítségével a nyelv alkalmassá vált az objektumorientált programozásra is.</span></p>
+<p><span style="font-weight: 400;">A</span><span style="font-weight: 400;"> C programozási nyelvbe</span><span style="font-weight: 400;">n a „++” a numerikus változó értékét növeli (azaz az 1-ből 2 lesz). Bjarne azért adta ezt a nevet a programnyelvének, hogy jelezze, ez a C egy sokkal fejlettebb változata.</span></p>
+<p><span style="font-weight: 400;">A C++ programozás átvette az elődje helyét mint a ma használt egyik legnépszerűbb programozási nyelv.</span></p>
+<p>&nbsp;</p>
+<h2>Milyen a C++-ban programozni?</h2>
+<p><span style="font-weight: 400;">Így néz ki egy C++ kód a „Helló, világ!” példát használva:</span></p>
+<pre class="wp-block-code"><code class="language-cpp" lang="cpp">#include &lt;iostream&gt;
+int main()
+{
+  std::cout &lt;&lt; "Helló, világ!\n";
+}</code></pre>
+<p>&nbsp;</p>
+<h2>Mennyit keresnek a C++ programozók?</h2>
+<p>Az <a href="https://www.indeed.com/career/c%2B%2B-developer/salaries?from=top_sb" target="_blank" rel="noopener external" data-wpel-link="external">indeed.com</a> adatai alapján az Egyesült Államokban az 1–3 éve a szakmában levő C++-fejlesztők átlagosan évi 116 115 dollárt kapnak ezért a nyelvért, ami nagyjából havi bruttó 2,9 millió forintnak felel meg. Bár ez olyan drága térségek béreit is magába foglalja, mint San Francisco és New York, ahol a fizetések igazodnak a megélhetés magas költségéhez.</p>
+<p>Hazánkban jelenleg az alábbiak szerint alakulnak a C++-al foglalkozó szakemberek fizetései:</p>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>Junior C++ fejlesztő</td>
+<td>Bruttó 465.000 Ft</td>
+</tr>
+<tr>
+<td>Medior C++ fejlesztő</td>
+<td>Bruttó 705,000 Ft</td>
+</tr>
+<tr>
+<td>Senior C++ fejlesztő</td>
+<td>Bruttó 945.000 Ft-tól</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p><em>Az adatok forrása: <a href="https://www.fizetesek.hu/fizetesek/informacios-technologiak/cpp-programozo" target="_blank" rel="noopener external" data-wpel-link="external">Fizetések.hu</a></em></p>
+<p>Ha pedig részletesebben olvasnál a programozói fizetések alakulásáról hazánkban, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>informatikai fizetési kalauzunkban</strong></a> megtalálod a legfrissebb adatokat.</p>
+<p>A fizetési rangsorban egyébként a 47. helyet foglalja el a C++ programozás, a hölgyek egyelőre sajnos nem igazán vannak jelen ezen a piacon. </p>
+<p>Az átlagéletkor 27 év, úgyhogy a fiatalos lendület ennél a pozíciónál is garantált.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/cpp-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Hogyan tanulhatom meg a C++ programozást?</h2>
+<p>A C++ egy eléggé bonyolult, nehezen megtanulható nyelv, éppen ezért sok programozó inkább a HTML-lel, CSS-el vagy a JavaScripttel kezd. Így elkezdhetik a programozói karrierjüket a webfejlesztéssel, mellette pedig megtanulhatják a C++-t, miközben már pénzt keresnek és programozási tapasztalatot szereznek.</p>
+<p>&nbsp;</p>
+<figure class="wp-block-image size-large">
+<div id="attachment_8693" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8693" loading="lazy" class="wp-image-8693" src="https://i1.wp.com/codeberryschool.com/blog/wp-content/uploads/2020/07/robot-507811_1920.jpg?fit=1024%2C724&amp;ssl=1" alt="A C++ programozás “közelebb visz a fémhez”
+" width="1024" height="724" srcset="/blog/wp-content/uploads/2020/07/robot-507811_1920.jpg 1920w, /blog/wp-content/uploads/2020/07/robot-507811_1920-300x212.jpg 300w, /blog/wp-content/uploads/2020/07/robot-507811_1920-1024x724.jpg 1024w, /blog/wp-content/uploads/2020/07/robot-507811_1920-768x543.jpg 768w, /blog/wp-content/uploads/2020/07/robot-507811_1920-1536x1086.jpg 1536w, /blog/wp-content/uploads/2020/07/robot-507811_1920-400x284.jpg 400w, /blog/wp-content/uploads/2020/07/robot-507811_1920-1080x763.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-8693" class="wp-caption-text">A C++ programozás “közelebb visz a fémhez”</p></div><figcaption></figcaption></figure>
+<p>&nbsp;</p>
+<h2>Néhány lépés, ami segíthet a C++ programozás megtanulásában:</h2>
+<p>Első lépésként iratkozz be egy helyi egyetem informatikai képzésére! Érdemes minden alapvető számítástechnikai koncepciót megérteni, mielőtt belevágnál egy olyan alacsony szintű programozási nyelv elsajátításába, mint a C++.</p>
+<p>Sok időt kell vele töltened majd az iskolán kívül is, mivel az informatikai képzések inkább az elmélet megtanítására koncentrálnak, nem a gyakorlati készségekre.</p>
+<p>Éppen ezért a C++-tanulás második lépése a megfelelő nyomtatott és digitális források felkutatása, amikből a szabadidődben tanulhatsz. Rengeteg <a href="https://codeberryschool.com/blog/hu/programozas-konyvek-magyarul/" target="_blank" rel="noopener external" data-wpel-link="external">könyv </a>és <a href="https://www.youtube.com/watch?v=oQ47QQ2D3kQ&amp;list=PLuYHIg_0xQJuGfFx6AxtMgNwoOpZlv7z0" target="_blank" rel="noopener external" data-wpel-link="external">tananyag</a> áll rendelkezésre, amiből megtanulhatsz C++-ban programozni, és az interneten is bőven lelhetők fel <a href="https://codeberryschool.com/blog/hu/valassz-kezdo-programozo-tanfolyamot/" target="_blank" rel="noopener external" data-wpel-link="external">kurzusok és különböző útmutatók</a>. A C++ már régóta létezik, így akár a helyi könyvtárban is találhatsz jó könyveket a C++-programozásról.</p>
+<p>Harmadik lépésként keress olyan online közösségeket, fórumokat és üzenőfalakat, ahol segítséget kaphatsz tapasztaltabb C++-programozóktól! Gyakorolj folyamatosan, és ha elakadsz, kérj segítséget a közösségtől! Az olyan weboldalakon, mint például a <a href="http://cplusplus.com/" target="_blank" rel="noopener external" data-wpel-link="external">Cplusplus.com</a>, fórumok is vannak a nyelvhez kapcsolódó témákról, ahol szívesen válaszolnak a kérdéseidre.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/cpp-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12203 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/C-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/C-2.png 1024w, /blog/wp-content/uploads/2020/06/C-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/C-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Mennyi idő megtanulni a C++-t?</h2>
+<p>A programozási nyelvek megtanulásának ideje nagyban függ attól, milyen módszereket használsz, mennyi mindent tudsz megjegyezni, és hetente hány órát szánsz a tanulásra. Ne számíts arra, hogy mindent tudni fogsz a C++-ról egy féléves egyetemi képzés vagy egy 14 hetes programozóképzés elvégzése után.</p>
+<p>Ha már ismered a <a href="http://ctp.mkprog.eu/hu/c/" target="_blank" rel="noopener external" data-wpel-link="external">C programnyelvet</a>, körülbelül 3–4 hónap alatt elsajátíthatod a C++ további funkcióit. Ha viszont most találkozol először a nyelvvel, akár több mint 6 hónapodba is telhet megtanulni az alapjait.</p>
+<p>A C++ olyan szintű megtanulása, amivel már el is lehet helyezkedni C++-programozóként, 3–4 évbe is beletelik. Sajnos még a több évtizednyi tapasztalattal rendelkező C++-programozók szerint is ez az egyik legnehezebb nyelv.</p>
+<p>&nbsp;</p>
+<h2>Jó választás nekem a C++?</h2>
+<p>Mielőtt eldöntöd, megtanulj-e egy programnyelvet, mindig jó ötlet áttekinteni, hogy az hogyan illik bele a hosszú távú terveidbe.</p>
+<p>A C++ bizony nem való nyúlbéláknak. Biztos, hogy csak több évnyi tanulás és gyakorlás árán sajátítható el. Éppen ezért fontos, hogy biztos legyél a döntésedben, mielőtt belevágsz.</p>
+<p>&nbsp;</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large">
+<div style="width: 651px" class="wp-caption aligncenter"><img loading="lazy" src="https://cdn.pixabay.com/photo/2016/09/07/01/47/robot-1650649_960_720.jpg" alt="A C++ programozás összetett tudást igényel, épp ezért több ideig tart elsajátítani" width="641" height="720" /><p class="wp-caption-text">A C++ programozás összetett tudást igényel, épp ezért több ideig tart elsajátítani</p></div><figcaption></figcaption></figure>
+</div>
+<p>&nbsp;</p>
+<p>A kezdőknek azt javasoljuk, hogy inkább könnyebb nyelvekkel kezdjenek, például <a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">HTML-lel, CSS-szel vagy JavaScripttel</a>, mivel programozói háttér nélkül elég valószínűtlen, hogy meg tudják tanulni a C++-t.</p>
+<p>Hogy megtudd, neked való-e a C++, olvasd el a „<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a>” című cikkünket! Ebben több programnyelvről és azok felhasználásáról is szó esik.</p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><strong>A C++ programozás alapjai –</strong> <strong>a C++ programozásról kezdőknek</strong></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" data-wpel-link="external" target="_blank" rel="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" data-wpel-link="external" target="_blank" rel="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" data-wpel-link="external" target="_blank" rel="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" data-wpel-link="external" target="_blank" rel="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

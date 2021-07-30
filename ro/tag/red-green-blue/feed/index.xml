@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>red green blue | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/red-green-blue/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 23 Mar 2021 14:13:41 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Coduri de culori HTML</title>
+		<link>/blog/ro/coduri-de-culori-html/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 23 Mar 2021 14:13:41 +0000</pubDate>
+				<category><![CDATA[Tutoriale de programare]]></category>
+		<category><![CDATA[coduri culori]]></category>
+		<category><![CDATA[coduri de culori]]></category>
+		<category><![CDATA[coduri de culori html]]></category>
+		<category><![CDATA[coduri html]]></category>
+		<category><![CDATA[culoare html]]></category>
+		<category><![CDATA[culoare rgb]]></category>
+		<category><![CDATA[culori hex]]></category>
+		<category><![CDATA[culori html]]></category>
+		<category><![CDATA[culori web]]></category>
+		<category><![CDATA[dezvoltare web]]></category>
+		<category><![CDATA[HSLA]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[pagină web]]></category>
+		<category><![CDATA[programare]]></category>
+		<category><![CDATA[programator]]></category>
+		<category><![CDATA[programator html]]></category>
+		<category><![CDATA[red green blue]]></category>
+		<category><![CDATA[RGB]]></category>
+		<category><![CDATA[RGBA]]></category>
+		<category><![CDATA[web developer]]></category>
+		<category><![CDATA[web development]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12658</guid>
+
+					<description><![CDATA[Putem crea structura unui site web, rubricile, paragrafele și linkurile în HTML. Când creezi un site web variat și bine structurat, trebuie să consideri alte aspecte în afară de transparență—culorile, spre exemplu. Avem deja un articol despre introducerea în dezvoltarea web, așa că poți citi acel articol dacă te interesează bazele HTML. În acest post, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Putem crea structura unui site web, rubricile, paragrafele și linkurile în HTML.</span></p>
+<p><span style="font-weight: 400;">Când creezi un site web variat și bine structurat, trebuie să consideri alte aspecte în afară de transparență—culorile, spre exemplu.</span></p>
+<p><span style="font-weight: 400;">Avem deja un articol despre </span><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">introducerea în dezvoltarea web</span></a><span style="font-weight: 400;">, așa că poți citi acel articol dacă te interesează bazele HTML.</span></p>
+<p><span style="font-weight: 400;">În acest post, vom vedea cum poți defini coduri de culori HTML cu diferite nuanțe, cu multe ilustrații ca exemplu.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" class="wp-image-12215" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Website-creator-1-1.png" alt="Învață dezvoltare web la CodeBerry" srcset="/blog/wp-content/uploads/2020/09/Website-creator-1-1.png 1024w, /blog/wp-content/uploads/2020/09/Website-creator-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Website-creator-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Nume de culori în HTML</span></h2>
+<p><span style="font-weight: 400;">Există milioane de nuanțe de culori care pot fi afișate de browserele moderne. Ar fi imposibil să le numim și gestionăm pe toate, așa că, în lumea IT, folosim coduri pentru a defini culori și nuanțe.</span></p>
+<p><span style="font-weight: 400;">HTML suportă 140 de </span><a href="https://www.tutorialspoint.com/html/html_color_names.htm" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">nume de culori standard</span></a><span style="font-weight: 400;">, dar poți defini orice altă nuanță pe website-ul tău folosind coduri de culori. Culorile precodate pot fi definite de numele lor (ca aqua, black, yellowgreen, hotpink etc.), așa că nu e nevoie să căutăm coduri specifice pentru a defini aceste culori.</span></p>
+<p><span style="font-weight: 400;">Există multe sisteme de coduri pentru culori, conținând proporțiile diferitelor componente (culorilor de bază) și valorile unor parametrii (de ex. transparența sau saturația). În acest articol, îți vom prezenta sistemul hexazecimal în detaliu și doar vom menționa celelalte opțiuni.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="945" height="825" class="wp-image-12659" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/htmlcolorcodes.jpg" alt="Coduri de culori HTML" srcset="/blog/wp-content/uploads/2021/03/htmlcolorcodes.jpg 945w, /blog/wp-content/uploads/2021/03/htmlcolorcodes-300x262.jpg 300w, /blog/wp-content/uploads/2021/03/htmlcolorcodes-768x670.jpg 768w" sizes="(max-width: 945px) 100vw, 945px" /></figure>
+</div>
+<h2><span style="font-weight: 400;">Selector de culori și amestecarea de culori</span></h2>
+<p><span style="font-weight: 400;">Putem găsi coduri de culori folosind instrumente de selectare a culorilor.</span></p>
+<p><span style="font-weight: 400;">Aici sunt câteva exemple de selectori de culori:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Paletă de culori</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://htmlcolorcodes.com/color-picker/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Tranziții și diferențe subtile între nuanțe</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://imagecolorpicker.com/en/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Identificarea culorilor din imagini</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Orice culoare pe care ochii noștri o pot detecta este un amestec de diferite proporții ale culorilor de bază. În IT, diferite nuanțe sunt afișate amestecând culorile de bază roșu, verde și albastru (RGB &#8211; Red, Green, Blue).</span></p>
+<p><span style="font-weight: 400;">(În teoria culorilor, culorile de bază sunt roșu, galben și albastru, dar din cauza unor caracteristici ale monitoarelor, suntem nevoiți să folosim alte culori în IT.)</span></p>
+<h2><span style="font-weight: 400;">Codul de culori hexazecimal</span></h2>
+<p><span style="font-weight: 400;">Dintre toate opțiunile pentru coduri de culori, cel hexazecimal este cel mai concis și cel mai folosit în timpul editării de cod HTML.</span></p>
+<p><span style="font-weight: 400;">Codul de culori începe cu un caracter #, urmat de o serie de 6 caractere. Putem defini exact culoarea pe care o dorim folosind numere (0-9) și litere (a-f). Primele două caractere definesc valoare culorii roșu (RR), al doilea set de două caractere definesc verdele (GG), iar cel de-al treilea set albastrul (BB).</span></p>
+<p><span style="font-weight: 400;">Spre exemplu #eb4034</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="852" height="490" class="wp-image-12660" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/hex-code-1.png" alt="Cum să alegi culori HTML" srcset="/blog/wp-content/uploads/2021/03/hex-code-1.png 852w, /blog/wp-content/uploads/2021/03/hex-code-1-300x173.png 300w, /blog/wp-content/uploads/2021/03/hex-code-1-768x442.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Diferite nuanțe de gri conțin aceeași cantitate din toate componentele.</span></p>
+<p><span style="font-weight: 400;">De ex.</span></p>
+<p><span style="font-weight: 400;">#404040</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="864" height="480" class="wp-image-12661" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/hex-code-grey-1-1.png" alt="Culori HTML - gri" srcset="/blog/wp-content/uploads/2021/03/hex-code-grey-1-1.png 864w, /blog/wp-content/uploads/2021/03/hex-code-grey-1-1-300x167.png 300w, /blog/wp-content/uploads/2021/03/hex-code-grey-1-1-768x427.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></figure>
+</div>
+<p><span style="font-weight: 400;">#bebebe</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="860" height="485" class="wp-image-12662" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/grey2-1.png" alt="Culori HTML - gri 2" srcset="/blog/wp-content/uploads/2021/03/grey2-1.png 860w, /blog/wp-content/uploads/2021/03/grey2-1-300x169.png 300w, /blog/wp-content/uploads/2021/03/grey2-1-768x433.png 768w" sizes="(max-width: 860px) 100vw, 860px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Fiecare caracter al culorii negru este 0.</span></p>
+<p><span style="font-weight: 400;">#000000</span></p>
+<p><span style="font-weight: 400;">Culoarea alb conține valoarea maximă a tuturor componentelor.</span></p>
+<p><span style="font-weight: 400;">#ffffff</span></p>
+<h3><span style="font-weight: 400;">Valori hexazecimale mai scurte</span></h3>
+<p><span style="font-weight: 400;">Sunt unele cazuri în care putem folosi coduri chiar mai scurte; pentru culorile care au aceleași caractere pentru fiecare componentă, putem folosi doar 3 caractere și vom obține aceeași culoare.</span></p>
+<p><span style="font-weight: 400;">Codul #000 definește negrul, exact ca #000000, în timp ce #0ff creează aceeași culoare turcoaz (turquoise) ca #00ffff.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="854" height="485" class="wp-image-12663" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/c24-1.png" alt="Coduri de culori HTML prescurtate" srcset="/blog/wp-content/uploads/2021/03/c24-1.png 854w, /blog/wp-content/uploads/2021/03/c24-1-300x170.png 300w, /blog/wp-content/uploads/2021/03/c24-1-768x436.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Versiunea scurtă a #cc2244 este #c24</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" class="wp-image-12216" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață programare web la CodeBerry" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Unde punem coduri de culori HTML?</span></h2>
+<p><span style="font-weight: 400;">Putem defini culori sub forma de atribute în interiorul tag-ului căruia i se aplică culoarea. Putem defini culoarea de fundal a unui site web în interiorul tag-ului &lt;body&gt;, iar culoarea rubricii principale ar trebuie să fie în interiorul tag-ului &lt;h1&gt; etc.</span></p>
+<h3><span style="font-weight: 400;">Atribute:</span></h3>
+<p><span style="font-weight: 400;">În interiorul tag-ului </span><b>&lt;body&gt;</b><span style="font-weight: 400;">, putem defini culoarea textului cu atributul ‘</span><b>text</b><span style="font-weight: 400;">’ și culoarea fundalului cu atributul ‘</span><b>bgcolor</b><span style="font-weight: 400;">’. Putem folosi atributul ‘</span><b>color</b><span style="font-weight: 400;">’ în tag-ul </span><b>&lt;font&gt; </b><span style="font-weight: 400;">pentru a schimba culoarea.</span></p>
+<div class="wp-block-cp-codepen-gutenberg-embed-block cp_embed_wrapper"><iframe id="cp_embed_qBqGGLM" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" title="CodePen Embed qBqGGLM" src="//codepen.io/anon/embed/qBqGGLM?height=250&amp;theme-id=1&amp;slug-hash=qBqGGLM&amp;default-tab=html,result" name="CodePen Embed qBqGGLM" height="250" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen">CodePen Embed Fallback</iframe></div>
+<p><span style="font-weight: 400;">În HTML, putem folosi tag-ul </span><b>&lt;style&gt;</b><span style="font-weight: 400;"> în toate celelalte elemente pentru a suprascrie orice informație definită global (ex. format, stil, culoare) pentru a afișa ceva diferit într-o locație specifică.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-group">
+<div class="wp-block-group__inner-container">
+<div class="wp-block-cp-codepen-gutenberg-embed-block cp_embed_wrapper"><iframe id="cp_embed_JjbqqxB" class="cp_embed_iframe" style="width: 100%; overflow: hidden;" title="CodePen Embed JjbqqxB" src="//codepen.io/anon/embed/JjbqqxB?height=250&amp;theme-id=1&amp;slug-hash=JjbqqxB&amp;default-tab=html,result" name="CodePen Embed JjbqqxB" height="250" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen">CodePen Embed Fallback</iframe></div>
+</div>
+</div>
+</div>
+</div>
+<h2><span style="font-weight: 400;">Alte opțiuni pentru coduri de culori HTML</span></h2>
+<h3><span style="font-weight: 400;">RGB, RGBA</span></h3>
+<p><span style="font-weight: 400;">Putem defini proporțiile de roșu, verde și albastru într-o scară de la 0 la 255, nu doar în formă hexazecimală. Pentru asta, trebuie să adăugăm cod înaintea atributelor </span><b>text</b><span style="font-weight: 400;">, </span><b>bgcolor</b><span style="font-weight: 400;"> etc. în forma asta: </span><b>rgb(192,192,192)</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Când folosim coduri RGBA, pe lângă valorile culorilor de bază, mai avem și o altă componentă care se referă la transparență care se numește Alpha Channel (canal alfa). Parametrul alfa este un număr între 0.0 (complet transparent) și 1.0 (deloc transparent). Așa arată o culoare în cod RGBA: rgba(255, 99, 71, 0.5)</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="787" height="298" class="wp-image-12664" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/rgba-1.png" alt="Coduri de culori RGBA" srcset="/blog/wp-content/uploads/2021/03/rgba-1.png 787w, /blog/wp-content/uploads/2021/03/rgba-1-300x114.png 300w, /blog/wp-content/uploads/2021/03/rgba-1-768x291.png 768w" sizes="(max-width: 787px) 100vw, 787px" /></figure>
+</div>
+<h3><span style="font-weight: 400;">HSL, HSLA</span></h3>
+<p><span style="font-weight: 400;">În HTML, putem defini culori folosind hue (nuanță), saturation (saturație) și lightness (luminozitate) &#8211; HSL. Valoarea unei nuanțe (hue) este exprimată în grade în funcție de poziția sa pe paleta de culori.</span></p>
+<p><span style="font-weight: 400;">Saturația este o valoare procentuală, 0% definește o nuanță de gri, iar 100% definește culoarea întreagă. Luminozitatea este și ea o valoare procentuală, cu 0% fiind negru și 100% alb. Codurile de culori HSL arată așa:</span></p>
+<p><span style="font-weight: 400;">hsl(36, 100%, 50%)</span></p>
+<p><span style="font-weight: 400;">De asemenea, putem adăuga o valoare alfa, care se referă la transparența culorii.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><img loading="lazy" width="740" height="286" class="wp-image-12665" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/hsla-1.png" alt="Coduri de culori HSLA" srcset="/blog/wp-content/uploads/2021/03/hsla-1.png 740w, /blog/wp-content/uploads/2021/03/hsla-1-300x116.png 300w" sizes="(max-width: 740px) 100vw, 740px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Îți recomandăm să încerci diferiți selectori de culori și forme de coduri de culori și să găsești ce e mai potrivit pentru un proiect și cu ce poți lucra cât mai eficient. Cu puțin exercițiu, poți defini cele mai frumoase culori pe website-ul tău.</span></p>
+<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a class="rank-math-link" href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

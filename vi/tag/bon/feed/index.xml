@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bọn | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/bon/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 21 Nov 2019 07:30:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Bọn mình quyết định chia sẻ bảng Trello &#8220;nội bộ&#8221; của CodeBerry cho học viên sử dụng, và đây là kết quả.</title>
+		<link>/blog/vi/bon-minh-quyet-dinh-mo-mot-trong-cac-bang-trello-noi-bo-cua-codeberry-cho-hoc-vien-cung-su-dung-va-day-la-ket-qua/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 11:59:55 +0000</pubDate>
+				<category><![CDATA[Bài báo]]></category>
+		<category><![CDATA[bảng quyết định]]></category>
+		<category><![CDATA[bo cua]]></category>
+		<category><![CDATA[bọn]]></category>
+		<category><![CDATA[bon minh]]></category>
+		<category><![CDATA[bon vien]]></category>
+		<category><![CDATA[burndown trello]]></category>
+		<category><![CDATA[cách dùng trello]]></category>
+		<category><![CDATA[cach su dung trello]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[hướng dẫn dùng trello]]></category>
+		<category><![CDATA[hướng dẫn sử dụng trello]]></category>
+		<category><![CDATA[hướng dẫn trello]]></category>
+		<category><![CDATA[phản hồi]]></category>
+		<category><![CDATA[phan mem trello]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[sử dụng trello]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[trello for mac]]></category>
+		<category><![CDATA[trello la gi]]></category>
+		<category><![CDATA[trello mac]]></category>
+		<category><![CDATA[trello tiếng việt]]></category>
+		<category><![CDATA[Trường lập trình CodeBerry]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6518</guid>
+
+					<description><![CDATA[Cách bọn mình đã làm để minh bạch hệ thống phản hồi ý kiến tại CodeBerry Một ngày nọ, bọn mình nảy ra ý tưởng: tại sao không công khai bảng Trello nội bộ mà nhóm đang dùng để giải quyết các phản hồi, qua đó tất cả học viên cùng có thể theo dõi? [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Cách bọn mình đã làm để minh bạch hệ thống phản hồi ý kiến tại CodeBerry</strong></p>
+<p>Một ngày nọ, bọn mình nảy ra ý tưởng: tại sao không công khai bảng Trello nội bộ mà nhóm đang dùng để giải quyết các phản hồi, qua đó tất cả học viên cùng có thể theo dõi? Bọn mình quyết đinh triển khai luôn. Chúng mình bắt đầu gửi link cho học viên và khuyến khích họ sử dụng bảng Trello. Sau đây là lý do.</p>
+<p><strong>Tích cực phản hồi</strong></p>
+<p>Một trong những nguyên tắc của bọn mình khi mở Trường Lập trình CodeBerry đó là luôn lắng nghe ý kiến phản hồi của học viên bởi:</p>
+<ol>
+<li>Thứ nhất, mọi người đều có thể mắc sai lầm &#8211; bọn mình cũng vậy &#8211; và bọn mình muốn sửa những sai lầm mắc phải càng sớm càng tốt;</li>
+<li>Thứ hai, bọn mình mong muốn tạo ra sản phẩm mà học viên thực sự muốn sử dụng.</li>
+</ol>
+<p>Cách nhanh nhất thực hiện cả hai mục tiêu trên là dựa vào ý kiến phản hồi. Bọn mình luôn nỗ lực để ý kiến học viên được truyền đạt một cách dễ dàng. Vậy nên:</p>
+<ul>
+<li>Bọn mình gửi bản khảo sát cho tất cả học viên của Trường;</li>
+<li>Khuyến khích học viên gửi phản hồi tới giáo viên hướng dẫn riêng; và cuối cùng nhưng không kém phần quan trọng;</li>
+<li>Bọn mình tạo kênh #meta trên CodeBerry Slack, nơi mọi người có thể thông báo các vấn đề gặp phải hoặc gửi ý tưởng cá nhân liên quan đến Trường CodeBerry.</li>
+</ul>
+<p><div id="attachment_5824" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5824" loading="lazy" class="size-full wp-image-5824" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/Slack-3.png" alt="" width="800" height="477" /><p id="caption-attachment-5824" class="wp-caption-text">Kênh #meta trên CodeBerry Slack</p></div></p>
+<p><strong>Đường link bị thiếu</strong></p>
+<p>Hóa ra gửi phản hồi thôi là chưa đủ. Bọn mình nhận thấy học viên cũng muốn biết điều gì xảy ra sau khi họ chia sẻ những ý tưởng, suy nghĩ của bản thân. Giải pháp đơn giản nhất là công khai bảng giám sát mà nhóm đang dùng để theo dõi các lỗi đã phát hiện, cũng như đề xuất từ phía học viên.</p>
+<p><div id="attachment_5825" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5825" loading="lazy" class="size-full wp-image-5825" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/trello-3.png" alt="" width="800" height="391" /><p id="caption-attachment-5825" class="wp-caption-text">Bảng Trello công khai của bọn mình (rốt cuộc cũng ra đời)</p></div></p>
+<p>Trước đây, quy trình xử lý ý kiến phản hồi giống như một chiếc hộp đen nơi học viên đưa ra ý tưởng nhưng không biết chuyện gì xảy ra sau đó. Giờ đây, toàn bộ quá trình này được công khai minh bạch với tất cả mọi người.</p>
+<p>Học viên vẫn viết email cho giáo viên hướng dẫn hoặc gửi tin nhắn tới kênh #meta, nhưng câu chuyện không kết thúc ở đó. Các thẻ tạo ra từ ý kiến phản hồi được ghim vào bảng công khai, nơi học viên có thể theo dõi quá trình giải quyết hoặc triển khai các ý tưởng mới.</p>
+<p>Bọn mình quyết định chào tạm biệt &#8220;chiếc hộp đen&#8221; để từ nay không ý kiến phản hồi nào bị rơi vào quên lãng nữa.</p>
+<p><strong>Chúng mình cùng chung tay xây dựng</strong></p>
+<p>Ý kiến phản hồi là một trong những điều tốt nhất một doanh nghiệp non trẻ (như bọn mình) có thể nhận được từ khách hàng. Với hệ thống mới này, bọn mình muốn một lần nữa nhấn mạnh điều đó.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

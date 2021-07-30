@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized | CodeBerry Blog</title>
+	<atom:link href="/blog/esmx/category/otro/uncategorized-es/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 28 Jul 2020 07:30:20 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>❤️ ¿Qué hemos construido durante Shiveluch?</title>
+		<link>/blog/esmx/que-hemos-construido-durante-shiveluch/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2020 08:35:41 +0000</pubDate>
+				<category><![CDATA[Libro de registros de CodeBerry]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7930</guid>
+
+					<description><![CDATA[En nuestra serie &#8220;Libro de registros&#8221;, vemos los procesos de planificación e implementación de proyectos de CodeBerry. Estamos trabajando en ciclos intensivos de 6 semanas seguidos de dos semanas tranquilas de aprendizaje y planificación. Los ciclos deben su nombre a impresionantes montañas y puedes leer publicaciones sobre los avances realizados durante estos ciclos. ¿Te gustaría [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>En nuestra serie &#8220;Libro de registros&#8221;, vemos los procesos de planificación e implementación de proyectos de CodeBerry. Estamos trabajando en ciclos intensivos de 6 semanas seguidos de dos semanas tranquilas de aprendizaje y planificación. Los ciclos deben su nombre a impresionantes montañas y puedes leer publicaciones sobre los avances realizados durante estos ciclos.</p>
+<p>¿Te gustaría aprender a programar en línea? Ven y <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">prueba nuestras primeras 25 lecciones gratis</a> en la Escuela de Programación CodeBerry.</p>
+<h3>Libro de registros de CodeBerry</h3>
+<ul>
+<li><strong>¿Qué hemos construido durante Shiveluch?</strong></li>
+<li><a href="https://codeberryschool.com/blog/esmx/que-hemos-construido-durante-el-popocatepetl/" data-wpel-link="external" target="_blank" rel="external">¿Qué hemos construido durante el Popocatépetl?</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">El nuevo ciclo, </span><span style="font-weight: 400;">Popocatépetl</span><span style="font-weight: 400;">, ya ha comenzado, pero retrocedamos un poco y celebremos todo lo que hemos conseguido crear y hacer durante el último ciclo de desarrollo.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7940" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Axl-4.gif" alt="" width="400" height="300" /></p>
+<p>&nbsp;</p>
+<h2>Un curso de jQuery</h2>
+<p><span style="font-weight: 400;">Creamos un curso completamente nuevo que conecta los puntos de HTML, CSS y JS, además de ofrecer una manera para que los estudiantes hagan sus sitios web interactivos. El curso tiene ejercicios divertidos de programación junto con soluciones de muestra (una solicitud recurrente de los estudiantes) y ya está esperando a la multitud de estudiantes. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7939" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/jQuery-4.gif" alt="" width="750" height="366" /></p>
+<p>&nbsp;</p>
+<h2>Un curso práctico para creadores de sitios web</h2>
+<p><span style="font-weight: 400;">Diseñamos un nuevo tipo de curso, con base en las entrevistas que hicimos hace un par de meses con nuestros estudiantes más prometedores. El curso presenta hermosas pantallas de un sitio web moderno que los estudiantes tienen que reproducir usando su conocimiento de HTML y CSS previamente adquirido. También hemos incluido una solución de ejemplo detallada que supera las expectativas con explicaciones en sus comentarios. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7938" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4.png" alt="" width="1500" height="956" srcset="/blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4.png 1500w, /blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4-300x191.png 300w, /blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4-1024x653.png 1024w, /blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4-768x489.png 768w, /blog/wp-content/uploads/2020/06/wsc-parctice-intro-04-chat-4-1080x688.png 1080w" sizes="(max-width: 1500px) 100vw, 1500px" /></p>
+<p>&nbsp;</p>
+<h2>Una aplicación central que maneja múltiples suscripciones</h2>
+<p><span style="font-weight: 400;">Tras bambalinas, nuestra aplicación central ha estado manejando casi todo desde el 2016. Desde entonces, hemos hecho algunas modificaciones “menores” a la manera en la que trabaja CodeBerry, como la posibilidad de que un estudiante tenga más de una suscripción. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f602.png" alt="😂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Este importante proyecto tomó una buena parte de los ciclos del Macizo Vinson y Shiveluch, pero ahora está </span><i><span style="font-weight: 400;">activo.</span></i></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7937" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Multiple-Subs-5.png" alt="" width="1058" height="584" srcset="/blog/wp-content/uploads/2020/06/Multiple-Subs-5.png 1058w, /blog/wp-content/uploads/2020/06/Multiple-Subs-5-300x166.png 300w, /blog/wp-content/uploads/2020/06/Multiple-Subs-5-1024x565.png 1024w, /blog/wp-content/uploads/2020/06/Multiple-Subs-5-768x424.png 768w" sizes="(max-width: 1058px) 100vw, 1058px" /></p>
+<p>&nbsp;</p>
+<h2>Un equipo para crear contenido</h2>
+<p><span style="font-weight: 400;">El tráfico orgánico de verdad hace la diferencia y nos gustaría mejorar nuestra posición en los motores de búsqueda al brindarle a las personas contenido relevante. Crear contenido no es tan sencillo, así que creamos un equipo completo con ese propósito en mente. A partir de ahora, están en una continúa búsqueda para crear nuevos artículos. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7936" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/articles-4.png" alt="" width="1996" height="1572" srcset="/blog/wp-content/uploads/2020/06/articles-4.png 1996w, /blog/wp-content/uploads/2020/06/articles-4-300x236.png 300w, /blog/wp-content/uploads/2020/06/articles-4-1024x806.png 1024w, /blog/wp-content/uploads/2020/06/articles-4-768x605.png 768w, /blog/wp-content/uploads/2020/06/articles-4-1536x1210.png 1536w, /blog/wp-content/uploads/2020/06/articles-4-1080x851.png 1080w" sizes="(max-width: 1996px) 100vw, 1996px" /></p>
+<p>&nbsp;</p>
+<h2>Un sistema de selección por país</h2>
+<p><span style="font-weight: 400;">Estamos construyendo la escuela de programación más grande del mundo. Para lograr esta ambiciosa meta, tenemos que escoger países para que CodeBerry entre. La decisión no es tan trivial. Muchos factores podrían afectar qué tan “bueno” es un mercado para nosotros. Creamos un sistema que nos ayuda con información sobre múltiples dimensiones. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7935" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Country-Selection-Framework-4.png" alt="" width="1662" height="968" srcset="/blog/wp-content/uploads/2020/06/Country-Selection-Framework-4.png 1662w, /blog/wp-content/uploads/2020/06/Country-Selection-Framework-4-300x175.png 300w, /blog/wp-content/uploads/2020/06/Country-Selection-Framework-4-1024x596.png 1024w, /blog/wp-content/uploads/2020/06/Country-Selection-Framework-4-768x447.png 768w, /blog/wp-content/uploads/2020/06/Country-Selection-Framework-4-1536x895.png 1536w, /blog/wp-content/uploads/2020/06/Country-Selection-Framework-4-1080x629.png 1080w" sizes="(max-width: 1662px) 100vw, 1662px" /></p>
+<p>&nbsp;</p>
+<h2>Contratar nuevos miembros para el equipo</h2>
+<p><span style="font-weight: 400;">CodeBerry no sólo ha crecido en términos de estudiantes, sino también en compañeros de equipo. Le hemos dado la bienvenida a </span><span style="font-weight: 400;"> Sebastian (desarrollador de software), </span><span style="font-weight: 400;"> Róbert (tutor de código), </span><span style="font-weight: 400;"> Carmen (encargada del marketing de contenido). </span><span style="font-weight: 400;"> Gabriella (escritora de contenido) y </span><span style="font-weight: 400;"> Károly y </span><span style="font-weight: 400;"> Barna (desarrolladores de curriculum). ¡Bienvenidos! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f30a.png" alt="🌊" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><img loading="lazy" class="aligncenter size-full wp-image-7934" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/welcome-4.gif" alt="" width="480" height="360" /> </span></p>
+<h2>Correos para cursos consolidados</h2>
+<p><span style="font-weight: 400;">Los cursos (antes conocidos como bootcamps) comenzaron como un pequeño experimento, pero hasta el día de hoy, hemos enviado más de 150 correos diferentes a los participantes de los cursos. Enviábamos estos correos manualmente, copiados de fragmentos de Google Docs (¡como animales!<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f993.png" alt="🦓" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f40c.png" alt="🐌" class="wp-smiley" style="height: 1em; max-height: 1em;" />). Pero hoy podemos darle clic a un botón en Mautic y el correo ya está en camino.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7933" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Course-Emails-4.png" alt="" width="1614" height="722" srcset="/blog/wp-content/uploads/2020/06/Course-Emails-4.png 1614w, /blog/wp-content/uploads/2020/06/Course-Emails-4-300x134.png 300w, /blog/wp-content/uploads/2020/06/Course-Emails-4-1024x458.png 1024w, /blog/wp-content/uploads/2020/06/Course-Emails-4-768x344.png 768w, /blog/wp-content/uploads/2020/06/Course-Emails-4-1536x687.png 1536w, /blog/wp-content/uploads/2020/06/Course-Emails-4-1080x483.png 1080w" sizes="(max-width: 1614px) 100vw, 1614px" /></p>
+<p>&nbsp;</p>
+<h2>Trigger Emails</h2>
+<p><span style="font-weight: 400;">Si nuestros estudiantes se acuerdan de volver y estudiar diariamente, todos salimos ganando. Ellos aprenden y nosotros tendremos estudiantes cada vez más inteligentes cada día. Por eso creamos correos que les recuerden a los estudiantes que deben regresar y que los ayuden a reforzar este nuevo hábito de aprendizaje diario. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7932" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Trigger-Emails-4.png" alt="" width="614" height="789" srcset="/blog/wp-content/uploads/2020/06/Trigger-Emails-4.png 614w, /blog/wp-content/uploads/2020/06/Trigger-Emails-4-233x300.png 233w" sizes="(max-width: 614px) 100vw, 614px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Lo hicimos muy bien. Ahora es momento de felicitarnos y maravillarnos con nuestras creaciones: </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-7931" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/gyurmalin-4.gif" alt="" width="500" height="374" /></p>
+<p>&nbsp;</p>
+<p>En nuestra serie &#8220;Libro de registros&#8221;, vemos los procesos de planificación e implementación de proyectos de CodeBerry. Estamos trabajando en ciclos intensivos de 6 semanas seguidos de dos semanas tranquilas de aprendizaje y planificación. Los ciclos deben su nombre a impresionantes montañas y puedes leer publicaciones sobre los avances realizados durante estos ciclos.</p>
+<h3>Libro de registros de CodeBerry</h3>
+<ul>
+<li><strong>¿Qué hemos construido durante Shiveluch?</strong></li>
+<li><a href="https://codeberryschool.com/blog/esmx/que-hemos-construido-durante-el-popocatepetl/" data-wpel-link="external" target="_blank" rel="external">¿Qué hemos construido durante el Popocatépetl?</a></li>
+</ul>
+<p>¿Te gustaría aprender a programar en línea? Ven y <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">prueba nuestras primeras 25 lecciones gratis</a> en la Escuela de Programación CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trihn lo | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/trihn-lo/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 21 Nov 2019 07:44:45 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Hành trình từ chiếc lò vi sóng đến công việc phát triển web — Câu chuyện của Árpád Binecz</title>
+		<link>/blog/vi/hanh-trinh-tu-chiec-lo-vi-song-den-cong-viec-phat-trien-web-cau-chuyen-cua-arpad-binecz/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:32:14 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Công ty Apertus]]></category>
+		<category><![CDATA[công ty khởi nghiệp]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Internet vạn vật]]></category>
+		<category><![CDATA[kỹ sư phần mềm]]></category>
+		<category><![CDATA[kỹ thuật điện]]></category>
+		<category><![CDATA[lò vi sóng]]></category>
+		<category><![CDATA[mạch bootstrap là gì]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[nhà phát triển web]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[trihn lo]]></category>
+		<category><![CDATA[vi vi vi song]]></category>
+		<category><![CDATA[web den viet]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6492</guid>
+
+					<description><![CDATA[Árpád Binecz (Bini) bắt đầu sự nghiệp với vai trò kỹ sư lập trình nhúng, làm việc cho một startup, sau đó tự thành lập công ty và giờ theo đuổi công việc xây dựng các trang web ở vị trí lập trình viên mới vào nghề. Hãy dành thời gian lắng nghe buổi phỏng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Árpád Binecz</strong> (Bini) bắt đầu sự nghiệp với vai trò kỹ sư lập trình nhúng, làm việc cho một startup, sau đó tự thành lập công ty và giờ theo đuổi công việc xây dựng các trang web ở vị trí lập trình viên mới vào nghề. Hãy dành thời gian lắng nghe buổi phỏng vấn thú vị với cựu học viên của bọn mình trong phần hai của &#8220;Những câu chuyện thành công từ CodeBerry&#8221;.</p>
+<p><strong>Trước khi chuyển sang lĩnh vực phát triển web, công việc cũ của bạn là gì?</strong></p>
+<p>Mình có bằng kỹ sư điện. Mình là kỹ sư lập trình nhúng cho một công ty ô tô trong bốn năm. Mình cũng từng làm việc cho một startup, sau đó tự mở công ty và đã bán công ty đó đi.</p>
+<p><strong>Bạn có thể chia sẻ thêm về công việc của một kỹ sư lập trình nhúng?</strong></p>
+<p>Kỹ sư lập trình nhúng sẽ chế tạo các mạch điện, không phải cho máy tính, mà là cho lò vi sóng hoặc ô tô. Những mạch điện này giúp các thiết bị hoạt động chỉ bằng một nút bấm.</p>
+<p><strong>Lĩnh vực chuyên môn trước đây có giúp bạn học lập trình dễ hơn không?</strong></p>
+<p>Có một chút, ví dụ như trong tư duy thuật toán chẳng hạn.</p>
+<p><strong>Vì sao bạn quyết định chuyển sang phát triển web?</strong></p>
+<p>Trước hết, mình có hứng thú với IoT (Internet of Things &#8211; Những công cụ có kết nối với Internet). Ở công việc trước, mình nắm rõ những công cụ như vậy nhưng lại không biết bằng cách nào mọi thứ có thể hiển thị trên trình duyệt. Mình cảm thấy rất tò mò. Xét cho cùng, mình học ngành kỹ sư là vì muốn hiểu xem mọi thứ vận hành ra sao. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Lý do thứ hai, mình muốn tiếp tục mở một doanh nghiệp và nghề lập trình phù hợp với định hướng đó. Mình muốn học cách tạo một vài trang web độc đáo, sau đó sẽ thành lập một công ty nhỏ trong mảng kỹ thuật số. Nhiều người mình biết cũng làm tương tự, vậy nên mình nghĩ đây là kế hoạch khả thi và khá thú vị.</p>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</strong></p>
+<p>Còn tùy xem ai là người hỏi. Nếu là một người chưa từng lập trình, mình sẽ nói mình là dân mới vào nghề trong ngành CNTT. Nếu là bạn cũ ở trường công nghệ thì mình sẽ trả lời rằng mình là lập trình viên mới trong lĩnh vực phát triển web.</p>
+<p><strong>Bạn có thể chia sẻ cụ thể hơn? Một ngày bình thường của bạn diễn ra như thế nào?</strong></p>
+<p>Bọn mình xây dựng những hệ thống CNTT quy mô lớn cho Công ty Apertus Kft. Mình phụ trách một mảng nhỏ. Nói đơn giản thì mình nhận các bản thiết kế đã hoàn chỉnh và biến chúng thành các trang web. Mình chỉ phụ trách phần giao diện, còn việc giúp một nút bấm trên trang hoạt động sẽ không phải phần việc của mình.</p>
+<p>Nói cách khác thì nghề lập trình giao diện web là một công việc khởi đầu tốt, với kiến thức có thể được tiếp thu nhanh, điều này là lợi thế khi bạn muốn gia nhập lĩnh vực công nghệ web hay thị trường lao động ngành IT.</p>
+<p><strong>Ngôn ngữ lập trình nào bạn hay sử dụng hàng ngày?</strong></p>
+<p>HTML5, CSS3, SCSS và Bootstrap. Mình đã từng sử dụng JQuery. Với vị trí là người lập trình giao diện, mình tạo ra các phần nhỏ để lập trình viên trưởng có thể hoàn thiện trang web.</p>
+<p><strong>Bạn có thích công việc hiện tại không? <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>Có chứ. Đồng nghiệp mình rất vui tính. Mình chưa hài lòng lắm với bản thân vì tự cảm thấy đã có thể làm tốt hơn và tiếp thu nhanh hơn.</p>
+<p><strong>Bạn mất bao lâu để tìm công việc này?</strong></p>
+<p>Mình nghỉ làm vào tháng Sáu, bắt đầu học lập trình vào tháng Bảy, và có công việc mới đầu tháng Chín. Mình nhận lời mời làm việc từ một người bạn.</p>
+<p><strong>Bạn có tham gia khóa lập trình nào khác ngoài CodeBerry không?</strong></p>
+<p>Không, mình chỉ học tại CodeBerry thôi.</p>
+<p><strong>Là một cựu học viên, bạn có lời khuyên gì cho các học viên mới?</strong></p>
+<p>Mình nghĩ các bạn nên có cái nhìn tổng quan về ngành này trước khi lựa chọn một công nghệ nào đó để học sâu hơn. Theo mình, việc hiểu tường tận một lĩnh vực cơ bản và kiếm được tiền từ đó sẽ giá trị hơn nhiều so với biết mỗi thứ một chút. Ví dụ như HTML5, CSS3, SCSS và Bootstrap là một sự kết hợp tuyệt vời. Bạn có thể dễ dàng trở thành lập trình viên nhờ vào những ngôn ngữ này.</p>
+<p><em><strong>Trong loạt bài viết &#8220;Câu chuyện thành công từ CodeBerry&#8221;, bọn mình trò chuyện cùng các cựu học viên, những người đã tìm được công việc trong lĩnh vực lập trình sau khóa học. Nếu bạn quan tâm chủ đề tìm việc thì loạt bài viết này dành cho bạn. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></em></p>
+<p><em><strong>Bạn có muốn học code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

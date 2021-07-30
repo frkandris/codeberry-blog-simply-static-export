@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="hu-HU" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="/blog/xmlrpc.php"> <!--[if lt IE 9]> <script src="/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script> <![endif]--> <script type="text/javascript">document.documentElement.className = 'js';</script> <script>var et_site_url='';var et_post_id='8226';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}</script><link rel="alternate" href="/blog/en/beginners-guide-to-javascript/" hreflang="en">
+<link rel="alternate" href="/blog/hu/a-javascript-programozas-alapjai/" hreflang="hu">
+<link rel="alternate" href="/blog/ro/baze-programare-javascript/" hreflang="ro">
+<link rel="alternate" href="/blog/pl/podstawy-javascript/" hreflang="pl">
+<link rel="alternate" href="/blog/fi/javascript-ohjelmointi-opas/" hreflang="fi">
+<link media="all" href="/blog/wp-content/cache/autoptimize/css/autoptimize_08e74d6a9a22945e0babb45344228f8f.css" rel="stylesheet">
+<title>A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog</title>
+<meta name="description" content="A JavaScript programozás alapjai dióhéjban, hogyan vágj bele a JavaScript tanulásba">
+<meta name="robots" content="nofollow, noindex">
+<meta property="og:locale" content="hu_HU">
+<meta property="og:type" content="article">
+<meta property="og:title" content="A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog">
+<meta property="og:description" content="A JavaScript programozás alapjai dióhéjban, hogyan vágj bele a JavaScript tanulásba">
+<meta property="og:url" content="/hu/a-javascript-programozas-alapjai/">
+<meta property="og:site_name" content="CodeBerry Blog">
+<meta property="article:publisher" content="https://facebook.com/codeberryschool">
+<meta property="article:tag" content="javascript alapok">
+<meta property="article:tag" content="javascript kezdőknek">
+<meta property="article:tag" content="javascript magyar">
+<meta property="article:tag" content="javascript magyarul">
+<meta property="article:tag" content="javascript nyelv">
+<meta property="article:tag" content="javascript programozás">
+<meta property="article:tag" content="javascript programozás alapjai">
+<meta property="article:tag" content="javascript programozás kezdőknek">
+<meta property="article:tag" content="javascript programozó">
+<meta property="article:tag" content="javascript tanulás">
+<meta property="article:tag" content="javascript változók">
+<meta property="article:tag" content="modern javascript a gyakorlatban">
+<meta property="article:section" content="Programozási nyelvek">
+<meta property="og:updated_time" content="2021-05-22T16:40:38+00:00">
+<meta property="og:image" content="/wp-content/uploads/2020/03/JavaScript-Basics.jpg">
+<meta property="og:image:secure_url" content="/wp-content/uploads/2020/03/JavaScript-Basics.jpg">
+<meta property="og:image:width" content="1950">
+<meta property="og:image:height" content="1300">
+<meta property="og:image:alt" content="A JavaScript programozás a webfejlesztés alapja">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="article:published_time" content="2020-06-29GMT+000008:04:05+00:00">
+<meta property="article:modified_time" content="2021-05-22GMT+000016:40:38+00:00">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog">
+<meta name="twitter:description" content="A JavaScript programozás alapjai dióhéjban, hogyan vágj bele a JavaScript tanulásba">
+<meta name="twitter:image" content="/wp-content/uploads/2020/03/JavaScript-Basics.jpg"> <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["EducationalOrganization","Organization"],"@id":"/#organization","name":"CodeBerry Programming School","url":""},{"@type":"WebSite","@id":"/#website","url":"","name":"CodeBerry Programming School","publisher":{"@id":"/#organization"},"inLanguage":"hu"},{"@type":"ImageObject","@id":"/wp-content/uploads/2020/03/JavaScript-Basics.jpg","url":"/wp-content/uploads/2020/03/JavaScript-Basics.jpg","width":"1950","height":"1300","caption":"A JavaScript programozás a webfejlesztés alapja","inLanguage":"hu"},{"@type":"Person","@id":"/hu/author/blog-admin/","name":"blog-admin","url":"/hu/author/blog-admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/56711a9391df5deca1c1227efe163003?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/56711a9391df5deca1c1227efe163003?s=96&amp;d=mm&amp;r=g","caption":"blog-admin","inLanguage":"hu"},"worksFor":{"@id":"/#organization"}},{"@type":"WebPage","@id":"/hu/a-javascript-programozas-alapjai/#webpage","url":"/hu/a-javascript-programozas-alapjai/","name":"A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog","datePublished":"2020-06-29T08:04:05+00:00","dateModified":"2021-05-22T16:40:38+00:00","author":{"@id":"/hu/author/blog-admin/"},"isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/wp-content/uploads/2020/03/JavaScript-Basics.jpg"},"inLanguage":"hu"},{"@type":"BlogPosting","headline":"A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog","datePublished":"2020-06-29GMT+000008:04:05+00:00","dateModified":"2021-05-22GMT+000016:40:38+00:00","author":{"@type":"Person","name":"blog-admin"},"description":"A JavaScript programozás alapjai dióhéjban, hogyan vágj bele a JavaScript tanulásba","name":"A JavaScript programozás alapjai – JavaScript programozás kezdőknek - CodeBerry Blog","@id":"/hu/a-javascript-programozas-alapjai/#schema-27012","isPartOf":{"@id":"/hu/a-javascript-programozas-alapjai/#webpage"},"publisher":{"@id":"/#organization"},"image":{"@id":"/wp-content/uploads/2020/03/JavaScript-Basics.jpg"},"inLanguage":"hu","mainEntityOfPage":{"@id":"/hu/a-javascript-programozas-alapjai/#webpage"}}]}</script> <link rel="amphtml" href="/blog/hu/a-javascript-programozas-alapjai/amp/">
+<meta name="generator" content="AMP for WP 1.0.77.16">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="CodeBerry Blog &raquo; hírcsatorna" href="/blog/hu/feed/">
+<link rel="alternate" type="application/rss+xml" title="CodeBerry Blog &raquo; hozzászólás hírcsatorna" href="/blog/hu/comments/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script> <meta content="Extra Child Theme v.0.0.1" name="generator">
+<link rel="stylesheet" id="extra-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext" type="text/css" media="all"> <script type="text/javascript" src="/blog/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script> <script type="text/javascript" id="say-what-js-js-extra">var say_what_data = {"replacements":{"extra|Share:|":"Share"}};</script> <link rel="https://api.w.org/" href="/blog/wp-json/">
+<link rel="alternate" type="application/json" href="/blog/wp-json/wp/v2/posts/8226">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/blog/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.8">
+<link rel="shortlink" href="/blog/?p=8226">
+<link rel="alternate" type="application/json+oembed" href="/blog/wp-json/oembed/1.0/embed?url=%2Fhu%2Fa-javascript-programozas-alapjai%2F">
+<link rel="alternate" type="text/xml+oembed" href="/blog/wp-json/oembed/1.0/embed?url=%2Fhu%2Fa-javascript-programozas-alapjai%2F&#038;format=xml">
+<meta name="generator" content="Site Kit by Google 1.37.0"> <script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="189169" async="async"></script>  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1589324797954727'); // Insert your pixel ID here.
+    fbq('track', 'PageView');</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1589324797954727&ev=PageView&noscript=1"></noscript>  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1069862890"></script> <script>window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-1069862890');</script> <link rel="preload" href="/blog/wp-content/themes/Extra/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<link rel="shortcut icon" href="/blog/wp-content/uploads/2016/08/logo.png">
+<meta name="google-site-verification" content="8YuGEFmtq5Gg0gV45ZTZxw5TRk6DgrTmnSW6r-STh2U">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
+</head>
+<body class="post-template-default single single-post postid-8226 single-format-standard et-tb-has-template et-tb-has-header et-tb-has-footer et_monarch et_extra et_fullwidth_nav et_fullwidth_secondary_nav et_non_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right et_includes_sidebar et-db">
+<div id="page-container" class="page-container"><div id="et-boc" class="et-boc">
+<header class="et-l et-l--header"><div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_header et_section_regular">
+<div class="et_pb_row et_pb_row_0_tb_header et_pb_equal_columns et_pb_gutters1 et_pb_row--with-menu">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough"><div class="et_pb_module et_pb_image et_pb_image_0_tb_header et_pb_image_sticky"> <a href="https://codeberryschool.com/blog" data-wpel-link="external" target="_blank" rel="external"><span class="et_pb_image_wrap "><img loading="lazy" width="564" height="89" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green.png" alt="" title="" srcset="/blog/wp-content/uploads/2021/02/logo_green.png 564w, /blog/wp-content/uploads/2021/02/logo_green-300x47.png 300w" sizes="(max-width: 564px) 100vw, 564px" class="wp-image-11931"></span></a>
+</div></div>
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough"><div class="et_pb_module et_pb_search et_pb_search_0_tb_header  et_pb_text_align_left et_pb_bg_layout_light"><form role="search" method="get" class="et_pb_searchform" action="/blog/hu/"><div> <label class="screen-reader-text" for="s">Keresés erre:</label> <input type="text" name="s" placeholder="" class="et_pb_s"> <input type="hidden" name="et_pb_searchform_submit" value="et_search_proccess"> <input type="hidden" name="et_pb_include_posts" value="yes"> <input type="hidden" name="et_pb_include_pages" value="yes"> <input type="submit" value="Keresés" class="et_pb_searchsubmit">
+</div></form></div></div>
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu"><div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-centered"><div class="et_pb_menu_inner_container clearfix"><div class="et_pb_menu__wrap">
+<div class="et_pb_menu__menu"><nav class="et-menu-nav"><ul id="menu-magyar-head-menu" class="et-menu nav downwards">
+<li class="et_pb_menu_page_id-12862 menu-item menu-item-type-custom menu-item-object-custom menu-item-12862"><a href="https://codeberryschool.com/" data-wpel-link="external" target="_blank" rel="external">Főoldal</a></li>
+<li class="et_pb_menu_page_id-12863 menu-item menu-item-type-custom menu-item-object-custom menu-item-12863"><a href="/blog/hu" data-wpel-link="internal">Blog</a></li>
+<li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-12864">
+<a href="#pll_switcher"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAm0lEQVR4AWM4x4AFHUZF2xAILP2yogINPcvIgKCnUVEQ9MjPD4hWwjUgS0DQPXsHCLqppQVBQDZCA0HVCA1/McAvJPAVFTx79oyBsGpMDQilmKoxNTA4MiStT3aY5wBBJtNMgEh7grZKr4pst6x4u7hAswAQcddyAwUZGBmgGgiqRtcARAFLAuAIrh9uBMQUqAYGTRgSgSFGnAgA0U0GZhH1QEwAAAAASUVORK5CYII=" alt="Magyar" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Magyar</span></a><ul class="sub-menu">
+<li class="lang-item lang-item-3 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-en"><a href="/blog/en/beginners-guide-to-javascript/" hreflang="en-US" lang="en-US" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></a></li>
+<li class="lang-item lang-item-6 lang-item-hu current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-hu"><a href="/blog/hu/a-javascript-programozas-alapjai/" hreflang="hu-HU" lang="hu-HU" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAm0lEQVR4AWM4x4AFHUZF2xAILP2yogINPcvIgKCnUVEQ9MjPD4hWwjUgS0DQPXsHCLqppQVBQDZCA0HVCA1/McAvJPAVFTx79oyBsGpMDQilmKoxNTA4MiStT3aY5wBBJtNMgEh7grZKr4pst6x4u7hAswAQcddyAwUZGBmgGgiqRtcARAFLAuAIrh9uBMQUqAYGTRgSgSFGnAgA0U0GZhH1QEwAAAAASUVORK5CYII=" alt="Magyar" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Magyar</span></a></li>
+<li class="lang-item lang-item-10 lang-item-ro menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-ro"><a href="/blog/ro/baze-programare-javascript/" hreflang="ro-RO" lang="ro-RO" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEUAJsgAFMT13wDyAgLqAAB4muX8/G3581z5Vlb3RkZagt78/Ef5+T/08Tn1NTX1KSlQe9709Ez5+TX36S71GxvkAABHdNv4+CvzDw8AA7lqjuFBcNn29h/05Rg6adnfAAAAAK3nvQDrwgDkqgALguDCAAAAX0lEQVR4ARXHtWEDQBAEwNmn4BMz9V+eIzsTS8c7EWqR2mQgkJDTYHIZ5cRRg7XJWjG9tLIypqmVV7k0aN8f1vTw3OXaNft5mwyyG7NTxi/5+WPFSdYpPA+fSG60/4074PMLPA8bHzoAAAAASUVORK5CYII=" alt="Română" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Română</span></a></li>
+<li class="lang-item lang-item-14 lang-item-pl menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-pl"><a href="/blog/pl/podstawy-javascript/" hreflang="pl-PL" lang="pl-PL" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAPFBMVEX/8fH67Ozz5ubt4OD+/v77+/v39/fo2Nj5AAD+jo79bW36X1/4T0/5QUHhAAD3MzP0Kir2ICDzERHtAACO5h0ZAAAAQUlEQVR4AQXBsRHDMAwAMTzNwvuvm5MVIECIZIEQZ4EQ7AAIGBABegsR+Z7VxChx7hCjhIwYJcTydcgQ1gv8Lhd/58kJTU6WtnIAAAAASUVORK5CYII=" alt="Polski" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Polski</span></a></li>
+<li class="lang-item lang-item-749 lang-item-esmx no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-esmx"><a href="/blog/esmx/" hreflang="es-MX" lang="es-MX" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEUAXgnp6ejj49zOAADGAACBvZl+u5Z2t4/9/f36+vrnZ2tmrYNdqXv29vbjR03fQkjjWFy4AABVpHba0LzfOD5PoXHg1sXHsIyDXjzSxq8AUQCrtaONfWn08fHbLTPgTVBInWudrZk7lmHYIymvAAAAQwAANwAAJQDU1NTKxMQZpDQjAAAAaklEQVR4ATXItUEEUAAFsLxvuDc4+2+Fu0ODnFSXMgGBRIguWQS/0YdMZqJFkiIyWFttkk4jqs1kfHcohzG059YetlndUhh1zYF+ZnUVhbpW3A4X6O97be1jDevP1nRoPGUAz9ByFAJZgjmA3Q34KhcIQAAAAABJRU5ErkJggg==" alt="Español" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Español</span></a></li>
+<li class="lang-item lang-item-949 lang-item-ptbr no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-ptbr"><a href="/blog/ptbr/" hreflang="pt-BR" lang="pt-BR" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAn1BMVEUAYQAAWwAAUgAARwAAOgAALgAAIwB/voB4uni242pttG1kr2Rdq11RpFEAGAD9/Uv8/VT690U/mz83lTguki4ADQCp2lJ3d+Q+dfpkaun47zii1B9IoEhgslHOy6fZ5virw/Iubfhsc6v29iMfih+Wy3Nbg+lzm/m61vd+oNr08hZ2uDcAAQCPlLSuraIzmA8yjzKw3z8nXvcTgxM1pTDYD/UeAAAAfUlEQVR4AUWIA3oFMBCE/4mT2nbvf6biQ91n27tjAaDNi7gaFuLAIexiUDc6QKUfhKaVva5Dh/Xu3rwrqYPTzfeYVNvrRvUiUUbvO5hIVR0f8f7TYCo797+6POgOqtm9n8nGQ1qP/395v7cHw4FsQohnXhE3DOSQSETOmN8EHiUfBxs2q7sAAAAASUVORK5CYII=" alt="Português" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Português</span></a></li>
+<li class="lang-item lang-item-1101 lang-item-id no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-id"><a href="/blog/id/" hreflang="id-ID" lang="id-ID" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAARVBMVEXfAgDPAADskYrvh4Dsd27qa2PoYVi9AADmV03kTULiQzfeMyf2vrryq6ftoJvMGA/8/Pz5+fn39/fz8/Pm5ubg4ODt7u3lScs2AAAAR0lEQVR4AQXBsRGDQBAAMe39e0gcuP86CTEgBSAgIwipzYiMdBmJjITNMJJYd58jhBPf+kEiaCARaFIiWEyA58Gf3bJwI3gBwHkHZeHbupcAAAAASUVORK5CYII=" alt="Bahasa Indonesia" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Bahasa Indonesia</span></a></li>
+<li class="lang-item lang-item-1105 lang-item-vi no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-vi"><a href="/blog/vi/" hreflang="vi" lang="vi" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAATlBMVEX+AAD2AADvAQH/eXn+cXL9amr8YmL9Wlr8UlL7TkvoAAD8d0f6Pz/3ODf2Ly/0KSf6R0f6wTv60T31IBz6+jr4+Cv3QybzEhL4bizhAADgATv8AAAAW0lEQVR4AQXBgU3DQBRAMb+7jwKVUPefkQEQTYJqByBENpKUGoZslXoN5LPONH8G9WWZ7pGlOn6XZmaGRce1J/seei4dl+7dPWDqkk7+58e3+igdlySPcYbwBG+lPhCjrtt9EgAAAABJRU5ErkJggg==" alt="Tiếng Việt" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Tiếng Việt</span></a></li>
+<li class="lang-item lang-item-7849 lang-item-fi menu-item menu-item-type-custom menu-item-object-custom menu-item-12864-fi"><a href="/blog/fi/javascript-ohjelmointi-opas/" hreflang="fi-FI" lang="fi-FI" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAPFBMVEXm6/Pl6/UAKb7b4OvS2OTEzNr9/f6DpeX5+fn09PRjjN1VgtlLetVActEyaM0AAIm9xNW4wM8AAJ2ossIJ2VMtAAAATUlEQVR4AQXBQQrCQBRAsbzfURDB+19UXFinJqEIpNyJi0HfBQfnQFcLMIg0twOR9FsLJIkMJACrtiNnwBqbFPhoGbau4EGHvNjvJzF/+bYNXW6C7PcAAAAASUVORK5CYII=" alt="Suomi" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Suomi</span></a></li>
+</ul>
+</li>
+</ul></nav></div>
+<div class="et_mobile_nav_menu"><div class="mobile_nav closed"> <span class="mobile_menu_bar"></span>
+</div></div>
+</div></div></div></div>
+</div>
+<div class="et_pb_row et_pb_row_1_tb_header"><div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child"><div class="et_pb_module et_pb_sidebar_0_tb_header et_pb_widget_area clearfix et_pb_widget_area_left  et_pb_text_align_center et_pb_bg_layout_light et_pb_sidebar_no_border"><div id="categories-2" class="et_pb_widget widget_categories">
+<h4 class="widgettitle">Kategóriák</h4>
+<ul>
+<li class="cat-item cat-item-5893"><a href="/blog/hu/category/bemutatkozik-a-codeberry-csapat/" title="Csapattagjainkat bemutató sorozatunkban munkatársaink mesélnek a CodeBerry-nél és azon kívül végzett munkujákuról, hobbijaikról, programozásról és karrierútjuk alakulásáról." data-wpel-link="internal">Bemutatkozik a CodeBerry csapat</a></li>
+<li class="cat-item cat-item-5879"><a href="/blog/hu/category/bevezetes-a-programozasba/" title="A CodeBerry Programozóiskola A programozás alapjai című cikksorozatában programozással kapcsolatos témákat feszegetünk, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a blogunkat, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz!" data-wpel-link="internal">Bevezetés a programozásba</a></li>
+<li class="cat-item cat-item-5889"><a href="/blog/hu/category/codeberry-hajonaplo/" title="A &quot;CodeBerry halónapló&quot; című sorozatban saját működésünk, vállalkozásépítési stratégiáink és távmunka-megoldásaink kulisszatitkiba avatunk be " data-wpel-link="internal">Codeberry hajónapló</a></li>
+<li class="cat-item cat-item-7425"><a href="/blog/hu/category/codeberry-magazin/" title="Ha szívesen olvasnál a programozás történetéről, szereted az érdekességeket és funfacteket, akkor kifejezetten kódolós témákra specializált magazinunkat neked találtuk ki!" data-wpel-link="internal">CodeBerry Magazin</a></li>
+<li class="cat-item cat-item-5891"><a href="/blog/hu/category/diakjaink-tortenetei/" title="A “CodeBerry Programozóiskola — Diákjaink Történetei” sorozatban olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként." data-wpel-link="internal">CodeBerry Programozóiskola – Diákjaink Történetei</a></li>
+<li class="cat-item cat-item-35"><a href="/blog/hu/category/interjuk/" data-wpel-link="internal">Interjúk</a></li>
+<li class="cat-item cat-item-5895"><a href="/blog/hu/category/programozas-tanfolyamok/" title="A CodeBerry Programozóiskola  &quot;Programozás tanfolyamok&quot; sorozatában  egyes programozási nyelvekre vagy adott városokra fokuszálva gyűjtöttük össze, milyen képzések érhetők el" data-wpel-link="internal">Programozás tanfolyamok</a></li>
+<li class="cat-item cat-item-5884"><a href="/blog/hu/category/programozasi-nyelvek/" title="A CodeBerry Programozóiskola &quot;Programozási nyelvek&quot; című cikksorozatából megtudhatjátok, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket." data-wpel-link="internal">Programozási nyelvek</a></li>
+<li class="cat-item cat-item-7226"><a href="/blog/hu/category/programozasi-oktatoanyagok-hu/" title="A CodeBerry Programozóiskola &quot;Programozási oktatóanyagok&quot; sorozatában olyan kiegészítő tananyagokat találsz az egyes programnyelvekhez, melyek segítségével gyorsan és egyszerűen sajátíthatod el a programozás alapjait." data-wpel-link="internal">Programozási oktatóanyagok</a></li>
+<li class="cat-item cat-item-8182"><a href="/blog/hu/category/programozoi-fizetesek/" title="Ha érdekelnek a programozói keresetek, vagy azt számolgatod, hogy érdemes lenne-e karriert váltani, &quot;Programozói fizetések&quot; című sorozatunkban választ kaphatsz a kérdéseidre." data-wpel-link="internal">Programozói fizetések</a></li>
+<li class="cat-item cat-item-739"><a href="/blog/hu/category/cikkek/" data-wpel-link="internal">Tippek és trükkök pályakezdő programozóknak</a></li>
+</ul>
+</div></div></div></div>
+</div></div></header><div id="main-content"><div class="container"><div id="content-area" class="clearfix">
+<div class="et_pb_extra_column_main">
+<article id="post-8226" class="module single-post-module post-8226 post type-post status-publish format-standard has-post-thumbnail hentry category-programozasi-nyelvek tag-javascript-alapok tag-javascript-kezdoknek tag-javascript-magyar tag-javascript-magyarul tag-javascript-nyelv tag-javascript-programozas tag-javascript-programozas-alapjai tag-javascript-programozas-kezdoknek tag-javascript-programozo tag-javascript-tanulas tag-javascript-valtozok tag-modern-javascript-a-gyakorlatban et-has-post-format-content et_post_format-et-post-format-standard"><div class="post-header">
+<h1 class="entry-title">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</h1>
+<div class="post-meta vcard"><p></p></div>
+</div>
+<div class="post-thumbnail header"> <img src="/blog/wp-content/uploads/2020/03/JavaScript-Basics-1280x640.jpg" alt="A JavaScript programozás alapjai – JavaScript programozás kezdőknek">
+</div>
+<div class="post-wrap"><div class="post-content entry-content">
+<div class="et_pb_widget widget_tag_cloud"><div class="tagcloud"> <span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-alapok/" rel="tag" data-wpel-link="internal">javascript alapok</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-kezdoknek/" rel="tag" data-wpel-link="internal">javascript kezdőknek</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-magyar/" rel="tag" data-wpel-link="internal">javascript magyar</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-magyarul/" rel="tag" data-wpel-link="internal">javascript magyarul</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-nyelv/" rel="tag" data-wpel-link="internal">javascript nyelv</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-programozas/" rel="tag" data-wpel-link="internal">javascript programozás</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-programozas-alapjai/" rel="tag" data-wpel-link="internal">javascript programozás alapjai</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-programozas-kezdoknek/" rel="tag" data-wpel-link="internal">javascript programozás kezdőknek</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-programozo/" rel="tag" data-wpel-link="internal">javascript programozó</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-tanulas/" rel="tag" data-wpel-link="internal">javascript tanulás</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/javascript-valtozok/" rel="tag" data-wpel-link="internal">javascript változók</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/hu/tag/modern-javascript-a-gyakorlatban/" rel="tag" data-wpel-link="internal">modern javascript a gyakorlatban</a> </span>
+</div></div>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><strong>A JavaScript programozás alapjai – JavaScript programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<h3><b>Mi is a JavaScript?</b></h3>
+<p>Az általános célú, objektumorientált JavaScript magas szintű programozási nyelvként kezdő kódolók számára is kiváló választás. </p>
+<p><span style="font-weight: 400;">A JavaScript a web programnyelve. Szinte nincs is olyan oldal, ami a böngésződben megnyitva ne használna így vagy úgy JavaScriptet a felhasználói élmény javításához. Ezért olyan fontos része a JavaScript a modern programozó eszközkészletének. Tényleg semmi sem helyettesítheti igazán ezt a rugalmas nyelvet, ha kiemelkedő böngészőalapú élménnyel szeretnéd az oldaladhoz láncolni a vásárlókat, ügyfeleket vagy potenciális munkaadóidat. </span></p>
+<p><span style="font-weight: 400;">JavaScript kódból sok minden felépülhet. Szeretnél honlapot csinálni a gyors ütemben növekvő kutyazoknigyártó vállalkozásodnak? Esetleg egy böngészőben futtatható virtuális valóság-élményben modelleznéd, hogy milyen érzés anyóséknál tölteni a karácsonyt? Ehhez, és még sok egyéb nemes cél elérése érdekében is, feltétlenül szükséged lesz a JavaScript programozás elsajátítására.</span></p>
+<p><span style="font-weight: 400;">Szóval ha az imént felsoroltak közül bármelyik megmozgatta a fantáziádat (vagy csak a munkahelyi vécén unatkozol épp), olvass tovább, hogy megismerkedhess a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">JavaScript programozás alapjaival</a>, és ezzel megtedd az első lépést a webprogramozó nindzsává válásod felé.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12046 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/12.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/12.png 1024w, /blog/wp-content/uploads/2018/09/12-300x100.png 300w, /blog/wp-content/uploads/2018/09/12-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><b>Változók</b></h3>
+<p><span style="font-weight: 400;">A legjobb talán a változóknál kezdeni. A programozók változókban szeretnek tárolni mindenféle információt, amire a programnak szüksége lehet futás közben. A változók olyanok, mint a kis dobozok, amikbe dolgokat lehet tenni. A programozó farag kódból egy változót, majd megtölti valamivel, hogy később is könnyedén elő tudja venni, ha szüksége van rá.</span></p>
+<h4><span style="font-weight: 400;">De hogy lehet létrehozni a programban egy változót?</span></h4>
+<p><span style="font-weight: 400;">Hát így:</span></p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable;</code></pre>
+<h4>És ez mégis mit jelent?</h4>
+<p>Örülök, hogy érdekel. A fenti sor két részből áll, és a kettő együtt hozza létre a változót. Nézzük, mit csinálnak külön-külön.</p>
+<ul>
+<li>var<ul><li>A JavaScriptben ez egy úgynevezett foglalt szó. Ilyenből van egy jó pár ebben a programnyelvben, és mindegyiknek különleges funkciója van. Ez itt például szól a programnak, hogy most <em>egy változót készülünk létrehozni</em>.</li></ul>
+</li>
+<li>myCoolVariable<ul>
+<li>Ez az úgynevezett <em>változóazonosító</em>, azaz a változó neve. Ezt angolul szokás megadni, de akár lehetne „cica” is vagy „empiriokriticizmus” (könyörgöm, ne használj az utóbbihoz hasonló változóneveket!). A változóazonosító segítségével tudunk később az adott változóra <em>hivatkozni</em>, ha erre szükség van.</li>
+<li>A jó gyakorlat az, ha olyan nevet adsz a változóidnak, amik valamilyen módon utalnak az adott változó funkciójára. Ha például van egy változód, amiben az életkorodat tárolod, akkor azt érdemes myAge-nek nevezni, ami angolul annyit tesz: életkorom. Ha következetesen tartod magad ehhez, a programozótársaid imádni fognak, és apró ajándékokat fognak a lábad elé hurcolni.</li>
+</ul>
+</li>
+</ul>
+<h4>Ez mind oké, de aztán mi van?</h4>
+<p>Emlékszel, amikor azt magyaráztam, hogy a változók olyanok, mint a kis dobozok? Nos, a fenti kód létrehozza ugyan a dobozt, de még nem tettünk bele semmit. Ez a következő lépés. Előtte viszont ejtsünk egy gyors szót a különböző <em>adattípusokról</em>.</p>
+<h4>A midattípusokról?</h4>
+<p>Adattípusoknak nevezzük a különböző fajta változókat, amiket létre lehet hozni. Szinte minden programozási nyelv rendelkezik ilyenekkel. Néhányuk ráadásul nagyon szigorúan veszi ezeket: már a legelején kisajtolják belőled, hogy milyen fajta változót akarsz létrehozni, amihez aztán végig tartanod is kell magad.</p>
+<p>A JavaScript programozás nem ilyen. Itt nyugodtan létrehozhatsz egy adott típusú változót, hogy aztán később kényedre-kedvedre megváltoztasd, hiszen JavaScriptben a változók értékét és típusát szabadon meg lehet változtatni. Juhú! Itt aztán kiélheted magad rendesen!</p>
+<p>És most következzék néhány a JavaScriptben elérhető adattípusok közül:</p>
+<ul>
+<li>Number<ul>
+<li>A number, azaz szám adattípussal egy valamilyen számértékkel rendelkező változót határozhatunk meg. Egy ilyen változó elvileg mínusz végtelentől plusz végtelenig bármilyen értéket fel tud venni.</li>
+<li>Ezenkívül a NaN különleges értéket is tárolhatja, ami angolul annak a rövidítése, hogy „nem szám” („Not a Number”). Ez leginkább akkor jön elő, ha valamit elhibáztál, és ezzel sikerült teljesen összezavarnod a JavaScriptet. Szegény JavaScript.</li>
+</ul>
+</li>
+<li>String<ul><li>A string-típusú változók szöveget tartalmaznak, például olyanokat, hogy „Sziasztok!”, „Pápá!” vagy „egy aprócska kalapocska, benne csacska macska mocska”.</li></ul>
+</li>
+<li>Boolean<ul><li>A boolean adattípusba tartozó változók értéke csak <em>true</em>, azaz igaz, vagy <em>false</em>, azaz hamis lehet. Az ilyen változókat sokszor arra használjuk a kódban, hogy bizonyos döntéseket hozzunk meg a segítségükkel. Menjek vagy maradjak? A boolean tudja a megoldást.</li></ul>
+</li>
+</ul>
+<p>Ha szeretnél a többi adattípussal is megismerkedni, <a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external">kattints ide</a>. </p>
+<h4>Változók értékének megadása</h4>
+<p>Most lássuk, hogyan tudunk dolgokat pakolni a változókba. A következő kód például pont ezt csinálja:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">myCoolVariable = 10;
+myCoolVariable = ‘hello’;
+myCoolVariable = true;</code></pre>
+<p>&nbsp;</p>
+<p>A fenti ábrán látható kódok három különböző adattípust rendelnek hozzá a myCoolVariable („az én kis szuper változóm”) nevű változóhoz: az első egy számértéket (10), a második egy string-, azaz szövegtípusú értéket (‘Sziasztok!’), az utolsó pedig egy booleant (true).</p>
+<h4>Változók egyidejű létrehozása és meghatározása</h4>
+<p>Persze a fenti két lépést egyszerre is végrehajthatjuk, így egy csapásra létrehozhatjuk a dobozt, és meg is tölthetjük azt:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;</code></pre>
+<p>&nbsp;</p>
+<p>Itt egy soron belül hozzuk létre a myCoolVariable változót, és rendeljük hozzá a 10-es számértéket. Nem semmi!</p>
+<h4>Hivatkozás korábban meghatározott változókra</h4>
+<p>Az már önmagában nagyszerű, hogy létre tudunk hozni és meg tudunk határozni változókat. Hát még az milyen fantasztikus, ha fel is tudjuk őket később használni!</p>
+<p>De mégis hogyan? Egyszerűen. Csak az azonosítóra lesz hozzá szükségünk.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;
+var myCoolVariableDouble = myCoolVariable + myCoolVariable;</code></pre>
+<p>&nbsp;</p>
+<p>Ezzel létrehoztuk a myCoolVariable változót, és hozzárendeljük a 10-es értéket. Aztán létrehoztunk még egy változót myCoolVariableDouble névvel, aminek pedig úgy határoztuk meg az értékét, hogy az legyen a myCoolVariable kétszer.</p>
+<p>Úgyhogy a myCoolVariableDouble értéke most 20, nekünk pedig már két változónk is van a programunkban. Kettő! Gyere, apa, hozd a fényképezőgépet!</p>
+<h4>Elég a változókból</h4>
+<p>Ez nagyjából le is fedi a változók alapjait: most már létre tudjuk őket hozni, értéket tudunk hozzájuk rendelni és hivatkozni is tudunk rájuk. Ennél azonban sokkal többről szól a JavaScript programozás! Most, hogy ezzel megvolnánk, továbbmehetünk a dicsőségesebb dolgok irányába. Amilyenek például a feltételes állítások.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<h3>If állítások</h3>
+<p>Jó, most már értjük, hogyan működnek a változók, de hogy segíthetik világuralmi törekvéseinket? Ennek az egyik kézenfekvő módja az if állítások bevetése.</p>
+<p>Az if állítások segítségével a programozók <em>döntésalapú logikát</em> tudnak beépíteni a kódjukba. Ez azt jelenti, hogy ezzel meg lehet mondani a programnak, hogy egy bizonyos <em>feltétel</em> alapján csináljon valamit. (Az angol „if” kifejezés annyit tesz magyarul, hogy „ha”.) Lássunk erre egy példát:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">If (10 &gt; 20) {
+  // fusson le ez a kód
+} else {
+  // fusson le ez a kód
+}</code></pre>
+<p>&nbsp;</p>
+<p>A {}-ek egy adott kódblokkot határolnak körül. Bizonyos JavaScript-eszközöknél, amilyen például az if állítás is, ilyen zárójelet kell használnunk a kód különböző részeinek az elválasztásához. </p>
+<p>Részleteiben ez valahogy így néz ki:</p>
+<ul>
+<li>if<ul><li>Ez is egy foglalt szó. Ez értesíti a programot arról, hogy az utána következő kód egy if állítás lesz.</li></ul>
+</li>
+<li>(10 &gt; 20)<ul>
+<li>Ez maga a <em>feltétel</em>. Ezt a program ki fogja értékelni, és az eredmény alapján dönti majd el, hogy hogyan tovább. A feltételnek mindig valamilyen booleanérték lesz az eredménye, tehát true (igaz) vagy false (hamis).</li>
+<li>Ha a feltétel eredménye true, az if állítás lefuttatja a feltételt záró zárójel után közvetlenül álló kódblokkot. Ha a kiértékelés végén false eredményt kapunk, akkor ehelyett az else blokkban lévő kód lép érvénybe. Ez utóbbi történik esetünkben is, hiszen 10 nem nagyobb 20-nál.</li>
+</ul>
+</li>
+<li>else<ul><li>Ez is egy kulcsszó a JavaScriptben. Angolul annyit tesz, hogy „egyébként”, és azt határozza meg, hogy mi történjen, ha a megadott <em>feltétel</em> hamisnak bizonyul a kiértékelés során, azaz nem teljesül. Az else kódblokkot nem kötelező megadni. Ha azonban megadod, azzal tulajdonképpen egy if / else állítást hozol létre.</li></ul>
+</li>
+</ul>
+<p>Reméljük, ezzel már az is világossá vált, hogy miért van szükség a {}-ekre. A kódblokkok határainak egyértelmű meghatározása nélkül a programunk nem tudná, hogy mikor melyik kódot kéne lefuttatnia, abban az esetben, ha a feltételünk éppen true vagy false értéket kap.</p>
+<p>Az if állítások az összetett programok alapvető építőköveinek számítanak. Ezeknek a beható ismerete elengedhetetlen ahhoz, hogy valakiből profi programozó váljék.</p>
+<p>&nbsp;</p>
+<h3>Ciklusok</h3>
+<p>A ciklusok szintén fontos eszközeink a JavaScript programozásban. Ahogy azt már a nevükből is sejteni lehet, ezek olyan kódblokkok, amik addig futnak újból és újból, amíg nem teljesül egy bizonyos előre megadott feltétel. Többféle ciklus létezik, de most ezek közül csak kettővel ismerkedünk meg. Ha sikerült felkeltenem az érdeklődésedet, akkor a cikkben itt-ott csatolt linkeken még többet is megtudhatsz ezekről a témákról.</p>
+<p>&nbsp;</p>
+<h4>A for ciklus</h4>
+<p>Először vegyük a for ciklust. Itt egy példa rá:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var numberOfIterations = 10;
+ 
+for (var i = 0; i &lt; numberOfIterations; i++) {
+  // csinálj valamit 10-szer
+}</code></pre>
+<p>&nbsp;</p>
+<p>Ez egy kicsit furcsának tűnhet így elsőre, de hidd el, sec-perc alatt megérted, ha lebontjuk. Nézzük is meg rögtön, hogy mit csinálnak a különböző részei:</p>
+<ul>
+<li>var numberOfIterations = 10<ul><li>Ezt már ismerjük: itt egyszerre hozunk létre és határozunk meg egy változót.</li></ul>
+</li>
+<li>for (var i = 0; i &lt; numberOfIterations; i++)<ul>
+<li>for<ul><li>Egy újabb foglalt szó. Ez közli a programmal, hogy egy for ciklus következik.</li></ul>
+</li>
+<li>var i = 0<ul><li>Ismét létrehozunk egy változót, és hozzárendelünk egy értéket is. Annyi különlegesség azért van benne, hogy most mindezt egy for cikluson belül tesszük – így aztán az i nevű változónk csak és kizárólag az adott for cikluson belül fog létezni. Ha a ciklus véget ér, örökre búcsút inthetünk az i-nek. Agyő, i.</li></ul>
+</li>
+<li>i &lt; numberOfIterations<ul><li>Ez a sor azt mondja a for ciklusnak, hogy csak addig fusson, amíg az i változó még kisebb mint a numberOfIterations értéke (10).</li></ul>
+</li>
+<li>i++<ul><li>Végül pedig ezzel a sorral utasítjuk a for ciklust, hogy minden egyes végrehajtott iteráció után növelje az i értékét eggyel.</li></ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Remélem ezzel sikerült valamivel áttekinthetőbbé tennem a for ciklusok működését. Tehát a ciklus létrehoz egy ideiglenes változót (i-t), amivel a megtett ciklusok számát tudja lekövetni, majd meghatározza a végrehajtás feltételét (csak akkor, ha i &lt; valamilyen értéknél), végül pedig meghatározza, hogyan növeljük az i értékét ciklusonként (esetünkben úgy, hogy mindig hozzáadunk egyet, de itt aztán tényleg bármi állhatna).</p>
+<p>Természetesen a for ciklus akkor a leghasznosabb, ha tudod, hogy hányszor szeretnél lefuttatni valamit. De mi van akkor, ha nem tudod? Olyankor jön képbe a while ciklus.</p>
+<p>&nbsp;</p>
+<h4>A while ciklus</h4>
+<p>A while ciklus valamivel egyszerűbb a for ciklusnál. Ő egyszerűen fog egy feltételt, és addig fut, amíg a feltétel igaz marad. Például:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var shouldKeepRunning = true;
+ 
+while (shouldKeepRunning) {
+  // futtass le valami kódot
+ 
+  shouldKeepRunning = false;
+}</code></pre>
+<p>&nbsp;</p>
+<p>Lebontva:</p>
+<ul>
+<li>while<ul><li>Szólunk a programnak, hogy készüljön fel egy while ciklusra.</li></ul>
+</li>
+<li>(shouldKeepRunning)<ul><li>Ez a feltétel. A ciklus addig fog futni, amíg a shouldKeepRunning értéke igaz. Ezt úgy is leírhatnánk, hogy shouldKeepRunning == true, de az egyszerűség kedvéért most így is megteszi.</li></ul>
+</li>
+</ul>
+<p>A JavaScript ==-t használ két érték összehasonlításánál, mert az = ebben a nyelvben arra szolgál, hogy meghatározzuk valaminek az értékét. Tehát azzal, hogy if (10 == 20), igazából azt mondjuk, hogy „ha 10 egyenlő 20-szal”.</p>
+<p>Ez a konkrét ciklus csupán egyszer fog lefutni, mivel mi már a legelső iterációnál false értéket adunk a shouldKeepRunning változónak. Ez persze valószínűleg kicsit másképp fog festeni egy általad írt programban, de fontos, hogy a ciklus végül leálljon egy adott ponton. Végtére is nem akarunk globális katasztrófát okozni egy végtelenített ciklussal.</p>
+<p>Most a ciklusoknak csak ezt a két fajtáját vesszük át, de ha szeretnél a többivel is megismerkedni, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external">mint amit itt felsoroltunk, kattintsd ide</a>. </p>
+<p>&nbsp;</p>
+<h3>Függvények</h3>
+<p>Az eddig elsajátított eszközeink kiváló szolgálatot tesznek kisebb, szekvenciális programoknál, de mi van, ha komolyabb szoftvereket is szeretnénk írni, amikben többször fel kell használni ugyanazokat a kódrészleteket? Egy biztos, nem akarjuk külön-külön bemásolgatni a kódot újból és újból. Hát, ilyenkor nyúlunk a függvényekért.</p>
+<p>A függvények újrahasználható kódrészletek. Például:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">function doSomething(argumentOne, argumentTwo) {
+  // itt csinálj valamit
+}</code></pre>
+<p>&nbsp;</p>
+<p>Ezt lebontva a következőt kapjuk:</p>
+<ul>
+<li>function<ul><li>Csak egy újabb JavaScript-kulcsszó.</li></ul>
+</li>
+<li>doSomething<ul><li>Ez a <em>függvényazonosító</em>, azaz a függvény neve. A változóazonosítókhoz hasonlóan ennek segítségével hivatkozhatunk az adott függvényre később a kódban.</li></ul>
+</li>
+<li>(argumentOne, argumentTwo)<ul><li>A zárójelbe foglalt kódot argumentumlistának nevezzük. A két, argumentOne és argumentTwo nevű érték változóként viselkedik a függvényen belül, szóval így is kell rájuk tekinteni. Egy pillanat múlva azt is látni fogjuk, hogyan tudjuk megadni ezeket az értékeket.</li></ul>
+</li>
+</ul>
+<p>Minden, a function blokkon belüli kódot annyiszor futtathatunk le, ahányszor csak akarjuk – ehhez csupán annyit kell tennünk, hogy meghívjuk a függvényt, például így:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">doSomething(10, 20);</code></pre>
+<p>&nbsp;</p>
+<p>Itt először a doSomething függvényazonosítót használjuk, majd átadunk neki két argumentumot: a 10-et és a 20-at. Ezek az átadott argumentumok fogják aztán átvenni a függvény argumentumlistájában szereplő argumentumok, tehát az argumentOne és az argumentTwo helyét. Itt számít a sorrend is: az argumentOne kapja a 10-es értéket, argumentTwo értéke pedig 20 lesz.</p>
+<p>Abból a szempontból a függvények ugyanúgy működnek, mint a változók, hogy a függvényekre is csak azon a kódblokkon, illetve annak gyermekblokkjain belül lehet hivatkozni, ahol létre lettek hozva. Ha például egy függvényt egy if állítás kódblokkjában hoztál létre, akkor nem fogod tudni azon kívül használni.</p>
+<p>A függvények nagyon fontos eszközök, ha összetett, dinamikus programokat szeretnénk írni, ezért az is fontos, hogy jól begyakoroljuk a használatukat. Ha többet szeretnél tudni a függvények használatáról, <a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external">kattints ide</a>. </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<h3>Mennyit kereshetsz JavaScript programozással?</h3>
+<p>Hazánkban jelenleg az alábbiak szerint alakulnak a JavaScripttel foglalkozó szakemberek fizetései:</p>
+<figure class="wp-block-table"><table><tbody>
+<tr>
+<td>Junior JS fejlesztő</td>
+<td>Bruttó 431.000 Ft</td>
+</tr>
+<tr>
+<td>Medior JS fejlesztő</td>
+<td>Bruttó 697.000 Ft</td>
+</tr>
+<tr>
+<td>Senior JS fejlesztő</td>
+<td>Bruttó 963.000 Ft-tól</td>
+</tr>
+</tbody></table></figure><p><em>Az adatok forrása: <a href="https://www.fizetesek.hu/fizetesek/informacios-technologiak/javascript-programozo" target="_blank" rel="noopener external" data-wpel-link="external">Fizetések.hu</a></em></p>
+<p>&nbsp;</p>
+<p>A fizetési rangsorban egyébként az 59 . helyet foglalja el a JS programozás, a hölgyek egyelőre 4%-os arányban vannak jelen ezen a piacon. </p>
+<p>Az átlagéletkor 22 év, úgyhogy a fiatalos lendület ennél a pozíciónál is garantált.</p>
+<p>Ha pedig részletesebben is érdekel, mennyit kereshetsz napjainkban programozóként, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>Fizetési kalauzunkban</strong> </a>összegyűjtöttük a jelenlegi nemzetközi és hazai IT-s fizetéseket.</p>
+<p>&nbsp;</p>
+<h3>Hogyan tanulhatom meg a JavaScript programozást?</h3>
+<p>A JavaScript a kezdők számára is könnyen megtanulható nyelvek közé tartozik, ezért aztán a HTML és a CSS elsajátítása után sok programozó rögtön ezzel folytatja a tanulást. Akár a kliens oldalon, akár a backend területén szeretnél elhelyezkedni, ezzel a trióval már jó alapokkal fogsz rendelkezni, bármelyiket is választod.</p>
+<p>Ha szeretnéd megtanulni a JS-t, érdemes az alábbi lépéseket követned:</p>
+<p>Természetesen mint más fontos célkitűzéseknél, itt is fontos, hogy ne csak egy tanórára alapozz, hanem otthon is hozzátedd a tanuláshoz a kellő energiabefektetést. Első lépésként iratkozz be egy jó online, illetve intenzív tanfolyamra, ahol megtanulhatod a JavaScript progrmozás alapjait. Mivel más programnyelvekhez képest a JS elég jól olvasható és könnyen érthető, gond nélkül el lehet sajátítani mindenféle formális oktatás nélkül is.</p>
+<p>Második lépésként olyan nyomtatott vagy digitális anyagokra lesz szükséged, amiből szabadidődben magad is tudod folytatni a tanulást. Rengeteg olyan könyv és útmutató, online videó és tananyag érhető el, ami bevezet a JavaScript programozás rejtelmeibe, de Youtube-on is olyan klassz, több részes videosorozatokat találtok, <a href="https://www.youtube.com/watch?v=YRswTodmICE&amp;list=PLuYHIg_0xQJsiwA4jrXTWaIdqMGJQ4sAU" target="_blank" rel="noopener external" data-wpel-link="external">mint például ez itt</a>.</p>
+<p>Harmadik lépésként pedig keress olyan online közösségeket, fórumokat és üzenőfalakat, ahol tapasztalt JavaScript programozóktól kérhetsz segítséget. Gyakorolj kitartóan, és ha elakadsz, vagy nem találsz egyedül megoldást egy problémára, fordulj tanácsért a közösséghez. </p>
+<p>&nbsp;</p>
+<h3>Mennyi idő alatt lehet megtanulni a JavaScript programozást?</h3>
+<p>Az, hogy mennyi idő alatt tudsz megtanulni egy programozási nyelvet, attól függ, hogy milyen módszerrel tanulsz, mennyire hatékonyan tudsz maradandó tudásra szert tenni, és hogy hetente hány órát fordítasz a tanulásra. Természetesen az sem mindegy, hogy mit jelent számodra az, hogy „megtanultál programozni”. Mindettől függetlenül a JS annyira egyszerű, hogy a lényege meglepően rövid idő alatt elsajátítható.</p>
+<p>Még ha nincs is korábbi tapasztalatod a programozásban, valószínűleg pár nap vagy pár hét alatt már használható tudásra tehetsz szert a JavaScript területén. Ahhoz, hogy a JS kiegészítő funkcióit is megtanuld, és elég magabiztos tudásra és gyakorlatra tegyél szert ahhoz, hogy hivatásos fejlesztőként dolgozhass, valószínűleg nagyjából 3 hónapra lesz szükséged.</p>
+<p>&nbsp;</p>
+<h3>Honnan tudhatom, hogy nekem való-e a JavaScript programozás?</h3>
+<p>Ahhoz, hogy eldöntsd neked való-e egy programnyelv, először azt kell megnézned, hogy mennyire van összhangban a hosszú távú céljaiddal. Az eligazodásban segítségedre lehet a “<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a>” című bejegyzés, ahol részletesen összeszedtük, hogy melyik programnyelvvel milyen karrierlehetőségek várnak rád.</p>
+<p>Kezdőként remek választás lehet a JavaScript programozás. Segítségével a lehető leggyorsabban vághatsz bele a frontend fejlesztésbe és keresheted vissza a befektetett pénzedet. </p>
+<p>Ahhoz pedig, hogy a lehető legkönnyebben tudj elhelyezkedni, érdemes HTML-lel és CSS-szel kiegészítened a tudásod. Ezzel a három nyelvvel igazán sokoldalú programozó válhat belőled. A Codeberry <a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">webfejlesztő</a> illetve a <a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">programozás alapjairól</a> szóló tanfolyamain mindhárom nyelvvel részletesen foglalkozunk &#8211; ráadásul most első 25 leckénket ingyen is <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">kipróbálhatod</a>.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12054 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png 1024w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-300x100.png 300w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<h3>Összegzés</h3>
+<p>Ebben a cikkben átvettük a JavaScript programozás pár alapvető elemét, de érdemes ennél sokkal jobban is elmerülni a témában. A programozás egy gyakorlati készség, és mint ilyen, leginkább csak szorgalmas gyakorlás által lehet kellően elsajátítani. Erre számos lehetőséget nyújtanak a CodeAcademyhez, CodeSchoolhoz és Pluralsighthoz hasonló szolgáltatások azoknak, akik beszélnek angolul &#8211; magyarul pedig kiváló programokat kínálnak a Codeberry, (..) képzései. </p>
+<p>Ha nem tudod, melyik képzési forma illene hozzád a leginkább, less be a “<a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan válasszunk a számtalan programozótanfolyam közül?</a>” című cikkünkbe, ahol összeszedtük neked a programozóképzés összes alternatíváját annak előnyeivel és hátrányaival.</p>
+<p>Remélem az itt olvasottak érdekesek voltak számodra, és hogy később is vissza tudsz nyúlni értük, ha szükséged lenne rá. Sok sikert a programozói pályához!</p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><strong>A JavaScript programozás alapjai – JavaScript programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+</div></div>
+<div class="post-footer"><div class="social-icons ed-social-share-icons">
+<p class="share-title">Megosztás</p> <a href="http://www.facebook.com/sharer.php?u=/hu/a-javascript-programozas-alapjai/&#038;t=A%20JavaScript%20programoz%C3%A1s%20alapjai%20%E2%80%93%20JavaScript%20programoz%C3%A1s%20kezd%C5%91knek" class="social-share-link" title="Ossza meg a &quot; A JavaScript programozás alapjai – JavaScript programozás kezdőknek&quot; -et Facebook segítségével" data-network-name="facebook" data-share-title="A JavaScript programozás alapjai – JavaScript programozás kezdőknek" data-share-url="/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-facebook et-extra-icon-background-hover"></span> </a><a href="http://twitter.com/intent/tweet?text=A%20JavaScript%20programoz%C3%A1s%20alapjai%20%E2%80%93%20JavaScript%20programoz%C3%A1s%20kezd%C5%91knek%20/hu/a-javascript-programozas-alapjai/" class="social-share-link" title="Ossza meg a &quot; A JavaScript programozás alapjai – JavaScript programozás kezdőknek&quot; -et Twitter segítségével" data-network-name="twitter" data-share-title="A JavaScript programozás alapjai – JavaScript programozás kezdőknek" data-share-url="/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-hover"></span> </a><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=/hu/a-javascript-programozas-alapjai/&#038;title=A%20JavaScript%20programoz%C3%A1s%20alapjai%20%E2%80%93%20JavaScript%20programoz%C3%A1s%20kezd%C5%91knek" class="social-share-link" title="Ossza meg a &quot; A JavaScript programozás alapjai – JavaScript programozás kezdőknek&quot; -et LinkedIn segítségével" data-network-name="linkedin" data-share-title="A JavaScript programozás alapjai – JavaScript programozás kezdőknek" data-share-url="/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-linkedin et-extra-icon-background-hover"></span> </a><a href="#" class="social-share-link" title="Ossza meg a &quot; A JavaScript programozás alapjai – JavaScript programozás kezdőknek&quot; -et Email segítségével" data-network-name="basic_email" data-share-title="A JavaScript programozás alapjai – JavaScript programozás kezdőknek" data-share-url="/hu/a-javascript-programozas-alapjai/"> <span class="et-extra-icon et-extra-icon-basic_email et-extra-icon-background-hover"></span> </a><a href="#" class="social-share-link" title="Ossza meg a &quot; A JavaScript programozás alapjai – JavaScript programozás kezdőknek&quot; -et Print segítségével" data-network-name="basic_print" data-share-title="A JavaScript programozás alapjai – JavaScript programozás kezdőknek" data-share-url="/hu/a-javascript-programozas-alapjai/"> <span class="et-extra-icon et-extra-icon-basic_print et-extra-icon-background-hover"></span> </a>
+</div></div></article><nav class="post-nav"><div class="nav-links clearfix">
+<div class="nav-link nav-link-prev"> <a href="/blog/hu/programozo-kepzes-budapesten/" rel="prev" data-wpel-link="internal"><span class="button">Előző</span> <span class="title">A top 20 programozó képzés Budapesten</span></a>
+</div>
+<div class="nav-link nav-link-next"> <a href="/blog/hu/miert-erdemes-programozast-tanulni/" rel="next" data-wpel-link="internal"><span class="button">Következő</span> <span class="title">6 kiváló ok, amiért érdemes programozást tanulni</span></a>
+</div>
+</div></nav><div class="et_extra_other_module related-posts">
+<div class="related-posts-header"><h3>Kapcsolódó hozzászólások</h3></div>
+<div class="related-posts-content clearfix">
+<div class="related-post">
+<div class="featured-image"><a href="/blog/hu/a-c-sharp-programozas-alapjai/" title="A C# programozás alapjai – C# programozás kezdőknek" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2020/06/Beginner’s-Guide-to-C-440x264.jpg" alt="A C# programozás alapjai – C# programozás kezdőknek"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="internal">A C# programozás alapjai – C# programozás kezdőknek</a></h4>
+<p class="date"><span class="updated">június 12, 2020</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/hu/programozasi-nyelv-e-a-javascript/" title="Programozási nyelv-e a JavaScript? &#8211; 10 bekezdés arról, hogy mire jó a Js" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2021/05/cover-440x264.png" alt="Programozási nyelv-e a JavaScript? &#8211; 10 bekezdés arról, hogy mire jó a Js"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/hu/programozasi-nyelv-e-a-javascript/" data-wpel-link="internal">Programozási nyelv-e a JavaScript? &#8211; 10 bekezdés arról, hogy mire jó a Js</a></h4>
+<p class="date"><span class="updated">május 13, 2021</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/hu/programozasi-nyelv-e-a-css/" title="Programozási nyelv-e a CSS?" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2021/05/css-440x264.png" alt="Programozási nyelv-e a CSS?"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/hu/programozasi-nyelv-e-a-css/" data-wpel-link="internal">Programozási nyelv-e a CSS?</a></h4>
+<p class="date"><span class="updated">május 1, 2021</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/hu/a-webprogramozas-alapjai/" title="A webprogramozás alapjai &#8211; Webfejlesztés kezdőknek" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2020/06/A-Brief-Introduction-to-Web-Development-440x264.jpg" alt="A webprogramozás alapjai &#8211; Webfejlesztés kezdőknek"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="internal">A webprogramozás alapjai &#8211; Webfejlesztés kezdőknek</a></h4>
+<p class="date"><span class="updated">június 9, 2020</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_extra_column_sidebar">
+<div id="custom_html-2" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">CodeBerry</h4>
+<div class="textwidget custom-html-widget"><p>2020 © CodeBerry Kft.</p></div>
+</div>
+<div id="custom_html-3" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">Kapcsolat</h4>
+<div class="textwidget custom-html-widget">
+<p>CodeBerry School Kft.
+1119 Fehérvári út 149. II/8. Budapest, Hungary</p>
+<p>Magyar nyelvű ügyfélszolgálat:<br> <a href="mailto:hello@codeberryschool.com;">hello@codeberryschool.com</a></p>
+</div>
+</div>
+<div id="custom_html-4" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">Jogi nyilatkozatok</h4>
+<div class="textwidget custom-html-widget"><p><a href="https://codeberryschool.com/hu/adatvedelmi-tajekoztato/" data-wpel-link="external" target="_blank" rel="external">Adatvédelmi nyilatkozat (GDPR-nek megfelelő)</a><br> <a href="https://codeberryschool.com/hu/visszateritesi-szabalyzat/" data-wpel-link="external" target="_blank" rel="external">Szolgáltatási feltételek</a><br> <a href="https://codeberryschool.com/hu/szolgaltatasi-feltetelek/" data-wpel-link="external" target="_blank" rel="external">Visszatérítési szabályzat</a></p></div>
+</div>
+</div>
+</div></div></div>
+<footer class="et-l et-l--footer"><div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular"><div class="et_pb_row et_pb_row_0_tb_footer"><div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child"><div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light"><div class="et_pb_text_inner"><p style="text-align: center;">Made with ❤️ in a remote company, all around the world</p></div></div></div></div></div></div></footer>
+</div></div> <span title="Vissza a tetejére" id="back_to_top"></span> <script type="text/javascript" id="et-builder-modules-global-functions-script-js-extra">var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};</script> <script type="text/javascript" id="mkaz-code-syntax-prism-js-js-extra">var prism_settings = {"pluginUrl":"\/wp-content\/plugins\/code-syntax-block\/"};</script> <script type="text/javascript" id="toc-front-js-extra">var tocplus = {"smooth_scroll":"1"};</script> <script type="text/javascript" id="et_monarch-custom-js-js-extra">var monarchSettings = {"ajaxurl":"\/wp-admin\/admin-ajax.php","pageurl":"\/hu\/a-javascript-programozas-alapjai\/","stats_nonce":"808ea31a31","share_counts":"af03738567","follow_counts":"44a9bc5681","total_counts":"49358df176","media_single":"a69e4d9294","media_total":"a95193e9e7","generate_all_window_nonce":"fc8adc2aaf","no_img_message":"No images available for sharing on this page"};</script> <script type="text/javascript" id="extra-scripts-js-extra">var EXTRA = {"images_uri":"\/wp-content\/themes\/Extra\/images\/","ajaxurl":"\/wp-admin\/admin-ajax.php","your_rating":"A te értékelésed:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d a kosárban","item_count":"%d Item","items_count":"%d Tételek","rating_nonce":"80ad3ed6df","timeline_nonce":"0bf84edbbe","blog_feed_nonce":"da8237994d","error":"Hiba történt, próbálkozzon újra.","contact_error_name_required":"A névmező nem lehet üres.","contact_error_email_required":"Az e-mail mező nem lehet üres.","contact_error_email_invalid":"Kérjük valós e-mail címet adjon meg!","is_ab_testing_active":"","is_cache_plugin_active":"yes"};</script> <script type="text/javascript" id="et-builder-modules-script-js-extra">var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Extra\/images","builder_images_uri":"\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"7cf888f4d7","subscription_failed":"Kérjük, ellenőrizze az alábbi mezőket, hogy helyes adatokat adott meg.","et_ab_log_nonce":"ce34ffe804","fill_message":"Kérjük, töltse ki az alábbi mezőket:","contact_error_message":"Kérem javítsa ki a következő hibákat:","invalid":"Érvénytelen email cím","captcha":"Captcha","prev":"Előző","previous":"Előző","next":"Következő","wrong_captcha":"Rossz számot írt az ellenőrző kódhoz.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"8226","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];</script> <script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=hu; expires=" + expirationDate.toUTCString() + "; path=/blog/; secure; SameSite=Lax";
+			}());</script> <script defer src="/blog/wp-content/cache/autoptimize/js/autoptimize_19c8e8362c78d92290caeb449904e354.js"></script>
+</body>
+</html>

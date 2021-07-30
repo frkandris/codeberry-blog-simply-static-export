@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ohjelmoinnin alkeet | CodeBerry Blog</title>
+	<atom:link href="/blog/fi/tag/ohjelmoinnin-alkeet/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Mon, 21 Jun 2021 19:11:31 +0000</lastBuildDate>
+	<language>fi-FI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Vasta-alkajan opas JavaScript-ohjelmointiin</title>
+		<link>/blog/fi/javascript-ohjelmointi-opas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 19:04:00 +0000</pubDate>
+				<category><![CDATA[Ohjelmointikielet]]></category>
+		<category><![CDATA[helppo ohjelmointi]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[Javascript alkeet]]></category>
+		<category><![CDATA[Javascript kurssi]]></category>
+		<category><![CDATA[javascript ohjelmointi]]></category>
+		<category><![CDATA[Javascript ohjelmointikieli]]></category>
+		<category><![CDATA[Javascript opas]]></category>
+		<category><![CDATA[Javascript perusteet]]></category>
+		<category><![CDATA[ohjelmoinnin alkeet]]></category>
+		<category><![CDATA[ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[ohjelmointi alkeet]]></category>
+		<category><![CDATA[opi javascript]]></category>
+		<category><![CDATA[opi web ohjelmointia]]></category>
+		<category><![CDATA[verkko-ohjelmointi]]></category>
+		<category><![CDATA[Web ohjelmointi]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13475</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa. Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmointikoulu CodeBerryssä. &#160; Mitä on JavaScript-ohjelmointi? JavaScript on Netscapen kehittämä pääasiassa web-sivuilla käytettävä internetin kieli. Lähes kaikki selaimessasi näkyvät verkkosivustot käyttävät sitä [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<p>&nbsp;</p>
+<h1>Mitä on JavaScript-ohjelmointi?</h1>
+<p>JavaScript on Netscapen kehittämä pääasiassa web-sivuilla käytettävä internetin kieli. Lähes kaikki selaimessasi näkyvät verkkosivustot käyttävät sitä jollakin tavalla käyttäjäkokemuksen parantamiseksi. Sen vuoksi JavaScript on ohjelmointikieli, joka on erittäin haluttu työkalu modernin ohjelmoijan työkalupakissa. Tälle joustavalle kielelle ei oikeastaan ole korvaajaa, jos haluat luoda mahtavia selainpohjaisia kokemuksia, jotka koukuttavat asiakkaita, yhteistyökumppaneita ja mahdollisia työntekijöitä.</p>
+<p>Tahdotko toteuttaa verkkosivuston nopeasti kasvavalle koirien leluja myyvälle yrityksellesi? Tai haluatko luoda VR-kokemuksen siitä, millaista on vierailla anoppisi kotona joulupäivänä? Sinun täytyy opetella JavaScriptiä, jos haluat saavuttaa nämä jalot unelmat ja vielä enemmän.</p>
+<p>Jos nämä asiat houkuttelevat sinua (tai istut kyllästyneenä töissä vessanpöntöllä), jatka lukemista päästäksesi jyvälle JavaScript-kielen perusteista, ja aloittaaksesi web-koodarin urasi!</p>
+<figure class="wp-block-image size-large"><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" width="1024" height="340" class="wp-image-12720 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png" alt="" srcset="/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h1>Muuttujat</h1>
+<p><strong><em>Muuttujat</em></strong> ovat mahtava lähtöpiste. Niihin koodarit tallentavat tietoja, joita ohjelma tarvitsee toimiakseen.</p>
+<p>Muuttujat ovat kuin laatikoita, joihin voit lisätä tavaroita. Ohjelmoija voi luoda koodiin muuttujan, täyttää sen haluamillaan asioilla, ja käsitellä niitä myöhemmin. Tällä tavoin tiedot ovat saatavilla tarvittaessa.</p>
+<h3><em>Miten siis luon muuttujan koodissa?</em></h3>
+<p>Tällä tavoin:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable;</code></pre>
+<h3><i>Mitä hiivattia se tarkoittaa?</i></h3>
+<p>Hyvä kun kysyit. Rivi koostuu kahdesta osasta, jotka luovat yhdessä muuttujan. Puretaan se kahteen osaan:</p>
+<ul>
+<li><strong>var </strong>
+<ul>
+<li>JavaScriptissä tämä on varattu sana. Kielessä on näitä varsin useita, ja kaikilla on niille omistetut tehtävät. Tämä kertoo ohjelmalle, että olet <i>luomassa muuttujaa.</i></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong> myCoolVariable </strong>
+<ul>
+<li>Tämä on <i><strong>muuttujan tunniste</strong>, </i>joka on yksinkertaisesti sen nimi. Se voi olla mitä tahansa, vaikkapa “kissa”, tai “lentokonesuihkuturbiinimekaanikkoaliupseerioppilas” (suosittelemme kuitenkin välttämään tällaisia nimiä).</li>
+<li>Muuttujan tunnistetta käytetään <i>viittaamaan</i> muuttujaan myöhemmin sitä tarvittaessa. On hyvää koodauskäytäntöä nimetä muuttuja niin, että nimi kuvaa sen käyttötarkoitusta. Jos sinulla on muuttuja, joka sisältää ikäsi, voisit kutsua sitä nimellä myAge. Tee näin johdonmukaisesti, ja koodarikollegasi tulevat pitämään sinusta.</li>
+</ul>
+</li>
+</ul>
+<h3><i>Siistiä, mutta mitä tehdä seuraavaksi?</i></h3>
+<p>Muistatko, että sanoin muuttujien olevan kuin laatikoita? Yläpuolinen koodi luo tämän laatikon, mutta emme ole laittaneet sen sisään vielä mitään. Tämä on seuraava askel. Puhutaan sitä ennen kuitenkin vähän <i><strong>tietotyypeistä</strong>.</i></p>
+<h3><i>Mikä kumma se on?</i></h3>
+<p><strong><em>Tietotyypit</em></strong> kuvaavat muuttujien sisältämän tiedon tyyppejä. Useimmat ohjelmointikielet sisältävät näitä, ja jotkin kielet ovat erittäin tiukkoja niiden käytöstä. Niissä sinun on määriteltävä tarkasti alusta alkaen muuttujan tyyppi ja pysyttävä sitten samassa tyypissä.</p>
+<p>JavaScript ei kuitenkaan toimi aivan näin. Voit luoda tietyn tyyppisen muuttujan JavaScriptissä ja muuttaa sitä jälkeenpäin helposti, sillä muuttujien arvoja ja tyyppejä voi muuttaa milloin tahansa. Jes!</p>
+<p>Tässä on muutamia JavaScriptistä löytyviä tietotyyppejä:</p>
+<ul>
+<li><strong>Number </strong>
+<ul>
+<li>Number (luku) määrittelee muuttujan, jolla on lukuarvo. Tämän tyyppiset muuttujat voivat teoreettisesti sisältää arvoja -äärettömästä +äärettömään. Se voi sisältää myös arvon <strong>NaN</strong>, joka tarkoittaa “Not a Number”. Tämä on seurausta siitä, kun olet sekoittanut jotakin ja poloinen JavaScript on mennyt hämilleen.</li>
+</ul>
+</li>
+<li><strong>String</strong>
+<ul>
+<li>String (merkkijono) määrittelee muuttujan, joka sisältää tekstiä kuten “Hei”, “Näkemiin” tai “Ärrän kierrän ympäri orren”.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>Boolean </strong>
+<ul>
+<li>Boolean (totuusarvo) määrittelee muuttujan, jonka arvo voi olla <i>true (tosi) </i>tai <i>false (epätosi). </i>Tätä tietotyyppiä käytetään usein päätösten tekemiseen koodissa. Ollako vaiko eikö olla? Booleanit kertovat vastauksen.</li>
+</ul>
+</li>
+</ul>
+<p>On olemassa myös muita tietotyyppejä, ja voit <a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external">klikata tästä</a> jos haluat lukea niistä lisää.</p>
+<h3><i>Muuttujan arvon asettaminen</i></h3>
+<p>Katsotaan miten muuttujiin voi tallentaa tietoa. Seuraavat koodinpätkät tekevät juuri niin.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">myCoolVariable = 10;
+myCoolVariable = ‘moi’;
+myCoolVariable = true;</code></pre>
+<p>Yllä olevassa koodissa määritellään muuttujan myCoolVariable arvo kolme kertaa: kerran Numeeriseen arvoon (10), kerran String -tyypin merkkijonoksi (‘moi’) ja kolmannella kerralla  Boolean -totuusarvoksi (true eli tosi).</p>
+<h3><i>Muuttujan luominen ja arvon asettaminen samanaikaisesti</i></h3>
+<p>On myös mahdollista luoda ja määritellä arvo muuttujalle yhdellä koodirivillä. Se tapahtuu näin:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;</code></pre>
+<p>Tässä luomme muuttujan myCoolVariable ja annamme sille arvon 10. Eikö ole hienoa?</p>
+<h3><i>Muuttujaan viittaaminen myöhemmin</i></h3>
+<p>Muuttujien luominen ja arvojen määritteleminen on mahtavaa. Niiden todellinen teho paljastuu kuitenkin vasta kun ne ovat käytössä. Miten se tapahtuu? Tunnisteen avulla tietenkin.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;
+var myCoolVariableDouble = myCoolVariable + myCoolVariable;</code></pre>
+<p>Tässä luomme muuttujan myCoolVariable ja annamme sille arvon 10.</p>
+<p>Sen jälkeen luomme toisen muuttujan myCoolVariableDouble ja asetamme sen arvoksi kahden myCoolVariablen summan.</p>
+<p>Nyt myCoolVariableDouble arvo on 20 ja meillä on ohjelmassamme kaksi muuttujaa. Kaksi!</p>
+<p>Kaiva kamera esiin, iskä!</p>
+<h3><i>Se riittää muuttujista</i></h3>
+<p>Olemme käsitelleet muuttujien perusteet: niiden luomisen, arvon asettamisen ja niihin viittaamisen. JavaScript-ohjelmointi on kuitenkin paljon muuttujia enemmän. Nyt voimme siirtyä isompiin ja parempiin asioihin, kuten <strong><em>if-lauseisiin</em></strong>!</p>
+<h1>If-lauseet</h1>
+<p>Muuttujat on nyt opeteltu, mutta miten teemme niiden avulla mahtavia juttuja? Yksi keinoista on <strong><em>if-lauseiden</em></strong> käyttäminen.</p>
+<p>If-lause on tapa, jolla koodari voi luoda ohjelmaansa <i>päätösten ohjaamaa logiikkaa</i>. Se tarkoittaa, että voimme kertoa ohjelmillemme että niiden täytyy tehdä jotakin tietyn <i>ehdon </i>mukaan. Katsotaan esimerkkiä:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">If (10 &gt; 20) {
+  // Suorita tämä koodi
+} else {
+  // Suorita tämä koodi
+}</code></pre>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>{} eli <strong>aaltosulkeet</strong> määrittelevät <em><strong>koodiblokin</strong></em>. Jotkin JavaScriptin työkalut, kuten if-lause, vaativat nämä merkit erottamaan blokkia muusta koodista.</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>Avataan tätä hieman:</p>
+<ul>
+<li><strong>if</strong>
+<ul>
+<li>Tämä on seuraava varattu sana. Se kertoo ohjelmalle, että sitä seuraava koodi on if-lauseen sisällä.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong> (10 &gt; 20) </strong>
+<ul>
+<li>Tämä osa on <i><strong>ehto</strong>.</i> Ohjelma arvioi sitä ja valitsee tuloksen pohjalta mitä tehdä seuraavaksi. Ehdon tulos on aina Boolean-arvo, eli tosi tai epätosi.</li>
+<li>Jos arvo on tosi, if-lause suorittaa ehdon jälkeen tulevan koodin.</li>
+<li>Jos arvo on epätosi, tällöin else-blokin sisällä oleva koodi suoritetaan. Niin tapahtuu tässä esimerkissä, sillä 10 ei ole suurempi kuin 20.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong> else </strong>
+<ul>
+<li>Tämä on toinen JavaScriptin avainsana. Se määrittelee koodin, joka suoritetaan jos <i>ehto </i>ei toteudu eli se on epätosi. else-blokin lisääminen ei ole pakollista. Jos lisäät sen, luot if else -lauseen.</li>
+</ul>
+</li>
+</ul>
+<p>Toivottavasti nyt on selvää, miksi meidän täytyy käyttää if-lauseen kanssa aaltosulkeita {}. Ilman koodiblokin rajoja ei olisi selvää, mitä koodia ohjelman tulee suorittaa ehdon toteutumisen perusteella.</p>
+<p>If-lauseet ovat yksi monimutkaisten ohjelmien tärkeimmistä rakennuspalikoista. Näiden oppiminen kunnolla on tarpeen, jos tähtäät kilpailukykyiseksi JavaScript-koodariksi.</p>
+<h1>Silmukat</h1>
+<p>Javascript-koodin <strong><em>silmukat</em></strong> ovat seuraava tärkeä työkalu. Kuten nimi antaa olettaa, silmukka suorittaa koodia kerta toisensa jälkeen, kunnes ehto tulee täyteen. On olemassa muutamia erilaisia silmukoita, mutta tarkastelemme nyt niistä kahta. Jätän myös muutaman linkin, jos haluat jatkaa opiskelua.</p>
+<h3><i>For-silmukka</i></h3>
+<p>Katsomme ensin <strong><em>for-silmukkaa</em></strong>. Tässä on esimerkki:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var numberOfIterations = 10;
+for (var i = 0; i &lt; numberOfIterations; i++) {
+  // tee jotakin 10 kertaa
+}</code></pre>
+<p>&nbsp;</p>
+<p>Tämä saattaa näyttää monimutkaiselta verrattuna aiempiin asioihin, mutta se on varsin suoraviivaista kun hoksaat mistä siinä on kyse. Käydään esimerkki läpi osa kerrallaan:</p>
+<ul>
+<li><strong> var numberOfIterations = 10 </strong>
+<ul>
+<li>Tällä koodirivillä luodaan muuttuja ja määritellään sen arvo.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong> for (var i = 0; i &lt; numberOfIterations; i++) </strong>
+<ul>
+<li><strong>for</strong>
+<ul>
+<li>Seuraava varattu sana, joka kertoo ohjelmalle että haluat kirjoittaa for-silmukan.</li>
+</ul>
+</li>
+<li><strong>var i = 0 </strong>
+<ul>
+<li>Luo ja määrittelee uuden muuttujan arvon. Tämä on erikoistapaus, sillä luomme sen for-silmukan sisällä. Se tarkoittaa, että muuttuja on olemassa vain for-silmukan suorittamisen ajan. Kun silmukka päättää työnsä, muuttuja heitetään bittiavaruuteen, hyvästi muuttuja!</li>
+</ul>
+</li>
+<li><strong>i &lt; numberOfIterations</strong>
+<ul>
+<li>Tämä rivi kertoo for-silmukalle, että sen tulee toimia vain niin kauan kun i on pienempi kuin muuttujan numberOfIterations arvo (10).</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>i++</strong>
+<ul>
+<li>Viimeinen rivi kertoo for-silmukalle, että jokaisen iteraation lopussa i:n arvoon täytyy lisätä 1.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Toivon, että voit nyt varsin helposti käsittää for-silmukan toiminnan. Se luo väliaikaisen muuttujan (i), jonka avulla seurataan silmukan iteraatioiden määrää. Se määrittelee ehdon iteroinnin jatkamiselle (vain silloin kun i &lt; jokin arvo) ja sen jälkeen se määrittelee, mitä i:n arvoon lisätään jokaisella iteraatiolla (tässä tapauksessa +1, mutta se voisi olla mitä tahansa).</p>
+<p>For-silmukka on tietenkin hyvä sellaisiin tapauksiin, kun tiedät miten monta kertaa haluat suorittaa pätkän koodia. Mutta mitä jos et tiedä? Silloin while-silmukka astuu estradille.</p>
+<h3><i>While-silmukka</i></h3>
+<p><strong><em>While-silmukka</em></strong> on yksinkertaisempi kuin for-silmukka. Se ottaa ehdon ja suorittaa sitä, kunnes ehto on epätosi. Tässä on esimerkki:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var shouldKeepRunning = true;
+while (shouldKeepRunning) {
+  // Suorita koodia
+  shouldKeepRunning = false;
+}</code></pre>
+<ul>
+<li><strong> while </strong>
+<ul>
+<li>Kerromme ohjelmalle, että olemme kirjoittamassa while-silmukkaa.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>(shouldKeepRunning)</strong>
+<ul>
+<li>Tämä on ehto. Silmukan suorittamista jatketaan niin kauan, kun muuttujan shouldKeepRunning arvo on true. Voisimme kirjoittaa ehdoksi myös shouldKeepRunning == true, mutta tämä on siitä lyhennetty versio.</li>
+</ul>
+</li>
+</ul>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>JavaScriptissa merkeillä == verrataan kahta arvoa, kun taas = asettaa arvon muuttujalle. Jos kirjoitat if (10 == 20), sanot oikeastaan “jos 10 on yhtä suuri kuin 20”.</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>Tämä silmukka suoritetaan vain kerran, sillä asetamme välittömästi ensimmäisellä iteraatiolla muuttujan shouldKeepRunning arvoksi false. Toimivassa koodissa se näyttää käyttäjälle hieman erilaiselta, mutta aina on varmistettava, että silmukka loppuu jossakin pisteessä. Emme halua aiheuttaa globaalia katastrofia!</p>
+<p>Käsittelemme tässä vain nämä kaksi silmukkaa, mutta jos haluat lukea aiheesta lisää, voit tsekata <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external">tämän linkin</a>.</p>
+<h1>Funktiot</h1>
+<p>Kaikki opettelemamme työkalut ovat mahtavia lyhyitä, juoksevia skriptejä varten, mutta mitä jos haluamme kirjoittaa suurempia ohjelmia joissa on tarve suorittaa samoja koodin pätkiä kerta toisensa jälkeen? Emme tietenkään halua jatkuvasti kopioida ja liittää uudelleen käytettävää koodia. <strong><em>Funktiot</em></strong> ovat olemassa juuri tätä varten.</p>
+<p>Funktiot ovat uudelleenkäytettäviä koodinpätkiä. Tässä on taas esimerkki:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">function doSomething(argumentOne, argumentTwo) {
+  // tee jotain
+}</code></pre>
+<p>Osiin purettuna saamme:</p>
+<ul>
+<li><strong> function</strong>
+<ul>
+<li>Seuraava JavaScriptin avainsana.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong>doSomething </strong>
+<ul>
+<li>Tämä on <i>funktion tunniste.</i> Aivan kuten muuttujan tunniste, se antaa meille mahdollisuuden viitata funktioon myöhemmin.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong> (argumentOne, argumentTwo) </strong>
+<ul>
+<li>Sulkeiden sisällä oleva koodi on argumenttien lista. Kaksi sanaa argumentOne ja argumentTwo toimivat muuttujina funktiossa, ja niitä voidaan käyttää sellaisinaan. Katsomme pian miten muuttujat määritellään.</li>
+</ul>
+</li>
+</ul>
+<p>Mitä tahansa function -blokin sisällä olevaa koodia voidaan suorittaa niin monesti kuin halutaan kutsumalla funktiota. Tässä on esimerkki siitä:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">doSomething(10, 20);</code></pre>
+<p>Käytämme funktion tunnistetta doSomething ja syötämme sille kaksi arvoa, 10 ja 20. Nämä argumentit sijoitetaan funktion agumentteihin argumentOne ja argumentTwo. Järjestyksellä on merkitystä, eli argumentOne saa arvokseen 10, ja argumentTwo puolestaan 20.</p>
+<p>Funktiot toimivat muuttujien tavoin siinä mielessä, että voit viitata funktioon vain kyseisen blokin ja sen lapsien sisällä. Jos sinulla on esimerkiksi if-lauseen sisällä luotu funktio, et voi käyttää sitä if-lauseen aaltosulkeiden ulkopuolella.</p>
+<p>Funktiot ovat äärimmäisen tärkeitä työkaluja jos haluat luoda monitahoisia ja dynaamisia ohjelmia, joten niiden harjoitteleminen on tärkeää. Lisätietoja aiheesta löydät <a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external">täältä</a>.</p>
+<figure class="wp-block-image size-large"><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" width="1024" height="340" class="wp-image-12988 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h1>Yhteenveto</h1>
+<p>Olemme käyneet tässä artikkelissa läpi joitakin JavaScript-ohjelmoinnin perusteista, mutta opittavaa on vielä paljon, jotta voisit todella valjastaa JavaScriptin käyttöön. Koodaus on käytännöllinen taito, jonka voi oppia kunnolla vain harjoittelemalla.</p>
+<p>On paljon palveluita, jotka auttavat sinua opiskelussa, kuten CodeAcademy, CodeSchool, Pluralsight ja tietenkin Codeberry! Toivomme, että tämä Javascript-opas auttaa sinua, ja voit käyttää opasta taitojesi kertaamiseen tulevaisuudessa. Onnea koodausurallesi!</p>
+<p>&nbsp;</p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</title>
+		<link>/blog/fi/parhaimmat-ohjelmointikielet/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 05 May 2021 20:28:00 +0000</pubDate>
+				<category><![CDATA[Ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[ohjelmoinnin alkeet]]></category>
+		<category><![CDATA[ohjelmoinnin opiskelu]]></category>
+		<category><![CDATA[ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[ohjelmointi]]></category>
+		<category><![CDATA[ohjelmointikielet]]></category>
+		<category><![CDATA[parhaimmat ohjelmointikielet]]></category>
+		<category><![CDATA[suosituimmat ohjelmointikielet]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13105</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen! Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmtointikoulu CodeBerryssä. &#160; Olet jo lukenut useamman [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ohjelmointikoulu CodeBerryn \&quot;Ohjelmoinnin perusteet\&quot; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen \&quot;mitä\&quot;, \&quot;miksi\&quot; ja \&quot;miten\&quot; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!&quot;}" data-sheets-userformat="{&quot;2&quot;:9163,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:[null,2,14281427],&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}" data-sheets-textstyleruns="[null,0,{&quot;5&quot;:1}]{&quot;1&quot;:63}"><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmtointikoulu CodeBerryssä.</span></p>
+<p>&nbsp;</p>
+<p>Olet jo lukenut useamman artikkelin ohjelmoinnista, sukeltanut netin syövereihin ja tehnyt kaiken mahdollisen tutkimustyön ohjelmointiin liittyen. Nyt on viimein aika tehdä se iso ja vaikea päätös: “Mitä ohjelmointikieltä minun kannattaisi opiskella?”. Hyvä kysymys.</p>
+<p>Onneksesi olemme koonneet tämän kattavan oppaan, joka auttaa sinua päättämään mistä koodausmotivaatiosi tulee ja mitä ohjelmointikieliä sinun kannattaisi sitten opiskella. Vaikka olisit yhä tiedonhakuvaiheessa, tämä opas selkeyttää erilaisten yleisimpien ohjelmointikielten tarkoitusta, sekä kohdeyleisöä.</p>
+<p>Olemme myös identifioineet neljä erilaista tapaa listata parhaimmat ohjelmointikielet: <b>suosio, kielen helppous, ansiomahdollisuudet </b>ja<b> käyttökelpoisuus</b>.<br />
+<i>Huom: Tässä artikkelissa olemme ryhmitelleet merkintäkielet, kuten HTML:n ja CSS:n, sekä komentosarjakielet, kuten Bash / Shell ja SQL, ohjelmointikielien luokkaan.</i></p>
+<p>Aloitetaan kymmenestä <strong>suosituimmasta ohjelmointikielestä</strong> StackOverflow:n mukaan:</p>
+<ol>
+<li aria-level="1">JavaScript</li>
+<li aria-level="1">HTML</li>
+<li aria-level="1">CSS</li>
+<li aria-level="1">SQL</li>
+<li aria-level="1">Java</li>
+<li aria-level="1">Bash/Shell</li>
+<li aria-level="1">Python</li>
+<li aria-level="1">C#</li>
+<li aria-level="1">PHP</li>
+<li aria-level="1">C++</li>
+</ol>
+<p>Lähde:<a href="https://insights.stackoverflow.com/survey/2018/" target="_blank" rel="noopener external" data-wpel-link="external"> StackOverflow</a></p>
+<p>Tässä listauksessa JavaScript, HTML, ja CSS vievät kärkikolmikon sijoitukset suosituimpina ohjelmointikielinä. Nämä kolme kieltä ovat verkkopohjaisen front-end-ohjelmoinnin perusta, ja ovat siten loistavia kieliä vasta-alkajille. SQL, jota käytetään tietokantojen hallintaan, ja loput kielet, kuten Java, Python, C#, PHP, ja C++, ovat päteviä yleiskieliä, joita voit käyttää useisiin erilaisiin tehtäviin. Bash/Shell, ovat toisaalta taas komentokieliä (<i>command language</i>), joita käytetään Unix-pohjaisten systeemien kanssa kommunikointiin, kuten Linux tai MacOS.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter wp-image-12988 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>Entäpä kymmenen <strong>helpointa ohjelmointikieltä</strong>?</p>
+<ol>
+<li aria-level="1">HTML</li>
+<li aria-level="1">Python</li>
+<li aria-level="1">JavaScript</li>
+<li aria-level="1">PHP</li>
+<li aria-level="1">Java</li>
+<li aria-level="1">R</li>
+<li aria-level="1">Shell</li>
+<li aria-level="1">Ruby</li>
+<li aria-level="1">Erlang</li>
+<li aria-level="1">Go</li>
+</ol>
+<p>Lähde: WP Engine</p>
+<p>Onneksi useimmat suosituimmista ohjelmointikielistä ovat myös helpoimpia opeteltavia. Kuitenkin tältä listalta löytyy myös muutama hieman tuntemattomampi ohjelmointikieli, kuten R ja Erlang. R on ohjelmointikieli, joka on suunniteltu tilastolliseen laskentaan (<i>statistical computing</i>) ja matematiikan aputyökaluksi, ja on siten loistava työkalu data-analyysiin (jota käsittelemme myöhemmin tässä artikkelissa). Erlangia käytetään pääasiassa telekommunikointi- ja viestintäsovelluksissa, kuten WhatsAppissa.</p>
+<p>&#8230;entäpä millä ohjelmointikielellä on <strong>kovin ansiopotentiaali</strong>?</p>
+<ol>
+<li aria-level="1">F#</li>
+<li aria-level="1">Ocaml</li>
+<li aria-level="1">Clojure</li>
+<li aria-level="1">Groovy</li>
+<li aria-level="1">Perl</li>
+<li aria-level="1">Rust</li>
+<li aria-level="1">Erlang</li>
+<li aria-level="1">Scala</li>
+<li aria-level="1">Go</li>
+<li aria-level="1">Ruby</li>
+</ol>
+<p>Lähde: StackOverflow</p>
+<p>Jos olet uusi ohjelmoinnin maailmassa, et varmaankaan tunnista monia listauksessa esiintyviä ohjelmointikieliä. Sillä ohjelmointi on nopeasti kasvava ala, parhaiten maksavat ohjelmointikielet ovat useimmiten uusia, kaikista teknologisesti edistyksekkäimpiä kieliä. Joka tapauksessa “matalan tason” helppojen kielten kuten, HTML:n, CSS:n ja JavaScriptin osaaminen auttaa sinut mainiosti alkuun urallasi—muut kielet voivat odottaa!</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13106" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-scaled.jpg" alt="HTML on varmasti yksi käytetyimmistä ohjelmointikielistä" width="2560" height="1440" srcset="/blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-scaled.jpg 2560w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-300x169.jpg 300w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-1024x576.jpg 1024w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-768x432.jpg 768w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-1536x864.jpg 1536w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-2048x1152.jpg 2048w, /blog/wp-content/uploads/2021/05/james-harrison-vpOeXr5wmR4-unsplash-1080x608.jpg 1080w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<h2><b>Yleiskatsaus</b></h2>
+<p>Ansiomahdollisuuden, suosion ja kielen helppouden perusteella sinulla on jo varmasti oma motivaatio oppia jotakin tiettyä ohjelmointikieltä. Käymme läpi alla olevassa osiossa eri syitä tiettyjen ohjelmointikielien opiskeluun, jotka voivat auttaa sinua valitsemaan sinulle sopivimman ohjelmointikielen, sekä mitä käyttötarkoituksia eri kielillä on.</p>
+<h2><b>Kielen valitseminen käytännöllisyyden perusteella </b></h2>
+<p>Tässä kohden homma alkaa käymään mutkikkaaksi. Kuinka “käytännöllinen” kieli on riippuu tietysti siitä, mitä haluat saavuttaa koodillasi. Esimerkiksi HTML ja CSS saattavat olla erittäin hyödyllisiä front-end-ohjelmoijalle, Swift ja Java ovat hyödyllisempiä mobiiliohjelmoijalle. Näissäkin vaihtoehdoissa on eroja, sillä Swifitä käytetään iOS-sovelluksissa, kun taas Androidin sovelluksien hallitsevin kieli on Java.</p>
+<p>Osa ohjelmointikielistä, kuten Python (joka lienee myös tiettävästi <a href="https://pypl.github.io/PYPL.html" target="_blank" rel="noopener external" data-wpel-link="external">käytetyin ohjelmointikieli</a> maailmanlaajuisesti), on suunniteltu yleiskäyttöön, mutta monet muut kielet ovat erityistyökaluja, jotka ovat suunniteltu auttamaan sinua suoriutumaan tietyistä tehtävistä.</p>
+<p>Mieti ensin, miksi haluat oppia koodaamaan, päätä sitten mihin alueeseen haluat keskittyä ja etsi sitten sinulle sopivin ohjelmointikieli:</p>
+<h2><b>Haluan ammattidevaajaksi</b></h2>
+<h3>Game Developer / Pelinkehittäjä</h3>
+<p>Jos haluat todella työskennellä pelinkehittäjänä, sinun tulee hallita ainakin kaksi näistä pääohjelmointikielistä: C++ ja C#. Jos haluat kehittää pelejä huvin vuoksi – kuten 2D-mobiilipelejä, jotka perustuvat yhteisöihin ja verkkotoimintoihin – on silloin C# loistava valinta juuri sinulle. C# on helpompi oppia ja mutkattomampi kuin C++, tehden siitä pääohjelmointikielen indie- ja mobiilipelien maailmassa.</p>
+<p>C++ on taas toisaalta äärimmäisen tehokas kieli, ja sitä voidaan käyttää 3D-mobiilipelien ja “AAA”-pelien ohjelmoinnissa PC:llä, sekä konsoleilla. Luodaksesi pelejä parhaalla mahdollisella suorituskyvyllä ja kauneimmilla grafiikoilla, C++ on paras vaihtoehto.</p>
+<h3>Web Developer / Web-ohjelmoija, web-kehittäjä</h3>
+<p>Artikkelissamme “<a href="https://codeberryschool.com/blog/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Programming</a>”, puhuimme paljon kolmesta isoimmasta ohjelmointikielestä web-ohjelmoinnissa: HTML:sta, CSS:istä ja JavaScriptistä. HTML käsittelee formaatin, CSS määrittelee tyylin ja JavaScript herättää sivuston henkiin.</p>
+<p>Web-ohjelmoijat, jotka keskittyvät pääsääntöisesti UX-, eli käyttäjäkokemuspuoleen, HTML5 ja JavaScript ovat heidän useimmiten käyttämiään työkaluja. Verkkokauppoihin keskittyvät web-ohjelmoijat ovat kuitenkin siirtäneet osaamistaan edistyneimpien kielten, kuten Javan, Rubyn, Pythonin, PHP:n ja C#:n suuntaan. Pienyrityksien web-ohjelmoijat käyttävät todennäköisesti PHP:tä, kun taas uusimpien start-up -yrityksien ohjelmoijat käyttävät työssään usein Javaa, Rubya ja JavaScriptiä. Suuryritysten web-ohjelmoijat suosivat C#:ia ja Javaa usein Windows-pohjaisissa sovelluksissa.</p>
+<h3>Mobile Developer / Mobiilikehittäjä</h3>
+<p>Mobiilikehitys on usein suorasukaisempaa ja vaatii vain yhden ohjelmointikielen osaamista käyttöjärjestelmää kohden. Jos halua luoda mobiilisovelluksia iPhonelle tai iPadille, sinun täytyy osata koodata Swiftiä, Applen omaa ohjelmointikieltä iOS:ille. Vuonna 2014 esitelty Swift on erittäin tehokas ohjelmointikieli, joka suunniteltiin mahdollistamaan lähes jokaiselle Apple-laitteelle ohjelmoinnin. Swift-osaamisella voit kirjoittaa sovelluksia Macille, Apple Watchille ja Apple TV:lle!</p>
+<p>Android-pohjaisten sovelluksien mobiilikehitys on kasvanut vuosien saatossa hurjasti ja ohittanut iOS-pohjaisten sovelluskehittämisen suosion. Android pohjautuu Javaan, joka tekee siitä helpon aloituskielen, mikäli sinulla on jo kokemusta Javasta. Voit myös siirtyä Android-sovellusten kehittämisestä monien muiden siistien asioiden tekemiseen, kun olet hankkinut hieman Java-osaamista.<br />
+Lopuksi, mutta ei suinkaan viimeiseksi tulee Windows-puhelin. Windows-puhelimen käyttöjärjestelmä pyörii C#:illa, joka on yksi Microsoftin omista ohjelmointikielistä. C#:illa koodaaminen on erityisen arvokas taito, jonka jokaisen Windows-kehittäjän pitäisi tuntea.</p>
+<p>Nykyään mobiilikehittämisen rajat alkavat hämärtyä, kun sekä mobiili-, että työpöytäsovellukset yhtenäistyvät. Sen sijaan, että ohjelmointikielet eroteltaisiin erikseen mobiililaitteille ja tietokoneille, ne erotellaan ekosysteemien (Microsoft, Google ja Apple) mukaan. Google kehitti jopa oman kielensä nimeltä “Go”, jonka saatamme nähdä tulevaisuudessa Javan korvikkeena Androidissa.</p>
+<h3>Työpöytäohjelmistot</h3>
+<p>Kuten yllä mainittu, samoja ohjelmointikieliä, joita tarvitset mobiilikehittämiseen liittyvissä projekteissa, voidaan käyttää myös työpöytäsovelluksien kehittämiseen. Mikäli olet kiinnostunut Windows-pohjaisten ohjelmistojen kehittämisestä, sinun kannattaa keskittyä C#:in opiskeluun. Jos olet taas kiinnostunut monialustaisten ohjelmistojen kehittämisestä, sekä Mac-ohjelmien kehittämisestä, Javan ja Swiftin opettelu ovat korkealla tehtävälistallasi.</p>
+<p>Tarjolla on myös useita loistavia, verkkopohjaisia ratkaisuja monialustaisten työpöytäohjelmistojen kehittämiseen käyttäen vain HTML:ia, CSS:ia, JavaScriptiä ja esimerkiksi <a href="https://electronjs.org/" target="_blank" rel="noopener external" data-wpel-link="external">Electronia</a>.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12915" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Testimonial-2.png 1024w, /blog/wp-content/uploads/2021/04/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>Datatieteet</h3>
+<p>Datatieteiden kentällä Python ja R ovat molemmat kaikista käytännöllisimpiä kieliä, joita voit opiskella. Python on ikään kuin ohjelmoinnin monitoimilinkkuveitsi, joka on suunniteltu yleiseen käyttöön. Pythonin vahvuudet tulevat kuitenkin valtavasta joukosta ilmaisia data-analyysikirjastoja, jotka ovat täynnä erilaisia ominaisuuksia. Yksi suosituimmista data-analyysikirjastoista, Pandas, sisältää työkaluja, joiden avulla voit tuoda tietoja taulukoista tai käsittelyjoukoista aikasarja-analyysiä varten.</p>
+<p>R on toinen ohjelmointikieli joka on varusteltu erityisesti tilastollista analyysia ja graafeja varten. R:n avulla voit sisällyttää ohjelmaasi lineaarista, ja epälineaarista mallinnusta, klassisia tilastollisuustestejä, aikasarja-analyysia, luokittelua, klusterointia ja paljon muuta.</p>
+<h2><b>Haluan perustaa startup-yrityksen<br />
+</b></h2>
+<h3>Web</h3>
+<p>Verkkokaupan julkisivun ollessa verkkosivu, HTML, CSS ja JavaScript ovat tarpeellisia front-end -kehittäjälle. Sinulla on kuitenkin runsaasti vaihtoehtoja back-endille, joka ottaa huomioon kaikki verkkokauppasi kulissien takana tapahtuvat toiminnot. Back-endin käsittelemiseen käytetään todennäköisesti Node.js:ia (JavaScript), Rubya tai PHP:ia. Näistä kolmesta Node.js on suosituin ja laajimmin käytetty, sekä nopeuden, että se pohjautuu JavaScriptiin.</p>
+<p>Sillä startupisi on verkkopohjainen, sivuston suorituskyky ja käyttäjäkokemus ovat erittäin tärkeitä. Näinä aikoina hakukoneet kuten Google rankaisevat sinua ja laskevat hakutulospisteitäsi, mikäli käytössäsi on hidas ja “lagaava” sivusto. Tämä taas vaikuttaa suoraan kävijämäärääsi ja konversiolukuihin. Siksi suosittelemme nopeinta vaihtoehtoa, Node.js:ia back-endiin. Äärimmäisissä tapauksissa sinun on ehkä käytettävä Pythonia tai R-kieltä sivustosi back-endissä, mutta vain jos kyseessä on valtava määrä asiakas- tai tuotetietoja.</p>
+<p>Jos haluat helpomman ratkaisun, joka on jo määritelty sinulle, kokeile rakentaa verkkokauppasi PHP-pohjaiseen WordPress-ratkaisuun. WordPressin avulla voit rakentaa kauppasi julkisivun drag-and-drop -käyttöliittymällä, kun taas ohjelma huolehtii front- ja back-endistä. Vaikka WordPress on suhteellisen helppo käyttää, sinun kannattaa silti oppia PHP tai palkata PHP-kehittäjä lisäämään lisäominaisuuksia tai korjaamaan vikoja niiden syntyessä.</p>
+<h3>Mobiili</h3>
+<p>Uberin kaltaiset mobiilipohjaiset startupit ovat tällä hetkellä varsin suosittuja ja menestyviä. Mobiili-startupin perustamiseksi on tärkeää, että luot sovelluksia, jotka ovat saatavilla sekä iPhonelle, että Androidille. On mahdollista kehittää Java-alustojen välisiä sovelluksia React Native-, Ionic-, PhoneGap- tai Cordova-ohjelmilla, mutta on suositeltavaa, että opit kunkin alustan alkuperäiset ohjelmointikielet parhaan suorituskyvyn saavuttamiseksi.</p>
+<p>Jos et pysty koodaamaan kaikkea itse, tietylle käyttöjärjestelmälle erikoistuneen mobiilikehittäjän palkkaaminen voi olla hyödyllistä. Sinun on silloin palkattava Java-kehittäjä Androidille, Swift-kehittäjä iOS:lle, tai harvinainen moniosaaja, joka tuntee näistä molemmat, tai valita monialustainen ratkaisu.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13107" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-scaled.jpg" alt="Pelialalla riittää ohjelmointihommia" width="2560" height="1707" srcset="/blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-scaled.jpg 2560w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/05/lorenzo-herrera-p0j-mE6mGo4-unsplash-1080x720.jpg 1080w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<h3>Peliala</h3>
+<p>Startup-yrityksenä sinulla ei todennäköisesti ole rahaa ja resursseja kehittää “AAA”-nimikkeitä, kuten suurilla pelistudioilla on. Sen sijaan indie-kehittäjät keskittyvät yleensä juonikuvioihin ja luovuuteen pelien kehittämisessä. C ++ on monimutkainen, aikaa vievä ja se on usein vaikeakäyttöinen, mikä tarkoittaa, että se ei ole ehkä parhain valinta startupeissa. C# on helppokäyttöisempi, sekä mahdollistaa pelien julkaisun nopeammin ja ajallaan.</p>
+<p>Verkkopelit ovat toinen hyvä aloitusvaihtoehto, mikäli olet uusi pelialalla. HTML5:n ja JavaScriptin avulla voit luoda uskomattomia pelejä. Katso vaikka tämä artikkeli, minkälaisia pelejä voit kehittää HTML5:llä ja JavaScriptillä: <a href="https://tutorialzine.com/2015/02/30-amazing-games-made-only-with-html5" target="_blank" rel="noopener external" data-wpel-link="external">https://tutorialzine.com/2015/02/30-amazing-games-made-only-with-html5</a><br />
+Mikäli sinulla sinulla on kuitenkin kärsivällisyyttä, taitoja ja omistautumista mitä uskomattomimman 3D-pelin luomiseen, kieli, joka sinun tulisi oppia on ehdottomasti C ++. Tämä Microsoftin tehokas ohjelmointikieli on melkein kaikki mitä tarvitset upeiden pelien luomiseen sekä konsoleille ja tietokoneille.</p>
+<h2><b>Haluan rakentaa jotain hauskaa</b></h2>
+<p>Ohjelmoinnin houkuttelevin piirre ei ole pelkästään se, että se on hyödyllinen taito tai, että ohjelmistoalalla on korkea palkkaus, vaan se, että ohjelmointi on hauskaa! Jos haluat luoda jotain hienoa koodaamalla, sinun on ensin mietittävä, minkälaiset projektit kiinnostavat sinua. Haluatko luoda uuden mobiilisovelluksen, verkkopelin tai kehittää jopa oman tekoälyn? Haluatko ehkä automatisoida päivittäiset tylsät työtehtäväsi tai luoda jotain Google Appsille (G-Suite)? Kun ymmärrät hyvin seuraavat kielet, vain mielikuvituksesi on rajana sille, mitä kaikkea voit luoda.</p>
+<h3>Pikkupelit</h3>
+<p>Älä vain erehdy luulemaan, että sinun on oltava ammattilaisohjelmoija aloittaaksesi unelmiesi pelikehittäjän uran; sinun tarvitsee vain tuntea HTML5:ta, JavaScriptiä ja hieman WebGL:tä. Sekä Doodle Jump, että uskomattoman kuuluisa (tai <i>surullisen</i> kuuluisa) mobiilipeli, Flappy Bird, toimivat HTML5:n ja JavaScriptin avulla. Et varmasti tule koodaamaan “AAA”-pelejä konsoleille ihan lähiaikoina, mutta yllätyt siitä, mitä voit luoda jo rajoitetulla koodausosaamisella. Koodataksesi hieman edistyneempiä työpöytäpohjaisia pelejä haluat tutustua kieliin, kuten C # ja Python.</p>
+<h3>Google Apps (G-Suite)</h3>
+<p>JavaScript on sovellusten luomisen perusta Google-ekosysteemissä, eli G-Suitessa. Google väittää, että mikä tahansa G-Suiten sovellus voidaan luoda JavaScriptillä, eikä mitään muuta koodia tarvita. Tämä on hieman outo väite, kun otetaan huomioon, että Gmail on kirjoitettu Javalla, ei JavaScriptillä.</p>
+<p>Tästä huolimatta sinun ei enää tarvitse osata JavaScriptiä, jotta voit luoda sovelluksia G-Suitessa. Sen sijaan uusi Google App Maker antaa sinulle drag-and-drop -käyttöliittymän, jonka avulla voit luoda omia mukautettuja sovelluksia ja se tarjoaa sovellusliittymät kaikille Googlen sovelluksille, kuten Google Mapsille ja Google Kääntäjälle. API eli <i>Application Program Interface</i>, suomeksi siis sovellusohjelmaliittymä, on avain, joka mahdollistaa kommukoinnin muiden Google-sovelluksien, sekä oman sovelluksesi välillä.</p>
+<h3>Tehtävien automatisointi</h3>
+<p>Oletko koskaan viettänyt lukemattomia tunteja päivittäen laskentataulukkoa, uudelleennimeten tiedostoja tai järjestäen kohteita uudelleen näppäimistöllä ja hiirellä? Osasitko koskaan ajatella tuon puuduttavan kokemuksen aikana, että tähän kaikkeen voisi olla parempi tapa? Tehtävien automatisointi on oma ohjelmointikenttänsä, joka on omistettu kaikkien tylsien tehtävien automatisoimiselle, joita kukaan meistä ei mieluiten tekisi.</p>
+<p>Käyttäen yleiskäyttöisiä kieliä, kuten Pythonia ja Rubya, voit ohjelmoida tietokoneesi tekemään kaiken ikävän työn puolestasi. Ajan ja hermojen säästämisen lisäksi päivittäisten tehtävien automatisointi johtaa luonnollisesti tarkempaan työjälkeen, sillä meillä on tapana tehdä virheitä väsyessämme, hajamielisinä ja kyllästyneinä. Tietokoneet puolestaan työskentelevät taukoamatta ja saavat työn valmiiksi siinä epäonnistumatta.</p>
+<h3>Yksinkertainen tekoäly</h3>
+<p>Viime vuosina Pythonista on tullut yhä suositumpi tekoälyn alalla. Yksi tekoälyn kehittäjien suurimmista haasteista on ”syväoppiminen”, joka tarkoittaa kykyä oppia ihmisen tavoin. Nykyään &#8220;hermokartoitus&#8221; on tekoälyssä laajasti käytetty tekniikka, johon liittyy isojen päätöksentekopuiden luominen. Jokaista yhteyttä kohdellaan ikään kuin hermosoluna ja aivoissa olevana synapsina. Tämän tekniikan avulla tekoälyn tutkijat toivovat voivansa luoda kopion aivoista, jolla olisi siten samanlaiset toimintakapasiteetit kuin ihmisaivoilla, mukaanlukien luovat ominaisuudet.</p>
+<p>TensorFlow on loistava resurssikirjasto Pythonille, sekä muille ohjelmointikielille. Vaikka se on kehitetty ensisijaisesti käytettäväksi Pythonin kanssa, TensorFlow.js on julkaistu JavaScriptiä varten tarkoituksena käyttää sitä verkon koneoppimiseen. Toisin sanoen, voit jopa käyttää JavaScriptiä testataksesi tekoälyä TensorFlow-sovelluksen avulla.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-13108" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/05/Testimonial-1.png 1024w, /blog/wp-content/uploads/2021/05/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2021/05/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><b>Lopuksi</b></h2>
+<p>Toivomme, että pidit artikkelistamme ja sinulla on nyt selkeämpi käsitys siitä, mikä ohjelmointikieli sopisi juuri sinulle. Kielet, kuten HTML, CSS ja JavaScript, ovat parhaimmat kielet aloittelijoille, mutta et varmasti voi mennä pieleen valitessasi hienon, monikäyttöisen kielen, kuten Pythonin tai C#:in.</p>
+<p>Kerro meille kommenteissa, mitä ohjelmointikieliä parhaillaan opiskelet ja mikä motivoi sinua oppimaan niitä. Nähdään seuraavassa artikkelissa!</p>
+<p>&nbsp;</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ohjelmointikoulu CodeBerryn \&quot;Ohjelmoinnin perusteet\&quot; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen \&quot;mitä\&quot;, \&quot;miksi\&quot; ja \&quot;miten\&quot; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!&quot;}" data-sheets-userformat="{&quot;2&quot;:9163,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:[null,2,14281427],&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;9&quot;:0,&quot;10&quot;:1,&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}" data-sheets-textstyleruns="[null,0,{&quot;5&quot;:1}]{&quot;1&quot;:63}"><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmtointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</title>
+		<link>/blog/fi/lyhyt-johdatus-ohjelmointiiin/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2021 19:39:26 +0000</pubDate>
+				<category><![CDATA[Ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[koodaaminen]]></category>
+		<category><![CDATA[koodaus]]></category>
+		<category><![CDATA[ohjelmoinnin alkeet]]></category>
+		<category><![CDATA[ohjelmoinnin opiskelu]]></category>
+		<category><![CDATA[ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[ohjelmointi]]></category>
+		<category><![CDATA[ohjelmointikurssi]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12969</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen! Haluaisitko oppia koodaamaan ja vielä verkossa? Tule ja kokeile ensimmäisiä oppitunteja maksutta Ohjelmointikoulu CodeBerryssä! Ohjelmoinnin perusteet Ohjelmoinnin [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Ohjelmointikoulu CodeBerryn</strong> <strong>&#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</p>
+<p>Haluaisitko oppia koodaamaan ja vielä verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppitunteja maksutta </a>Ohjelmointikoulu CodeBerryssä!</p>
+<h3>Ohjelmoinnin perusteet</h3>
+<ul>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/ohjelmoinnin-perusteet/" data-wpel-link="external" target="_blank" rel="external">Ohjelmoinnin perusteet – ensiaskeleesi kohti koodarin uraa</a></li>
+<li aria-level="1"><strong>Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</strong></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/miksi-ohjelmoinnin-opiskelu-kannattaa/" data-wpel-link="external" target="_blank" rel="external">Miksi ohjelmoinnin opiskelu kannattaa?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Kuinka oppia koodaamaan &amp; muita aloittelevan koodarin kysymyksiä</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/kuinka-nopeasti-voi-oppia-koodauksen-alkeet/" data-wpel-link="external" target="_blank" rel="external">Kuinka nopeasti voi oppia koodauksen alkeet?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/miten-loydat-sinulle-sopivimman-koodauskurssin/" data-wpel-link="external" target="_blank" rel="external">Miten löydät sinulle sopivimman koodauskurssin?</a></li>
+</ul>
+<p>&nbsp;</p>
+<h1>Mitä ohjelmointi on?</h1>
+<p>Oletetaan, että työskentelet monikansallisessa yrityksessä ja sinulla on tulossa liiketapaaminen kiinalaisen liikemiehen kanssa. Äidinkielesi on suomi etkä puhu sanaakaan kiinaa. Muistat kuitenkin, että puhut toisena kielenäsi englantia ja että kiinalainen liikemieskin puhuu englantia. Ryhdytte siis käyttämään englantia yleiskielenä neuvotellaksenne ja kommunikoidaksenne keskenänne.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12720" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Mitä kieltä tietokoneet puhuvat?</h1>
+<p>Tietokoneen äidinkieli on binääri, siis uskomattoman pitkä lista ykkösiä ja nollia. Binäärikieltä ei ole kovinkaan helppo lukea tai kirjoittaa, joten me ihmiset kehitimme ohjelmointikieliä keskustellaksemme tietokoneiden kanssa. Koska tietokoneet eivät puhu ihmisten kieltä, on meidän tultava puoliväliin vastaan.</p>
+<p>Poiketen ihmisistä, tietokoneet eivät kykene epäsuoraan kommunikaatioon ja ottavat asiat aina hyvin kirjaimellisesti. Jos kerrot niille jotakin, tekevät ne jotakin juuri näin. Tietokoneet eivät ole tarpeeksi fiksuja tehdäkseen päätöksiä itse, eivätkä ne ymmärrä tietoa, jota ei ole kirjoitettu niille erikseen. Tästä syystä sinun täytyy varmistaa, että olet antamassa tietokoneelle tarkkoja ohjeita.</p>
+<p>Esimerkiksi, jos pyytäisin sinua tekemään voileivän, kysyisit luultavasti minulta mitä raaka-aineita haluan leipääni ja että haluaisinko sen paahdettuna vai en. Sinulle se saattaisi olla kaikki tieto mitä tarvitset tehdäksesi minulle herkullisen voileivän. Kuitenkin voileivän valmistamiseen liittyy monta pientä päätöstä ja aiempaa tietotaitoa.</p>
+<p>Jos vain kerrot tietokoneelle haluavasi paahdetun kinkku-juustoruisleivän majoneesilla, saat luultavasti jotain hyvin erilaista alkuperäisen tilauksesi sijaan. Ihminen tietäisi, että majoneesi tulee leivän päälle, sitten kinkku sekä juusto, ja että sen jälkeen leipä laitettaisiin uuniin paahtumaan.</p>
+<h2>Miten tietokoneen pitäisi tietää kaikki tuo?</h2>
+<p>Muista, että kerroimme tietokoneelle haluavamme “paahdetun kinkku ja juustoleivän ruisleivällä ja majoneesilla”. Tietokoneelle voisi olla loogista tehdä kaikki nuo asiat tuossa järjestyksessä. Se paahtaisi kinkun ja juuston erikseen, laittaisi ruisleipäpalat päällimmäiseksi ja levittäisi sitten majoneesia leivälle.</p>
+<h2>Eikö tietokoneiden pitäisi olla tuota fiksumpia?</h2>
+<p>Koska tietokone ottaa asiat kirjaimellisesti, täytyy sinun määrittää jokainen tilauksen vaihe ja ainesosan sijoittelu. Kaikki tietävät, että ainekset menevät leipien väliin, mutta tietokoneella ei ole aikaisempaa tietoa voileivistä, joten se vain seuraa sinun suoria ohjeita.</p>
+<p>Tässä taas yksi syy miksi emme voi kommunikoida tietokoneiden kanssa ihmisten kielillä, ainakaan vielä. Meidän kielemme ovat yksinkertaisesti liian epäselviä ja epämääräisiä, että tietokoneet voisivat ymmärtää niitä. Lisäksi, jos sanalla tai lauseella on kaksoismerkitys, tietokone ei tiedä miten tulkita sitä. Kaiken pitää olla sille erikseen merkitty.</p>
+<p>Totuus on, etteivät tietokoneet ole fiksuja laisinkaan, ne vain sattuvat prosessoimaan tietoa nopeammin kuin me.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-12987" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/code.2-1-1024x683.jpg" alt="Ohjelmoijana voit työskennellä vaikka kotoa" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/04/code.2-1-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/04/code.2-1-300x200.jpg 300w, /blog/wp-content/uploads/2021/04/code.2-1-768x512.jpg 768w, /blog/wp-content/uploads/2021/04/code.2-1-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/04/code.2-1-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/04/code.2-1-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h1>Mikä on ohjelmoija ja mitä he tekevät?</h1>
+<p>Muista ettet voi vain kertoa tietokoneelle englanniksi mitä haluat. Tarvitset tietokone ohjelmoijan tulkiksi. Ohjelmoija on henkilö, joka kommunikoi ideasi ja ohjeesi tietokoneelle luoden nettisivuja, pelejä sekä muita näytölle ilmestyviä ohjelmia.</p>
+<p>Ohjelmoijan voisikin määritellä polyglotiksi (monia kieliä osaava henkilö), joka on erikoistunut tietokoneille puhumiseen. Ohjelmoijat tietävät tarkalleen mitä ja miten sanoa, että tietokone ymmärtää heitä. Jos olet koskaan opiskellut toista kieltä tiedät, että kielet koostuvat sanastosta, kieliopista ja säännöistä. Tietokonekielillä on myös oma tapansa sanoa asioita, tätä kutsutaan syntaksiksi.</p>
+<p>Vaikka toinen ihminen saattaa ymmärtää sinua, kun lausut tai taivutat sanan väärin sekä menet sekaisin kieliopissa, on tietokone sillä kertaa vähemmän anteeksiantava. Heti kun teet syntaksivirheen, tietokone lakkaa kuuntelemasta sinua ja lopettaa ohjelman.</p>
+<p>Kuinka tylyä.</p>
+<h1>Mitä voit saavuttaa koodaustaitojesi avulla?</h1>
+<p>Jos olet koskaan käyttänyt tietokonetta, katsonut videoita netistä tai pelannut videopelejä, voi olla vaikea uskoa, että kaikki syntyy vain sarjasta kirjaimia ja symboleita. Kyky prosessoida tuhansia rivejä koodeja per sekunti on tietokoneen supervoima, joka mahdollistaa sen kyvyn seurata valtavan monimutkaisia ohjeita ja suorittaa uskomattomia tehtäviä.</p>
+<p>Katsotaanpa joitakin siistejä juttuja mitä koodin avulla voi tehdä:</p>
+<ul>
+<li aria-level="1">Luoda &amp; suunnitella verkkosivustoja</li>
+<li aria-level="1">Rakentaa mobiilisovelluksia</li>
+<li aria-level="1">Kehittää työpöytäohjelmistoja</li>
+<li aria-level="1">Kehittää videopelejä</li>
+<li aria-level="1">Luoda &amp; ylläpitää tietokantoja</li>
+<li aria-level="1">Automatisoida tehtäviä</li>
+<li aria-level="1">Ratkaista monimutkaisia ongelmia</li>
+<li aria-level="1">Kehittää tekoälyä</li>
+<li aria-level="1">Suorittaa tilastollista analyysiä</li>
+<li aria-level="1">Ja paljon muuta…</li>
+</ul>
+<p>Jos olet kiinnostunut mistään näistä tehtävistä ja haluaisit tehdä niitä työksesi, on ohjelmointi silloin tärkeä taito osata.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12915" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Testimonial-2.png 1024w, /blog/wp-content/uploads/2021/04/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Miksi koodaaminen on hyödyllistä ja mihin sitä voi käyttää?</h1>
+<p>Ohjelmoinnin ja koodaamisen merkitys kasvaa, kun luotamme yhä enemmän ja enemmän tietokoneisiin päivittäisessä elämässämme.</p>
+<p>Tulevina vuosina lähestulkoon kaikkiin aloihin liittyy ohjelmointi, ja koodaamisen opettelu antaa sinulle saumaa tulevaisuuden uraasi varten. Voit hyödyntää ohjelmointitaitoja esimerkiksi kirjoittamisen, analysoinnin, hallinnon, tekniikan, ohjelmistokehittämisen aloilla sekä useilla muilla toimialueilla.</p>
+<p>Ohjelmoinnin kannattajat näkevät koodaamisen yleishyödyllisenä taitona, joka kaikkien tulisi osata, samaan tapaan kuin kyky kirjoittaa tai suorittaa yksinkertaisia matemaattisia yhtälöitä. Monet valtiot ympäri maailman uskovat myös tähän ja ovatkin ehdottaneet päättäjilleen koodaamisen opiskelun liittämistä osaksi opetussuunnitelmaa.</p>
+<p>Aivan kuten me, he pitävät koodausta avaimena kilpailukyvyn ylläpitämiseen globaaleilla markkinoilla.</p>
+<h2>Tiedän sen jo olevan hyödyllistä, mutta millaista ohjelmointi oikeastaan on?</h2>
+<p>Ohjelmoijan keskivertopäivä ei ehkä ole yhtä hohdokas, kuin se vaikuttaisi olevan elokuvissa ja tv-sarjoissa.</p>
+<p>Ohjelmoijana oleminen vaatii paljon keskittymistä, kärsivällisyyttä sekä oma-aloitteisuutta. Jos et kykene istumaan paikoillasi ja keskittymään tunteja kerralla, saatat haluta harkita ohjelmoijan uraa vielä kerran.</p>
+<p>Jotkut ohjelmointityöt edellyttävät sinua työskentelemään epäsäännöllisin työajoin ja olemaan käytettävissä bugien korjaukseen ja ongelmien ratkaisuun välittömästi niiden ilmaantuessa. Toiset työt taas vaativat yhdeksästä viiteen työskentelyä, aivan kuten tavallisessa työssä.</p>
+<p>Joka tapauksessa, ohjelmoijana työskentely saattaa antaa sinulle enemmän vapauksia kuin nykyinen työsi. Suuri määrä ohjelmointityöstä tehdään etänä, tarkoittaen sitä, että voit koodata kotona, kahvilassa tai vaikkapa rannalla samanaikaisesti ruskettuen, oletuksena tietysti, että WiFi signaali yltää sinne asti.</p>
+<h1>Onko ohjelmointityö varmasti oikea minulle?</h1>
+<p>Tämä on se vaihe missä lyömme faktat tiskiin ja sinun täytyy tosissasi punnita ohjelmointityön hyödyt ja haitat. Ehkäpä sinulla on ollut epärealistinen käsitys siitä millaista ohjelmointi on, etkä ole ajatellut, että koodaaminen on aivan kuten mikä tahansa muu työ eli joka tapauksessa kovaa työtä. Jos kuitenkin täytät seuraavat ehdot, on todennäköistä, että rakastat jokaista sekuntia.</p>
+<p>Merkkejä, että ohjelmointi <strong>EI SOVI</strong> sinulle:</p>
+<ul>
+<li aria-level="1">Sinua motivoi vain raha, etkä ole ollenkaan kiinnostunut tietokoneista</li>
+<li aria-level="1">Et halua istua pitkään paikallasi</li>
+<li aria-level="1">Silmäsi alkavat harhailla kun katsot koodisivua</li>
+<li aria-level="1">Olet suhteellisen hidas kirjoittamaan koneella ja teet usein kirjoitusvirheitä</li>
+</ul>
+<p>Merkkejä, että ohjelmointi <strong>SOPII</strong> sinulle</p>
+<ul>
+<li aria-level="1">Kuvailet itseäsi sekä analyyttiseksi, että luovaksi</li>
+<li aria-level="1">Kiinnität huomiota yksityiskohtiin</li>
+<li aria-level="1">Sinusta on mukava työskennellä yhdessä muiden kanssa ja yksin</li>
+<li aria-level="1">Sinulla on hyvä ymmärrys kirjoitetusta englannista</li>
+<li aria-level="1">Rakastat ongelmanratkaisua</li>
+<li aria-level="1">Rakastat aina uusien asioiden oppimista</li>
+<li aria-level="1">Mukaudut muutokseen hyvin</li>
+<li aria-level="1">Haluat järjestää tietoa ja automatisoida prosesseja</li>
+</ul>
+<h1>Minkä ohjelmointikielen valitsen ja mistä aloitan?</h1>
+<p>Mennäänpä takaisin esimerkki tapaamiseemme kiinalaisen liikemiehen kanssa.</p>
+<p>Vaikka englannista voi olla hyötyä yritysympäristössä, saatat huomata, että sinun on opittava muita kieliä eri aloja varten. Haluat esimerkiksi tietää ranskan diplomatian, kreikan filosofian ja saksan tekniikan kenttää varten. Riippuen siitä, millä alalla työskentelet, valitset tietyn kielen tarpeidesi mukaan.</p>
+<p>Sinulla ei tule olemaan aikaa tai kykyä jokaisen olemassa olevan ohjelmointikielen opetteluun, joten tarvitset strategian sitä varten mitä kieliä haluat oppia. Ensiksi sinun pitää päättää mihin keskityt ja mitä kieliä tarvitset saavuttaaksesi henkilökohtaiset tavoitteesi.</p>
+<p>Vaikka HTML ja CSS eivät teknisesti olekaan ohjelmointikieliä, ne ovat loistavia ohjelmoinnin perusteiden opetteluun. Myös olio-ohjelmoinnin kielet Javascript tai Python koetaan usein aloittelijaystävällisiksi vaihtoehdoiksi. HTML ja CSS ovat &#8220;tekstimerkintäkieliä&#8221;, jotka ovat itse asiassa kieliä, joita käytämme tekstin muotoiluun ja järjestämiseen. Ilman HTML- tai CSS-selainta selaimesi ei tiedä, ovatko nämä kirjoittamani sanat otsikkoa, kappaletta vai alatunnistetta. Se ei myöskään tiedä, pitäisikö nämä sanat lihavoida, kursivoida jne.</p>
+<p>Esimerkiksi kun kirjoitan tätä artikkelia, käytän HTML:ää ja CSS:ää auttaakseni sinua ja selainta ymmärtämään mitä minulla on sanottavaa.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12988" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>TL;DR (Too Long; Didn’t Read)</h1>
+<p>Yhteenvetona, ohjelmointityö on korkeapalkkainen ammatti, joka vaatii kärsivällisyyttä, omistautumista sekä kykyä keskittyä yksityiskohtiin.</p>
+<p>Jos vihaat istua tietokoneen ääressä etkä ole valmis käyttämään aikaasi harjoitteluun, niin tulet silloin vihaamaan ohjelmointia ja luovuttamaan hyvin nopeasti. Et myöskään tule pärjäämään kovin hyvin, jos motivoidut vain rahasta eikä sinulla ole kiinnostusta itse työtä kohtaan.</p>
+<p>Joka tapauksessa, jos rakastat uuden oppimista, olet itseohjautuva ja sinulla on “Minä pystyn siihen!” -asenne, tulet menestymään koulutustaustastasi huolimatta.</p>
+<p>&nbsp;</p>
+<p><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</p>
+<h3>Ohjelmoinnin perusteet</h3>
+<ul>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/ohjelmoinnin-perusteet/" data-wpel-link="external" target="_blank" rel="external">Ohjelmoinnin perusteet – ensiaskeleesi kohti koodarin uraa</a></li>
+<li aria-level="1"><strong>Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</strong></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/miksi-ohjelmoinnin-opiskelu-kannattaa/" data-wpel-link="external" target="_blank" rel="external">Miksi ohjelmoinnin opiskelu kannattaa?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Kuinka oppia koodaamaan &amp; muita aloittelevan koodarin kysymyksiä</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/kuinka-nopeasti-voi-oppia-koodauksen-alkeet/" data-wpel-link="external" target="_blank" rel="external">Kuinka nopeasti voi oppia koodauksen alkeet?</a></li>
+<li aria-level="1"><a href="https://codeberryschool.com/blog/fi/miten-loydat-sinulle-sopivimman-koodauskurssin/" data-wpel-link="external" target="_blank" rel="external">Miten löydät sinulle sopivimman koodauskurssin?</a></li>
+</ul>
+<p>Haluaisitko oppia koodaamaan ja vielä verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppitunteja maksutta</a> Ohjelmointikoulu CodeBerryssä!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ohjelmoinnin perusteet – ensiaskeleesi kohti koodarin uraa</title>
+		<link>/blog/fi/ohjelmoinnin-perusteet/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 20 Apr 2021 14:32:50 +0000</pubDate>
+				<category><![CDATA[Ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[IT kurssi]]></category>
+		<category><![CDATA[ohjelmoinnin alkeet]]></category>
+		<category><![CDATA[ohjelmoinnin opiskelu]]></category>
+		<category><![CDATA[ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[ohjelmointi]]></category>
+		<category><![CDATA[ohjelmointikurssi]]></category>
+		<category><![CDATA[olio-ohjelmointi]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12912</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen! Haluaisitko oppia koodaamaan verkossa? Kokeile Ohjelmointikoulu CodeBerryn ensimmäisiä oppituntejamme täysin ilmaiseksi! Ohjelmoinnin perusteet Ohjelmoinnin perusteet – ensiaskeleesi [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:bold;text-decoration:none;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa </span><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p>Haluaisitko oppia koodaamaan verkossa? Kokeile Ohjelmointikoulu CodeBerryn <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">ensimmäisiä oppituntejamme täysin ilmaiseksi</a>!</p>
+<h3>Ohjelmoinnin perusteet</h3>
+<ul>
+<li><strong>Ohjelmoinnin perusteet – ensiaskeleesi kohti koodarin uraa</strong></li>
+<li><a href="https://codeberryschool.com/blog/fi/lyhyt-johdatus-ohjelmointiiin/" data-wpel-link="external" target="_blank" rel="external">Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/miksi-ohjelmoinnin-opiskelu-kannattaa/" data-wpel-link="external" target="_blank" rel="external">Miksi ohjelmoinnin opiskelu kannattaa?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Kuinka oppia koodaamaan &amp; muita aloittelevan koodarin kysymyksiä</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/kuinka-nopeasti-voi-oppia-koodauksen-alkeet/" data-wpel-link="external" target="_blank" rel="external">Kuinka nopeasti voi oppia koodauksen alkeet?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/miten-loydat-sinulle-sopivimman-koodauskurssin/" data-wpel-link="external" target="_blank" rel="external">Miten löydät sinulle sopivimman koodauskurssin?</a></li>
+</ul>
+<p>Tässä artikkelissa käymme läpi kohtia, joita saatat kohdata ottaessasi ensimmäisiä askeleita kohti ohjelmoinnin perusteita. Esittelemme lyhyesti suosituimmat ohjelmoinnin osa-alueet ja kielet, pohdimme isojen päätösten tekemistä (minkälaista teknologiaa ja oppimismetodeita sinun kannattaa suosia), sekä käymme lyhyesti läpi minkälaisesta taustaosaamisesta on hyötyä tällä matkalla.</p>
+<h1>Ohjelmointi sateenvarjoterminä – ja sen monet merkitykset</h1>
+<p>Usein kun kuulemme, että joku työskentelee ohjelmoijana, oletamme hänen tekevän monimutkaista, mielenkiintoista ja tarkkuutta vaativaa työtä. Meillä ei kuitenkaan ole tarpeeksi tietoa ymmärtääksemme, millainen hänen keskimääräinen työpäivänsä on tai millaisia tehtäviä hän todella tekee. Koodarin työkenttä on niin monipuolinen, että ohjelmointia voidaan pitää vain hyvin yleisenä, sateenvarjomaisesti lukemattomille osa-alueille leviävänä terminä.</p>
+<p>Silti yksi asia on kaikille näille osa-alueille yhteinen: ne kaikki sisältävät viestintää tietokoneiden kanssa, ja tapa tehdä sitä on ohjelmakoodin kirjoittaminen. Koodaamisen lisäksi ohjelmoijat tekevät testausta, virheiden korjausta, dokumentointia, asiakasviestintää, opettavat ja oppivat, tekevät ryhmätyötä, sekä työskentelevät omien projektien parissa. Jos haluat oppia lisää edellä mainitusta viestinnästä havainnollistavien esimerkkien kautta, voit tutustua artikkeliin &#8220;<a href="https://codeberryschool.com/blog/fi/lyhyt-johdatus-ohjelmointiiin/" data-wpel-link="external" target="_blank" rel="external">Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</a>&#8220;</p>
+<p>Mitä siis tarkoitamme, kun sanomme, että ohjelmointi on läsnä lukemattomissa tilanteissa? Mieti kaikkia päivittäin käyttämiäsi laitteita, sovelluksia, alustoja ja verkkosivustojen ohjelmistoja. Niin, sekä tietysti mobiilisovelluksia, pelejä, työpöytäsovelluksia, sulautettuja laitteita (esimerkiksi älykkäitä kodinkoneita) ja niin edelleen. Kaikkien näiden luominen ja käyttö edellyttää erilaisia ​​ohjelmoinnin osa-alueita ja teknologioita.</p>
+<p>Eri kriteerejä, sekä erilaisia teknologioita tarvitaan suunnitteluun ja luomiseen, joita näet käyttäjänä ja vastaavasti palvelimen puolella. Moninaiset teknologiat vaativat erilaisia ohjelmointikieliä.</p>
+<p>&nbsp;</p>
+<h1>Suosituimmat ohjelmointikielet</h1>
+<p>On olemassa useita tutkimuksia, joissa tarkastellaan suosituimpia ohjelmointikieliä. Mutta mitä me tarkalleen ottaen tarkoitamme suositulla? Aihetta käsittelevissä kyselyissä ei haeta parasta ohjelmointikieltä, sillä sitä ei ole olemassa. On olemassa vain riittävän hyviä ja vähemmän hyviä vaihtoehtoja tietyn tehtävän tai tarpeen suorittamiseen eri alustoilla. <a href="https://www.tiobe.com/tiobe-index/" target="_blank" rel="noopener external" data-wpel-link="external">Lähde</a>, jota käytimme tässä artikkelissa esittelee kielet, joilla kirjoitettiin eniten rivejä tiettynä kuukautena. Teknisesti ottaen se siis mittaa käytetyimmät kielet.</p>
+<p><img loading="lazy" class="aligncenter wp-image-12913" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/tiobe-ranking-2002-2020.png" alt="Suosituimmat ohjelmointikielet" width="598" height="280" srcset="/blog/wp-content/uploads/2021/04/tiobe-ranking-2002-2020.png 506w, /blog/wp-content/uploads/2021/04/tiobe-ranking-2002-2020-300x141.png 300w" sizes="(max-width: 598px) 100vw, 598px" /></p>
+<p>Tämän perusteella suurin osa koodista tehtiin C:llä tai Java-, Python-, C++- ja C♯- olio-ohjelmoinnin kielillä. Lisäksi Visual Basic, JavaScript, SQL, PHP ja R ovat melko korkealla rankingissa. Kaavio osoittaa selkeästi myös, miten kielten suosio on muuttunut ajan kuluessa. On siis useita asioita, joita sinun on otettava huomioon, kun päätät oppia yhden tai toisenkin ohjelmointikielen. Näistä tärkeimmät syyt ovat koodin käyttötarkoitus ja ohjelmointiin liittyvät henkilökohtaiset tavoitteesi.</p>
+<p>Voit lukea vinkkejä oikean ohjelmointikielen löytämiseen artikkelistamme &#8220;<a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</a>&#8220;.</p>
+<p>&nbsp;</p>
+<h1>Monia tapoja hankkia uusia taitoja – kuinka oppia ohjelmoinnin perusteet</h1>
+<p>Kun haluat oppia jotain uutta, voit aloittaa opiskelun usealla eri tavalla. Ohjelmoinnin perusteiden opiskelu ei eroa tästä. Valitsemastasi opiskelumenetelmästä huolimatta tarvitset kärsivällisyyttä, sitkeyttä ja ahkeruutta.</p>
+<p>&nbsp;</p>
+<h2>Yksilöllinen oppiminen</h2>
+<p>Yksilöllinen oppiminen voi olla houkuttelevin vaihtoehto useasta eri syystä. Yksi menetelmän suurimmista eduista on oman aikataulun asettaminen. Opiskelet tahdissa joka sopii sinulle parhaiten, palaat materiaalissa tarvittaessa taaksepäin, eikä sinun tarvitse erikseen sopeutua ryhmän vauhtiin. Yksilöllisessä opiskelussa on parasta hyödyntää useita resursseja, tutustua verkkomateriaaleihin, opetusohjelmiin, kirjoihin ja löytää samalla sinulle parhaiten sopiva opiskelumuoto. Sinun ei tarvitse pitää kiinni tietystä menetelmästä, sillä usein erilaiset oppimismenetelmät täydentävät toisiaan.</p>
+<p>Itseopiskelussa on myös kääntöpuolensa: foorumien lisäksi sinulla ei ole kanavia, joista voit pyytää apua ongelmatilanteissa. Ulkopuolelta tuleva motivointi, jonka muut opiskelijat ja mentorisi antavat, voivat parhaillaan olla tarvittava sytyke oivallusten syntymiseen.</p>
+<p>Hybridimallissa yhdistät omassa tahdissasi opiskelun hyödyt sekä opiskelijayhteisön ja mentoreiden tuen. Näin teemme myös CodeBerryssä, joten voit liittyä osaksi virtuaalista yhteisöä ja saada verkkomentorointia.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12720" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Kurssit ja vaativammat opetusohjelmat</h2>
+<p>Voit valita useista eri vaihtoehdoista, kun haluat opiskella hyvin valmistautuneiden ohjaajien, innostuneiden luokkatovereiden ja huolellisesti suunnitellun opetussuunnitelman parissa. Yleensä kursseista puhuttaessa useimmat meistä ajattelevat luultavasti perinteistä lähiopiskelua, jossa on totta kai monia erinomaisia ​​mahdollisuuksia niin tiimin rakentamiseen, viestintätaitojen kehittämiseen ja yhdessä vietettyihin hauskoihin hetkiin. Voit kuitenkin opiskella ohjelmointia verkkokursseilla, missä päin maailmaa tahansa. Jos kotisi lähellä ei järjestetä koodauskursseja lähiopetuksena, tai et halua tuhlata aikaa ja ylimääräistä rahaa matkoihin, verkkokurssit ovat sinulle oikea valinta.</p>
+<p>Voit opiskella koodausta yliopistotasolla, kuten vaikkapa Helsingin yliopiston suosituilla massiivisilla avoimilla verkkokursseilla (massive open online course), mikä tarkoittaa laajan teoreettisen tietopohjan hankkimista, mutta paljon vähemmän käytännön kokemusta. Opit tällöin ymmärtämään monimutkaisia ​​matemaattisia ongelmia, ja saat syvällisen käsityksen ohjelmoinnin taustalla vaikuttavista toiminnoista.</p>
+<p>Löydät lisää vinkkejä ohjelmoinnin perusteiden opiskelusta postauksesta &#8220;<a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Kuinka oppia koodaamaan &amp; muita aloittelevan koodarin kysymyksiä</a>&#8221; mistä voit lukea yksityiskohtaisemman selostuksen erilaisista oppimismenetelmistä ja aloittelijoille sopivista ohjelmointikielistä.</p>
+<p>&nbsp;</p>
+<h1>Tekniset vaatimukset</h1>
+<p>Jos olet ollut kiinnostunut ohjelmoinnista jo jonkin aikaa, sekä kerännyt aiheeseen liittyvää tietoa tai IT-ala on sinulle muuten tuttu (et ole vain vielä koodannut), saatat jo tuntea tässä osiossa esiteltävät termit. Jos sinulla ei ole vielä mitään tekemistä koodauksen kanssa tai sinulla on eri tausta, mielessäsi saattaa käydä samankaltaisia kysymyksiä.</p>
+<p>&nbsp;</p>
+<h2>Tietokone ja käyttöjärjestelmä</h2>
+<p>Millainen tietokone ja käyttöjärjestelmä tarvitaan ohjelmointia varten? Mihin kaikkeen laitteiden on pystyttävä?</p>
+<p>Voit kirjoittaa koodin perusläppärillä tai -pöytäkoneella, eikä sinun tarvitse hankkia NASA:n kehittämää supertietokonetta. Yleisimmät kaupalliset käyttöjärjestelmät (Windows, Linux, MacOS) ovat täysin riittäviä.</p>
+<p>&nbsp;</p>
+<h2>Ohjelmointiympäristö</h2>
+<p>Mihin koodi kirjoitetaan? Mitä ympäristöä minun tulisi käyttää? Voit kirjoittaa ohjelmia tekstieditorissa, integroiduissa ohjelmointiympäristöissä tai verkkoeditoreilla. Kaikissa on näissä on omat hyvät puolensa, joten voit valita itsellesi parhaimman vaihtoehdon tehtävän, tarpeen tai budjettiisi perusteella.</p>
+<p>Jos haluat työskennellä käyttäen tekstieditoria, voit käyttää Atom-, Notepad ++ -, Sublime Text-alustoja, vain muutaman mainitaksemme. Näiden ohjelmien avulla voit kirjoittaa ja muokata koodiasi sujuvasti, sillä sovellukset takaavat selkeän näkymän ja sisältävät useita lisäominaisuuksia, kuten syntaksin korostuksen ja ohjevalikon.</p>
+<p>Integroidut ohjelmointiympäristöt (tai lyhyesti <i>IDE</i>:t) ovat sovelluksia, jotka tunnistavat annetun kielen syntaksin, ehkäisevät virheiden syntymistä ja sisentävät koodia automaattisesti. Ohjelmissa on myös malleja, joita voidaan muokata erilaisten lisälaajennusten ja asetusten avulla. Eclipse, Visual Studio Code, Webstorm jne. ovat kaikki esimerkkejä integroidusta ohjelmointiympäristöstä. Yritykset vaativat usein kehittäjiään työskentelemään tietyssä IDE:ssä, ja tarjoavat heille myös pääsyn ammattilaisten käyttämiin ohjelmointiympäristöihin.</p>
+<p>Aloittelijana (ja monilla koodausalueilla myöhemmin) yksinkertaiset verkkoeditorit, kuten <i>codepan.io</i> tai <i>repl.it</i>, palvelevat sinua riittävästi.</p>
+<p>Yksi ensimmäisistä asioista, jonka opit CodeBerryssä, on oman devausympäristön luominen. Lisäksi tutustut GitHubiin, ilmaiseen verkkoalustaan, jolla voit tallentaa, sekä jakaa koodiasi muiden nähtäväksi. Tietysti <i>GitHubin </i>lisäksi saatavana on myös muita versionhallintaohjelmia, kuten esimerkiksi<i> Bitbucket</i> ja <i>GitLab.</i></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter wp-image-12914" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-1024x683.jpg" alt="Voit opiskella ohjelmointia missä tahansa" width="852" height="568" srcset="/blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-300x200.jpg 300w, /blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-768x512.jpg 768w, /blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-1536x1025.jpg 1536w, /blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-2048x1366.jpg 2048w, /blog/wp-content/uploads/2021/04/photo-1600195077909-46e573870d99-1080x720.jpg 1080w" sizes="(max-width: 852px) 100vw, 852px" /></p>
+<p>&nbsp;</p>
+<h1>Mitä taitoja tarvitaan ohjelmointiin?</h1>
+<h2>Analyyttinen ajattelu</h2>
+<p>Kun mietit yliopistotasoiselle ohjelmointikurssille ilmoittautumista, sinun tulee tietää, että tarvitset erittäin vahvan tietotaidon matematiikasta aloittaaksesi, etkä pääse kiertämään tätä tosiseikkaa. Sitä vastoin käytännönläheisissä kursseissa et tarvitse syvällistä teoreettista osaamista, etkä korkean tason matematiikkaa. Yksilöllinen oppiminen onnistuu paremmin, kun opiskeluissa vaaditaan vähemmän matematiikan osaamista tai matalamman tason matematiikkaa.</p>
+<p>Tarvitset kuitenkin kaikissa opinnoissasi loogista ja analyyttistä ajattelukykyä. Algoritmien ymmärtämiseksi ja oppimiseksi tarvitset analyyttistä ja rationaalista ajattelukykyä, sekä mahdollisesti jopa perinteisiä matemaattista osaamista. Sinun on myös ymmärrettävä tietyt ohjelmoinnin peruskäsitteet ja -toiminnot. Perusasioita kannattaa harjoitella useasti ja palata niihin aika ajoin, jotta hallitset ja käytät niitä täysin itsevarmasti.</p>
+<h2>Ohjelmoinnin perusteet äidinkielelläsi ja englannin kielen rooli ohjelmoinnissa</h2>
+<p>Englannin kielen rooli ohjelmoinnissa on varsin keskeinen. Joillekin englannin kielen osaamattomuus voi olla lannistava tekijä, sillä tietotekninen maailma näyttää toimivan lähinnä englanniksi. Eli miten voit hypätä tähän mielenkiintoiseen maailmaan puutteellisella kielitaidolla?</p>
+<p>CodeBerry tarjoaa ratkaisua ongelmaan tarjoamalla sinulle mahdollisuuden opetella koodaamaan omalla äidinkielelläsi. Suomeksi on nykyään myös saatavilla yhä enemmän resursseja koodaamisen opettelemiseksi (kirjoja, podcasteja, videoita, kursseja, jne.). Löydät joitakin suosituksia myös tästä artikkelista.</p>
+<p>Et välttämättä tarvitse vahvaa englannin kielen osaamista aloittaaksesi ohjelmointitaidon opiskelun ja kehittämiseen. On silti arvokasta työskennellä englannin kielen tason parantamiseksi: esimerkiksi kyky lukea kansainvälisiä foorumeita, artikkeleita ja uutisia tarjoaa sinulle uusia monipuolisia mahdollisuuksia työmarkkinoilla. Lisäksi saat sauman päästä osaksi globaalia IT-kenttää.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12915" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Testimonial-2.png 1024w, /blog/wp-content/uploads/2021/04/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2>Henkilökohtaiset taidot</h2>
+<p>Ohjelmoinnin perusteita käsittelevässä artikkelissamme meidän täytyy ehdottomasti mainita taito, tai ehkäpä jopa piirre, josta jokaisen innokkaan aloittelijan tulisi tuntea: tarvitset sitkeyttä ja keskittymiskykyä koodaamisen oppimiseen ja ohjelmoijana työskentelyyn. Olipa opiskelumuotosi sitten mikä tahansa, on vaikeaa onnistua tavoitteissasi ilman ahkeruutta ja kurinalaista harjoittelua. Kun sinulla on nämä ominaisuudet, voit uppoutua palkitsevaan ja luovaan työhön, jännittäviin ja haastaviin ongelmanratkaisuprosesseihin, ja saat siten huomattavan edun työmarkkinoilla.</p>
+<h2>Ryhmätyöskentelytaidot</h2>
+<p>Jos mietit koodaamista enemmän kuin harrastuksena, ja näet itsesi työskentelevän ammattiohjelmoijana, on todennäköistä, että sinun on työskenneltävä tiimissä tai tehtävä yhteistyötä asiakkaiden kanssa. Yhdessä toimiminen vaatii hyviä viestintä- ja ryhmätyötaitoja. On tärkeää, että pystyt esittelemään minkä projektisi, sekä myös esittämään olennaiset kysymykset ja havainnot selkeästi – eli lyhyesti ja ytimekkäästi, tehokkaalla tavalla. Nämä ovat kaikki taitoja, joita voit parantaa, ja jotka ovat välttämättömiä pyrittäessä tehokkaaseen ryhmätyöhön ohjelmistokehityksessä.</p>
+<h1>Johtopäätös</h1>
+<p>On mahdotonta sisällyttää kaikkia ohjelmoinnin perusteita yhteen artikkeliin, mutta toivomme, että löysit hyödyllisiä oivalluksia tästä tekstistä. Jos luet tätä artikkelia tutustuaksesi aiheeseen ennen koodausopintojen aloittamista, tutustu tähän <a href="https://codeberryschool.com/blog/en/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code/" data-wpel-link="external" target="_blank" rel="external">kertomukseen</a> opintojen alun haasteista ja ihanuudesta.</p>
+<p>&nbsp;</p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:bold;text-decoration:none;font-family:''Arial'';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221;</strong> -sarjassa </span><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<h3>Ohjelmoinnin perusteet</h3>
+<ul>
+<li><strong>Ohjelmoinnin perusteet – ensiaskeleesi kohti koodarin uraa</strong></li>
+<li><a href="https://codeberryschool.com/blog/fi/lyhyt-johdatus-ohjelmointiiin/" data-wpel-link="external" target="_blank" rel="external">Lyhyt johdatus ohjelmointiin – Miksi koodaaminen on hyödyllistä?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/miksi-ohjelmoinnin-opiskelu-kannattaa/" data-wpel-link="external" target="_blank" rel="external">Miksi ohjelmoinnin opiskelu kannattaa?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Kuinka oppia koodaamaan &amp; muita aloittelevan koodarin kysymyksiä</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/kuinka-nopeasti-voi-oppia-koodauksen-alkeet/" data-wpel-link="external" target="_blank" rel="external">Kuinka nopeasti voi oppia koodauksen alkeet?</a></li>
+<li><a href="https://codeberryschool.com/blog/fi/miten-loydat-sinulle-sopivimman-koodauskurssin/" data-wpel-link="external" target="_blank" rel="external">Miten löydät sinulle sopivimman koodauskurssin?</a></li>
+</ul>
+<p>Haluaisitko oppia koodaamaan verkossa? Kokeile Ohjelmointikoulu CodeBerryn <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">ensimmäisiä oppituntejamme täysin ilmaiseksi</a>!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

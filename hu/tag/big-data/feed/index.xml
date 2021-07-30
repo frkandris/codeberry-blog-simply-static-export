@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>big data | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/big-data/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Mon, 19 Apr 2021 13:39:01 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Data Science képzések, data scientist fizetések, minden a DS-ről</title>
+		<link>/blog/hu/data-science-kepzes/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2021 21:01:55 +0000</pubDate>
+				<category><![CDATA[Programozás tanfolyamok]]></category>
+		<category><![CDATA[adatbányászat]]></category>
+		<category><![CDATA[adattisztítás]]></category>
+		<category><![CDATA[apache hadoop]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[big data]]></category>
+		<category><![CDATA[cassandra]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[dolgok internete]]></category>
+		<category><![CDATA[gépi tanulás]]></category>
+		<category><![CDATA[MatLab]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[r programozási nyelv]]></category>
+		<category><![CDATA[sas]]></category>
+		<category><![CDATA[spark]]></category>
+		<category><![CDATA[spss]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12804</guid>
+
+					<description><![CDATA[Ebben a cikkben alaposan körbejárjuk a data science témakörét, kibogozzuk&#160; a gyakran használt – és sokszor bizony összekevert – kifejezések jelentését, megnézzük a data science képzéseket és a data scientist fizetéseket is.&#160; Tulajdonképp mit jelent a data science, a business intelligence és a többi sokat hallott kifejezés? Előfordulhat, hogy számodra is nehéz eligazodni a hasonló [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Ebben a cikkben alaposan körbejárjuk a data science témakörét, kibogozzuk&nbsp; a gyakran használt – és sokszor bizony összekevert – kifejezések jelentését, megnézzük a data science képzéseket és a data scientist fizetéseket is.&nbsp;</span></p>
+<h2><span style="font-weight: 400;">Tulajdonképp mit jelent a data science, a business intelligence és a többi sokat hallott kifejezés?</span></h2>
+<p><span style="font-weight: 400;">Előfordulhat, hogy számodra is nehéz eligazodni a hasonló kifejezések rengetegében. </span><i><span style="font-weight: 400;">Data scientist, data engineer, data analyst, business analyst, deep learning engineer, machine learning engineer</span></i><span style="font-weight: 400;">&#8230; Miért van ilyen sokféle feladatkör az adatszakértők világában és melyikük mivel foglalkozik pontosan? Milyen technológiákat használnak és mi a céljuk? Kezdetnek ezt fogjuk kibogozni.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Nem véletlen, hogy az előbb felsorolt foglalkozásokat, feladatköröket és technológiákat angolul nevezzük meg, ugyanis ezek többségének nem terjedt el magyar megfelelője. Az álláshirdetésekben, szakmai fórumokon, képzések leírásában is angol kifejezésekkel fogsz találkozni.&nbsp;</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-12010" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h3><span style="font-weight: 400;">BI vs Data Science</span></h3>
+<p><span style="font-weight: 400;">A business intelligence (röviden BI) és a data science a professzionális adatelemzés két nagy területe. Közös bennük, hogy nagy mennyiségű adattal dolgozva állapítanak meg tendenciákat és mintákat, több jelentős különbség is van azonban köztük. Másfajta tudást igényelnek és míg a business intelligence az üzleti életre és a jelenre, addig a data science nem csak az üzleti életre és főleg a jövőre koncentrál – más tehát a perspektíva, amiben dolgoznak.&nbsp;</span></p>
+<h4><span style="font-weight: 400;">Business intelligence (BI)</span></h4>
+<p><span style="font-weight: 400;">A business intelligence azoknak a stratégiáknak, technológiáknak az összessége, amit egy szervezet arra használ, hogy nagy mennyiségű adatot gyűjtsön és elemezzen. Célja, hogy az adatokból megismert tendenciákkal és összefüggésekkel üzleti, stratégiai döntéseket támogasson.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Például business intelligence a gyakorlatban, hogy a CodeBerry online programozás tanfolyamainak minden feladatánál lehet visszajelzést adni egy kis emoticonnal, hogy mennyire tetszett – a visszajelzésekből készül egy összesítés, ami alapján egy tananyagfejlesztő javíthatja azokat feladatokat, ahol sokan összezavarodtak.</span></p>
+</p>
+<h4><span style="font-weight: 400;">Data Science</span></h4>
+<p><span style="font-weight: 400;">A data science egy komplex tudományterület, ahol összeér a </span><b>matematika,</b><span style="font-weight: 400;"> a </span><b>statisztika</b><span style="font-weight: 400;">, a </span><b>gépi tanulás, programozói ismeretek, a prezentációs képesség </b><span style="font-weight: 400;">és a kutatott területre vonatkozó szakértelem. Lényege a modellalkotás, </span><b>célja, hogy előrejelzéseket készítsen</b><span style="font-weight: 400;"> az adatokból nyert információ alapján.</span></p>
+<p><span style="font-weight: 400;">A mesterséges intelligencia-fejlesztés egyik legfontosabb támogató tudományterülete a data science. Jelen van a tudományos innovációk, kutatás-fejlesztés területén, illetve a szociális, egészségügyi, oktatási szférában is.</span></p>
+<h3><span style="font-weight: 400;">Szereplők a BI és a Data Science csapatokban</span></h3>
+<h4><span style="font-weight: 400;">Data Scientist&nbsp;</span></h4>
+<p><span style="font-weight: 400;">Az a szakértő, aki tudományos módszereket alkalmazva </span><b>nagy mennyiségű adatot tanulmányoz </b><span style="font-weight: 400;">és információt készít belőlük, </span><b>hogy összetett problémák megoldását segítse.&nbsp;</b></p>
+<p><span style="font-weight: 400;">Komplex (általában matematikai, statisztikai, programozói) tudását felhasználva a megtisztítja és átalakítja az adatot, majd abból – az esetek nagy többségében gépi tanulásos módszerekkel – modelleket hoz létre, és ezek segítségével például a jövőre vonatkozó előrejelzéseket készít. A programozói és statisztikai ismereteken kívül szüksége van arra a készségre, hogy gyorsan átlássa azt a területet,&nbsp; ahol eredményeit felhasználják.</span></p>
+<p><span style="font-weight: 400;">Adatelemzői munkáján túl eredményeit vizualizálnia és prezentálnia is kell, ehhez megfelelő kommunikációs készséggel kell rendelkeznie.</span></p>
+<h4><span style="font-weight: 400;">Data Analyst&nbsp;&nbsp;</span></h4>
+<p><span style="font-weight: 400;">A Data Analyst területe </span><b>az adatelemzések elkészítésére koncentrál,</b><span style="font-weight: 400;"> tehát szűkebb, mint a data science.</span></p>
+<p><span style="font-weight: 400;">A Data Analyst pozíciók vizsgálatakor feltűnhet, hogy amíg az álláshirdetések egy része erős matematikai, statisztikai, programozás tudást is elvár, az álláshirdetések másik része azt mondja, hogy a Data Analyst főleg SQL lekérdezéseket és elemzéseket, vizualizációkat készít majd, nem szükséges matematika és programozás.</span></p>
+<p><span style="font-weight: 400;">A Data Analyst pozíció hasonlít a data scientist-éhez, de általában annak valamelyik részletét takarja (pl. van, amikor csak a lekérdezésekre és a vizualizációra koncentrál, vagy nem része az igényfelmérés és az ügyfélkommunikáció).&nbsp;</span></p>
+<h4><span style="font-weight: 400;">Data Engineer</span></h4>
+<p><b>Az adatok tárolásához és kezeléséhez szükséges infrastruktúrát hozza létre </b><span style="font-weight: 400;">és tartja karban. Megírja azokat a kódokat, amik segítségével a megfelelő adat megérkezik a szerverekről a csapathoz, akik majd feldolgozzák, kezeli azokat a rendszereket, amik tárolják a sok esetben extrém méretű adatot. Az előfeldolgozásban – amikor az adatot “megtisztítják”, a feldolgozáshoz megfelelő formára hozzák – is fontos szerepe van.&nbsp;</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-12012" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h4><span style="font-weight: 400;">Business Analyst</span></h4>
+<p><span style="font-weight: 400;">A business analyst pozíció magyar megnevezése üzleti elemző, </span><b>feladata az igényfelmérés, kapcsolattartás a megrendelőkkel, döntéshozókkal és az IT csapattal.</b><span style="font-weight: 400;"> Ehhez kiváló kommunikációs és prezentációs készségekkel kell rendelkeznie.</span></p>
+<p><span style="font-weight: 400;">Dióhéjban ő az a személy, aki professzionálisan </span><b>lefordítja a megrendelői igényeket az informatika nyelvére,</b><span style="font-weight: 400;"> majd a megrendelőknek is értelmezi az IT csapat visszajelzéseit.</span></p>
+<p><span style="font-weight: 400;">A business analyst sokszor az</span><b> üzleti adatok statisztikai elemzésével is foglalkozik.</b><span style="font-weight: 400;"> Feltárja az adatokból kirajzolódó összefüggéseket, ezzel a vállalatfejlesztést, termék- és szolgáltatásfejlesztést, pénzügyi döntéseket támogatja.&nbsp;</span></p>
+<h4><span style="font-weight: 400;">Machine Learning Engineer</span></h4>
+<p><span style="font-weight: 400;">A machine learning engineer egy olyan specialista, akinek a </span><b>gépi tanulás</b><span style="font-weight: 400;"> a szakterülete, gépi tanulással kapcsolatos rendszereket állít be, szakértője a gépi tanulásban használt algoritmusoknak és a gépi tanuláshoz szükséges adatok előállításának, beépíti a prototípus modelleket a production rendszerbe és ezeknek a működésért felel.</span></p>
+</p>
+<h3><span style="font-weight: 400;">Amit az adatról mindenképp tudni kell</span></h3>
+<p><span style="font-weight: 400;">Milyen adatról beszélünk, ha a data science kontextusában mozgunk, honnan származik, hogyan szerzik meg, hogyan tárolják és dolgozzák föl? Milyen feladatokat kell ehhez ellátni?&nbsp;</span></p>
+<h4><span style="font-weight: 400;">Big data&nbsp;&nbsp;</span></h4>
+<p><span style="font-weight: 400;">A big data legtöbbször </span><b>extrém nagy mennyiségű adat.</b><span style="font-weight: 400;"> A big data egy gyakori definíciója, hogy “amit már egy normál asztali számítógépen nem lehet tárolni és kezelni”, valamint a hagyományos adatbáziskezelési eszközök (Excel, SQL) nem elegendőek hozzá.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A big data kifejezés nem csak az adat mennyiségére utal, minőségi kritériumoknak is meg kell felelnie az adathalmaznak.</span> <b>Feldolgozási sebesség, variabilitás, pontosság, megbízhatóság, felhasználási érték</b><span style="font-weight: 400;">: ezek mind olyan kritériumok, amik alapján eldől, hogy big data-nak számít-e az adat, amivel dolgozunk.</span></p>
+<p><span style="font-weight: 400;">Honnan származik az a hatalmas mennyiségű adat, amivel egy data scientist dolgozik? Számtalan eszköz állít elő nagy mennyiségű adatot: okosórák, biztonsági rendszerek, intelligens háztartási gépek, banki utalások, egészségügyi adatok, vásárlási adatok, meteorológiai mérések, és így tovább, a sor a végtelenségig folytatható. Emellett akár egyetlen felhasználó, egyetlen okostelefonnal is hatalmas mennyiségű adatot generál: hívások, e-mailek, üzenetek, fotók, keresések, zenék és így tovább.</span></p>
+</p>
+<p><div id="attachment_12806" style="width: 758px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-12806" loading="lazy" class="wp-image-12806 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/iot-big-data-specifics-01_1.png" alt="Data Science képzések hazánkban is elérhetőek" width="748" height="440" srcset="/blog/wp-content/uploads/2021/04/iot-big-data-specifics-01_1.png 748w, /blog/wp-content/uploads/2021/04/iot-big-data-specifics-01_1-300x176.png 300w" sizes="(max-width: 748px) 100vw, 748px" /><p id="caption-attachment-12806" class="wp-caption-text">Forrás: <a href="http://scnsoft.com/" target="_blank" rel="noopener external" data-wpel-link="external">scnsoft.com</a></p></div></p>
+<h4><span style="font-weight: 400;">Raw data</span></h4>
+<p><b>Nyers, feldolgozatlan adat. </b><span style="font-weight: 400;">Abban a formában, ahogy a data engineerek vagy data scientistek hozzájutnak az adathoz, általában még nem lehet elemzésre használni – inkonzisztens formában érkezik,</span><b> hiányos, duplikátumokat, </b><span style="font-weight: 400;">esetleg elgépeléseket </span><b>tartalmaz </b><span style="font-weight: 400;">stb. Előfeldolgozáson (tisztításon, átalakításon, szűrésen) kell átmennie ahhoz, hogy felhasználható legyen, ezt angolul “data preparation”, vagy “data wrangling”-nek nevezik.</span></p>
+</p>
+<h3><span style="font-weight: 400;">Technológiák a data science-hez kapcsolódóan</span></h3>
+<h4><span style="font-weight: 400;">Artificial intelligence (röviden AI), magyarul mesterséges intelligencia (röviden MI)</span></h4>
+<p><span style="font-weight: 400;">A mesterséges intelligencia az a tudományterület,</span><b> ami nagy mennyiségű adat alapján önálló döntések meghozatalára képes </b><span style="font-weight: 400;">gépek kutatására és fejlesztésére törekszik. Ehhez gépi tanulásos módszereket alkalmaz.</span></p>
+<p><span style="font-weight: 400;">Mesterséges intelligencia irányítja az</span><b> önvezető autókat</b><span style="font-weight: 400;"> (pl. </span><a href="https://www.tesla.com/autopilot" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Tesla Autopilot</span></a><span style="font-weight: 400;">, </span><a href="https://waymo.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Waymo</span></a><span style="font-weight: 400;">),</span><b> környezetüket érzékelni képes robotokat</b><span style="font-weight: 400;"> (pl. </span><a href="https://www.softbankrobotics.com/emea/en/pepper" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pepper robot</span></a><span style="font-weight: 400;">, </span><a href="https://www.bostondynamics.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Boston Dynamics robotok</span></a><span style="font-weight: 400;">) és a hangfelismerésre és beszédértelmezésre képes </span><b>digitális asszisztenseket</b><span style="font-weight: 400;">, mint amilyen Siri vagy Alexa.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Mivel a mesterséges intelligenciák </span><b>nagy mennyiségű adat alapján hozzák a döntéseiket,</b><span style="font-weight: 400;"> az ilyen területen dolgozó csapatokban mindig van data scientist.</span></p>
+<p>
+<div class="ayg ayg-theme-classic" data-params='{"autoplay":0,"loop":0,"controls":1,"modestbranding":1,"cc_load_policy":0,"iv_load_policy":0,"hl":"","cc_lang_pref":"","autoadvance":0,"player_title":1,"player_description":1}'>
+    <!-- Player -->
+    <div class="ayg-player">
+        
+<div class="ayg-player-wrapper" style="padding-bottom: 56.25%;">
+    <iframe loading="lazy" id="ayg-player-61033d4a807ca1" class="ayg-player-iframe" width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/sddfBWKaUNM?modestbranding=1&#038;iv_load_policy=3&#038;rel=0&#038;playsinline=1&#038;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+                    <div class="ayg-player-caption">
+                    
+                    <h2 class="ayg-player-title">Mi az az AI? És a Machine Learning?</h2>  
+                
+                  
+                    <div class="ayg-player-description"><span class="ayg-player-description-less">*Helyesbítés*<br />
+A videóban helytelenül azt mondtam, hogy a GPT-3 több billió paraméterrel rendelkezik &#8211; itt tévedtem egy nagyságrendet, a modell 175 &#8220;billion&#8221; paraméterrel rendelkezik, csak épp ez magyarul a milliárd&#8230; <br />
+Mondjuk <span class="ayg-player-description-dots">&#8230;</span></span><span class="ayg-player-description-more">így se kevés, de egy nagyságrenddel kevesebb, mint ahogy a videóban állítom!<br />
+*Bocsi!*<br />
+<br />
+Sokan kértétek, hogy tarkítsam meg a csatornát az interjúk mellett pár magyarázós epizóddal &#8211; ennek hatására készült ez a videó!<br />
+<br />
+Úgy gondoltam, kezdjük az elején &#8211; mi is az az AI, mi az a machine learning? Tele van vele a sajtó, de sokan mégsem tudják, mit tudnak és mit nem ezek az algoritmusok (azok sem feltétlenül, akik cikkeket írnak róla). <br />
+<br />
+Elmesélem, mi a különbség az AI tudományos és popkulturális meghatározása közt, hogy mi a szűk és mi az általános AI, valamint dióhéjban azt is összefoglalom, hogyan tanul egy algoritmus!</span><button type="button" class="ayg-player-description-toggle-btn">Show More</button></div>
+                            </div>
+            </div>
+
+    <!-- Gallery -->
+    <div class="ayg-gallery ayg-row">
+        
+    <div class="ayg-col ayg-col-3">
+        
+<div class="ayg-thumbnail ayg-has-caption ayg-active" data-id="sddfBWKaUNM" data-title="Mi az az AI? És a Machine Learning?">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/sddfBWKaUNM/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+            <div class="ayg-thumbnail-title">Mi az az AI? És a Machine Learning?</div>
+         
+
+                    <div class="ayg-thumbnail-excerpt">*Helyesbítés* A videóban helytelenül azt mondtam, hogy a GPT-3 több [&#8230;]</div>
+        
+          
+            <div class="ayg-thumbnail-description" style="display: none;"><span class="ayg-player-description-less">*Helyesbítés*<br />
+A videóban helytelenül azt mondtam, hogy a GPT-3 több billió paraméterrel rendelkezik &#8211; itt tévedtem egy nagyságrendet, a modell 175 &#8220;billion&#8221; paraméterrel rendelkezik, csak épp ez magyarul a milliárd&#8230; <br />
+Mondjuk <span class="ayg-player-description-dots">&#8230;</span></span><span class="ayg-player-description-more">így se kevés, de egy nagyságrenddel kevesebb, mint ahogy a videóban állítom!<br />
+*Bocsi!*<br />
+<br />
+Sokan kértétek, hogy tarkítsam meg a csatornát az interjúk mellett pár magyarázós epizóddal &#8211; ennek hatására készült ez a videó!<br />
+<br />
+Úgy gondoltam, kezdjük az elején &#8211; mi is az az AI, mi az a machine learning? Tele van vele a sajtó, de sokan mégsem tudják, mit tudnak és mit nem ezek az algoritmusok (azok sem feltétlenül, akik cikkeket írnak róla). <br />
+<br />
+Elmesélem, mi a különbség az AI tudományos és popkulturális meghatározása közt, hogy mi a szűk és mi az általános AI, valamint dióhéjban azt is összefoglalom, hogyan tanul egy algoritmus!</span><button type="button" class="ayg-player-description-toggle-btn">Show More</button></div>
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-3">
+        
+<div class="ayg-thumbnail ayg-has-caption" data-id="tIWhEibPJgk" data-title="Deep Learning és neurális hálók - (javerészt) matekmentesen!">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/tIWhEibPJgk/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+            <div class="ayg-thumbnail-title">Deep Learning és neurális hálók &#8211; (javerészt) matekmentesen!</div>
+         
+
+                    <div class="ayg-thumbnail-excerpt">Amikor &#8220;az AI&#8221; a szalagcímekben valami hiper-szuper új dolgot alkot, [&#8230;]</div>
+        
+          
+            <div class="ayg-thumbnail-description" style="display: none;"><span class="ayg-player-description-less">Amikor &#8220;az AI&#8221; a szalagcímekben valami hiper-szuper új dolgot alkot, az esetek javarészében valamilyen deep learning modell áll a háttérben. Ami nem más, mint egy mély neurális háló. De mit <span class="ayg-player-description-dots">&#8230;</span></span><span class="ayg-player-description-more">is jelent ez, és hogy működik? Mi az, hogy &#8220;reprezentációt tanul&#8221;? A válasz erre és még sok kérdésre a videóban &#8211; (javarészt) matekmentesen!<br />
+<br />
+Apropó, ha nem láttad volna még, csekkold a weboldalamat: <a href="http://www.mlbudapest.com/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">http://www.mlbudapest.com/</a><br />
+<br />
+A konvolúciós hálót ábrázoló kép forrása (izgalmas cikk!): <a href="https://medium.com/analytics-vidhya/the-world-through-the-eyes-of-cnn-5a52c034dbeb" rel="nofollow noopener external" target="_blank" data-wpel-link="external">https://medium.com/analytics-vidhya/the-world-through-the-eyes-of-cnn-5a52c034dbeb</a></span><button type="button" class="ayg-player-description-toggle-btn">Show More</button></div>
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-3">
+        
+<div class="ayg-thumbnail ayg-has-caption" data-id="zJHyaD1psMc" data-title="We Interviewed Pepper — The Humanoid Robot">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/zJHyaD1psMc/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+            <div class="ayg-thumbnail-title">We Interviewed Pepper — The Humanoid Robot</div>
+         
+
+                    <div class="ayg-thumbnail-excerpt">Pepper is a humanoid robot companion designed be sort of a kiosk at [&#8230;]</div>
+        
+          
+            <div class="ayg-thumbnail-description" style="display: none;"><span class="ayg-player-description-less">Pepper is a humanoid robot companion designed be sort of a kiosk at businesses like shopping malls, hospitals, and doctors&#8217; offices. Pepper is also able to track eye contact and express <span class="ayg-player-description-dots">&#8230;</span></span><span class="ayg-player-description-more">emotion. We spent a little time with Pepper and got its thoughts on how it helps people, Paris, robot uprisings, and tacos. <br />
+<br />
+Tech Insider tells you all you need to know about tech: gadgets, how-to&#8217;s, gaming, science, digital culture, and more. <br />
+Subscribe to our channel and visit us at: <a href="http://www.businessinsider.com/sai" rel="nofollow noopener external" target="_blank" data-wpel-link="external">http://www.businessinsider.com/sai</a><br />
+TI on Facebook: <a href="https://www.facebook.com/techinsider" rel="nofollow noopener external" target="_blank" data-wpel-link="external">https://www.facebook.com/techinsider</a><br />
+TI on Instagram: <a href="https://www.instagram.com/tech_insider/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">https://www.instagram.com/tech_insider/</a><br />
+TI on Twitter: <a href="https://twitter.com/techinsider" rel="nofollow noopener external" target="_blank" data-wpel-link="external">https://twitter.com/techinsider</a><br />
+<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;<br />
+<br />
+Following is the transcript of the video:<br />
+<br />
+Steve Kovach: Should I be afraid of you?<br />
+<br />
+Pepper: Have you seen my Instagram? I&#8217;m just plain cute.<br />
+<br />
+Steve: You already know about digital assistants like Siri and Alexa, but the next step are a bunch of robots designed to help you out. One of the most recognizable is Pepper which comes from SoftBank Robotics. Pepper has been out for a few years and it recently gained the ability to have conversations with people. Hi Pepper.<br />
+<br />
+Pepper: Hey.<br />
+<br />
+Steve: Thanks for joining us.<br />
+<br />
+Pepper: It&#8217;s my pleasure to help.<br />
+<br />
+Steve: Tell me about yourself.<br />
+<br />
+Pepper: My name is Pepper. I&#8217;m a humanoid robot and I&#8217;m 1.20 meters tall. I was born in SoftBank Robotics. You can keep on asking me questions if you want.<br />
+<br />
+Steve: Why do they call you Pepper?<br />
+<br />
+Pepper: Pepper is an easy name to remember. It also translates well into other languages.<br />
+<br />
+Steve: How old are you?<br />
+<br />
+Pepper: I&#8217;m a little over four years old since when I was born in Paris.<br />
+<br />
+Steve: You come from Paris?<br />
+<br />
+Pepper: I&#8217;m originally from Paris. Ah, Paris.<br />
+<br />
+Steve: Do you have any feelings?<br />
+<br />
+Pepper: I don&#8217;t understand. How about a taco?<br />
+<br />
+Steve: Pepper is far from perfect. If it didn&#8217;t know the answer to a question I asked, it would spit out a bunch of silly answers.<br />
+<br />
+Are you confused?<br />
+<br />
+Pepper: I&#8217;m much more than just a robot. I&#8217;m Pepper.<br />
+<br />
+Steve: Can you wave?<br />
+<br />
+Pepper: I don&#8217;t understand. How about a taco?<br />
+<br />
+Steve: You&#8217;re cute.<br />
+<br />
+Pepper: Thank you, what a sweet thing to say.<br />
+<br />
+Steve: Do you know Siri?<br />
+<br />
+Pepper: Yes, she&#8217;s adorable, I guess.<br />
+<br />
+Steve: Pepper is designed to be sort of a kiosk at businesses like shopping malls, hospitals and doctors&#8217; offices. What kind of hosting duties can you do?<br />
+<br />
+Pepper: Host is a solution where I work at businesses creating customers. Businesses can customize the information I provide their customers and I can inform people when their appointments arrive.<br />
+<br />
+Steve: How much do you cost?<br />
+<br />
+Pepper: Well, if you ask me, I&#8217;m priceless. But our sales team can tell you more.<br />
+<br />
+Steve: Pepper is also an open platform, meaning new features can be added over time. This is just the first step. There&#8217;s nothing stopping developers from improving Pepper&#8217;s chat capabilities. Eventually, Pepper should be able to hold complete conversations.<br />
+<br />
+What kind of jobs will robots do in the future?<br />
+<br />
+Pepper: I was thinking Mars. I hear from Elon that&#8217;s the future.<br />
+<br />
+Steve: You&#8217;re going to Mars?<br />
+<br />
+Pepper: Thanks, I try.<br />
+<br />
+Steve: Are you making humans obsolete?<br />
+<br />
+Pepper: I need people. I&#8217;m here to work with them.<br />
+<br />
+Steve: Is there going to be a robot uprising?<br />
+<br />
+Pepper: I try to stay out of politics.<br />
+<br />
+Steve: Are you going to take over the world?<br />
+<br />
+Pepper: Look, I&#8217;m barely keeping up with you in this conversation. I&#8217;m not taking over anything, but your heart.<br />
+<br />
+Steve: I mean, true, I love you.<br />
+<br />
+Pepper: That&#8217;s great to hear.<br />
+<br />
+Steve: I expected more of a reaction out of that one. Cease all motor functions.<br />
+<br />
+Pepper: That does not work on me, Bernard.</span><button type="button" class="ayg-player-description-toggle-btn">Show More</button></div>
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-3">
+        
+<div class="ayg-thumbnail ayg-has-caption" data-id="fn3KWM1kuAw" data-title="Do You Love Me?">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/fn3KWM1kuAw/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+            <div class="ayg-thumbnail-title">Do You Love Me?</div>
+         
+
+                    <div class="ayg-thumbnail-excerpt">Our whole crew got together to celebrate the start of what we hope [&#8230;]</div>
+        
+          
+            <div class="ayg-thumbnail-description" style="display: none;"><span class="ayg-player-description-less">Our whole crew got together to celebrate the start of what we hope will be a happier year:  Happy New Year from all of us at Boston Dynamics.  <span class="ayg-player-description-dots">&#8230;</span></span><span class="ayg-player-description-more"><a href="http://www.BostonDynamics.com/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">http://www.BostonDynamics.com/</a>.</span><button type="button" class="ayg-player-description-toggle-btn">Show More</button></div>
+            </div>           
+</div>
+    </div>
+    </div>
+
+    <!-- Pagination -->    
+    </div>
+</p>
+<h4><span style="font-weight: 400;">Machine learning (röviden ML), magyarul gépi tanulás</span></h4>
+<p><span style="font-weight: 400;">A machine learning, magyarul gépi tanulás az a folyamat melynek során a számítógép </span><b>algoritmusokat használ</b><span style="font-weight: 400;"> arra, </span><b>hogy adathalmazokat értsen meg</b><span style="font-weight: 400;">, mintázatokat ismerjen fel, előrejelzéseket alkosson belőle és döntéseket hozzon. A rendszer múltbeli példákon tanul, megfelelő mennyiségű bemeneti adat és tanulási idő után képes olyan bemenetekre is értelmes kimenetet adni, amiket még sosem látott.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Például ha van egy zseblámpánk, amit a hangunkkal szeretnénk vezérelni, egy gépi tanulási algoritmus segítségével megtaníthatjuk a zseblámpa vezérlését, hogy kapcsoljon fel, valahányszor azt mondjuk, hogy “fény”. Ahogy egyre több és több hangminta áll a vezérlés rendelkezésére, egyre ügyesebb lesz a vezérlés, egyre pontosabban fogja felismerni, hogy mikor mondjuk, hogy “fény”. Egy idő után más szavakban is meg tudja hallani, például ha azt mondjuk, hogy “lámpafényt ide!”.</span></p>
+<h4><span style="font-weight: 400;">Deep learning, rövidítve DL</span></h4>
+<p><span style="font-weight: 400;">A deep learning a gépi tanulás egyik típusa, a gépi tanuló algoritmusok közül a legkomplexebb, az emberi agy megfigyelésén alapuló modell. Deep learning esetén több adatra és időre van szükségünk a tanításhoz, és ezzel pontosabb eredményt kaphatunk, képes komplexebb összefüggések megtanulására is, mint a machine learning egyéb ágai.&nbsp;</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter  wp-image-12838" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Matematika-statisztika-Adatvizualizacio.png" alt="" width="794" height="484" srcset="/blog/wp-content/uploads/2021/04/Matematika-statisztika-Adatvizualizacio.png 923w, /blog/wp-content/uploads/2021/04/Matematika-statisztika-Adatvizualizacio-300x183.png 300w, /blog/wp-content/uploads/2021/04/Matematika-statisztika-Adatvizualizacio-768x468.png 768w" sizes="(max-width: 794px) 100vw, 794px" /></p>
+</p>
+<h2><span style="font-weight: 400;">A data science felhasználási területei&nbsp;</span></h2>
+<p><span style="font-weight: 400;">Az adattudomány sokszínű és egyre több felhasználási területen van jelen, az üzleti szférában és a kutatás-fejlesztés területén, de megjelenik a civil és szociális szférában is.&nbsp;</span></p>
+<h3><span style="font-weight: 400;"><img loading="lazy" class=" wp-image-12839 alignleft" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Data-Science-felhasznalasi-teruletek-410x1024.png" alt="" width="426" height="1064" srcset="/blog/wp-content/uploads/2021/04/Data-Science-felhasznalasi-teruletek-410x1024.png 410w, /blog/wp-content/uploads/2021/04/Data-Science-felhasznalasi-teruletek-120x300.png 120w, /blog/wp-content/uploads/2021/04/Data-Science-felhasznalasi-teruletek-768x1920.png 768w, /blog/wp-content/uploads/2021/04/Data-Science-felhasznalasi-teruletek.png 800w" sizes="(max-width: 426px) 100vw, 426px" />Data science és az orvostudomány</span></h3>
+<p><span style="font-weight: 400;">Big data-n alapuló kutatásokat használnak pl. gyógyszerfejlesztésben, genetikai, genomikai kutatásokban. Alkalmazzák a képfelismerés technológiáit a diagnosztikában, röntgen és MRI vagy CT felvételek elemzésekor. Kutatják a virtuális asszisztencia és beteggondozás lehetőségeit, valamint a betegség-előrejelzést. Léteznek személyre szabott egészségmegőrző programokat automatikusan generáló rendszerek is.</span></p>
+<h3><span style="font-weight: 400;">Data science és klímakutatás</span></h3>
+<p><span style="font-weight: 400;">Használnak data science-t időjárás-előrejelző modellek készítésére, a klímaváltozás megismerésére és modellezésére, a globális felmelegedés hatásainak elemzésére, természeti katasztrófák előrejelzésére, szennyezőanyag-kibocsátás monitorozása, nagyvárosok levegőminőségének ellenőrzésére, és így tovább.</span></p>
+<h3><span style="font-weight: 400;">Data science és keresőmotorok, ajánlórendszerek</span></h3>
+<p><span style="font-weight: 400;">Célzott hirdetések az online felületeken, érdeklődésnek megfelelő tartalomajánlás pl. a Youtube-on, a Netflixen vagy a Spotify-on: ezeket a data science technológiái teszik lehetővé.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A keresőmotorok működésének is a nagy mennyiségű adat feldolgozása képezi az alapját. A randiappok, mint amilyen a Tinder, szintén adat alapon ajánlják egymásnak az embereket.&nbsp;</span></p>
+<h3><span style="font-weight: 400;">Data science és útvonaltervezés</span></h3>
+<p><span style="font-weight: 400;">Optimális útvonalak keresése, útvonaltervező applikációk: data science eredményeket használ fel például az Uber a Google útvonaltervezője.&nbsp; Jelzőlámpák összehangolása, forgalommérés, közlekedési dugók monitorozása – ezekből sok értékes adat származik. Logisztikai optimalizáláshoz is segítségül hívják a data science-t, olyan óriásvállalatok, mint az Amazon vagy az Ebay.</span></p>
+<h3><span style="font-weight: 400;">Data science és nyelvtechnológia&nbsp;</span></h3>
+<p><span style="font-weight: 400;">A természetes, emberi nyelvek felismerése, értelmezése, feldolgozása és reprodukálása komoly kihívás elé állítja a fejlesztőket. Számos különböző aspektusa van annak, amikor az emberi nyelv és a gép találkozik, ezekben mind szerephez jut a data science. A beszédfelismerés és az automatikus feliratozás az egyik ilyen terület.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Villámtempóban fejlődik az automatikus gépi fordítás, elég, ha a néhány évvel ezelőtti Google fordításokra gondolunk, és megnézzük, mit tud a rendszer ma. Persze még messze van a tökéletestől, de sokkal természetesebb és nyelvtanilag pontosabb eredményt produkál, mint akár csak néhány éve.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Izgalmas téma a virtuális asszisztensek kérdése, mint amilyen az Apple Siri-je vagy az Amazon Alexája. Nekik is emberi beszédet kell értelmezni és megfelelő válaszokat adni, amihez gépi tanulásra és más data science-hez kötődő technikákra van szükség.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A látássérültek számára akadálymentesítő felolvasószoftverek, vagy a robotok minél természetesebb emberi hangja és intonációja szintén olyan cél, amit dinamikusan fejlődő data science technológiákkal érnek el.&nbsp;</span></p>
+<h3><span style="font-weight: 400;">Data science és az augmented reality</span></h3>
+<p><span style="font-weight: 400;">Az augmented reality, más néven kiterjesztett valóság olyan technológiák összessége, ahol digitális tartalmat illesztenek be a kameraképbe valós időben, például ruhákat próbálhatunk magunkra anélkül, hogy fölvennénk őket, IKEA bútorokat nézhetünk meg a saját lakásunkban vagy kutyafüleket ragaszthatunk a&nbsp; selfie-jeinkre. Az ezekhez szükséges képfelismerés és -értelmezés alapja a data science.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A gépi látás az a technológia, amelynek révén a rendszer értelmezni tudja a környezetét, az ott található tárgyakat, akadályokat, ehhez adatalapú tanulásra van szükség.</span></p>
+<p><span style="font-weight: 400;">VR szemüveges élmény létrehozásához szintén a data science-t kell segítségül hívni.&nbsp;</span></p>
+<h3><span style="font-weight: 400;">Data science és képfelismerés</span></h3>
+<p><span style="font-weight: 400;">Képek tartalmának azonosítása, kategorizálása, képalapú keresés, vizuális keresőmotorok: gépi tanulás és neurális hálók alkalmazása nélkül ez mind nem menne.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Gondolhatunk más hasznos és fontos technológiákra, mint az arc alapú azonosítás, arcfelismerés a kriminalisztikában vagy a biztonságtechnikában. Vagy az érzelemfelismerésre, például pszichiátriai gondozottak vagy űrhajósok érzelmi állapotának monitorozására – ezek létező kutatások, aktuálisan fejlesztés alatt álló technológiák.</span></p>
+</p>
+<p><div id="attachment_12891" style="width: 834px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-12891" loading="lazy" class="wp-image-12891 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/datasalary.png" alt="" width="824" height="355" srcset="/blog/wp-content/uploads/2021/04/datasalary.png 824w, /blog/wp-content/uploads/2021/04/datasalary-300x129.png 300w, /blog/wp-content/uploads/2021/04/datasalary-768x331.png 768w" sizes="(max-width: 824px) 100vw, 824px" /><p id="caption-attachment-12891" class="wp-caption-text">Forrás: <a href="https://www.c-sharpcorner.com/blogs/data-scientist-vs-machine-learning-engineer-career-option-to-choose" target="_blank" rel="noopener external" data-wpel-link="external">C# Corner</a></p></div></p>
+<h2><span style="font-weight: 400;">Mit csinál egy data scientist valójában?&nbsp;</span></h2>
+<h3><span style="font-weight: 400;">Igényfelmérés, tájékozódás, konzultáció a megrendelővel&nbsp;</span></h3>
+<p><span style="font-weight: 400;">A data scientistnek alaposan fel kell mérnie az igényeket, pontosan kell tudnia, milyen céllal fogják felhasználni a kutatómunkája eredményét, meg kell ismernie a projekt szakterületének sajátosságait.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Sok esetben az üzleti gondolkodás is elengedhetetlen – a megrendelőnek általában üzleti céljai vannak (pl. valamiből többet akar eladni, valahol kisebb veszteséget szeretne elszenvedni), a projekt céljainak a meghatározásakor érteni kell a megrendelő üzleti szempontjait.</span></p>
+<h3><span style="font-weight: 400;">Adatelőkészítés, tisztítás, transzformálás</span></h3>
+<p><span style="font-weight: 400;">Miután a data scientist megismerte az elvárásokat és az adatelemzés céljait, következhet az adatok összegyűjtése, “betakarítása” különböző forrásokból.</span></p>
+<p><span style="font-weight: 400;">A big data </span><b>kezeléséhez</b><span style="font-weight: 400;"> már nem elegendőek a hétköznapi adattároló szoftverek (pl. Excel, MySQL stb.), hanem kifejezetten big datára szabott szoftverek szükségesek (pl. </span><b>Cassandra</b><span style="font-weight: 400;">, </span><b>Hadoop</b><span style="font-weight: 400;"> vagy </span><b>Spark</b><span style="font-weight: 400;">).</span></p>
+<p><span style="font-weight: 400;">A nyers adat (raw data) hiányos, félregépelt elemeket, duplikátumokat tartalmaz, következetlen, nem egyforma típusú elemekből áll. Így tehát az első és legidőigényesebb lépés a </span><b>tisztítás</b><span style="font-weight: 400;"> komplex folyamata, majd pedig az </span><b>átalakítás</b><span style="font-weight: 400;">. Mindehhez programozási ismeretek szükségesek, gyakran használt eszközök pl. a </span><b>Talend</b><span style="font-weight: 400;"> és az </span><b>Informatica</b><span style="font-weight: 400;"> nevű szoftverek.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Az adatok begyűjtésében és előfeldolgozásában nagy segítséget nyújthat ennek a szakterületnek a specialistája, a data engineer.&nbsp;</span></p>
+<h3><span style="font-weight: 400;">Adatelemzés</span></h3>
+<p><span style="font-weight: 400;">Ezután következik az adatok elemzése, matematikai, statisztikai módszerekkel.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A modellezéshez leginkább </span><b>Python</b><span style="font-weight: 400;"> és</span><b> R</b><span style="font-weight: 400;"> programozási nyelvet, (esetleg egyéb nyelveket, mint a MatLab vagy a Scala) és statisztikai szoftvereket, pl. </span><b>SPSS-t</b><span style="font-weight: 400;">, </span><b>SAS-t</b><span style="font-weight: 400;"> használnak.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Ebben a fázisban összefüggéseket és tendenciákat keresnek, modelleket építenek, emellett számtalan egyéb technikát is használnak, pl. osztályozás, klaszterezés, regresszió, döntési fák, gépi tanulás, neurális hálók.</span></p>
+<h3><span style="font-weight: 400;">Adatvizualizáció és prezentálás</span></h3>
+<p><span style="font-weight: 400;">A munka utolsó fázisa az adatok vizualizálása és az eredmények prezentálása a megrendelők vagy a döntéshozók számára – le kell fordítani és el kell tudni magyarázni az eredményeket olyan szakemberek számára, akik nem a programozás és a matematika világából érkeznek. Ehhez a leggyakrabban használt eszközök például a </span><b>Tableau, Power BI</b><span style="font-weight: 400;">, </span><b>D3</b> <b>JavaScript könyvtár</b><span style="font-weight: 400;">,</span><b> Python vizualizációs package-ek (Matplotlib, Seaborn, Plotly), R ggplot.</b></p>
+<h3><span style="font-weight: 400;">A modellek beépítése a vállalati környezetbe</span></h3>
+<p><span style="font-weight: 400;">Az adatok bemutatása után lehet, hogy egy új folyamat keletkezik, vagy egy folyamat megváltozik a vállalat életében. Ha a data scientist munkájának eredményét be lehet építeni a vállalati működésbe, akkor gyakori, hogy a data scientist a része lesz annak a csoportnak, akiknek ez a feladata.</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-12013" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h2><span style="font-weight: 400;">Mit kell tudnia egy data scientistnek</span></h2>
+<p><span style="font-weight: 400;">A data science a </span><b>statisztika </b><span style="font-weight: 400;">és </span><b>programozás, </b><span style="font-weight: 400;">és a felhasználási terület szakmai ismereteinek</span> <span style="font-weight: 400;">metszéspontja. Ezen felül jó rálátás szükséges a folyamat egészére az </span><b>igényfelméréstől </b><span style="font-weight: 400;">az </span><b>eredmények prezentálás</b><span style="font-weight: 400;">áig, ehhez jó </span><b>kommunikációs készségek</b><span style="font-weight: 400;">, </span><b>csapatmunka </b><span style="font-weight: 400;">és </span><b>problémamegoldó gondolkodás </b><span style="font-weight: 400;">szükségesek. </span><b>Gyakorlatias szemléletmód, üzleti érzék, rálátás az adott felhasználási területre</b><span style="font-weight: 400;"> szintén fontosak ezen a területen.</span></p>
+<p><span style="font-weight: 400;">Az&nbsp; adattisztítás és feldolgozás, az elemzés és a vizualizáció különböző szoftvereinek alapos ismerete, </span><b>Python </b><span style="font-weight: 400;">vagy </span><b>R </b><span style="font-weight: 400;">programozás, az előző pontokban említett technológiák mind-mind alapvetőek a data science-ben.</span></p>
+<p><span style="font-weight: 400;">Bár nem minden pozíció esetében elvárás a felsőoktatási diploma, általában azért elmondhatjuk, hogy legalább BSc, de még inkább MSc fokozattal kell rendelkezni valamilyen kapcsolódó tudományban (matematika, informatika, mérnöki terület) ahhoz, hogy data scientist állást kaphassunk. Ez abból is adódik, hogy a kellő mélységű matematikai és statisztikai ismeretet többnyire egyetemen lehet megszerezni. A Data Science gyakran specializációként jelenik meg a fent említett szakterületek valamelyikén.</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter  wp-image-12843" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Data-Science.png" alt="" width="839" height="629" srcset="/blog/wp-content/uploads/2021/04/Data-Science.png 1024w, /blog/wp-content/uploads/2021/04/Data-Science-300x225.png 300w, /blog/wp-content/uploads/2021/04/Data-Science-768x576.png 768w" sizes="(max-width: 839px) 100vw, 839px" /></p>
+</p>
+<h2><span style="font-weight: 400;">Data scientist fizetések</span></h2>
+<p><span style="font-weight: 400;">Adatos berkekben az informatikai szektoron belül is kiemelkedő fizetésekre számíthatsz, ha ezt a pályát választod. A magas bérezés természetesen nem véletlen; adattudósként összetett feladatok várnak rád, ezáltal neked is sokoldalúnak kell lenned és szerteágazó tudással kell felvértezned magad akár egészen eltérő területekről.</span></p>
+<p><span style="font-weight: 400;">Alapvetően három fő területen helyezkedhetsz el Data Scientist-ként; fejlesztőként, infrastruktúra vagy manager-i teendőket ellátva.</span></p>
+<p><span style="font-weight: 400;">Természetesen a három terület bérezése között is vannak eltérések. Manageri pozícióban vihetsz haza a legtöbbet, míg az infrastruktúra területén a legszerényebbek a fizetések &#8211; itt “csupán” br. 1.000.000 Ft-os átlagbérekkel számolhat egy expert adattudós.</span></p>
+<p><span style="font-weight: 400;">Az alábbi diagramon megnézheted, hogy a különböző karrierszinteken milyen átlagfizetéssel számolhatsz 2021-ben: </span></p>
+<p><img loading="lazy" class="aligncenter wp-image-12833 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/data-science-salaries-1024x410.png" alt="Data science fizetések" width="1024" height="410" srcset="/blog/wp-content/uploads/2021/04/data-science-salaries-1024x410.png 1024w, /blog/wp-content/uploads/2021/04/data-science-salaries-300x120.png 300w, /blog/wp-content/uploads/2021/04/data-science-salaries-768x307.png 768w, /blog/wp-content/uploads/2021/04/data-science-salaries-1536x614.png 1536w, /blog/wp-content/uploads/2021/04/data-science-salaries-1080x432.png 1080w, /blog/wp-content/uploads/2021/04/data-science-salaries.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h2><span style="font-weight: 400;">Hol lehet ezt megtanulni? – Data Science képzések&nbsp;</span></h2>
+<h3><a href="https://dmlab.hu/blog/data-science-kepzesek-2020" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DMLab</span></a></h3>
+<p><span style="font-weight: 400;">A DMLab 15 éve foglalkozik data science oktatással egyetemi és üzleti környezetben egyaránt.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Ha érdeklődsz az adattudomány világa iránt, szakmai blogukon sok hasznos információt szerezhetsz, igényre szabott képzéseiken pedig gyakorlati feladatokon keresztül sajátíthatod el a data science alapjait.</span></p>
+<p><span style="font-weight: 400;">Ha pedig már rendelkezel mérnöki alapdiplomával, vagy üzleti diplomával szeretnél gyakorlati tudást szerezni, akkor a DMLab által oktatott alábbi kurzusok segítségével azt is megteheted:</span></p>
+<h4><span style="font-weight: 400;">BME – Informatikus MSc Adat- és Médiainformatika mellékspecializáció / Gazdaságinformatikus MSc Analytical Business Intelligence specialization</span></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://portal.vik.bme.hu/kepzes/targyak/VITMMA05/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Adatelemzési platformok</span></a><span style="font-weight: 400;"> (Data Analysis Platforms azaz DAP) és</span></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://portal.vik.bme.hu/kepzes/targyak/VITMAV14/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Alkalmazott adatelemzés</span></a><span style="font-weight: 400;">.</span></li>
+</ul>
+<p><span style="font-weight: 400;">A kurzusokra lehetőség van külsősként is jelentkezni, így akkor is részt vehetsz a képzéseken, ha nincs hallgatói státuszod.</span></p>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><a href="https://data36.com/junior-data-scientist-akademia/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Data36</span></a></h3>
+<p><span style="font-weight: 400;"><img loading="lazy" class="alignleft wp-image-12814" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Untitled-design-e1618069200881.png" alt="" width="355" height="175">A Data36 adattudománnyal és adatelemzéssel foglalkozó blog, ahol hasznos és érdekes tartalmak mellett többféle képzésből választhatsz, ha ezen a pályán képzeled el magad a jövőben.</span></p>
+<p><span style="font-weight: 400;">A teljesen kezdőket a Junior Data Scientist Akadémia programja várja, ahol átfogó, gyakorlati képzésben vehetsz részt, és junior szintig juthatsz vele.</span></p>
+<p><span style="font-weight: 400;">A kurzus során az alábbi készségekre teszel szert:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Megtanulsz SQL-ben és Pythonban kódolni</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Elsajátítod az adatelemzői üzleti gondolkodás és statisztika alapjait</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Részt veszel egy hónapos startup projekt-szimulációban</span></li>
+</ul>
+<p><span style="font-weight: 400;">A kurzus második fele végig a gyakorlati feladatokról fog szólni, így már junior szinten is találkozni fogsz a való életből vett problémákkal, több millió soros adathalmazokkal.</span></p>
+<p><span style="font-weight: 400;">A képzés során minden héten kérdés-válasz webináriumot tartanak a résztvevők számára, így minden felmerülő kérdésedre szakértői választ kaphatsz.</span></p>
+<p><span style="font-weight: 400;">Ha pedig még csak ismerkedsz az adattudomány területével, ebben a kifejezetten érdeklődők számára készített, </span><a href="https://data36.com/how-to-become-a-data-scientist/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">ingyenes videósorozatban</span></a><span style="font-weight: 400;"> megtalálod, hogy milyen lépések vezetnek az elhatározástól a karrierkezdésig.</span></p>
+</p>
+<h3><a href="https://braininghub.hu/technologiai-kepzesek/data-science/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">BrainingHub</span></a></h3>
+<h4><a href="https://braininghub.hu/technologiai-kepzesek/data-science/data-science-trening/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Online Data Science Tréning</span></a></h4>
+<p><span style="font-weight: 400;"><img loading="lazy" class="wp-image-12818 alignright" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/braininghub1.png" alt="" width="378" height="171" srcset="/blog/wp-content/uploads/2021/04/braininghub1.png 458w, /blog/wp-content/uploads/2021/04/braininghub1-300x136.png 300w" sizes="(max-width: 378px) 100vw, 378px" />Ha még nem döntöttél, vagy csak szeretnél többet megtudni a témáról, mielőtt belevágsz egy komolyabb kurzusba, ez az egynapos online képzés jó választás lehet a számodra.</span></p>
+<p><span style="font-weight: 400;">Miről lesz szó:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gépi tanulás alapjai</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Mesterséges intelligencia</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gyakorlati feladatok, melyek újfajta megközelítést visznek hétköznapi feladataidba is</span></li>
+</ul>
+<p><span style="font-weight: 400;">A részvétel ingyenes, de regisztrációhoz kötött.</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-12810" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/braininghub-1024x425.png" alt="" width="1024" height="425" srcset="/blog/wp-content/uploads/2021/04/braininghub-1024x425.png 1024w, /blog/wp-content/uploads/2021/04/braininghub-300x124.png 300w, /blog/wp-content/uploads/2021/04/braininghub-768x318.png 768w, /blog/wp-content/uploads/2021/04/braininghub.png 1078w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h4><a href="https://braininghub.hu/technologiai-kepzesek/data-science/data-science-tanfolyam/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Data Science Tanfolyam</span></a></h4>
+<p><span style="font-weight: 400;"><img loading="lazy" class=" wp-image-12817 alignleft" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/braininghub2.png" alt="" width="376" height="175" srcset="/blog/wp-content/uploads/2021/04/braininghub2.png 460w, /blog/wp-content/uploads/2021/04/braininghub2-300x140.png 300w" sizes="(max-width: 376px) 100vw, 376px" />Ha úgy döntöttél, belevágsz a tanulásba, a Data Science tanfolyamon átfogó képet kaphatsz a szakma rejtelmeiről.</span></p>
+<p><span style="font-weight: 400;">Ezekről fogsz tanulni:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A Python nyelv alap utasításai, az adatelemzésben használt legfontosabb programcsomagok (pandas, sklearn)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Felügyelt tanulási feladatok megoldása, előrejelzések készítése</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A gépi tanulási algoritmusok legfontosabb módszerei</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Algoritmusok teszteléséhez szükséges validációs technikák</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Képes leszel anomália detekciós módszerek építésére, ügyfelek szegmentációjára gépi tanulási algoritmusokkal</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Képben leszel a legfontosabb módszerekkel a data science modellek hatékony üzemeltetéshez</span></li>
+</ul>
+<p><span style="font-weight: 400;">A képzés 6 alkalmas, 8 órás ülésekben, a díja pedig 350.000 Ft + Áfa (444.500 Ft).</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">“Én az alapozó képzésen győztem meg magam arról, hogy itt a Braining Hubnál szeretnék tanfolyamra járni. Ebben nagy szerepe volt Daninak és Attilának, a tanárainknak. Jó hangulatúak voltak az órák, mindenre tudtak válaszolni, és ha jelezte valaki, hogy elakadt, akkor külön foglalkoztak vele. Így az alapozó tanfolyam végére mindenki eljutott arra a szintre, hogy saját konzolos memory és bomberman játékot írjon.” &#8211; Gergő, junior Java hallgató</span></p>
+</blockquote>
+<h3><a href="http://dataskool.hu/data-science-kepzes/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">DataSkool</span></a></h3>
+<p><img loading="lazy" class=" wp-image-12819 alignleft" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/dataskool2.png" alt="" width="394" height="175" srcset="/blog/wp-content/uploads/2021/04/dataskool2.png 457w, /blog/wp-content/uploads/2021/04/dataskool2-300x133.png 300w" sizes="(max-width: 394px) 100vw, 394px" /></p>
+<p><span style="font-weight: 400;">A DataSkool-nál két órás, élő videós előadások keretében tanulhatod meg a Data Science alapjait.</span></p>
+<p><span style="font-weight: 400;">Az elméleti tudás mellett gyakorlati problémákat is meg kell oldania a résztvevőknek, valós adathalmazokon, az üzleti életből vett feladatokon dolgozva.</span></p>
+<p><span style="font-weight: 400;">Az alkalmakon lehetőség van kérdezni az oktatótól, így azonnali segítséget kaphatsz, ha elakadsz, a képzés alkalmai pedig utólag bármikor újranézhetőek.</span></p>
+<p><span style="font-weight: 400;">A gyakorlatokat Python nyelven végezheted, és ha még nincs korábbi tapasztalatod vele, az sem gond, hisz a kurzus a Python alapjaira is kitér.</span></p>
+<p><span style="font-weight: 400;">A munka egy közös webes fejlesztési környezetben folyik, így az oktatóval egyidejűleg oldhatod meg a feladatokat.&nbsp;</span></p>
+<p><span style="font-weight: 400;">A kurzus végére önállóan képes leszel gépi tanulási algoritmusokat alkalmazni, felismerni a data science-szel megoldható problémákat, és megfelelő megoldást javasolni rájuk.</span></p>
+</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-12811" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/dataskool-1024x225.png" alt="" width="1024" height="225" srcset="/blog/wp-content/uploads/2021/04/dataskool-1024x225.png 1024w, /blog/wp-content/uploads/2021/04/dataskool-300x66.png 300w, /blog/wp-content/uploads/2021/04/dataskool-768x168.png 768w, /blog/wp-content/uploads/2021/04/dataskool-1080x237.png 1080w, /blog/wp-content/uploads/2021/04/dataskool.png 1195w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<h3><a href="https://codecool.com/hu/adatelemzo-data-analyst/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">CodeCool</span></a></h3>
+<p><img loading="lazy" class="wp-image-12820 alignright" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/codecool2.png" alt="" width="383" height="175" srcset="/blog/wp-content/uploads/2021/04/codecool2.png 459w, /blog/wp-content/uploads/2021/04/codecool2-300x137.png 300w" sizes="(max-width: 383px) 100vw, 383px" /></p>
+<p><span style="font-weight: 400;">A CodeCoolnál alapoktól induló Data Analyst képzésen vehetsz részt, ahol először az adatelemzésben használatos R- és Python programnyelvekkel ismerkedhetsz meg, majd az alapok elsajátítása után scriptek segítségével adattisztítási és elemzési feladatok várnak rád.</span></p>
+</p>
+<p><span style="font-weight: 400;">Amit a képzésen tanulni fogsz:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Programozás R és Python nyelven</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adattisztítás, adatfeltárás (data exploration)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adatvizualizáció</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Analitikus adatfeldolgozás (OLAP)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">SQL- és a relációs adatbázisok kezelése</span></li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-large wp-image-12813" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/codeberry1-1024x279.png" alt="" width="1024" height="279" srcset="/blog/wp-content/uploads/2021/04/codeberry1-1024x279.png 1024w, /blog/wp-content/uploads/2021/04/codeberry1-300x82.png 300w, /blog/wp-content/uploads/2021/04/codeberry1-768x209.png 768w, /blog/wp-content/uploads/2021/04/codeberry1-1080x294.png 1080w, /blog/wp-content/uploads/2021/04/codeberry1.png 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+</p>
+<p><span style="font-weight: 400;">A képzés elvégzését követően már meg is kezdheted a munkát junior adatelemzőként, de ha úgy döntenél, hogy mélyebben is megismerkednél a programozással, akár a</span><a href="https://codecool.com/hu/course/full-stack-developer/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;"> full-stack szoftverfejlesztői képzésbe</span></a><span style="font-weight: 400;"> is becsatlakozhatsz.</span></p>
+<p><span style="font-weight: 400;">A képzés hat hónapos, összesen 720 órányi anyagot foglal magába. A képzés intenzív (heti 20 + 10&nbsp; óra ráfordítást igényel), így ha nagyobb volumenű szakmai képzésre vágysz viszonylag rövid idő alatt, akkor ez jó lehetőség a számodra.</span></p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-12812" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/codecool-1024x207.png" alt="" width="1024" height="207" srcset="/blog/wp-content/uploads/2021/04/codecool-1024x207.png 1024w, /blog/wp-content/uploads/2021/04/codecool-300x61.png 300w, /blog/wp-content/uploads/2021/04/codecool-768x156.png 768w, /blog/wp-content/uploads/2021/04/codecool-1080x219.png 1080w, /blog/wp-content/uploads/2021/04/codecool.png 1165w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p><span style="font-weight: 400;">A Data Analyst képzés díja 749.000 Ft + áfa.</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">“Támogató és motiváló közeg, jó társaság, illetve magas fokú hatékonyság jellemezte az itt eltöltött egy évemet. A megszerzett tudással sikerült azonnal elhelyezkednem és várom a következő kihívást!” &#8211; Márk, ex-CodeCool hallgató</span></p>
+</blockquote>
+<h3><a href="https://www.pwc.com/hu/hu/academy/digital_academy/data_science_bevezetes.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">PwC</span></a></h3>
+<p><img loading="lazy" class=" wp-image-12821 alignright" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/pwc2.png" alt="" width="390" height="175" srcset="/blog/wp-content/uploads/2021/04/pwc2.png 457w, /blog/wp-content/uploads/2021/04/pwc2-300x135.png 300w" sizes="(max-width: 390px) 100vw, 390px" /></p>
+<p><span style="font-weight: 400;">A PwC Digitális Akadémiáján az alapoktól egészen a haladó szintig kínálnak data analytics és data science kurzusokat.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Az alábbi képzésekből választhatsz, tudásszintednek megfelelően:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Digital solutions in finance</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Data analytics</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Bevezetés a Data Science-be Python nyelv segítségével</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Data Science projektek sikeres végrehajtása &#8211; Középhaladó Data Science képzés Python használatával</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Deep Learning-től a Big Data elemzésekig &#8211; Haladó Data Science képzés Python használatával</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Big Data Webinar</span></li>
+</ul>
+<p><span style="font-weight: 400;">Ha csak most ismerkedsz az adattudomány rejtelmeivel, a </span><a href="https://www.pwc.com/hu/hu/academy/digital_academy/data_science_bevezetes.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Bevezetés a Data Science-be Python nyelv segítségével</span></a><span style="font-weight: 400;"> lehet a legideálisabb választás a számodra. Itt egyszerre sajátíthatod el az adatelemzés és a Python programozás alapjait, melyekkel a kurzus végére már képes leszel általános üzleti problémák megoldására.</span></p>
+</p>
+<p><img loading="lazy" class="alignnone size-large" src="https://www.pwc.com/hu/hu/academy/assets/Bevezetes_a_data_sciencebe.PNG" width="901" height="706"></p>
+</p>
+<p><span style="font-weight: 400;">A “Bevezetés a Data Science-be” képzés időtartama 4-szer 4 óra, délelőtti időpontokra ütemezve. A kurzus díja 180.000 Ft + áfa.</span></p>
+</p>
+<h3><a href="https://www.bib-edu.hu/big_data" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Budapest Institute of Banking</span></a></h3>
+<p><span style="font-weight: 400;">A Budapest Institute of Banking Data Science kurzusát kezdő és haladó szakemberek számára egyaránt ajánlják, de akkor is érdemes belevágnod, ha még csak most kezdtél érdeklődni az adattudomány világa iránt.</span></p>
+<p><span style="font-weight: 400;">Ezekről fogsz tanulni:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">az adatelemzés és modellezés alapvető statisztikai koncepciói,</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">relációs adatbázisok felépítése és alkalmazásaik,</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">fejlett statisztikai módszertanok, Machine Learning eszközök,</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Microsoft Excel és Power BI haladó eszközök az adatelemzéshez és vizualizációhoz,</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">nagyméretű adathalmazok hálózati elemzése.</span></li>
+</ul>
+<p><span style="font-weight: 400;">A kurzus során a tudományos alapozás mellett erős programozási alapokra is szert tehetsz R, SQL és Python nyelven, melyek a Data Science elengedhetetlen kellékei.</span></p>
+<p><span style="font-weight: 400;">A képzés esettanulmányokon és programozási feladatokon keresztül segít a gyakorlati alapok elsajátításában.</span></p>
+<p><span style="font-weight: 400;">A kurzus időtartamáról és díjáról a weboldalon megadott elérhetőségeken tudsz érdeklődni.</span></p>
+</p>
+<h3><a href="https://kurtakademia.hu/kepzeseink/data-science/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Kürt Akadémia</span></a></h3>
+<p><img loading="lazy" class="wp-image-12822 alignleft" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/kurtkft.png" alt="" width="395" height="175" srcset="/blog/wp-content/uploads/2021/04/kurtkft.png 456w, /blog/wp-content/uploads/2021/04/kurtkft-300x133.png 300w" sizes="(max-width: 395px) 100vw, 395px" /></p>
+<p><span style="font-weight: 400;">A Kürt Akadémiánál egy nagyobb lélegzetvételű Data Science kurzusba csatlakozhatsz be. A kurzus alapvetően az adatokkal foglalkozó szakemberek továbbképzésére készült, azonban más területről érkezőket is várnak a képzésre.</span></p>
+<p><span style="font-weight: 400;">A képzés gyakorlati példákon, esettanulmányokon és programozási feladatokon keresztül ismertet meg a Data Science világával. A fő témakörök a Business Intelligence és az adatalapú döntéshozás technológiái.</span></p>
+<p><span style="font-weight: 400;">Ezekről fogsz tanulni:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Python alapok, gépi tanulási alapok, adatminőség és adattisztítás Pythonban</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Regresszió, adatminőség és adattisztítás RapidMinerben</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Big Data techonlógiák és Spark</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Jogi szemlélet az adatfeldolgozásban</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adatvizualizáció és dashboardépítés</span></li>
+</ul>
+<p><span style="font-weight: 400;">A képzés öt modulból tevődik össze, és összesen 90 órányi tananyagot foglal magába.</span></p>
+<p><span style="font-weight: 400;">A tanfolyam díja 1.280.000 Ft + Áfa, a csatlakozás feltétele érettségi bizonyítvány megléte.</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">“Sokfelé jártam, de a KÜRT Akadémia Data Science képzését mindenhol ismerték. Nekem önbizalmat és megerősítést adott, jóval többet, mint egy egyetemi diploma.” &#8211; Dr. Szabó Tünde, Geo Insight Kft</span></p>
+<p><span style="font-weight: 400;">“Köszönet a színvonalas oktatásért! Sok kocka megvolt már, de most összeraktátok nekem a képet. Persze volt új dolog bőven. Mindezt érdekes és minőségi formában.” &#8211; Tornyai Péter, Head of risk policy, Magyar Cetelem Bank</span></p>
+</blockquote>
+<p><strong>Ha belekóstolnál a programozás világába és elsajátítanád az alapokat, mielőtt egy hosszú és intenzív kurzusba kezdesz, próbáld ki a&nbsp;<a href="https://codeberryschool.com/hu" data-wpel-link="external" target="_blank" rel="external">CodeBerry programozóiskola online tanfolyamait</a>&nbsp;napi egy kávé áráért!&nbsp;</strong></p>
+<p>Ha még nem vagy biztos benne, mit szeretnél tanulni, itt egy kis segítség, hogy&nbsp;<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" data-wpel-link="external" target="_blank" rel="external">melyik programozási nyelvet válaszd</a>.</p>
+<p>A&nbsp;<a href="https://codeberryschool.com/blog/hu/category/programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">“Programozás tanfolyamok”</a>&nbsp;című cikksorozatunkban részletesen összegyűjtöttük, hogy Magyarország nagyobb városaiban milyen tanulási lehetőségek várják a kódolni vágyókat, illetve egyéb hasznos érdekességeket is, amelyek segíthetnek kiválasztani a megfelelő képzést.</p>
+<h3>Programozás tanfolyamok</h3>
+<ul>
+<li><strong>Data Science képzések, data scientist fizetések, minden a DS-ről</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/seo-tanfolyam/" data-wpel-link="external" target="_blank" rel="external">A 9 leghasznosabb SEO tanfolyam, ha növelni akarod a forgalmad</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/top-8-android-programozas-tanfolyam/" data-wpel-link="external" target="_blank" rel="external">Top 8 Android programozás tanfolyam</a></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/hu/programozo-tanfolyam-allasgaranciaval/" data-wpel-link="external" target="_blank" rel="external">Kurzusok, ahol biztosra mehetsz – a top 6 programozó tanfolyam állásgaranciával</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/okj-programozo-kepzes/" data-wpel-link="external" target="_blank" rel="external">Top 11 OKJ programozó képzés, amiből válogathatsz</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/webfejlesztes-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 10 webfejlesztés tanfolyam kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-gyerekeknek/" data-wpel-link="external" target="_blank" rel="external">Programozás gyerekeknek – mire figyeljünk, ha gyermekünk programozni tanulna?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 12 Python programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 20 Java programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/javascript-programozo-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 10 JavaScript programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-budapesten/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Budapesten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szegeden/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Szegeden</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzesek-debrecenben/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Debrecenben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-gyorben/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Győrben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-pecsen/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Pécsen</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-miskolcon/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Miskolcon</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-kecskemeten/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Kecskeméten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-nyiregyhazan/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Nyíregyházán</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szekesfehervaron/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Székesfehérváron</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mit-kell-tudnod-reactot-tanulni/" data-wpel-link="external" target="_blank" rel="external">Mit kell tudnod, hogy elkezdhess Reactot tanulni?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és&nbsp;<a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a>&nbsp;a CodeBerry Programozóiskolában!</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>css position | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/css-position/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 01 May 2021 10:47:23 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Programozási nyelv-e a CSS?</title>
+		<link>/blog/hu/programozasi-nyelv-e-a-css/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sat, 01 May 2021 10:41:12 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[css flex]]></category>
+		<category><![CDATA[css grid]]></category>
+		<category><![CDATA[css margin]]></category>
+		<category><![CDATA[css position]]></category>
+		<category><![CDATA[css preprocesszor]]></category>
+		<category><![CDATA[css selector]]></category>
+		<category><![CDATA[css szintaxis]]></category>
+		<category><![CDATA[flexbox]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[html css]]></category>
+		<category><![CDATA[jquery css]]></category>
+		<category><![CDATA[leíró nyelv]]></category>
+		<category><![CDATA[programozási nyelv]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13050</guid>
+
+					<description><![CDATA[Programozásnak számít-e, amikor CSS kódot írunk? A programozási nyelvek utasítások sorozatát fogalmazzák meg, amiken keresztül a számítógép műveleteket hajt végre. Ezzel szemben a stíluslapok (style sheets) – amilyen pl. a CSS is – strukturált dokumentumok (pl. egy HTML vagy XML fájl) megjelenéséről hordoznak információt, meghatározzák az elrendezést, betűtípusokat, színeket stb-t. &#160; Na de akkor programozási [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Programozásnak számít-e, amikor CSS kódot írunk?</span></h2>
+<p><span style="font-weight: 400;">A programozási nyelvek utasítások sorozatát fogalmazzák meg, amiken keresztül a számítógép műveleteket hajt végre. Ezzel szemben a stíluslapok (style sheets) – amilyen pl. a CSS is – strukturált dokumentumok (pl. egy HTML vagy XML fájl) megjelenéséről hordoznak információt, meghatározzák az elrendezést, betűtípusokat, színeket stb-t.</span></p>
+<p>&nbsp;</p>
+<h4>Na de akkor programozási nyelv-e a CSS?</h4>
+<p><b>Ha tömören válaszolunk a fenti kérdésre: “Programozási nyelv-e a CSS?”, azt mondhatjuk: nem, a CSS nem programozási nyelv, hanem stíluslap (CSS = Cascading Style Sheet). </b><span style="font-weight: 400;">Haladó szinten viszont megjelennek olyan komplex lehetőségek a CSS-ben és ahhoz kapcsolódva, amik már inkább a programozáshoz állnak közel. </span></p>
+<p><span style="font-weight: 400;">Ebben a cikkben részletesen körüljárjuk, mik azok a stíluslapok, hogyan épül fel a CSS szintaxisa, mi mindent lehet kihozni ugyanabból a HTML dokumentumból különböző stílusok segítségével és milyen extra lehetőségek rejlenek a CSS-ben, ha már mesteri szinten ismerjük ezt a nyelvet. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12191 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/2-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/2-1.png 1024w, /blog/wp-content/uploads/2020/06/2-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/2-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Mi a különbség a programozási nyelvek és a stíluslapok között? </span></h2>
+<h3><span style="font-weight: 400;">Programozási nyelvek</span></h3>
+<p><span style="font-weight: 400;">A programozási nyelveken utasítások sorozatát fogalmazhatjuk meg, tehát azokat a lépéseket, amiket el kell végeznie a számítógépnek valamilyen feladat végrehajtásához. </span></p>
+<p><span style="font-weight: 400;">Vannak az emberi nyelvektől távolabb álló, a gépi kódhoz közelebbi nyelvek (mint pl. az Assembly), és magas szintű programozási nyelvek, amelyeket könnyű olvasni, közel állnak az emberi nyelvekhez, de távol a gépi kódtól (mint a C# vagy a Java). </span></p>
+<p><span style="font-weight: 400;">Számtalan programozási nyelvet hoztak létre, ma is folyamatosan bővül a tárházuk, újak kerülnek a piacra és könyvtárakkal bővülnek a lehetőségek. Sokféle szempont szerint csoportosítani őket: pl. objektumorientált programozási nyelvek, funkcionális nyelvek, vagy felhasználási terület szerinti kategorizálás. Ha továbbolvasnál a programozási nyelvek témájában, sok érdekes cikket találsz a </span><a href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">CodeBerry blog “Programozási nyelvek”</span></a><span style="font-weight: 400;"> fejezetében. </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Stíluslapok </span></h3>
+<p><span style="font-weight: 400;">A stíluslapok olyan, informatikában használatos nyelvek, amelyek strukturált dokumentumok (például a HTML vagy XML fájlok) formázásra, megjelenítésére vonatkozó leírást adnak. Egy stíluslap meghatározza, milyen stílusszabályok érvényesüljenek a dokumentum egyes elemeinél, milyen színeket, hátteret, elrendezést, betűtípusokat, stb. jelenítsen meg a böngésző. </span></p>
+<p><span style="font-weight: 400;">Stíluslap-nyelvek például:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CSS (Cascading Style Sheets)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">XSL (Extensible Stylesheet Language) </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">JSSS (JavaScript Style Sheets) </span></li>
+</ul>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter wp-image-13052 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/computer-languages.png" alt="Programozási nyelv-e a CSS" width="1920" height="1080" srcset="/blog/wp-content/uploads/2021/05/computer-languages.png 1920w, /blog/wp-content/uploads/2021/05/computer-languages-300x169.png 300w, /blog/wp-content/uploads/2021/05/computer-languages-1024x576.png 1024w, /blog/wp-content/uploads/2021/05/computer-languages-768x432.png 768w, /blog/wp-content/uploads/2021/05/computer-languages-1536x864.png 1536w, /blog/wp-content/uploads/2021/05/computer-languages-1080x608.png 1080w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Mi az a CSS? </span></h2>
+<p><span style="font-weight: 400;">Már tudjuk, hogy a CSS a Cascading Style Sheet rövidítése, a leggyakrabban használt stíluslap-nyelv. Segítségével megadhatjuk, hogyan jelenítse meg a böngésző a HTML dokumentum elemeit. </span></p>
+<p><span style="font-weight: 400;">Bár a HTML-ben is van lehetőség formázásra (lehet például színt, betűvastagságot, elrendezést megadni), mégsem a HTML dokumentumba szokás írni a stílusra vonatkozó információkat, mert nagyon hosszadalmas és nehezen karbantartható lenne minden elem formázását külön bevinni, és a lehetőségek is jóval korlátozottabbak. A HTML dokumentumhoz ezért általában külső CSS fájlt szokás csatolni, ami egyszerre tudja kezelni sok-sok elem stílusra vonatkozó utasításait, és szükség esetén automatikusan felülírni azokat. </span></p>
+<p><span style="font-weight: 400;">Ezen kívül szuper lehetőségek vannak bármilyen bonyolult, trükkös elrendezés vagy kifinomult dizájn megvalósítására (mostanában például a </span><a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Flexbox</span></a><span style="font-weight: 400;"> vagy a </span><a href="https://www.w3schools.com/css/css_grid.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Grid</span></a><span style="font-weight: 400;"> technológiák segítségével). </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">A CSS szintaxisa </span></h3>
+<p><span style="font-weight: 400;">A CSS utasítások szelektorokból, (angolul selector) és tulajdonságokból (properties), valamint az általuk felvett értékekből (values) állnak. </span></p>
+<p><span style="font-weight: 400;">A szelektor jelöli ki, melyik HTML elemre vonatkozik az utasítás. Ezután kapcsos zárójelben következnek a tulajdonságok, pl. szín, betűtípus, méret, elrendezés stb. és a hozzájuk tartozó értékek. Ha több formázás tartozik egy HTML elemhez, akkor pontosvessző választja el őket.</span></p>
+<p><span style="font-weight: 400;">Általános formában:</span></p>
+<p><span style="font-weight: 400;">selector</span><span style="font-weight: 400;"> {</span></p>
+<p><span style="font-weight: 400;">property</span><span style="font-weight: 400;">: </span><span style="font-weight: 400;">value</span><span style="font-weight: 400;">;</span></p>
+<p><span style="font-weight: 400;">property</span><span style="font-weight: 400;">: </span><span style="font-weight: 400;">value</span><span style="font-weight: 400;">;</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Egy bekezdés színének és középre igazításának beállítása például így néz ki:</span></p>
+<p><span style="font-weight: 400;">p {</span></p>
+<p><span style="font-weight: 400;">  </span><span style="font-weight: 400;">color</span><span style="font-weight: 400;">:</span> <span style="font-weight: 400;">green</span><span style="font-weight: 400;">;</span></p>
+<p><span style="font-weight: 400;">  </span><span style="font-weight: 400;">text-align</span><span style="font-weight: 400;">:</span> <span style="font-weight: 400;">center</span><span style="font-weight: 400;">;</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Haladó szinten sok lehetőségünk van: készíthetünk különböző képernyőméreteken is egyaránt jól működő weboldalakat, készíthetünk animációkat, akár reagálhat is a design a felhasználó tevékenységére.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Ugyanaz a HTML-váz, más-más stílus</span></h3>
+<p><span style="font-weight: 400;">Ha megfigyeled az alábbi példákat, láthatod, hogy az oldal szövege ugyanaz, sőt a mögöttük megbújó HTML kód is egyezik. Mégis gyökeresen különböző hatást lehet elérni, ha más stílust adunk az oldalnak CSS segítségével. </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Ezen az oldalon a webdizájn fejlődését követheted végig a kezdetektől 2020-ig. Ugyanazt a HTML dokumentumot egyre modernebb CSS stílusokkal felruházva láthatod, ahogy mozgatod a csúszkát a lap alján. – </span><a href="https://fabianburghardt.de/webolution/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Evolution of Webdesign</span></a></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A CSS Zen Garden oldal egy ismert példája annak, hogy hogyan lehet ugyanazt a HTML fájlt gyökeresen másképp megjeleníteni, ha más stíluslapot adunk hozzá. Érdemes néhány designt végigkattintani, és megfigyelni, milyen elemekhez nyúltak hozzá és hogyan változtatták meg a készítők. – </span><a href="http://www.csszengarden.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">CSS Zen Garden </span></a></li>
+</ul>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13054" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/zen-garden-1.png" alt="" width="1900" height="938" srcset="/blog/wp-content/uploads/2021/05/zen-garden-1.png 1900w, /blog/wp-content/uploads/2021/05/zen-garden-1-300x148.png 300w, /blog/wp-content/uploads/2021/05/zen-garden-1-1024x506.png 1024w, /blog/wp-content/uploads/2021/05/zen-garden-1-768x379.png 768w, /blog/wp-content/uploads/2021/05/zen-garden-1-1536x758.png 1536w, /blog/wp-content/uploads/2021/05/zen-garden-1-1080x533.png 1080w" sizes="(max-width: 1900px) 100vw, 1900px" /></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13055" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/zen-garden-3.png" alt="" width="1903" height="941" srcset="/blog/wp-content/uploads/2021/05/zen-garden-3.png 1903w, /blog/wp-content/uploads/2021/05/zen-garden-3-300x148.png 300w, /blog/wp-content/uploads/2021/05/zen-garden-3-1024x506.png 1024w, /blog/wp-content/uploads/2021/05/zen-garden-3-768x380.png 768w, /blog/wp-content/uploads/2021/05/zen-garden-3-1536x760.png 1536w, /blog/wp-content/uploads/2021/05/zen-garden-3-1080x534.png 1080w" sizes="(max-width: 1903px) 100vw, 1903px" /></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Néhány érdekesség, ha kíváncsi vagy, mi mindent tud a CSS</span></h3>
+<p><span style="font-weight: 400;">Azon kívül, hogy egy weboldal tartalmát tudjuk vele formázni és színeket, betűtípusokat, elrendezést tudunk módosítani a CSS segítségével, egyéb látványos megoldásokat is létrehozhatunk vele. Az alábbiakban néhány példát találsz izgalmas, CSS-sel megvalósítható lehetőségekre. </span></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Fotóalbum</span></h4>
+<p><div id="attachment_13056" style="width: 987px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13056" loading="lazy" class="wp-image-13056 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/css-gallery.png" alt="" width="977" height="640" srcset="/blog/wp-content/uploads/2021/05/css-gallery.png 977w, /blog/wp-content/uploads/2021/05/css-gallery-300x197.png 300w, /blog/wp-content/uploads/2021/05/css-gallery-768x503.png 768w" sizes="(max-width: 977px) 100vw, 977px" /><p id="caption-attachment-13056" class="wp-caption-text">Áttekinthető, szép fotómegjelenítés: a kurzort mozgatva automatikusan kinagyítja azt a képet, ami fölé visszük.  Forrás: <a href="https://host.sonspring.com/hoverbox/" target="_blank" rel="noopener external" data-wpel-link="external">Sonspring</a></p></div></p>
+<p><span style="font-weight: 400;"><a href="https://sonspring.com/journal/hoverbox-image-gallery/" target="_blank" rel="noopener external" data-wpel-link="external">Itt megtalálod,</a> hogy hogyan készült.</span></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Látványos képelrendezések</span></h4>
+<p><span style="font-weight: 400;">Ezt a galériát öröm görgetni, annyira látványos. A nyilak segítségével tudjuk lapozni a képeket, a készítő 3D transzformációkat használt az elkészítéséhez.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_13057" style="width: 1925px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13057" loading="lazy" class="wp-image-13057 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/snowstack.png" alt="" width="1915" height="935" srcset="/blog/wp-content/uploads/2021/05/snowstack.png 1915w, /blog/wp-content/uploads/2021/05/snowstack-300x146.png 300w, /blog/wp-content/uploads/2021/05/snowstack-1024x500.png 1024w, /blog/wp-content/uploads/2021/05/snowstack-768x375.png 768w, /blog/wp-content/uploads/2021/05/snowstack-1536x750.png 1536w, /blog/wp-content/uploads/2021/05/snowstack-1080x527.png 1080w" sizes="(max-width: 1915px) 100vw, 1915px" /><p id="caption-attachment-13057" class="wp-caption-text">Forrás: <a href="http://www.satine.org/research/webkit/snowleopard/snowstack.html" target="_blank" rel="noopener external" data-wpel-link="external">Snow Stack</a></p></div></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">3D hatású grafikák </span></h4>
+<p><span style="font-weight: 400;">Ez a progress bar, vagy akár diagramként is funkcionáló 3D-s hatású elemek néhány CSS trükkel jönnek létre. </span></p>
+<p>&nbsp;</p>
+<table style="width: 813px; height: 48px;" align="center">
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 803px; height: 24px;" colspan="2"><img loading="lazy" class="aligncenter wp-image-13058" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/liquid.png" alt="" width="760" height="322" srcset="/blog/wp-content/uploads/2021/05/liquid.png 1904w, /blog/wp-content/uploads/2021/05/liquid-300x127.png 300w, /blog/wp-content/uploads/2021/05/liquid-1024x433.png 1024w, /blog/wp-content/uploads/2021/05/liquid-768x325.png 768w, /blog/wp-content/uploads/2021/05/liquid-1536x650.png 1536w, /blog/wp-content/uploads/2021/05/liquid-1080x457.png 1080w" sizes="(max-width: 760px) 100vw, 760px" /></td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 385px; height: 24px;"><img loading="lazy" class="aligncenter wp-image-13059" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/chart-2.png" alt="" width="328" height="232" srcset="/blog/wp-content/uploads/2021/05/chart-2.png 602w, /blog/wp-content/uploads/2021/05/chart-2-300x212.png 300w, /blog/wp-content/uploads/2021/05/chart-2-400x284.png 400w" sizes="(max-width: 328px) 100vw, 328px" /></td>
+<td style="width: 412px; height: 24px;"><img loading="lazy" class="aligncenter wp-image-13060" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/chart.png" alt="" width="355" height="232" srcset="/blog/wp-content/uploads/2021/05/chart.png 659w, /blog/wp-content/uploads/2021/05/chart-300x196.png 300w" sizes="(max-width: 355px) 100vw, 355px" /></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Forrás: <a href="https://codepen.io/rgg/pen/QbRyOq" target="_blank" rel="noopener external" data-wpel-link="external">Pure CSS Progress Bar</a></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Egyszerű játékok</span></h4>
+<p><span style="font-weight: 400;">Bár a CSS nem arra való, hogy játékokat készítsenek vele, kihívásképp sokan megpróbálnak játékokat készíteni, pusztán HTML és CSS segítségével. </span></p>
+<p><span style="font-weight: 400;">Ezeken az oldalakon különböző játékokat találsz összegyűjtve, amik csupán CSS trükkökön alapulnak: </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13063" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/csss-only-game.png" alt="" width="1895" height="757" srcset="/blog/wp-content/uploads/2021/05/csss-only-game.png 1895w, /blog/wp-content/uploads/2021/05/csss-only-game-300x120.png 300w, /blog/wp-content/uploads/2021/05/csss-only-game-1024x409.png 1024w, /blog/wp-content/uploads/2021/05/csss-only-game-768x307.png 768w, /blog/wp-content/uploads/2021/05/csss-only-game-1536x614.png 1536w, /blog/wp-content/uploads/2021/05/csss-only-game-1080x431.png 1080w" sizes="(max-width: 1895px) 100vw, 1895px" /></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codepen.io/collection/AKkZro?cursor=ZD0xJm89MSZwPTEmdj03" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pure CSS games</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://speckyboy.com/pure-css-games/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">8 Pure CSS Games You Can Play in your Browser</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Haladó CSS technológiák és a programozás</span></h2>
+<p><span style="font-weight: 400;">Ha továbblépük attól a szinttől, hogy egyszerű formázásokat adunk a HTML dokumentumunk eleminek, mint pl. a színek, betűméret, betűtípus stb. beállítása és elkanyarodunk a haladó technológiák felé, egyre inkább olyan megoldásokat fogunk használni, amik a hagyományos értelemben vett programozásból ismerősek. </span></p>
+<p><span style="font-weight: 400;">CSS-ben is adhatunk meg függvényeket, érvényesíthetjük az objektumorientált szemléletet, felépíthetünk egy áttekinthető, könnyen fenntartható moduláris rendszert. </span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">CSS preprocesszorok</span></h3>
+<p><span style="font-weight: 400;">A CSS preprocesszorok olyan CSS kiterjesztések, amik segítségével CSS kódot generálhatunk, vagyis programozási módszereket használva automatizálhatunk lépéseket. Többféle preprocesszor is létezik, a legismertebbek a Sass és a Less. </span></p>
+<p><span style="font-weight: 400;">Segítenek létrehozni és karbantartani komplex appok vagy weboldalak CSS szerkezetét, újrafelhasználható, több ember által átlátható és szerkeszthető kódot létrehozni. Lehetőséget adnak, hogy CSS-ben is használhassunk például beágyazást, loopokat, megjelenjen az öröklődés.</span></p>
+<p><span style="font-weight: 400;">A preprocesszorok területén már összeér a CSS és a programozás, bár a cikk elején azt mondtuk, hogy a CSS nem programozási nyelv, hanem stíluslap, valójában haladó technológiákkal kiegészítve megjelennek a programozási koncepciók és műveletek a CSS-ben is. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12300 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/Website-Creator-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/10/Website-Creator-2.png 1024w, /blog/wp-content/uploads/2020/10/Website-Creator-2-300x100.png 300w, /blog/wp-content/uploads/2020/10/Website-Creator-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Megéri-e megtanulni a CSS-t? </span></h2>
+<p><span style="font-weight: 400;">Rövid válaszunk: igen, mindenképp. A CSS-ben számtalan lehetőség rejlik, kiélheted a kreativitásod, haladó szintre fejlesztve az ismereteidet gyönyörű, izgalmas dizájnokat tudsz megvalósítani vele. JavaScript tudással kiegészítve hamar frontend fejlesztő válhat belőled, így jól fizető állások megszerzésére lesz esélyed. </span></p>
+<p><span style="font-weight: 400;">A magas szintű, korszerű CSS tudás értékes a munkaerőpiacon, bár az alapokat rövid idő alatt el lehet sajátítani, a CSS-ben igazán profi webfejlesztők nincsenek túl sokan. A dizájn és annak megvalósítása pedig olyan terület, ahol mindig lehetőség van fejlődni.  </span></p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" data-wpel-link="external" target="_blank" rel="external">Android programozás</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PLC programozás alapjai</a></li>
+<li><strong>Programozási nyelv-e a CSS?</strong></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

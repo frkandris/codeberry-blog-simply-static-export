@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>data science | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/data-science/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 25 Jun 2021 20:00:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>+10 Best Data Science Courses, Data Scientist Salaries, and Everything About DS</title>
+		<link>/blog/en/data-science-courses/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 20:00:41 +0000</pubDate>
+				<category><![CDATA[Programming courses]]></category>
+		<category><![CDATA[apache]]></category>
+		<category><![CDATA[augmented reality]]></category>
+		<category><![CDATA[big data]]></category>
+		<category><![CDATA[cassandra]]></category>
+		<category><![CDATA[data analyst]]></category>
+		<category><![CDATA[data cleaning]]></category>
+		<category><![CDATA[data mining]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[data scientist]]></category>
+		<category><![CDATA[deep learning]]></category>
+		<category><![CDATA[internet of things]]></category>
+		<category><![CDATA[iot]]></category>
+		<category><![CDATA[machine learning]]></category>
+		<category><![CDATA[MatLab]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[r programming language]]></category>
+		<category><![CDATA[sas]]></category>
+		<category><![CDATA[spaark]]></category>
+		<category><![CDATA[spss]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13495</guid>
+
+					<description><![CDATA[In this article, we’re going to examine the world of data science. We’ll untangle the often used (and misused) terms and expressions, and look at data science courses and data scientist salaries. What Even is Data Science, Business Intelligence and all the Other Expressions? You might find all these expressions a bit too much to [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">In this article, we’re going to examine the world of data science. We’ll untangle the often used (and misused) terms and expressions, and look at data science courses and data scientist salaries.</span></p>
+<h2><span style="font-weight: 400;">What Even is Data Science, Business Intelligence and all the Other Expressions?</span></h2>
+<p><span style="font-weight: 400;">You might find all these expressions a bit too much to get your head around. </span><i><span style="font-weight: 400;">Data scientist, data engineer, data analyst, business analyst, deep learning engineer, machine learning engineer</span></i><span style="font-weight: 400;">… Why are there so many tasks in the world of data science, and what do they entail exactly? What technologies do they use and what are their purposes? This is what we’ll touch on first.</span></p>
+<p><span style="font-weight: 400;"><strong>Most languages use English terms</strong> because it is such a new field. You will find these in job advertisements, professional forums and courses.</span></p>
+<h3><span style="font-weight: 400;">BI vs Data Science</span></h3>
+<p><span style="font-weight: 400;"><strong>Business intelligence</strong> (or BI for short) and <strong>data science</strong> <strong>are the two biggest areas</strong> of professional data analysis. They both use large amounts of data to determine trends and patterns, however, there are many differences between them. They require different skills, and while <strong>business intelligence focuses on business life </strong>and the present, <strong>data science </strong>has a broader range that <strong>focuses mostly on the future</strong> — meaning they work with different perspectives.</span></p>
+<h4><span style="font-weight: 400;">Business intelligence (BI)</span></h4>
+<p><span style="font-weight: 400;"><strong>Business intelligence</strong> is the sum of strategies and technologies that an organization uses to <strong>collect and analyze large amounts of data.</strong> Its goal is to <strong>support strategic decisions</strong> with the trends and correlations it figures out.</span></p>
+<p><span style="font-weight: 400;">For example, business intelligence can be the feedback you can give on every assignment of CodeBerry’s online programming courses with small emoticons. It shows how you liked the assignments, and the collected feedback can be summarized so that the curriculum developers can upgrade the assignments that confused many people.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Data Science</span></h4>
+<p><span style="font-weight: 400;">Data science is a complex field of science that fuses </span><b>mathematics</b><span style="font-weight: 400;">, </span><b>statistics</b><span style="font-weight: 400;">, </span><b>machine learning</b><span style="font-weight: 400;">, </span><b>programming skills</b><span style="font-weight: 400;">, </span><b>presentation skills</b><span style="font-weight: 400;"> and other professions together. It creates models and </span><b>its goal is to predict things</b><span style="font-weight: 400;"> based on the information we got from the data.</span></p>
+<p><span style="font-weight: 400;">One of the main fields of science that supports artificial intelligence development is data science. It is present in many other fields as well—scientific innovation, research and development, social, health science and education.</span></p>
+<h3><span style="font-weight: 400;">Team Members of BI and Data Science Groups</span></h3>
+<h4><span style="font-weight: 400;">Data Scientist </span></h4>
+<p><span style="font-weight: 400;">Data scientists are experts that use scientific methods to </span><b>analyze large amounts of data</b><span style="font-weight: 400;"> to get some information out of them, in order to help </span><b>solve complex problems</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">They use their complex (usually mathematical, statistical, and programming) skills to clean and convert data to create models from it (mostly with methods that use machine learning) that they can use to make predictions. Besides a <strong>good knowledge of programming and statistics,</strong> they also <strong>need</strong> the skill <strong>to be able to quickly understand the field</strong> that uses the information they got from data analysis.</span></p>
+<p><span style="font-weight: 400;">They also need to be able to visualize and present their results, so <strong>good communications skills are also required.</strong></span></p>
+<h4><span style="font-weight: 400;">Data Analyst  </span></h4>
+<p><span style="font-weight: 400;"><strong>Data analysts only focus on</strong> </span><b>analyzing data</b><span style="font-weight: 400;">, which means their area of expertise is narrower than that of data scientists’.</span></p>
+<p><span style="font-weight: 400;">When browsing from data analyst job offers, some will say that the job requires strong mathematical, statistical, and programming skills, while others will state that data analysts mostly create SQL queries, analyses, and visualizations, meaning they won’t need mathematics or programming skills.</span></p>
+<p><span style="font-weight: 400;">The <strong>data analyst position is similar to data scientists’</strong> but is usually only some part of data science. (For example, sometimes, data analysts only create queries or visualizations, or maybe they won’t have to do needs assessments or communicate with clients.)</span></p>
+<h4><span style="font-weight: 400;">Data Engineer</span></h4>
+<p><b>Data engineers create and maintain the infrastructure for storing and handling data</b><span style="font-weight: 400;">. They write code that helps get the data from the servers to data analysts who will process them. They also handle systems that store extreme amounts of data and have an important role in preprocessing data, which means “cleaning” the data up, formatting it for analysis.</span></p>
+<h4><span style="font-weight: 400;">Business Analyst</span></h4>
+<p><span style="font-weight: 400;">The task of business analysts requires</span><b> assessment, keeping in contact with clients, decision-makers, and the IT team</b><span style="font-weight: 400;">. In order to do this, they must have excellent communication and presentation skills.</span></p>
+<p><span style="font-weight: 400;">In a nutshell, they are the ones who professionally </span><b>translate the needs of clients to the language of information technology</b><span style="font-weight: 400;">, and translate the feedback from the IT team for the clients as well.</span></p>
+<p><span style="font-weight: 400;">Business analysts also </span><b>analyze business data statistically</b><span style="font-weight: 400;">. They explore correlations in the data to support corporate development, product and service development, and financial decisions.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="Python for loop" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Machine Learning Engineer</span></h4>
+<p><span style="font-weight: 400;"><strong>Machine learning engineers are specialists in machine learning,</strong> so they set up systems related to machine learning, and are <strong>skilled in algorithms and creating data</strong> used for machine learning. They build prototype models in the production systems and maintain them.</span></p>
+<h3><span style="font-weight: 400;">What you must know about data</span></h3>
+<p><span style="font-weight: 400;">What kind of data are we talking about in the context of data science? Where do they get it from, how do they store and process it? What tasks need to be done in order to do so?</span></p>
+<h4><span style="font-weight: 400;">Big data  </span></h4>
+<p><span style="font-weight: 400;"><strong>Big data usually means</strong> </span><b>extreme amounts of data</b><span style="font-weight: 400;">. Often, we use big data to describe data that “can no longer be stored and managed on a normal desktop computer,” and traditional database management tools (like Excel or SQL) are not sufficient to handle them.</span></p>
+<p><span style="font-weight: 400;">Big data not only refers to the amount of data — but there are also quality requirements that the data set needs to meet. </span><b>Processing speed, variability, accuracy, reliability</b><span style="font-weight: 400;">, and </span><b>use value</b><span style="font-weight: 400;">: these are all requirements that decide whether we can call the data we’re using big data.</span></p>
+<p><span style="font-weight: 400;">Where do the large amounts of data that data scientists work with come from? Countless tools create large amounts of data: smartwatches, security systems, intelligent household appliances, bank transfers, purchase data, meteorological measurements, and so on ad infinitum. Also, a single user can generate large amounts of data with a single smartphone: calls, emails, messages, photos, searches, music and so on.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_13497" style="width: 758px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13497" loading="lazy" class="wp-image-13497 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1.png" alt="How you can find the best data science course?" width="748" height="440" srcset="/blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1.png 748w, /blog/wp-content/uploads/2021/06/iot-big-data-specifics-01_1-300x176.png 300w" sizes="(max-width: 748px) 100vw, 748px" /><p id="caption-attachment-13497" class="wp-caption-text">Source: <a href="https://www.scnsoft.com/blog/iot-big-data-nature" target="_blank" rel="noopener external" data-wpel-link="external">scnsoft.com</a></p></div></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Raw data</span></h4>
+<p><b>Raw data is data that hasn’t been processed yet</b><span style="font-weight: 400;">. Data engineers and data scientists get data in formats that are not suitable for analysis—they have inconsistencies, </span><b>missing data, duplications</b><span style="font-weight: 400;">, and even </span><b>typos</b><span style="font-weight: 400;">. This data needs to go through preprocessing (cleaning, converting, filtering) so that it can be used. This is called data preparation or data wrangling.</span></p>
+<h3><span style="font-weight: 400;">Technologies that use data science</span></h3>
+<h4><span style="font-weight: 400;">Artificial intelligence (AI for short)</span></h4>
+<p><span style="font-weight: 400;">Artificial intelligence is a field of science where people research and develop </span><b>computers capable of making decisions based on large amounts of data</b><span style="font-weight: 400;">. They use machine learning to achieve this.</span></p>
+<p><span style="font-weight: 400;">Artificial intelligence control </span><b>self-driving cars</b><span style="font-weight: 400;"> (like </span><a href="https://www.tesla.com/autopilot" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Tesla Autopilot</span></a><span style="font-weight: 400;">, </span><a href="https://waymo.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Waymo</span></a><span style="font-weight: 400;">),</span><b> robots that are aware of their surroundings</b><span style="font-weight: 400;"> (like </span><a href="https://www.softbankrobotics.com/emea/en/pepper" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pepper robot</span></a><span style="font-weight: 400;">, </span><a href="https://www.bostondynamics.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Boston Dynamics robots</span></a><span style="font-weight: 400;">), and </span><b>digital assistants</b><span style="font-weight: 400;"> that are capable of voice recognition and speech interpretation, like Siri and Alexa.</span></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Video of Pepper:</span></h4>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="We Interviewed Pepper — The Humanoid Robot" width="1080" height="608" src="https://www.youtube.com/embed/zJHyaD1psMc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Boston Dynamics robots:</span></h4>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Do You Love Me?" width="1080" height="608" src="https://www.youtube.com/embed/fn3KWM1kuAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h4><span style="font-weight: 400;">Machine learning (ML for short)</span></h4>
+<p><span style="font-weight: 400;">Machine learning is a process during which a computer </span><b>tries to understand data sets</b><span style="font-weight: 400;"> with the help of </span><b>algorithms</b><span style="font-weight: 400;">, and makes predictions and decisions based on them. The system is based on past examples, and after a proper amount of input data, you can input something, and it can give back an output that makes sense which the computer has never seen before.</span></p>
+<p><span style="font-weight: 400;">For example, if we have a flashlight that we want to control with our voice, we can teach the computer using machine learning algorithms that it should switch on the light whenever we say “light”. As the amount of sound samples grows, the control mechanism becomes better and better, and it starts to recognize the word “light” more efficiently. After a while, it can even hear the word from full sentences as well, for example, “I need some lamplight.”</span></p>
+<h4><span style="font-weight: 400;">Deep learning, DL for short</span></h4>
+<p><span style="font-weight: 400;"><strong>Deep learning is a type of machine learning.</strong> It is <strong>the most complex of all machine learning algorithms,</strong> and it is <strong>based on the human brain.</strong> Deep learning requires more data and time, but it can give more precise results and learn more complex correlations than other types of machine learning.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13498" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/Data-Science-image1.png" alt="" width="923" height="563" srcset="/blog/wp-content/uploads/2021/06/Data-Science-image1.png 923w, /blog/wp-content/uploads/2021/06/Data-Science-image1-300x183.png 300w, /blog/wp-content/uploads/2021/06/Data-Science-image1-768x468.png 768w" sizes="(max-width: 923px) 100vw, 923px" /></p>
+<h2><span style="font-weight: 400;">Uses of data science </span></h2>
+<p><span style="font-weight: 400;">Data science is a varied field of science, and it has many uses in businesses, research and development, and it can even be used by civilians or in a social context.</span></p>
+<h3><span style="font-weight: 400;">Data science in medicine</span></h3>
+<p><span style="font-weight: 400;"><strong>They use research based on big data in drug development, genetic, genomic research.</strong> They use image recognition technology in diagnostics when analyzing X-ray, MRI, and CT recordings. They are also working on patient care using virtual assistants, and disease predictions. There are also some customized healthcare programs generated by these systems.</span></p>
+<h3><span style="font-weight: 400;">Data science and climate research</span></h3>
+<p><span style="font-weight: 400;">They use data science to <strong>create weather prediction models</strong> and to model and <strong>research climate change,</strong> <strong>analyze effects of global warming, predict natural disasters, monitor pollution</strong> and the air quality of cities, etc.</span></p>
+<h3><span style="font-weight: 400;">Data science, search engines, and recommendation systems</span></h3>
+<p><span style="font-weight: 400;">Data science technologies make the use of targeted ads and recommendations based on your interests possible on <strong>Youtube, Netflix, and Spotify.</strong></span></p>
+<p><span style="font-weight: 400;">Search engines also process large amounts of data. <strong>Dating apps like Tinder use data to find you a perfect match.</strong></span></p>
+<h3><span style="font-weight: 400;">Data science and route planning</span></h3>
+<p><span style="font-weight: 400;">Finding optimal routes, route planning applications: the <strong>route planners of Uber and Google are based on data science results.</strong> Coordinating traffic lights, measuring the traffic, monitoring traffic jams—a lot of valuable data comes from this. Giant companies like Amazon or eBay are also using data science to help with logistics optimization.</span></p>
+<h3><span style="font-weight: 400;">Data science and language technology</span></h3>
+<p><span style="font-weight: 400;">Developers face a serious challenge with human language recognition, interpretation and reproduction. <strong>There are many areas where human languages and machines meet,</strong> and data science plays a huge role in handling this. Speech recognition and automatic captioning are some of these areas.</span></p>
+<p><span style="font-weight: 400;">Automatic machine translation is developing lightning-fast, we only need to think about what Google translations were a few years ago and what they are now. Of course, they are far from perfect, but the translations already sound more natural, and they have better grammar as well than they did a few years ago.</span></p>
+<p><span style="font-weight: 400;"><strong>Virtual assistants</strong> are also an exciting topic, <strong>like Apple’s Siri or Amazon’s Alexa.</strong> These also need to recognize and interpret human speech and give appropriate answers, so it needs machine learning and other data science techniques.</span></p>
+<p><span style="font-weight: 400;"><strong>Creating accessible reading software</strong> for the visually impaired, <strong>and</strong> <strong>developing more natural human voices</strong> and intonations <strong>for robots</strong> are also goals achieved with dynamically evolving data science technologies.</span></p>
+<h3><span style="font-weight: 400;">Data science and augmented reality</span></h3>
+<p><span style="font-weight: 400;"><strong>Augmented reality</strong> is a set of technologies that <strong>puts digital content into cameras in real-time.</strong> We can, for example, try on clothes without physically putting them on, we can look at how some piece of IKEA furniture might look in our apartment, or we can put dog ears on ourselves in our selfies. The image recognition and interpretation required to do these things are all based on data science.</span></p>
+<p><span style="font-weight: 400;">Machine vision is a technology used to interpret surroundings, objects, and obstacles. This also requires data-based learning.</span></p>
+<p><strong>Data science is also needed when creating VR experiences.</strong></p>
+<h3><span style="font-weight: 400;">Data science and image recognition</span></h3>
+<p><span style="font-weight: 400;">Identifying and categorizing image content, image-based search, visual search engines: we couldn’t do any of it without machine learning and the use of neural networks.</span></p>
+<p><span style="font-weight: 400;">There are also some other useful and important technologies, like <strong>identification of faces, and face recognition in general, in forensics and security technology.</strong> There is also <strong>emotional recognition</strong> that can help us monitor the emotional state of psychiatric patients or astronauts. These technologies are currently being developed.</span></p>
+<h2><span style="font-weight: 400;">What does a data scientist actually do? </span></h2>
+<h3><span style="font-weight: 400;">Needs assessment, orientation, consulting the client</span></h3>
+<p><span style="font-weight: 400;">Data scientists have to thoroughly assess needs, know exactly what their research is going to be used for, and gain an in-depth knowledge of the project’s features.</span></p>
+<p><span style="font-weight: 400;"><strong>Business-centric thinking is usually unavoidable</strong>, as clients usually will have business goals (like wanting to sell more of a product or minimizing losses). When setting a project&#8217;s goals, <strong>the client&#8217;s viewpoint needs to be understood.</strong></span></p>
+<h3><span style="font-weight: 400;">Data preparation, cleaning and transforming</span></h3>
+<p><span style="font-weight: 400;">Once a data scientist knows the needs and the goals of data analysis, data collection or data “harvest” can begin from different sources.</span></p>
+<p>Managing<span style="font-weight: 400;"> big data cannot be done by ordinary data storing software (like Excel, MySQL, etc.) — <strong>we need software designed specifically for working with big data</strong> (like </span><b>Cassandra</b><span style="font-weight: 400;">, </span><b>Hadoop</b><span style="font-weight: 400;"> or </span><b>Spark</b><span style="font-weight: 400;">).</span></p>
+<p><span style="font-weight: 400;">Raw data can be missing some elements, have typos and duplicates, and it can consist of inconsistent different types of elements. This means that the first and most time-consuming step is the complex process of </span><b>cleaning</b><span style="font-weight: 400;">, then comes the </span><b>conversion</b><span style="font-weight: 400;">. For this, <strong>scientists need programming skills</strong> and software tools like </span><b>Talend</b><span style="font-weight: 400;"> and </span><b>Informatica</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Data engineers can be a great help with collecting and preprocessing data since they are specialists in this field.</span></p>
+<h3><span style="font-weight: 400;">Data analysis</span></h3>
+<p><span style="font-weight: 400;">Then comes data analysis, using mathematical and statistical methods.</span></p>
+<p><b>Python</b><span style="font-weight: 400;"> and </span><b>R</b><span style="font-weight: 400;"> (also, some other languages like MatLab and Scala), and statistics software like </span><b>SPSS</b><span style="font-weight: 400;"> and </span><b>SAS</b><span style="font-weight: 400;"> are used for creating models.</span></p>
+<p><span style="font-weight: 400;">In this phase, <strong>analysts are looking for trends</strong> using many different techniques like classification, clustering, regression, decision trees, machine learning, and neural networks.</span></p>
+<h3><span style="font-weight: 400;">Data visualization and presentation</span></h3>
+<p><span style="font-weight: 400;">The last phase of data science is visualizing and presenting the results to the clients or decision-makers — the data must be interpreted and explained to professionals who do not come from the world of programming and mathematics. The most often used tools for this are </span><b>Tableau, Power BI</b><span style="font-weight: 400;">, </span><b>the D3</b> <b>JavaScript library</b><span style="font-weight: 400;">,</span><b> Python visualization packages (Matplotlib, Seaborn, Plotly), and R ggplot.</b></p>
+<h3><span style="font-weight: 400;">Incorporating models into a corporate environment</span></h3>
+<p><span style="font-weight: 400;">After presenting the data, another process may begin, or a process might change in the life of the company. If a data scientist’s work can be incorporated into the operation of a corporation, the data scientist usually gets to be part of a team that completes this task.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">What do data scientists need to know?</span></h2>
+<p><span style="font-weight: 400;">Data science is the intersection of </span><b>statistics</b><span style="font-weight: 400;">, </span><b>programming</b><span style="font-weight: 400;"> and the field it’s being used in. Data scientists need to be able to see the process as a whole from </span><b>needs assessment</b><span style="font-weight: 400;"> to </span><b>presenting the results</b><span style="font-weight: 400;">, and they need good </span><b>communication and problem-solving skills</b><span style="font-weight: 400;">, and </span><b>teamwork</b><span style="font-weight: 400;">. A </span><b>practical approach</b><span style="font-weight: 400;">, </span><b>business skills</b><span style="font-weight: 400;">, and </span><b>insight into the area of use</b><span style="font-weight: 400;"> are also important.</span></p>
+<p><span style="font-weight: 400;">Data scientists also need to know data cleaning, processing, analysis and visualization software as well as </span><b>Python</b><span style="font-weight: 400;"> or </span><b>R</b><strong> programming.</strong></p>
+<p><span style="font-weight: 400;">Not all positions require a university degree, but <strong>data scientists usually must have at least BSc or MSc degrees</strong> in a related field of study (mathematics, IT, engineering) to get a job. This is because the mathematical and statistical skills needed for this job can be acquired mostly at universities. Data Science is often a specialization in some of these fields.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13499" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/data-science-2.png" alt="" width="1024" height="768" srcset="/blog/wp-content/uploads/2021/06/data-science-2.png 1024w, /blog/wp-content/uploads/2021/06/data-science-2-300x225.png 300w, /blog/wp-content/uploads/2021/06/data-science-2-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Data scientist salaries</span></h2>
+<p><span style="font-weight: 400;"><strong>Data science jobs are</strong> usually <strong>extremely well-paid,</strong> even compared to the field of IT. It is no coincidence that they get paid well — as a data scientist, you have complex tasks so you need to be versatile and have diversified knowledge to complete them.</span></p>
+<p><span style="font-weight: 400;">There are three main areas of data scientist jobs: developer, infrastructure, or manager.</span></p>
+<p><span style="font-weight: 400;">Of course, the salaries are different in these three areas. You can earn the most money as a manager, and the least amount in the field of infrastructure.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_13502" style="width: 834px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-13502" loading="lazy" class="wp-image-13502 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/datasalary.png" alt="" width="824" height="355" srcset="/blog/wp-content/uploads/2021/06/datasalary.png 824w, /blog/wp-content/uploads/2021/06/datasalary-300x129.png 300w, /blog/wp-content/uploads/2021/06/datasalary-768x331.png 768w" sizes="(max-width: 824px) 100vw, 824px" /><p id="caption-attachment-13502" class="wp-caption-text"><a href="https://www.c-sharpcorner.com/blogs/data-scientist-vs-machine-learning-engineer-career-option-to-choose" target="_blank" rel="noopener external" data-wpel-link="external">Credit: C# corner</a></p></div></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Where can I learn this? – Data Science courses </span></h2>
+<p><span style="font-weight: 400;">There are two main learning paths to follow if you’d like to become a Data Scientist.</span></p>
+<p><span style="font-weight: 400;">The first option is to <strong>complete a data science course.</strong> You can find several pieces of training on the Internet even for free, and they are also worth a try if you’d like to take a look at this area.</span></p>
+<h3><span style="font-weight: 400;">Here we selected a few online Data Science course:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.datacamp.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DataCamp Free &#8211; Data Science course for Everyone</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">2 hours</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Free</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.hult.edu/lp/masters/live-online-msba/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Hult International Business School &#8211; Live Online Masters in Business Analytics</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">+ 1 year</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Udemy &#8211; The Data Science Course 2021: Complete Data Science Bootcamp</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">28,5 hours on-demand video</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: Check the website for actual pricing</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.coursera.org/professional-certificates/ibm-data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Coursera &#8211; IBM Data Science Professional Certificate</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">11 month</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Free</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.edx.org/course/subject/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">edX &#8211; Data Science courses on edX</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner, Intermediate, Advanced</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.skillshare.com/browse/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SkillShare &#8211; Online Data Science Courses</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner, Intermediate, Advanced</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.scalefree.com/datavaulttrainings/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ScaleFree &#8211; Data Vault 2.0 Training</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">6 weeks</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: </span><span style="font-weight: 400;">€</span><span style="font-weight: 400;">2.798</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://brainstation.io/course/online/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">BrainStation &#8211; Data Science Course Online</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SimpliLearn &#8211; Data Science Course</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">+ 220 hours</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Beginner</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Price: </span><span style="font-weight: 400;">€</span><span style="font-weight: 400;">1.499</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://emeritus.org/online-data-science-analytics-courses/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Emeritus &#8211; Online Data Science &amp; Analytics Courses</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.dataquest.io/data-science-courses-directory/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DataQuest &#8211; Data Science Courses Pathway</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Several courses to complete</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">The second way to become a Data Scientist is to <strong>attend a University course.</strong> You can complete both undergraduate and graduate-level and you also have the option to take part as a guest student at the chosen courses.</span></p>
+<h3><span style="font-weight: 400;">Here we selected a few Uni degrees about Data Science:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://online-learning.harvard.edu/subject/data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Harvard University &#8211; Online Data Science Courses</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13503" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/harvard-courses-1024x372.png" alt="" width="1024" height="372" srcset="/blog/wp-content/uploads/2021/06/harvard-courses-1024x372.png 1024w, /blog/wp-content/uploads/2021/06/harvard-courses-300x109.png 300w, /blog/wp-content/uploads/2021/06/harvard-courses-768x279.png 768w, /blog/wp-content/uploads/2021/06/harvard-courses-1080x392.png 1080w, /blog/wp-content/uploads/2021/06/harvard-courses.png 1322w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://courses.ceu.edu/courses/2020-2021/mastering-process-data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">CEU &#8211; Mastering the Process of Data Science</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13504" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/ceu_data_science.png" alt="" width="541" height="227" srcset="/blog/wp-content/uploads/2021/06/ceu_data_science.png 541w, /blog/wp-content/uploads/2021/06/ceu_data_science-300x126.png 300w" sizes="(max-width: 541px) 100vw, 541px" /></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1">
+<h4><a href="https://www.ue-germany.com/blog/en-digital-business-data-science-bachelor-int" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">University of Europe &#8211; Digital Business &amp; Data Science</span></a></h4>
+</li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13505" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/university_of_europe.png" alt="" width="972" height="470" srcset="/blog/wp-content/uploads/2021/06/university_of_europe.png 972w, /blog/wp-content/uploads/2021/06/university_of_europe-300x145.png 300w, /blog/wp-content/uploads/2021/06/university_of_europe-768x371.png 768w" sizes="(max-width: 972px) 100vw, 972px" /></p>
+<p><span style="font-weight: 400;">If you’d like to see more courses, here below you can check more lists about Data Science training options and other educational materials.</span></p>
+<h3><span style="font-weight: 400;">Collector pages:</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.learndatasci.com/best-data-science-online-courses/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Top 8 Online Data Science Courses &#8211; 2021 Guide &amp; Reviews</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://towardsdatascience.com/5-online-data-science-courses-you-can-start-now-748e4a2b5403" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">5 Online Data Science Courses You Can Start Now</span></a></li>
+</ul>
+<p><div style="width: 810px" class="wp-caption aligncenter"><img loading="lazy" src="https://cdn-media-1.freecodecamp.org/images/1*ius9T3uGkd743dljInNF8w.jpeg" alt="" width="800" height="831" /><p class="wp-caption-text">Credit: <a href="https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/" target="_blank" rel="noopener external" data-wpel-link="external">FreeCodeCamp</a></p></div></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.forbes.com/sites/bernardmarr/2020/02/24/the-9-best-free-online-data-science-courses-in-2020/?sh=d813f892bbf5" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">The 9 Best Free Online Data Science Courses in 2020</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.freecodecamp.org/news/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">I Ranked Every Intro to Data Science Course on the Internet, Based on Thousands of Data Points</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.cio.com/article/3222879/15-data-science-certifications-that-will-pay-off.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">15 Data Science Course Certifications that pay off</span></a></li>
+</ul>
+<p><strong>In our article series <a href="https://codeberryschool.com/blog/en/category/programming-courses/" data-wpel-link="external" target="_blank" rel="external">“Programming courses”</a></strong><strong> we collected the learning opportunities,</strong> so if you want to learn to program, you can find these, and other interesting facts there which can help you find the perfect course.</p>
+<h3>Programing courses:</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/top-13-python-programming-courses/" target="_blank" rel="noopener external" data-wpel-link="external">Top 13 Python programming courses</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-course-java-programming-course/" target="_blank" rel="noopener external" data-wpel-link="external">Top 10 Java courses for beginners</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-courses-for-beginners/" target="_blank" rel="noopener external" data-wpel-link="external">Top 10 JavaScript courses for beginners</a></li>
+<li><a href="https://codeberryschool.com/blog/en/programming-for-kids/" target="_blank" rel="noopener external" data-wpel-link="external">A New Necessary Skill? Programming for Kids</a></li>
+<li><a href="https://codeberryschool.com/blog/en/programming-for-free/" target="_blank" rel="noopener external" data-wpel-link="external">4+1 easy ways of learning programming for free</a></li>
+<li class="post-title entry-title"><a class="et-accent-color" href="https://codeberryschool.com/blog/en/web-development-course/" target="_blank" rel="noopener external" data-wpel-link="external">10+ Best Web Development Courses Online</a></li>
+<li class="post-title entry-title"><a class="et-accent-color" href="https://codeberryschool.com/blog/en/programming-courses-with-job-guarantee/" target="_blank" rel="noopener external" data-wpel-link="external">Playing it safe – Top 10 Programming Courses With Job Guarantees</a></li>
+<li><strong>Data Science Courses, Data Scientist Salaries, and Everything About DS</strong></li>
+</ul>
+<p>Would you like to start programming online? Come and try <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">the first 25 lessons</a> of CodeBerry Programming School for free!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 13 Python programming courses</title>
+		<link>/blog/en/top-13-python-programming-courses/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 06 Nov 2020 10:24:15 +0000</pubDate>
+				<category><![CDATA[Programming courses]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[best course python]]></category>
+		<category><![CDATA[best course to learn python]]></category>
+		<category><![CDATA[best python blog]]></category>
+		<category><![CDATA[best python course]]></category>
+		<category><![CDATA[best python course for beginners]]></category>
+		<category><![CDATA[best python course online]]></category>
+		<category><![CDATA[best python courses]]></category>
+		<category><![CDATA[best python programming courses]]></category>
+		<category><![CDATA[codecademy python course]]></category>
+		<category><![CDATA[data science]]></category>
+		<category><![CDATA[free python courses]]></category>
+		<category><![CDATA[general purpose programming language]]></category>
+		<category><![CDATA[object-oriented]]></category>
+		<category><![CDATA[platform independent]]></category>
+		<category><![CDATA[popular programming language]]></category>
+		<category><![CDATA[problem solving]]></category>
+		<category><![CDATA[python certification for beginners]]></category>
+		<category><![CDATA[python course]]></category>
+		<category><![CDATA[python course online]]></category>
+		<category><![CDATA[python courses for beginners]]></category>
+		<category><![CDATA[python programming course for beginners]]></category>
+		<category><![CDATA[server-side]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10516</guid>
+
+					<description><![CDATA[Why should you learn Python? Python is one of the most popular and most sought-after programming languages, used in many different areas, and job advertisements are full of exciting and diverse positions for Python developers. Python is also an excellent choice for individual projects or problem-solving. Let’s take a look at what you should know [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Why should you learn Python?</span></h2>
+<p><span style="font-weight: 400;">Python is one of the most popular and most sought-after programming languages, used in many different areas, and job advertisements are full of exciting and diverse positions for Python developers. Python is also an excellent choice for individual projects or problem-solving.</span></p>
+<p><span style="font-weight: 400;">Let’s take a look at what you should know about this programming language and how you can learn it.</span></p>
+<h2><span style="font-weight: 400;">A few things about Python </span></h2>
+<h3><span style="font-weight: 400;">General features</span></h3>
+<p><span style="font-weight: 400;">We could list the advantages and uses of Python all day, but we’ll try to keep it short, since the goal of this post is to present you with Python programming courses.</span></p>
+<p><span style="font-weight: 400;">So the most important features are the following: Python is a dynamically improving, </span><a href="https://opensource.com/resources/what-open-source" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">open-source,</span></a> <a href="https://en.wikipedia.org/wiki/High-level_programming_language" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">high-level</span></a><span style="font-weight: 400;">, </span><a href="https://en.wikipedia.org/wiki/General-purpose_programming_language" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">general-purpose</span></a><span style="font-weight: 400;">, </span><a href="https://www.gartner.com/en/information-technology/glossary/platform-independent" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">platform-independent</span></a><span style="font-weight: 400;"> programming language. It is </span><a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">object-oriented</span></a><span style="font-weight: 400;">, easy to learn and read. Thanks to the multitude of frameworks and libraries it has, Python has many uses.</span></p>
+<p><span style="font-weight: 400;">When creating it, one of the basic principles was that clarity and readability during programming is more important than running speed.</span></p>
+<p><span style="font-weight: 400;">Python keeps staying at the forefront of the most popular programming languages, but it is also one of the most sought-after developer positions and ranks high when looking at expected salaries as well.</span></p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12196 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;">What is Python used for?</span></h3>
+<p><span style="font-weight: 400;">Python’s uses are almost infinite—it can be used in scientific research, artificial intelligence development, machine learning, or even data science. Tech giants (like Facebook, Google, Netflix, and Spotify) like to use Python for data collection and analysis, but it also plays a significant role in their back-end systems.</span></p>
+<p><span style="font-weight: 400;">Python is used in web development, desktop graphical user interfaces, business applications, and server-side operations as well.</span></p>
+<p><span style="font-weight: 400;">It is suitable for handling current problems, implementing smaller projects, or combining bigger ones. Working with Python is fast and efficient thanks to its many frameworks, libraries, and model collections. It is very possible that we can get the solution we need by modifying or adding to already existing code.</span></p>
+<p><span style="font-weight: 400;">It can be an ideal language not only for experienced programmers, but analysts, operators and researchers as well.</span></p>
+<p><span style="font-weight: 400;">If you’d like to read more about this topic, click on the post titled </span><a href="https://codeberryschool.com/blog/en/beginners-guide-to-python-programming/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Beginner’s Guide to Python Programming Language</span></a><span style="font-weight: 400;">!</span></p>
+<h2><span style="font-weight: 400;">Python programming courses</span></h2>
+<h3>1. <a href="https://www.datacamp.com/courses/tech:python" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">DataCamp</span></a><i></i></h3>
+<ul>
+<li><i><span style="font-weight: 400;">4 hours (11 videos)</span></i></li>
+<li><i><span style="font-weight: 400;">Free</span></i></li>
+<li><i><span style="font-weight: 400;">online</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">At DataCamp you can choose from </span><b>dozens of Python courses.</b><span style="font-weight: 400;"> If you’re a beginner or don’t have much time for studying, one of the few-hours long, beginner courses could be a perfect choice for you, but if you’re more interested in Python coding, you can participate in an extended, intermediate online class to improve your skills.</span></p>
+<p><span style="font-weight: 400;">Now we show you here a shorter Python course which is free to attend, and requires only 4 hours to fulfil.</span></p>
+<p><a href="https://www.datacamp.com/courses/intro-to-python-for-data-science" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Introduction to Python course</span></a><span style="font-weight: 400;">:</span></p>
+<p><span style="font-weight: 400;">The course starts from an absolute beginner level &#8211; after the </span><b>basics</b><span style="font-weight: 400;"> you’ll learn about lists, which are elemental parts of every Python code, then it also shows you how to work with them through </span><b>functions</b><span style="font-weight: 400;">. There is also a chapter for the packages and for NumPy, which will help you to practice data science. </span></p>
+<p><span style="font-weight: 400;">Interesting information that DataCamp supports </span><a href="https://www.learnpython.org/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">https://www.learnpython.org/</span></a><span style="font-weight: 400;">, where you can find tons of useful lessons and additional knowledge about how to code in Python.</span></p>
+<p><span style="font-weight: 400;">It increases the effectiveness of studying if you use the course and the page simultaneously.</span></p>
+<p><div id="attachment_10520" style="width: 793px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10520" loading="lazy" class="wp-image-10520 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/learnpython.png" alt="" width="783" height="438" srcset="/blog/wp-content/uploads/2020/11/learnpython.png 783w, /blog/wp-content/uploads/2020/11/learnpython-300x168.png 300w, /blog/wp-content/uploads/2020/11/learnpython-768x430.png 768w" sizes="(max-width: 783px) 100vw, 783px" /><p id="caption-attachment-10520" class="wp-caption-text">Credit: <a href="https://www.learnpython.org/" target="_blank" rel="noopener external" data-wpel-link="external">learnpython.org</a></p></div></p>
+<h3>2. <a href="https://www.python-course.eu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python-course.eu </span></a></h3>
+<p><span style="font-weight: 400;">This one is much more a collection about Python programming basics than an average course, but good news &#8211; it is also </span><b>free to use, </b><span style="font-weight: 400;">what is more, the chapters are richly illustrated with code templates, which makes the learning process more enjoyable.</span></p>
+<p><span style="font-weight: 400;">If you are already taking a Python course somewhere and need some extra practice, this site is a perfect choice for you.</span></p>
+<p><div id="attachment_10521" style="width: 1021px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10521" loading="lazy" class="wp-image-10521 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/python-course.eu_.png" alt="" width="1011" height="481" srcset="/blog/wp-content/uploads/2020/11/python-course.eu_.png 1011w, /blog/wp-content/uploads/2020/11/python-course.eu_-300x143.png 300w, /blog/wp-content/uploads/2020/11/python-course.eu_-768x365.png 768w" sizes="(max-width: 1011px) 100vw, 1011px" /><p id="caption-attachment-10521" class="wp-caption-text">Credit: <a href="https://www.python-course.eu/" target="_blank" rel="noopener external" data-wpel-link="external">python-course.eu</a></p></div></p>
+<h3><span style="font-weight: 400;">3. Coursera </span><i></i></h3>
+<ul>
+<li><i><span style="font-weight: 400;">Several course options</span></i></li>
+<li><i><span style="font-weight: 400;">Specialization possibilities</span></i></li>
+<li><i><span style="font-weight: 400;">From beginner to advanced use</span></i></li>
+<li><i><span style="font-weight: 400;">Free to audit</span></i></li>
+<li><i><span style="font-weight: 400;">Certificate options</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">At Coursera there are plenty of useful </span><b>Python courses on different levels,</b><span style="font-weight: 400;"> durations and languages, you can filter them by every important segment.</span></p>
+<p><span style="font-weight: 400;">Besides beginner, intermediate and advanced levels there are also mixed courses – this last one is for those who already have a basic programming background and now the goal is to broaden their knowledge.</span></p>
+<p><span style="font-weight: 400;">You also can choose from </span><b>complete courses or </b><span style="font-weight: 400;">just </span><b>specializations</b><span style="font-weight: 400;"> depending on your goals and preferences.</span></p>
+<p><span style="font-weight: 400;">Here we would like to show you a beginner Python specialization from the University of Michigan:  </span></p>
+<p><a href="https://www.coursera.org/specializations/python?" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python for everybody</span></a></p>
+<ul>
+<li><em><span style="font-weight: 400;">Free to join</span></em></li>
+<li><em><span style="font-weight: 400;">Beginner level</span></em></li>
+<li><em><span style="font-weight: 400;">8 month to complete (3 hours a day)</span></em></li>
+<li><em><span style="font-weight: 400;">5 modules</span></em></li>
+</ul>
+<p><div id="attachment_10522" style="width: 342px" class="wp-caption alignright"><img aria-describedby="caption-attachment-10522" loading="lazy" class="wp-image-10522 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/coursera.png" alt="" width="332" height="312" srcset="/blog/wp-content/uploads/2020/11/coursera.png 332w, /blog/wp-content/uploads/2020/11/coursera-300x282.png 300w" sizes="(max-width: 332px) 100vw, 332px" /><p id="caption-attachment-10522" class="wp-caption-text">Credit: <a href="https://www.coursera.org/specializations/python?" target="_blank" rel="noopener external" data-wpel-link="external">Coursera</a></p></div></p>
+<p><span style="font-weight: 400;">This specialization is built from five smaller courses which are about the different segments of Python basics, such as:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Getting started with Python</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Python Data Structures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using Python to access web data</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using databases with Python</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Retrieving, processing, and visualizing data with Python</span></li>
+</ol>
+<p><span style="font-weight: 400;">If you are planning to dig deeper in Python programming, maybe you’re interested in Data Science, this course really worth a try.</span></p>
+<p><span style="font-weight: 400;">In the first course you’ll learn about:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Install Python and write your first program</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Describe the basics of the Python programming language</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use variables to store, retrieve and calculate information</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Utilize core programming tools such as functions and loops</span></li>
+</ul>
+<p><span style="font-weight: 400;">The course is </span><b>available on english language</b><span style="font-weight: 400;"> with the following subtitles: English, Arabic, Chinese (Simplified), Korean, German, Turkish, French, Russian, Spanish, Portuguese (Brazilian)</span></p>
+<h3><span style="font-weight: 400;">4. </span><a href="https://www.udemy.com/topic/python/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Udemy</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">Several course options</span></i></li>
+<li><i><span style="font-weight: 400;">Specialization possibilities</span></i></li>
+<li><i><span style="font-weight: 400;">From beginner to advanced use</span></i></li>
+<li><i><span style="font-weight: 400;">Low course prices</span></i></li>
+<li><i><span style="font-weight: 400;">Certificate options</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">At Udemy you can choose from a </span><b>variety of courses </b><span style="font-weight: 400;">depending on your needs and former knowledge.</span></p>
+<p><span style="font-weight: 400;">It is worth checking the course list regularly, in order to find the ideal materials discounted.</span></p>
+<p><span style="font-weight: 400;">With this option </span><b>most courses start from a very pleasant 13.99 € price,</b><span style="font-weight: 400;"> and contain online or live-performed educational materials – but if you‘re unlucky, you could find 2-300€ course prices.</span></p>
+<p><span style="font-weight: 400;">Here we selected three, partly different Python course and specialization, based on different fields of using Python programming:</span></p>
+<ol>
+<li><a href="https://www.udemy.com/course/the-python-bible/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python Bible course:</span></a></li>
+</ol>
+<p><span style="font-weight: 400;">This Python course is perfect for </span><b>beginners without former programming experience.</b><span style="font-weight: 400;"> The course contains 9 hours on-demand video material, and also extended with interesting articles, downloadable resources and 11 coding exercises which will help you to practice the theory from the videos.</span></p>
+<p><div id="attachment_10544" style="width: 872px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10544" loading="lazy" class="wp-image-10544 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/python-biblec-e1604653474521.png" alt="Udemy offers several python programming courses from a beginner level" width="862" height="456" srcset="/blog/wp-content/uploads/2020/11/python-biblec-e1604653474521.png 862w, /blog/wp-content/uploads/2020/11/python-biblec-e1604653474521-300x159.png 300w, /blog/wp-content/uploads/2020/11/python-biblec-e1604653474521-768x406.png 768w" sizes="(max-width: 862px) 100vw, 862px" /><p id="caption-attachment-10544" class="wp-caption-text">Credit: <a href="https://www.udemy.com/course/the-python-bible/" target="_blank" rel="noopener external" data-wpel-link="external">Udemy</a></p></div></p>
+<p><span style="font-weight: 400;">If you buy this material, you’ll get a lifetime access, so you can rewatch the course whenever you’d like. The lessons are compatible with PC or mobile and even with smart TV-s, so you can do your course on your favourite device.</span></p>
+<p><span style="font-weight: 400;">The course is </span><b>project-oriented</b><span style="font-weight: 400;"> in order to get practical and useful knowledge in programming, and if you finish you’ll get a certificate which you can share on your LinkedIn profile or add to your professional CV.</span></p>
+<p><span style="font-weight: 400;">Main topics you’ll learn about:</span><span style="font-weight: 400;"><br />
+</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Variables</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Numbers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Texts (strings)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Logic</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Data structures</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Loops</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Functions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">OOP</span><span style="font-weight: 400;"><br />
+</span></li>
+</ul>
+<p><span style="font-weight: 400;">The course is </span><b>available in english,</b><span style="font-weight: 400;"> but </span><b>spanish and portuguese subtitles </b><span style="font-weight: 400;">are also included.</span></p>
+<p>2. <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">P</span><span style="font-weight: 400;">ython and Django full stack developer course</span></a></p>
+<p><span style="font-weight: 400;">This course is a perfect match if you’d like to dive into the know-how of </span><b>web-application development.</b></p>
+<p><span style="font-weight: 400;">The specification contains 32 hours on-demand video material, besides 6 specific articles and 8 downloadable resources.</span></p>
+<p><div id="attachment_10525" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10525" loading="lazy" class="wp-image-10525 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/django-1024x572.png" alt="" width="1024" height="572" srcset="/blog/wp-content/uploads/2020/11/django-1024x572.png 1024w, /blog/wp-content/uploads/2020/11/django-300x168.png 300w, /blog/wp-content/uploads/2020/11/django-768x429.png 768w, /blog/wp-content/uploads/2020/11/django-1536x858.png 1536w, /blog/wp-content/uploads/2020/11/django-1080x603.png 1080w, /blog/wp-content/uploads/2020/11/django.png 1916w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10525" class="wp-caption-text">Credit: <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/" target="_blank" rel="noopener external" data-wpel-link="external">Udemy</a></p></div></p>
+<h4><span style="font-weight: 400;">What you&#8217;ll learn?</span></h4>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create a fully functional web site using the Full-Stack with Django 1.11</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn how to use HTML to create website content</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use CSS to create beautifully styled sites</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn how to take advantage of Bootstrap to quickly style sites</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use Javascript to interact with sites on the Front-End</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn how to use jQuery to quickly work with the DOM</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understand HTTP requests</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create fantastic landing pages</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn the power of Python to code out your web applications</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Use Django as a back end for the websites</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Implement a full Models-Views-Templates structure for your site</span></li>
+</ul>
+<p><span style="font-weight: 400;">The </span><b>lifetime access </b><span style="font-weight: 400;">and the </span><b>certificate </b><span style="font-weight: 400;">after completion at this course is also guaranteed, as well as the access on every kind of smart device you have.</span></p>
+<p>3. <a href="https://www.udemy.com/course/the-python-mega-course/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">The Python Mega Course: Build 10 real-world applications</span></a></p>
+<p><span style="font-weight: 400;">In this course you’ll also </span><b>build web applications,</b><span style="font-weight: 400;"> but this time instead of Django you’ll work </span><b>with Flask.</b></p>
+<p><span style="font-weight: 400;">The course contains 25 hours on-demand video material, but you’ll also get 38 downloadable resources and 70 coding exercises.</span></p>
+<p><div id="attachment_10526" style="width: 704px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10526" loading="lazy" class="wp-image-10526 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/mega-course.png" alt="" width="694" height="436" srcset="/blog/wp-content/uploads/2020/11/mega-course.png 694w, /blog/wp-content/uploads/2020/11/mega-course-300x188.png 300w, /blog/wp-content/uploads/2020/11/mega-course-400x250.png 400w" sizes="(max-width: 694px) 100vw, 694px" /><p id="caption-attachment-10526" class="wp-caption-text">Credit: <a href="https://www.udemy.com/course/the-python-mega-course/" target="_blank" rel="noopener external" data-wpel-link="external">Udemy</a></p></div></p>
+<p><span style="font-weight: 400;">With the Python Mega Course you’ll learn to </span><b>build actual desktop programs, web applications and mobile apps by using Python 3.</b></p>
+<p><span style="font-weight: 400;">Even if the course is pre-recorded video-based, if you get stuck with the exercises </span><b>you can ask from the course mentors </b><span style="font-weight: 400;">anytime you need help.</span></p>
+<p><span style="font-weight: 400;">The </span><b>lifetime access</b><span style="font-weight: 400;"> and the </span><b>certificate </b><span style="font-weight: 400;">after completion at this course is also guaranteed, as well as the access on every kind of smart device you have, what is more, for this course you’ll get a 30 days money-back guarantee in case you change your mind or don’t like the lessons.</span></p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">5</span><a href="https://checkio.org/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">. CheckiO</span></a></h3>
+<p><span style="font-weight: 400;">CheckiO is an </span><b>online game</b><span style="font-weight: 400;"> which teaches programming in Python and TypeScript in a funny, enjoyable way.</span></p>
+<p><span style="font-weight: 400;">The game contains several missions</span><b> from a beginner level </b><span style="font-weight: 400;">to the ones which already require advanced skills, and through your journey you’ll learn the basics of programming.</span></p>
+<p><span style="font-weight: 400;">As anybody can create and add new challenges which are added to Checkio after a review, the game is increasing day by day.</span></p>
+<p><span style="font-weight: 400;">The game is </span><b>available in multiple languages </b><span style="font-weight: 400;">(10+), and it is highly possible that more languages will be supported.</span></p>
+<p><div id="attachment_10527" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10527" loading="lazy" class="wp-image-10527 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/checkio-1024x478.png" alt="" width="1024" height="478" srcset="/blog/wp-content/uploads/2020/11/checkio-1024x478.png 1024w, /blog/wp-content/uploads/2020/11/checkio-300x140.png 300w, /blog/wp-content/uploads/2020/11/checkio-768x358.png 768w, /blog/wp-content/uploads/2020/11/checkio-1080x504.png 1080w, /blog/wp-content/uploads/2020/11/checkio.png 1366w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10527" class="wp-caption-text">Credit: <a href="https://checkio.org/" target="_blank" rel="noopener external" data-wpel-link="external">CheckiO</a></p></div></p>
+<p><span style="font-weight: 400;">The game teaches </span><b>analytical thinking </b><span style="font-weight: 400;">and how to solve problems, and not focuses on the teaching syntax of Python or TypeScript, so it could be a bit difficult for absolute beginners at the first time, but it is not impossible to learn it through solving the tasks and doing some research in Google.</span></p>
+<p><span style="font-weight: 400;">Fun fact: sometimes it can happen that the most active users get a code review from Guido Van Rossum &#8211; who is the creator of the Python language!</span></p>
+<h3><span style="font-weight: 400;">6. </span><a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Codecademy</span></a></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">25 learning hours</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">9 lessons</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">From beginner to intermediate</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">19.99$/month</span></li>
+</ul>
+<p><span style="font-weight: 400;">Codecademy awaits you with a</span><b> 25 hours long Python 3 course,</b><span style="font-weight: 400;"> which includes 11 separated lessons about </span><b>syntax, functions, lists,  loops, classes</b><span style="font-weight: 400;"> and so on.</span></p>
+<p><span style="font-weight: 400;">You’ll be exposed to fundamental programming concepts, but you’ll also build several Python projects, like a gradebook, in order to practice what you have already learnt.</span></p>
+<p><div id="attachment_10528" style="width: 913px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10528" loading="lazy" class="wp-image-10528 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/codecademy.png" alt="" width="903" height="462" srcset="/blog/wp-content/uploads/2020/11/codecademy.png 903w, /blog/wp-content/uploads/2020/11/codecademy-300x153.png 300w, /blog/wp-content/uploads/2020/11/codecademy-768x393.png 768w" sizes="(max-width: 903px) 100vw, 903px" /><p id="caption-attachment-10528" class="wp-caption-text">Credit: <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener external" data-wpel-link="external">Codecademy</a></p></div></p>
+<p><span style="font-weight: 400;">During the course you’ll create projects which will also perfectly fit for your portfolio.</span></p>
+<p><span style="font-weight: 400;">At Codecademy there is also a </span><b>monthly paid construction</b><span style="font-weight: 400;"> for the using of materials – in this case you’ll charged </span><b>19.99$/month,</b><span style="font-weight: 400;"> and for your contract you will get:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">unlimited courses on mobile and computer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Members-only content</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Real-world Projects</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Step-by-step Guidance</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Peer support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Certificates of completion</span></li>
+</ul>
+<p><div id="attachment_10529" style="width: 914px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10529" loading="lazy" class="wp-image-10529 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/codecademy2.png" alt="" width="904" height="586" srcset="/blog/wp-content/uploads/2020/11/codecademy2.png 904w, /blog/wp-content/uploads/2020/11/codecademy2-300x194.png 300w, /blog/wp-content/uploads/2020/11/codecademy2-768x498.png 768w" sizes="(max-width: 904px) 100vw, 904px" /><p id="caption-attachment-10529" class="wp-caption-text">Credit: <a href="https://www.codecademy.com/learn/learn-python-3" target="_blank" rel="noopener external" data-wpel-link="external">Codecademy</a></p></div></p>
+<p><span style="font-weight: 400;">If you wouldn’t like to pay for the lessons instantly, the </span><b>“basic courses” are free </b><span style="font-weight: 400;">for anyone who would like to try the Codecademy materials first.</span></p>
+<p><span style="font-weight: 400;">Beside the beginner Python 3 course you’ll find other Python specializations at Codecademy, here you can </span><a href="https://www.codecademy.com/catalog/language/python" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">check them.</span></a></p>
+<p><span style="font-weight: 400;">“I know from first-hand experience that you can go in knowing zero, nothing, and just get a grasp on everything as you go and start building right away.” — Madelyn, Pinterest</span></p>
+<h3><span style="font-weight: 400;">7. </span><a href="https://codetheblocks.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Code the blocks</span></a></h3>
+<p><span style="font-weight: 400;">CodeTheBlocks is an exciting way to learn about Python programming. The site is built on the </span><b>basics of 3D modelling,</b><span style="font-weight: 400;"> so with this course you won’t just learn about Python basics but you’ll be able to create your own cool 3D projects as well.</span></p>
+<p><div id="attachment_10530" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10530" loading="lazy" class="wp-image-10530 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/codetheblocks-1024x373.png" alt="" width="1024" height="373" srcset="/blog/wp-content/uploads/2020/11/codetheblocks-1024x373.png 1024w, /blog/wp-content/uploads/2020/11/codetheblocks-300x109.png 300w, /blog/wp-content/uploads/2020/11/codetheblocks-768x280.png 768w, /blog/wp-content/uploads/2020/11/codetheblocks-1080x394.png 1080w, /blog/wp-content/uploads/2020/11/codetheblocks.png 1289w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10530" class="wp-caption-text">Credit: <a href="https://codetheblocks.com/" target="_blank" rel="noopener external" data-wpel-link="external">Code the Blocks</a></p></div></p>
+<p><span style="font-weight: 400;">If you’re tired of writing endless lines of codes without any spectacular results, you should try this out, as here you can see at first sight what you’ve built with your own Python code.</span></p>
+<p><div id="attachment_10531" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10531" loading="lazy" class="wp-image-10531 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/codetheblocks2-1024x262.png" alt="" width="1024" height="262" srcset="/blog/wp-content/uploads/2020/11/codetheblocks2-1024x262.png 1024w, /blog/wp-content/uploads/2020/11/codetheblocks2-300x77.png 300w, /blog/wp-content/uploads/2020/11/codetheblocks2-768x196.png 768w, /blog/wp-content/uploads/2020/11/codetheblocks2-1080x276.png 1080w, /blog/wp-content/uploads/2020/11/codetheblocks2.png 1229w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10531" class="wp-caption-text">Credit: <a href="https://codetheblocks.com/" target="_blank" rel="noopener external" data-wpel-link="external">Code the Blocks</a></p></div></p>
+<p><b>The lessons are interactive </b><span style="font-weight: 400;">&#8211; you have instantly start coding by the instructions the lesson gives, and the result is immediately seen on the screen so you can discover the working processes of your own code and understand easily if you made a mistake somewhere.</span></p>
+<p><div id="attachment_10532" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10532" loading="lazy" class="wp-image-10532 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/codetheblocks3-1024x372.png" alt="" width="1024" height="372" srcset="/blog/wp-content/uploads/2020/11/codetheblocks3-1024x372.png 1024w, /blog/wp-content/uploads/2020/11/codetheblocks3-300x109.png 300w, /blog/wp-content/uploads/2020/11/codetheblocks3-768x279.png 768w, /blog/wp-content/uploads/2020/11/codetheblocks3-1080x393.png 1080w, /blog/wp-content/uploads/2020/11/codetheblocks3.png 1296w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10532" class="wp-caption-text">Credit: <a href="https://codetheblocks.com/" target="_blank" rel="noopener external" data-wpel-link="external">Code the Blocks</a></p></div></p>
+<p><span style="font-weight: 400;">CodetheBlocks is </span><b>free to use,</b><span style="font-weight: 400;"> so if you’re interested in starting Python, and would like to create something impressive in relatively short time, this one is absolutely worth a try.</span></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">8. </span><a href="https://www.hackinscience.org/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Hack in science</span></a></h3>
+<p><span style="font-weight: 400;">Hackinscience is an interactive</span><b> Python exercise platform</b><span style="font-weight: 400;"> &#8211; it is a bit like CheckiO, but instead of missions you have to complete </span><b>70 programming exercises. </b><span style="font-weight: 400;">There is a ranking list on the website where you can see how many people have already finished the level you start &#8211; when we last checked it, the 70th exercise was done by just eight members!</span></p>
+<p><div id="attachment_10533" style="width: 918px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10533" loading="lazy" class="wp-image-10533 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/hackinscience2.png" alt="" width="908" height="550" srcset="/blog/wp-content/uploads/2020/11/hackinscience2.png 908w, /blog/wp-content/uploads/2020/11/hackinscience2-300x182.png 300w, /blog/wp-content/uploads/2020/11/hackinscience2-768x465.png 768w" sizes="(max-width: 908px) 100vw, 908px" /><p id="caption-attachment-10533" class="wp-caption-text">Credit: <a href="https://www.hackinscience.org/" target="_blank" rel="noopener external" data-wpel-link="external">Hack in Science</a></p></div></p>
+<p><span style="font-weight: 400;">Here you can learn about the basics of Python. There are tasks which are more math-based, others teach you about programming concepts like</span><b> loops, functions or classes.</b></p>
+<p><span style="font-weight: 400;">By the 3th lesson you will be able to create your own calculator, and by the 35th even the code of the Fibonacci-sequel can’t confuse you.</span></p>
+<p><span style="font-weight: 400;">In every exercise there is an online integrated development environment (IDE), where you will create your own codes based on the tasks of the actual lesson. Here you’ll get a code review by the correction bot, so you can instantly check the result of your work. In that case you have mistakes in it, you’ll get detailed information about what went wrong so you’ll never get stuck at a problem.</span></p>
+<p><div id="attachment_10534" style="width: 1022px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10534" loading="lazy" class="wp-image-10534" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/hackinscience-1024x580.png" alt="" width="1012" height="573" srcset="/blog/wp-content/uploads/2020/11/hackinscience-1024x580.png 1024w, /blog/wp-content/uploads/2020/11/hackinscience-300x170.png 300w, /blog/wp-content/uploads/2020/11/hackinscience-768x435.png 768w, /blog/wp-content/uploads/2020/11/hackinscience-1080x612.png 1080w, /blog/wp-content/uploads/2020/11/hackinscience.png 1246w" sizes="(max-width: 1012px) 100vw, 1012px" /><p id="caption-attachment-10534" class="wp-caption-text">Credit:<a href="https://www.hackinscience.org/" target="_blank" rel="noopener external" data-wpel-link="external"> Hack in Science</a></p></div></p>
+<p><span style="font-weight: 400;">“The Hackinscience platform is free, without ads, and open-source (</span><a href="http://framagit.org/hackinscience/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">repo on framagit</span></a><span style="font-weight: 400;">) powered by a </span><a href="https://www.hackinscience.org/team/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">team</span></a><span style="font-weight: 400;"> of Python passionates.”</span></p>
+<h3><span style="font-weight: 400;">9. </span><a href="https://www.python-academy.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python-academy </span></a></h3>
+<p><span style="font-weight: 400;">Python Academy is a versatile coding school where you can participate in several Python-specialized courses </span><b>from the beginner level to advanced courses.</b></p>
+<p><span style="font-weight: 400;">What makes Python-academy special is the courses are available in several languages besides english &#8211; you can study in german, italian and dutch as well.</span></p>
+<p><span style="font-weight: 400;">Half of the courses are </span><b>available remotely </b><span style="font-weight: 400;">but if you prefer the personal classes, you can pick the nearest location </span><a href="https://www.python-academy.com/courses/dates/index.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">from the list</span></a><span style="font-weight: 400;"> of the active courses which contains the dates of upcoming courses almost a year in advance.</span></p>
+<p><div id="attachment_10535" style="width: 806px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10535" loading="lazy" class="wp-image-10535 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/pythonacademy3.png" alt="" width="796" height="506" srcset="/blog/wp-content/uploads/2020/11/pythonacademy3.png 796w, /blog/wp-content/uploads/2020/11/pythonacademy3-300x191.png 300w, /blog/wp-content/uploads/2020/11/pythonacademy3-768x488.png 768w" sizes="(max-width: 796px) 100vw, 796px" /><p id="caption-attachment-10535" class="wp-caption-text">Credit: <a href="https://www.python-academy.com/" target="_blank" rel="noopener external" data-wpel-link="external">Python Academy</a></p></div></p>
+<p><span style="font-weight: 400;">You can choose from </span><a href="https://www.python-academy.com/courses/python_course_open.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">open courses</span></a><span style="font-weight: 400;"> as an individual or if you are looking for a programming course for your team, there is an option for </span><a href="https://www.python-academy.com/courses/python_course_company.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">company courses</span></a><span style="font-weight: 400;"> as well.</span></p>
+<p><span style="font-weight: 400;">There are two types of introductory courses:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.python-academy.com/courses/python_course_nonprogrammers.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python for non-programmers </span></a><span style="font-weight: 400;">&#8211; for absolute beginners</span></li>
+<li style="font-weight: 400;"><a href="https://www.python-academy.com/courses/python_course_programmers.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python for programmers</span></a><span style="font-weight: 400;"> &#8211; if you are already experienced in programming</span></li>
+</ul>
+<p><span style="font-weight: 400;">Most of the courses are </span><b>5 days long, </b><span style="font-weight: 400;">so you can finish a Python beginner specialization even during your holiday.</span></p>
+<p><span style="font-weight: 400;">Besides entry-level courses there are also intermediate and advanced </span><a href="https://www.python-academy.com/courses/index.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">specializations </span></a><span style="font-weight: 400;">like </span><a href="https://www.python-academy.com/courses/python_course_scientists.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python for Scientists and Engineers.</span></a></p>
+<p><span style="font-weight: 400;">The seminars are held by the Python Academy’s Teaching Center in Leipzig, Germany, but the courses are </span><b>reachable at several spots in Europe,</b><span style="font-weight: 400;"> and if you are far from every physical location of the institute, you still can do the </span><a href="https://www.python-academy.com/courses/python_course_remote.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">courses remotely.</span></a></p>
+<p><div id="attachment_10536" style="width: 703px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10536" loading="lazy" class="wp-image-10536 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/pythonacademy2.png" alt="" width="693" height="755" srcset="/blog/wp-content/uploads/2020/11/pythonacademy2.png 693w, /blog/wp-content/uploads/2020/11/pythonacademy2-275x300.png 275w" sizes="(max-width: 693px) 100vw, 693px" /><p id="caption-attachment-10536" class="wp-caption-text">Credit: <a href="https://www.python-academy.com/" target="_blank" rel="noopener external" data-wpel-link="external">Python Academy</a></p></div></p>
+<p><span style="font-weight: 400;">About the</span><a href="https://www.python-academy.com/courses/prices.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;"> prices</span></a><span style="font-weight: 400;"> you can get more information at the company &#8211; the actual</span><b> fees of the courses could depend on the location’s VAT protocol</b><span style="font-weight: 400;"> where you are attending from.</span></p>
+<h3><span style="font-weight: 400;">10. </span><a href="https://coddyschool.com/en/courses/english-python/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Coddyscool </span></a></h3>
+<p><span style="font-weight: 400;">As for the course palette of Coddyscool it seems like there is nothing that could be impossible for this team.</span></p>
+<p><span style="font-weight: 400;">They offer a wide range of programming courses, including Python3 as well.</span></p>
+<p><span style="font-weight: 400;">The</span><b> training could be taken personally or online.</b><span style="font-weight: 400;"> The school is available in several countries, so it is worth a try to check if there is a Coddyscool near you too.</span></p>
+<p><div id="attachment_10537" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10537" loading="lazy" class="wp-image-10537 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/coddyscool1-1024x661.png" alt="" width="1024" height="661" srcset="/blog/wp-content/uploads/2020/11/coddyscool1-1024x661.png 1024w, /blog/wp-content/uploads/2020/11/coddyscool1-300x194.png 300w, /blog/wp-content/uploads/2020/11/coddyscool1-768x496.png 768w, /blog/wp-content/uploads/2020/11/coddyscool1-1080x698.png 1080w, /blog/wp-content/uploads/2020/11/coddyscool1.png 1155w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10537" class="wp-caption-text">Credit: <a href="https://coddyschool.com/en/courses/english-python/" target="_blank" rel="noopener external" data-wpel-link="external">Coddyscool</a></p></div></p>
+<p><span style="font-weight: 400;">There are </span><b>many kinds of available language</b><span style="font-weight: 400;"> so if you prefer to learn in french or russian it is also not a problem here.</span></p>
+<p><span style="font-weight: 400;">Half of the programming courses are </span><b>specialised for children </b><span style="font-weight: 400;">&#8211; they can start it from the age 3 -, and they are organising courses for adults as well.</span></p>
+<p><span style="font-weight: 400;">The courses generally take </span><b>6 month to complete, </b><span style="font-weight: 400;">and you can choose individual or group lessons, for sure learning in a group would be cheaper than to take personal classes.</span></p>
+<p><div id="attachment_10538" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10538" loading="lazy" class="wp-image-10538 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/coddyscool2-1024x507.png" alt="" width="1024" height="507" srcset="/blog/wp-content/uploads/2020/11/coddyscool2-1024x507.png 1024w, /blog/wp-content/uploads/2020/11/coddyscool2-300x149.png 300w, /blog/wp-content/uploads/2020/11/coddyscool2-768x380.png 768w, /blog/wp-content/uploads/2020/11/coddyscool2-1080x535.png 1080w, /blog/wp-content/uploads/2020/11/coddyscool2.png 1203w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10538" class="wp-caption-text">Credit: <a href="https://coddyschool.com/en/courses/english-python/" target="_blank" rel="noopener external" data-wpel-link="external">Coddyscool</a></p></div></p>
+<p><span style="font-weight: 400;">What you’ll learn at the Coddyscool Python3 course?</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn the basics of english language (if you are not a native speaker)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn the basics of Python programming</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Learn to read technical documentation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Significantly develop the vocabulary</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Write several programs in Python</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You can get gifts for achievements</span></li>
+</ul>
+<p><div id="attachment_10539" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10539" loading="lazy" class="wp-image-10539 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/coddyscool3-1024x416.png" alt="" width="1024" height="416" srcset="/blog/wp-content/uploads/2020/11/coddyscool3-1024x416.png 1024w, /blog/wp-content/uploads/2020/11/coddyscool3-300x122.png 300w, /blog/wp-content/uploads/2020/11/coddyscool3-768x312.png 768w, /blog/wp-content/uploads/2020/11/coddyscool3-1080x439.png 1080w, /blog/wp-content/uploads/2020/11/coddyscool3.png 1209w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10539" class="wp-caption-text">Credit: <a href="https://coddyschool.com/en/courses/english-python/" target="_blank" rel="noopener external" data-wpel-link="external">Coddyscool</a></p></div></p>
+<p><span style="font-weight: 400;">The prices of the course depend on the locale and the class (personal or group courses), so if you’d like to attend Coddyscool, it is worth paying attention if your personal preferences are well selected on the website before applying.</span></p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">11. </span><a href="https://www.edx.org/learn/python" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Edx.org </span></a></h3>
+<p><span style="font-weight: 400;">Just like Coursera, Edx also collects several courses of programming, where you can find the perfect fit for your study level and for your demands.</span></p>
+<p><span style="font-weight: 400;">Here we would like to introduce a </span><b>beginner programming course</b><span style="font-weight: 400;"> provided by Georgia Tech:</span><i></i></p>
+<ul>
+<li><i><span style="font-weight: 400;">self -paced</span></i></li>
+<li><i><span style="font-weight: 400;">Expert instruction &#8211; 4 skill-building courses</span></i></li>
+<li><i><span style="font-weight: 400;">5 months long, 9-10 hours/week</span></i></li>
+<li><i><span style="font-weight: 400;">356.40$</span></i></li>
+</ul>
+<p><a href="https://www.edx.org/professional-certificate/introduction-to-python-programming" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;"> Introduction to Python programming</span></a></p>
+<p><span style="font-weight: 400;">At this introductory course you’ll learn the fundamental design cycle of computer science and computer programming: </span><b>writing code, executing it, interpreting the results, and revising the code based on the outcomes.</b></p>
+<p><div id="attachment_10540" style="width: 539px" class="wp-caption alignright"><img aria-describedby="caption-attachment-10540" loading="lazy" class="wp-image-10540" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/edx1.png" alt="" width="529" height="392" srcset="/blog/wp-content/uploads/2020/11/edx1.png 773w, /blog/wp-content/uploads/2020/11/edx1-300x222.png 300w, /blog/wp-content/uploads/2020/11/edx1-768x569.png 768w" sizes="(max-width: 529px) 100vw, 529px" /><p id="caption-attachment-10540" class="wp-caption-text">Credit: <a href="https://www.edx.org/professional-certificate/introduction-to-python-programming" target="_blank" rel="noopener external" data-wpel-link="external">Edx.org</a></p></div></p>
+<p><span style="font-weight: 400;">You’ll study about </span><b>variables, mathematical and logical operators, and boolean arithmetic, </b><span style="font-weight: 400;">which are important basics of programming and also help to improve analytical thinking.</span></p>
+<p><i><span style="font-weight: 400;">Lessons you’ll learn: </span></i></p>
+<ul>
+<li><i><span style="font-weight: 400;">Fundamentals and procedural programming</span></i></li>
+<li><i><span style="font-weight: 400;">Control structures</span></i></li>
+<li><i><span style="font-weight: 400;">Data structures</span></i></li>
+<li><i><span style="font-weight: 400;">Objects and algorithms</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">There is also a lesson about </span><b>control and core data structures,</b><span style="font-weight: 400;"> where you’ll meet the conditionals, loops, functions and error handling, and you’ll also get familiar with strings, lists, dictionaries and file manipulation. The last step is the </span><b>object-oriented programming,</b><span style="font-weight: 400;"> and the most important computer algorithms, so by the end of the course you’ll have all the knowledge about Python, what is needed to create your own projects.</span></p>
+<p><span style="font-weight: 400;">The course is </span><b>5 months long,</b><span style="font-weight: 400;"> and you need to spend 9-10 hours weekly with the lessons. As an online course, you can learn the basics of Python from home as well.</span></p>
+<p><iframe loading="lazy" title="Introduction to Computing using Python | GTx on edX | Course About Video" width="1080" height="608" src="https://www.youtube.com/embed/L4ouijQWh6g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3></h3>
+<h3><a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">12. Cisco Networking Academy </span></a></h3>
+<p><span style="font-weight: 400;">The name of “Cisco” could ring a bell for those who are interested in IT-related training, as they provide a wide range of </span><b>certified courses</b><span style="font-weight: 400;"> which are preferred by companies as well.</span></p>
+<p><div id="attachment_10541" style="width: 422px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10541" loading="lazy" class="wp-image-10541" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/cisco1.png" alt="" width="412" height="359" /><p id="caption-attachment-10541" class="wp-caption-text">Credit: <a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python" target="_blank" rel="noopener external" data-wpel-link="external">Cisco Academy</a></p></div></p>
+<p><span style="font-weight: 400;">As for Python, they offer a </span><b>70 hours long programming course</b><span style="font-weight: 400;"> on intermediate level, so basic knowledge of programming or Python coding is needed for completion.</span></p>
+<p><span style="font-weight: 400;">Cisco Academy has several institutions around the world where you can attend their courses &#8211; theoretically, as the course itself is online and led by an Instructor -, so the course-prices depend on the location where you’d like to complete the class. </span></p>
+<p><span style="font-weight: 400;">It is worth checking their website where you can get all the information you need to get started with Python3.</span></p>
+<p><div id="attachment_10542" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10542" loading="lazy" class="wp-image-10542 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/cisco2.png" alt="" width="1024" height="234" srcset="/blog/wp-content/uploads/2020/11/cisco2.png 1024w, /blog/wp-content/uploads/2020/11/cisco2-300x69.png 300w, /blog/wp-content/uploads/2020/11/cisco2-768x176.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10542" class="wp-caption-text">Credit: <a href="https://www.netacad.com/courses/programming/pcap-programming-essentials-python" target="_blank" rel="noopener external" data-wpel-link="external">Cisco Academy</a></p></div></p>
+<p><span style="font-weight: 400;">The course is </span><b>available in English, Polish and Spanish languages.</b></p>
+<h3><span style="font-weight: 400;">13. </span><a href="https://codefactory.wien/en/python-programming-en/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Codefactory </span></a></h3>
+<p><span style="font-weight: 400;">Codefactory is </span><b>located in Wien, Austria, </b><span style="font-weight: 400;">so if you are looking for a programming school in the near, this could be a great option.</span></p>
+<p><span style="font-weight: 400;">They offer beginner and advanced Python courses, the </span><b>duration is 1 week</b><span style="font-weight: 400;"> for both.</span></p>
+<p><span style="font-weight: 400;">At the beginner course you’ll learn:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working in the Jupyter Notebook environment</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Importing packages</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Python basics, including syntax and mathematical operators, variables and data types</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Application of Strings and Regex</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create and edit Python lists, tuples, sentences and dictionaries</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Using functions and handling exceptions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The application of complex control flows</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The exciting concept of object-oriented programming (OOP)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Working efficiently with files</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Pandas DataFrame</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Through a series of exercises, you will become a Python-Guru in no time at all</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Finally, you create your own real project with Python</span></li>
+</ul>
+<p><span style="font-weight: 400;">As it is written on their website, “the course is very intense, but </span><b>no prior experience with programming or Python is needed.</b><span style="font-weight: 400;"> All you need is your ambitions and motivations.”</span></p>
+<p><span style="font-weight: 400;">The courses are available in english, so if you aren’t german speaker, you can still attend.</span></p>
+<p><span style="font-weight: 400;">The lessons are scheduled </span><b>from Monday to Thursday 9 a.m. to 4 p.m,</b><span style="font-weight: 400;"> the course fee is 450€.</span></p>
+<p><iframe loading="lazy" title="You want a well-paying career? Become a Software Tester | CodeFactory Vienna" width="1080" height="608" src="https://www.youtube.com/embed/7qAC2f2lWfQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><span style="font-weight: 400;">It is important to choose a learning format that </span><b>suits your needs </b><span style="font-weight: 400;">and which </span><b>lets you study as efficiently as possible.</b></p>
+<p><span style="font-weight: 400;">We hope that you found this compilation useful, and we wish you all the best in learning Python.</span></p>
+<p><span style="font-weight: 400;">For more tips on how to choose the course that’s right for you and for some help in taking the first steps, check out the articles published in our </span><a href="https://codeberryschool.com/blog/en/category/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Basics of Programming</span></a><span style="font-weight: 400;"> series. If you are not set on Python yet, make sure to look at our lists of </span><a href="https://codeberryschool.com/blog/en/java-course-java-programming-course/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Java courses</span></a><span style="font-weight: 400;"> as well.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

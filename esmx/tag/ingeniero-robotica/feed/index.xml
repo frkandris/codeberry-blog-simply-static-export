@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ingeniero robotica | CodeBerry Blog</title>
+	<atom:link href="/blog/esmx/tag/ingeniero-robotica/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Mon, 18 Nov 2019 08:41:13 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Soy László Békéssy, director de CodeBerry e ingeniero en robótica, y así es como trabajo</title>
+		<link>/blog/esmx/soy-laszlo-bekessy-director-de-una-escuela-e-ingeniero-en-robotica-y-asi-es-como-trabajo/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 15 Aug 2018 10:41:21 +0000</pubDate>
+				<category><![CDATA[Entrevista]]></category>
+		<category><![CDATA[automación]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[director asi]]></category>
+		<category><![CDATA[director de escuela]]></category>
+		<category><![CDATA[donde puede trabajar un ingeniero en robotica]]></category>
+		<category><![CDATA[eingeniero]]></category>
+		<category><![CDATA[Hungría]]></category>
+		<category><![CDATA[ingeniero de robotica]]></category>
+		<category><![CDATA[ingeniero en robotica]]></category>
+		<category><![CDATA[ingeniero robotica]]></category>
+		<category><![CDATA[ingeniero robotico]]></category>
+		<category><![CDATA[ingenieros roboticos]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[que hace un ingeniero en robotica]]></category>
+		<category><![CDATA[que hace un ingeniero robotico]]></category>
+		<category><![CDATA[sotepedia]]></category>
+		<category><![CDATA[trabajo de director de escuela]]></category>
+		<category><![CDATA[UNIX]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6180</guid>
+
+					<description><![CDATA[László Békéssy se graduó como ingeniero eléctrico y ahora trabaja como desarrollador, además de ser cofundador y Director General de la Escuela de Programación CodeBerry. Durante la entrevista, descubrimos un poco sobre cómo auto-escribir códigos, proyectos de los que Laci se enamoró, prejuicios que experimentó en el campo de las TI y por qué él [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>László Békéssy</strong> se graduó como ingeniero eléctrico y ahora trabaja como desarrollador, además de ser cofundador y Director General de la Escuela de Programación CodeBerry. Durante la entrevista, descubrimos un poco sobre cómo auto-escribir códigos, proyectos de los que Laci se enamoró, prejuicios que experimentó en el campo de las TI y por qué él considera que la independencia total es importante en el trabajo.</p>
+<blockquote>
+<p><strong>Vivo en:</strong> Budapest, Hungría<br />
+<strong>Trabajo en:</strong> la Escuela de Programación CodeBerry.<br />
+<strong>Trabajo con:</strong> iPhone, Dell, Windows + mi computadora llena de sistemas UNIX.<br />
+<strong>Mi estilo de trabajo en una palabra:</strong> listo. (Esto es difícil de describir en una sola palabra porque &#8220;listo&#8221; significa algo diferente para todos. Permíteme citar a Marsellus Wallace: &#8220;Si está listo, está listo. No hay nada más que hacerle&#8221;).</p>
+</blockquote>
+<p><strong>Cuando te preguntan sobre tu profesión, ¿cómo respondes?</strong><br />
+Comienzo a filosofar sobre los significados de profesión, vocación y trabajo, y me pregunto si la persona ya habrá encontrado su vocación. Sin embargo, no me gusta contestar esta pregunta porque es la segunda más popular para comenzar una plática después del típico &#8220;¿cómo te va?&#8221;, y yo prefiero conversaciones más profundas. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Por el contrario, normalmente digo que soy director de CodeBerry así como experto en automatización; creo robots automatizados.</p>
+<p>&nbsp;</p>
+<p><strong>Cuéntame más sobre tus actividades relacionadas a la programación.</strong><br />
+Automatizo actividades que ocurren más de tres veces.<br />
+Dentro de un producto (CodeBerry, para ser preciso), los clientes tienen ciclos de vida largos y diversos. Tenemos que seguirlos desde el momento en que llegan al sitio y le dan clic a un botón.<br />
+Mi tarea es asegurarme de que ocurre una interacción cuando un estudiante potencial llega a nuestro sitio, por supuesto, de una manera totalmente automatizada. Por ejemplo, yo me aseguro de que:</p>
+<ul>
+<li>Se puedan registrar y recibir los correos de confirmación.</li>
+<li>Puedan pagar.</li>
+<li>Sean medidos con analítica.</li>
+<li>Reciban los correos automáticos correctos cuando lo necesitan.</li>
+<li>Reciban su factura.</li>
+<li>Podamos saber a través de cuál campaña nos encontraron y cuál funciona mejor.</li>
+<li>No puedan ingresar a nuestro sitio después de cancelar su suscripción y que reciban su reembolso cuando lo soliciten.</li>
+</ul>
+<p>Además, realizo muchas otras actividades de fondo para que nuestros productos sean lo más confiables posible. No es fácil asegurarse de que, cuando se restablece un servidor, todo quede exactamente igual al anterior, pero es algo completamente automatizado. De esta manera, dormimos tranquilos y seguros todas las noches.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cómo se ve tu espacio de trabajo?</strong><br />
+La mayor parte del tiempo trabajo desde mi oficina en casa, a veces desde un café, pero eso es más incómodo. Hay tres cosas sumamente importantes en mi escritorio: mi laptop (obviamente), un par de audífonos (siempre escucho música mientras trabajo; no bromeo: es siempre) y dos tipos de silla diferentes (estoy sentado mucho tiempo, así que tengo que cambiarlas de vez en cuando).<br />
+Planeo invertir en un escritorio de pie; eso definitivamente mejoraría mi estilo de trabajo. ¡Ah!, y casi siempre tengo té o agua junto a mí para beber lo suficiente y pararme con frecuencia.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuándo, dónde y cómo aprendiste a programar?</strong><br />
+Durante las clases de TI en la universidad. De hecho, comencé a aprender desde los 14, pero no me interesó mucho sino hasta cuando terminábamos la universidad, que fue cuando comenzamos a aprender sobre códigos autogenerados y robots automatizados. Si traducimos mi filosofía de una manera positiva, diría que quiero que muchos especialistas en TI trabajen en algo útil en vez de seguir haciendo lo que sea que están haciendo ahora. Si queremos ser más directos, podríamos decir que quiero detener los trabajos de muchos del área de las TI. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p><strong>¿Cuáles son las oportunidades laborales para los desarrolladores web? En promedio, ¿cuánto tiempo pasaste buscando trabajo?</strong><br />
+Nunca busqué. Los ingenieros, desarrolladores, especialistas en TI e ingenieros eléctricos siempre son necesarios. Por cierto, tengo un título en ingeniería eléctrica, enfocado en TI (sistemas integrados).</p>
+<p>&nbsp;</p>
+<p><strong>¿Cómo es tu horario?</strong><br />
+Mi ruta semanal típica luce más o menos así:</p>
+<ul>
+<li>Lunes: Paso el día entero en reuniones (estableciendo estrategias y tareas operativas) para no tener que lidiar con ellas el resto de la semana.</li>
+<li>Martes: hay una discusión de estrategias a largo plazo en la mañana. Después, por lo general me reúno con quien sea con quien deba reunirme.</li>
+<li>Miércoles-Jueves: Estoy en casa todo el día y nadie me molesta. A veces trabajo de 10 a 12 horas, pero cuando tengo que hacer otras cosas, &#8220;sólo&#8221; trabajo 6. Estos son los tiempos netos, excluyendo el almuerzo, las conversaciones o el tiempo que paso en el baño.</li>
+<li>Viernes: comenzamos con un resumen de la semana y después planeamos la siguiente. Mis actividades en la tarde varían.</li>
+</ul>
+<p>Sábado-Domingo: 80% del tiempo estoy libre. Pero como empresario, a veces tengo que trabajar tiempo completo.<br />
+Así es más o menos como me pasé mi último año. Estoy muy satisfecho con esta rutina flexible porque estoy a cargo de las horas que trabajo y no tengo que viajar a una oficina todo el tiempo. Siempre tengo algunos días en los que puedo trabajar sin perturbaciones. Este es el sueño de todo desarrollador.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué te sorprendió de este trabajo, sobre el cual nunca habías pensado antes?</strong><br />
+Nunca habría imaginado que terminaría programando tanto, pero me alegra poder crear cosas; especialmente cuando trabajo en proyectos que me motivan.</p>
+<p>&nbsp;</p>
+<p><strong>¿Hay algo que sabes hacer que sorprendería a la gente cotidiana?</strong><br />
+Por desgracia, las personas suelen terminar la conversación después de escuchar &#8220;TI&#8221; y &#8220;programación&#8221;, diciendo que no son buenos en matemáticas. Sin embargo, pienso que las TI son interesantes y nada complejas, sin mencionar que es algo de lo que puedes hablar de una manera en la que todos puedan entender. A un amigo y a mí nos gusta competir; intentamos explicar los conceptos más difíciles de TI, físicas y matemáticas con una caja y un gato (nos inspiró el gato de Schrödinger) a todo el mundo. Hemos conseguido hacerlo con todos, excepto uno (circonvolución). <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Regresando a la pregunta, todo lo que me interesa de las TI puede sorprender (o aburrir) a las personas cotidianas; especialmente la parte de la automatización:<br />
+&#8220;¿Puedes hacer un programa que descargue todas las fotos de tu teléfono a tu computadora, cambiarles el nombre, ordenarlas por fechas y subirlas a Internet?&#8221;<br />
+&#8220;Sip, dame 10 minutos&#8221;.</p>
+<p>&nbsp;</p>
+<p><strong>¿Con quien trabajas?</strong><br />
+Trabajo con los cofundadores de CodeBerry. El equipo tiene historia. Hemos trabajado juntos por 8 años y tenemos otros proyectos favoritos también: Invisible University, YearCompass y SotePedia, sólo por nombrar algunos grandes ejemplos.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuáles son las trayectorias profesionales típicas en tu profesión?</strong><br />
+No tengo una buena respuesta para esta pregunta porque mis actividades semanales incluyen cuatro o cinco profesiones. Las llamamos &#8220;sombreros&#8221; en la compañía porque, antes de cada tarea, asignamos a quien va a usar cada sombrero, lo cual significa que haremos aquella actividad en ese momento. Construir la compañía, hablarle al contador, configurar servidores, crear una estrategia o escribir código, todo requiere habilidades diferentes.<br />
+Presentarnos con nuestros &#8220;sombreros&#8221; es un ritual divertido que hacemos antes de cada reunión. Es una parte divertida, pero desafiante del emprendimiento.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuáles son tus planes? ¿Cómo te gustaría continuar?</strong><br />
+Estamos 100% enfocados en CodeBerry por ahora. Planeamos expandirnos internacionalmente, y eso es muy emocionante. Lo demás se lo dejamos a lo que el futuro nos depare. Ya veremos.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué otra profesión escogerías si tuvieras que cambiar? ¿Podrías cambiar?</strong><br />
+No quisiera cambiar. Hace cinco años reevalué aspectos importantes del trabajo. Estas fueron mis conclusiones:</p>
+<ul>
+<li>Puedo administrar mi propio tiempo. No necesito registrar mi entrada.</li>
+<li>Puedo trabajar en proyectos que considero que valen la pena y tienen beneficios.</li>
+<li>Trabajo con personas que exceden las expectativas.</li>
+<li>Trabajo con personas que saben comunicarse bien.</li>
+<li>Trabajo en proyectos que tienen grandes efectos en los demás.</li>
+<li>Mi trabajo genera ingresos pasivos.</li>
+<li>Si quiero, puedo parar en cualquier momento.</li>
+<li>Mi lugar de trabajo no está a más de 15 o 20 minutos de mi casa. Puedo trabajar desde mi casa, si así lo deseo.</li>
+<li>Bueno, mi trabajo actual cumple con todo lo anterior.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>¿Qué habilidades necesitan los buenos desarrolladores o expertos de las TI? ¿A quién no le recomiendas esta profesión?</strong><br />
+Creo que sólo puedes ser bueno si te gusta lo que haces. Afortunadamente, la programación se ha vuelto algo como la natación ahora: puedes intentarlo, y si te gusta, continúa. Si no te gusta, déjala. Si te gusta la contabilidad o servir comida, hazlo. Si no, déjalo. Ya sabes a lo que me refiero.<br />
+Sólo inténtalo, ve más allá de tus capacidades y ámalo o déjalo.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuál es tu parte favorita?</strong><br />
+Crear y enfocarme en cosas.<br />
+Como dije anteriormente, siempre escucho música mientras trabajo porque así puedo alcanzar mi máxima concentración en menos de 5 minutos. Escucho vocal trance femenino, chill step o trance progresivo porque tienen un tempo similar al de mis ondas cerebrales.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué es lo que te mueve? ¿Cuáles son las dificultades y peligros de tu profesión?</strong><br />
+Algunos días todo marcha bien. Cada línea de código que escribo funciona bien, todo es sencillo y termino todas las tareas que quiero. De hecho, hago algunas cosas extras también. Estos son los días que registro en mi calendario; tengo dos de cada año.<br />
+El resto es más complicado. El 20% de mi trabajo es programación efectiva y el 80% es más depuración y prueba. En algunos casos extremos, me dirijo a la comunidad de StackOverflow para buscar ayuda y correr las líneas que sugieren sin saber qué es lo que hacen.<br />
+Realmente no recomiendo esta profesión para quienes no les gusta investigar y descubrir cosas. Estos elemento son necesarios para encontrar en el código lo que no funciona apropiadamente. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>&nbsp;</p>
+<p><strong>¿Qué tan estable es tu trabajo? ¿Cuánto tiempo pasa uno trabajando para la misma empresa?</strong><br />
+Mi trabajo es estable. Soy el jefe.<br />
+Para ser honesto, nunca he trabajado más de 2 o 3 años en el mismo lugar o en el mismo proyecto, y planeo seguir con esta tendencia.</p>
+<p>&nbsp;</p>
+<p><strong>Si tuvieras que pedir algo en nombre de todos los desarrolladores, ¿qué sería?</strong><br />
+Dale una oportunidad a la programación, tal vez te guste. De ser así, tu vida será mucho mejor que ahora.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuánto puede ganar alguien en esta profesión (cómo novato, con experiencia y veterano)?</strong><br />
+Comencé mi carrera en una empresa multinacional, así que me pagaban la cantidad típica del final de la escalera.<br />
+No diría que tengo mucha experiencia o sea veterano, pero con lo que sé ahora, probablemente me podrían contratar con un salario anual de más de $670,000 pesos. No tiene que ser un trabajo de desarrollador, puede ser como líder de equipo de tecnologías o subdirector.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuál crees que es la mejor manera de aprender a programar?</strong><br />
+Escoge un proyecto de tu lista de cosas por hacer (esa lista de cosas que quisieras hacer, pero claro que nunca tienes tiempo&#8230;) y prográmalo.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué hace que valga la pena aprender a programar?</strong><br />
+No vale la pena a menos que de verdad te guste hacerlo.<br />
+Pero definitivamente vale la pena olvidar la idea errónea de que sólo puedes ser desarrollador si te gustan las matemáticas y la física. Así no es como funciona. Tengo amigos farmacólogos, economistas, artistas y pintores a quienes les gusta programar. Algunos de ellos lo hacen por dinero, otros están motivados por un deseo de realización personal. Deberías intentarlo también.</p>
+<p>&nbsp;</p>
+<p><b><i>¿Te gustaría aprender a programar? Ven y prueba nuestras primeras 25 lecciones sin costo en la </i></b><a href="http://codeberryschool.com/esmx" data-wpel-link="external" target="_blank" rel="external"><b><i>Escuela de Programación CodeBerry</i></b></a><b><i>.</i></b></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

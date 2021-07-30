@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>javascript for loop | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/javascript-for-loop/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 29 May 2021 12:34:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best way of using JavaScript forEach method</title>
+		<link>/blog/en/javascript-foreach-loop/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sat, 29 May 2021 12:09:07 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[array foreach]]></category>
+		<category><![CDATA[foreach in javascript]]></category>
+		<category><![CDATA[foreach loop javascript]]></category>
+		<category><![CDATA[foreach object javascript]]></category>
+		<category><![CDATA[javascript array]]></category>
+		<category><![CDATA[javascript for]]></category>
+		<category><![CDATA[javascript for loop]]></category>
+		<category><![CDATA[javascript foreach array]]></category>
+		<category><![CDATA[javascript map foreach]]></category>
+		<category><![CDATA[js foreach]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13249</guid>
+
+					<description><![CDATA[In this article, we are going to cover the JavaScript forEach() method. This method is used to iterate over an array of values by calling the custom function once for each element in the array. &#160; Iterating over an array of values with JavaScript forEach loop Before we begin we will first need to create [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">In this article, we are going to cover the JavaScript </span><span style="font-weight: 400;">forEach()</span><span style="font-weight: 400;"> method. This method is used to iterate over an array of values by calling the custom function once for each element in the array.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="JavaScript ForEach loop – JavaScript tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/EtcHYsmbI4s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><span style="font-weight: 400;">Iterating over an array of values with JavaScript forEach loop</span></h2>
+<p><span style="font-weight: 400;">Before we begin we will first need to create an HTML skeleton and then define script tags within which we will write javascript code as shown below.</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="foreach1" src="https://codepen.io/codeberryschool/embed/abJLxpE?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/abJLxpE" target="_blank" rel="noopener external" data-wpel-link="external">foreach1</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Define an array of fruits in between the script tags </span><span style="font-weight: 400;">&lt;script&gt; &lt;/script&gt; </span><span style="font-weight: 400;">containing the following types of fruits: </span><span style="font-weight: 400;">[ ‘apple’, ‘cherry’, ‘pineapple’].</span><span style="font-weight: 400;"> To get started we will need to write the name of the array we have just created, place a dot notation before writing the forEach method with parenthesis in the end. Make sure that the name Each in the method starts with a capital letter. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="Learn JavaScript forEach method" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In between the parentheses of the method, pass the name of the custom function that we are going to create. For this example, the name of the function is going to be “</span><span style="font-weight: 400;">my_function</span><span style="font-weight: 400;">”. Now, we will need to define this function using the “function” keyword and the name we have just assigned to it above. A function in Javascript contains parentheses where we will pass parameters and curly brackets where we can write some code.</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="foreach2" src="https://codepen.io/codeberryschool/embed/KKWXYvg?height=369&amp;theme-id=dark&amp;default-tab=html,result" height="369" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/KKWXYvg" target="_blank" rel="noopener external" data-wpel-link="external">foreach2</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In the function definition, we are going to list three parameters;</span><span style="font-weight: 400;"> an item</span><span style="font-weight: 400;"> which will be regressively apple, cherry and pineapple. We will then list </span><span style="font-weight: 400;">i</span><span style="font-weight: 400;">ndex</span><span style="font-weight: 400;"> as the second parameter and because javascript is a zero-based index language, apple, cherry and pineapple will bear index zero, one and two respectively. The third parameter that we will list is the</span><span style="font-weight: 400;"> array </span><span style="font-weight: 400;">itself since we are going to do an in-place modification of the array itself. As shown in the code above.</span></p>
+<p><span style="font-weight: 400;">However, we are going to look at three examples. Each one is going to require a different set of parameters. In the first example, we will use the item parameter, both the item and index parameter in the second example and all the three parameters in the last example.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="Python for loop" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Example One</span></h3>
+<p><span style="font-weight: 400;">Using the code that we already have displayed above in this example, we are going to customize the function name to be “</span><span style="font-weight: 400;">display</span><span style="font-weight: 400;">” and remove both the index and array parameters. Both in the function definition and inside the </span><span style="font-weight: 400;">forEach() </span><span style="font-weight: 400;">method parentheses. In order to display the results of the display function, we’ll need to create a paragraph outside the script tags with an</span><span style="font-weight: 400;"> id = “for_each_example”.</span></p>
+<p><span style="font-weight: 400;">In the curly braces, we are going to use </span><span style="font-weight: 400;">document.getElementById(“for_each_example”)</span><span style="font-weight: 400;">,</span><span style="font-weight: 400;"> a common javascript method that enables us to obtain information from the element bearing the id within the parentheses. We are going to attach a common property </span><span style="font-weight: 400;"> inner.HTML </span><span style="font-weight: 400;"> that will allow us to pass values from the array after we have concatenated them. As shown  in the code below</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="foreach3" src="https://codepen.io/codeberryschool/embed/OJpxGzJ?height=292&amp;theme-id=dark&amp;default-tab=html,result" height="350" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/OJpxGzJ" target="_blank" rel="noopener external" data-wpel-link="external">foreach3</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Note that if we remove the plus sign we will only obtain “</span><span style="font-weight: 400;">pineapple” </span><span style="font-weight: 400;">as the output.  We have also added a &#8220;break&#8221; element in order to make the output a bit more cleaner as well as another </span><span style="font-weight: 400;">&lt;p&gt;&lt;/p&gt;</span><span style="font-weight: 400;"> tag at the start of the body to make the HTML display a bit fancier. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Example two</span></h3>
+<p><span style="font-weight: 400;">In this example, we are going to use both the </span><span style="font-weight: 400;">item and index</span><span style="font-weight: 400;"> as parameters. Suppose we have an array with a long list of fruits and we need to determine the index of say </span><span style="font-weight: 400;">“pineapple”</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">We can determine this by concatenating both the items from the array and their respective indices in the same line. The out of this code displays an HTML page with apple, cherry and pineapple taking index zero, one and two respectively. If we add a new type of fruit as the fourth entry in the array it is going to assume index three. As illustrated in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="foreach4" src="https://codepen.io/codeberryschool/embed/dyvVLKw?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="350" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/dyvVLKw" target="_blank" rel="noopener external" data-wpel-link="external">foreach4</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h3><span style="font-weight: 400;">Example Three</span></h3>
+<p><span style="font-weight: 400;">We are going to explore how to use the third parameter together with the first two to perform an in-place modification of an array. However, note that we will use the exact same syntax used in the previous examples except for the new array of four numbers: [</span><span style="font-weight: 400;">56, 68, 3, 5]</span><span style="font-weight: 400;"> that will be named </span><span style="font-weight: 400;">“numbers”</span><span style="font-weight: 400;">. Since the new function name is </span><span style="font-weight: 400;">“add_two ”</span><span style="font-weight: 400;">, we should change it both in the function definition and in the </span><span style="font-weight: 400;">numbers.forEach(add_two)</span><span style="font-weight: 400;"> method. Furthermore, we should include the new parameter </span><span style="font-weight: 400;">“array”</span><span style="font-weight: 400;"> alongside</span><span style="font-weight: 400;"> “item” </span><span style="font-weight: 400;">and </span><span style="font-weight: 400;">“index”</span><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Inside the body of the function, we are going to perform an iteration such that  2 is added to each element every time it is returned. We intend to display the new array of numbers after the iteration, to achieve this we will use “</span><span style="font-weight: 400;">document.GetElementById”</span><span style="font-weight: 400;"> together with its property innerHTML. </span><span style="font-weight: 400;">This will output a new array of numbers with an increment of 2 as</span></p>
+<p><span style="font-weight: 400;">Shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="foreach5" src="https://codepen.io/codeberryschool/embed/QWpqPVG?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="265" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/QWpqPVG" target="_blank" rel="noopener external" data-wpel-link="external">foreach5</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener external" data-wpel-link="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener external" data-wpel-link="external">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener external" data-wpel-link="external">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener external" data-wpel-link="external">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener external" data-wpel-link="external">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener external" data-wpel-link="external">Creating a table using HTML and CSS</a></li>
+<li><strong>Best way of using JavaScript forEach method</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

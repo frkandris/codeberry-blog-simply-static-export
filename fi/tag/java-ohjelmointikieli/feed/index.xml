@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>java ohjelmointikieli | CodeBerry Blog</title>
+	<atom:link href="/blog/fi/tag/java-ohjelmointikieli/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 15 Jun 2021 16:26:37 +0000</lastBuildDate>
+	<language>fi-FI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Javan perusteet – Miten oppia Java-ohjelmointia?</title>
+		<link>/blog/fi/java-ohjelmointi-javan-perusteet/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 16:26:37 +0000</pubDate>
+				<category><![CDATA[Ohjelmointikielet]]></category>
+		<category><![CDATA[android koodaus]]></category>
+		<category><![CDATA[android ohjelmointi]]></category>
+		<category><![CDATA[java alkeet]]></category>
+		<category><![CDATA[java alkeiskurssi]]></category>
+		<category><![CDATA[java kirja]]></category>
+		<category><![CDATA[java koodari]]></category>
+		<category><![CDATA[java koodaus]]></category>
+		<category><![CDATA[java koulutus]]></category>
+		<category><![CDATA[java ohjelmoija]]></category>
+		<category><![CDATA[java ohjelmointi]]></category>
+		<category><![CDATA[java ohjelmointi netissä]]></category>
+		<category><![CDATA[java ohjelmointikieli]]></category>
+		<category><![CDATA[java peruskurssi]]></category>
+		<category><![CDATA[java tutoriaali]]></category>
+		<category><![CDATA[java video]]></category>
+		<category><![CDATA[javan alkeet]]></category>
+		<category><![CDATA[javan perusteet]]></category>
+		<category><![CDATA[javaohjelmointi]]></category>
+		<category><![CDATA[mikä on java]]></category>
+		<category><![CDATA[mitä on java]]></category>
+		<category><![CDATA[mobiili koodaus]]></category>
+		<category><![CDATA[opi javaa]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13414</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa. Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmointikoulu CodeBerryssä. Mitä on Java-ohjelmointi? Java (älä sekoita JavaScriptiin) on yleiskäyttöinen ohjelmointikieli, joka kehitettiin käytettäväksi monien eri laitteiden ohjelmistoissa, älypuhelimista ja -televisioista [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<h1>Mitä on Java-ohjelmointi?</h1>
+<p>Java (älä sekoita JavaScriptiin) on yleiskäyttöinen ohjelmointikieli, joka kehitettiin käytettäväksi monien eri laitteiden ohjelmistoissa, älypuhelimista ja -televisioista tietokoneisiin. Stack Overflow -sivuston tekemän <a href="https://insights.stackoverflow.com/survey/" target="_blank" rel="noopener external" data-wpel-link="external">ohjelmoijille suunnatun kyselyn</a> perusteella Java-ohjelmointi on viidenneksi suosituin ohjelmointimuoto heti SQL-ohjelmoinnin jälkeen!</p>
+<p>Java kehitettiin Sun Microsystemsin toimesta vuonna miekka ja kivi, toisin sanoen 1995, mutta se on edelleen suosittu kieli. Se on kuin yksinkertaisempi versio ohjelmointikielestä C++, ja Java on perinyt monia ominaisuuksia isoisältään Oakilta. Java-kielen iskulause ”WORA” on kirjainlyhenne sanoista ”<i>Write Once, Run Anywhere</i>”, joka kuuluu suomeksi ”<i>Kirjoita kerran, suorita missä haluat</i>”. Valmis koodi voidaan suorittaa millä tahansa Java-yhteensopivalla laitteella (sisäänrakennetun Java-kääntäjänsä ansiosta) ilman uudelleenkääntämistä.</p>
+<p><b>Tässä on klassinen ”Hello World”-esimerkki, jotta näet miltä Java näyttää:</b></p>
+<pre>class HelloWorldApp {
+    public static void main(String[ ] args) {
+        System.out.printIn(“Hello World!”); // Tulostaa tekstin ruudulle. 
+    }
+}
+
+<img loading="lazy" class="aligncenter size-large wp-image-13421" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg" alt="Java-ohjelmoijalle löytyy aina töitä" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-1536x1025.jpg 1536w, /blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-2048x1366.jpg 2048w, /blog/wp-content/uploads/2021/06/thisisengineering-raeng-64YrPKiguAE-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></pre>
+<h1></h1>
+<h1>Millaista Java-ohjelmointi on?</h1>
+<p>Java on riittävän fiksu olio-ohjelmointiin, mikä tarkoittaa että voit järjestää ominaisuuksia olioihin ja luokkiin. Kun olet määritellyt jotakin ohjelmassasi, voit viitata siihen myöhemmin kirjoittamatta koodia uudelleen! Toisen tyyppisillä, proseduraalisilla ohjelmointikielillä sinun on kirjoitettava valtava nippu toisistaan riippumattomia rivejä. Olioiden käytännöllisyyden puuttuessa kaikki täytyy aina määritellä uudelleen.</p>
+<h1>Käyttökohteet</h1>
+<p>Java-kielen mahtava juttu on se, että se on todella monipuolinen ja sillä kirjoitettua koodia voi löytää lähes miltä tahansa alalta. Itse asiassa sen jälkeen kun olet opetellut koodaamaan Javalla, käyttötarkoitukset sille eivät tule ikinä loppumaan. Yleisimpiä käyttökohteita ovat web-, mobiili- ja desktop-sovellukset.</p>
+<h2>Mobiili</h2>
+<p>Android-sovelluksia voi luoda kokonaan Javaan perustuen, eli sinusta voi tulla Android-kehittäjä jos tunnet kielen hyvin.</p>
+<h2>Web</h2>
+<p>Vaikka verkkosivustot luodaan HTML-, CSS-, ja JavaScript-koodilla, web-sovellukset ovat täynnä erilaisia komponentteja, joita voidaan kirjoittaa monilla ohjelmointikielillä. Monet web-sovellukset toimivat palvelinpuolen Java-koodilla. Se tukee myös applettien luomista, jotka ovat pieniä ohjelmia kuten pelejä, joita voidaan suorittaa suoraan selaimessa.</p>
+<h2>Desktop</h2>
+<p>Linjassa “<i>Write Once, Run Anywhere</i>” -filosofian kanssa, Javaa voidaan käyttää työpöytäsovellusten suorittamiseen monilla käyttöjärjestelmillä kuten Windows, MacOS ja Linux. Vaikka kieli itsessään ei kuulu täysin millekään alustalle, tarjolla on monia työkaluja joiden avulla voit suorittaa Javaa millä tahansa käyttöjärjestelmällä. Oracle, yritys joka osti Sun Microsystemsin (Javan luojan), tarjoaa kehittäjätyökaluja Java-ohjelmien kirjoittamiseen monille eri alustoille.</p>
+<h2>Enterprise</h2>
+<p>Java ei ole ainoastaan ohjelmointikieli, vaan se on myös alusta. Java EE, tai Java Enterprise Edition, on Java-alustan erityisversio yritysten sovelluksia varten. Java EE:tä hyödynnetään usein suuren mittakaavan tietoverkoissa ja se tarjoaa korporaatioille korkeatasoista turvallisuutta.</p>
+<h2>Palvelimet</h2>
+<p>Listalla viimeisimpänä, mutta ei vähäisimpänä on Javan käyttö palvelimilla. Java EE:n lisäksi Oracle tarjoaa Server JRE -palvelua, joka on täysin palvelimia varten suunniteltu Javan alusta. Lyhenne JRE tulee sanoista “Java Runtime Environment”.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/fi/java-ohjelmointi-1" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-13419" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/Java-basics-CTA-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/06/Java-basics-CTA-2.png 1024w, /blog/wp-content/uploads/2021/06/Java-basics-CTA-2-300x100.png 300w, /blog/wp-content/uploads/2021/06/Java-basics-CTA-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Paljonko Java-ohjelmoijan palkka on?</h1>
+<p><a href="https://www.payscale.com/research/US/Job=Java_Developer/Salary" target="_blank" rel="noopener external" data-wpel-link="external">Payscalen</a> mukaan Yhdysvalloissa toimivan Java-ohjelmoijan palkka on vuodessa keskimäärin $72 611, mikä tarkoittaa noin 5100 euron kuukausipalkkaa! <a href="https://codeberryschool.com/blog/fi/it-alan-palkat-2021/" data-wpel-link="external" target="_blank" rel="external">Saatoitkin jo tietää</a>, että pohjoisamerikkalaiset ohjelmoijat ovat tienesteissään maailman kärkipäätä.</p>
+<p>Vaikka kotimaassasi palkat olisivat vähän matalampia, avaat kuitenkin itsellesi mahtavia tienausmahdollisuuksia kun opettelet koodaamaan Javalla, riippumatta siitä missä päin maailmaa asut. Tiesitkö, että Malesiassa asuvat Java-ohjelmoijat voivat tienata jopa 1 200 % enemmän maan keskipalkkaan verrattuna? Ei huono! (Katso tiedot täältä: <a href="https://jobbatical.com/blog/java-developer-salary-by-countries-2017-infographic/" target="_blank" rel="noopener external" data-wpel-link="external">Java Developer Salary: Local &amp; Worldwide Comparison Infographic</a>).</p>
+<p>Suomessa Java-ohjelmoijan palkka pyörii <a href="https://www.palkkadata.fi/salaryinfo/it/java-ohjelmoija" target="_blank" rel="noopener external" data-wpel-link="external">palkkadata.fi</a>:n mukaan noin 2972€ ja 4234€ välillä. Kuuden kotimaisen palkkavertailusivuston keskivertotulokseksi saimme kuitenkin 3762€ kuukaudessa, joka vastaa noin 45 000€ vuosituloja. Vastaava luku oli myös monen muun palkkavertailusivuston keskipalkka.</p>
+<p>Aika laittaa hihat heilumaan?</p>
+<p>&nbsp;</p>
+<h1><img loading="lazy" class="aligncenter size-large wp-image-13422" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-1024x683.jpg" alt="Java-kirjoja löytyy myös kirjastosta" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/neonbrand-uEcSKKDB1pg-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></h1>
+<p>&nbsp;</p>
+<h1>Miten oppia Javan perusteet?</h1>
+<p>Kielen valtavan suosion ja kysynnän ansiosta niin verkossa, kuin muissakin muodoissa on saatavilla paljon oppimateriaalia oppiaksesi Javan perusteet. Lukeaksesi aiheesta kattavammin lisää voit selata läpi artikkelimme ”<a href="https://codeberryschool.com/blog/fi/kuinka-oppia-koodaamaan/" data-wpel-link="external" target="_blank" rel="external">Miten oppia koodaamaan?</a>”.</p>
+<p>Tässä joitakin ideoita oppiaksesi Javan perusteet kotona:</p>
+<p><strong>Nettikursseja tarjoavia sivustoja:</strong></p>
+<ul>
+<li aria-level="1"><a href="https://codeberryschool.com/fi/java-ohjelmointi-1" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://courses.helsinki.fi/fi/aytkt10002/129167935" target="_blank" rel="noopener external" data-wpel-link="external">Helsingin avoin yliopisto</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://campusonline.fi/course/ohjelmoinnin-perusteet-java/" target="_blank" rel="noopener external" data-wpel-link="external">Metropolia</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.arihovi.com/kurssit/java-ohjelmoinnin-perusteet/" target="_blank" rel="noopener external" data-wpel-link="external">Ari Hovi</a> (suomeksi)</li>
+<li aria-level="1"><a href="http://www.ohjelmointikoulutus.fi/kurssit" target="_blank" rel="noopener external" data-wpel-link="external">Ohjelmointikoulutus.fi</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://fitech.io/fi/opinnot/olio-ohjelmointi/" target="_blank" rel="noopener external" data-wpel-link="external">FiTech</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.codecademy.com/learn/learn-java" target="_blank" rel="noopener external" data-wpel-link="external">Codecademy</a> (englanniksi)</li>
+</ul>
+<p><strong>Ilmaisia nettimateriaaleja Java-opintojen tueksi tai alkupalaksi:</strong></p>
+<ul>
+<li aria-level="1"><a href="https://www.cs.helsinki.fi/u/ahslaaks/kesa11/ohpe/" target="_blank" rel="noopener external" data-wpel-link="external">Helsingin Yliopiston tietojenkäsittelytieteen osasto</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.learnjavaonline.org/" target="_blank" rel="noopener external" data-wpel-link="external">LearnJavaOnline</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noopener external" data-wpel-link="external">TutorialsPoint</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.w3schools.com/java/" target="_blank" rel="noopener external" data-wpel-link="external">W3Schools</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://beginnersbook.com/java-tutorial-for-beginners-with-examples/" target="_blank" rel="noopener external" data-wpel-link="external">BeginnersBook</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noopener external" data-wpel-link="external">JavaTPoint</a><strong> (englanniksi)</strong></li>
+</ul>
+<p><strong>Java-ohjelmointipelejä alkeiden harjoittelemiseen:</strong></p>
+<ul>
+<li aria-level="1"><a href="https://sourceforge.net/projects/robocode/" target="_blank" rel="noopener external" data-wpel-link="external">Robocode</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.codewars.com/?language=java" target="_blank" rel="noopener external" data-wpel-link="external">CodeWars</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.codingame.com/start" target="_blank" rel="noopener external" data-wpel-link="external">Codingame</a> (englanniksi)</li>
+</ul>
+<p><strong>Videotutoriaaleja:</strong></p>
+<ul>
+<li aria-level="1"><a href="https://www.youtube.com/watch?v=a-lDv2NJvkM&amp;list=PLF0e-1FwDlz7QG5DNzvYGhZ7fYyPtQ7cV" target="_blank" rel="noopener external" data-wpel-link="external">Javan perusteita lyhyesti -videosarja</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.youtube.com/watch?v=Ux0Yzedi3Xc&amp;list=PL_c9BZzLwBRJOmvlnRQpnZS7ZpEvtwkXb" target="_blank" rel="noopener external" data-wpel-link="external">Hands-on Java -videosarja</a> (englanniksi)</li>
+<li aria-level="1"><a href="https://www.youtube.com/watch?v=eIrMbAQSU34" target="_blank" rel="noopener external" data-wpel-link="external">Java Tutorial for Beginners</a> (englanniksi)</li>
+</ul>
+<p><strong>Lukusuosituksia:</strong></p>
+<ul>
+<li aria-level="1"><a href="http://www.javakirja.fi/" target="_blank" rel="noopener external" data-wpel-link="external">Java-ohjelmointi, Mika Vesterholm &amp; Jorma Kyppö</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.ellibs.com/fi/book/952-5210-28-6/ohjelmoinnin-perusteet-java" target="_blank" rel="noopener external" data-wpel-link="external">Ohjelmoinnin perusteet, Java, Arto Sainio</a> (suomeksi)</li>
+<li aria-level="1"><a href="https://www.readme.fi/kirja/java-ohjelmointi-opas-ammattimaiseen-osaamiseen/" target="_blank" rel="noopener external" data-wpel-link="external">Java-ohjelmointi, opas ammattimaiseen osaamiseen, Jukka Harju &amp; Jukka Juslin </a>(suomeksi)</li>
+<li aria-level="1"><a href="https://freecomputerbooks.com/javaAdvancedBooks.html" target="_blank" rel="noopener external" data-wpel-link="external">FreeComputerBooks</a> tarjoaa kattavan valikoiman ilmaisia Java-kirjoja (englanniksi)</li>
+<li aria-level="1"><a href="https://www.adlibris.com/fi/kirja/97-things-every-java-programmer-should-know-9781491952696" target="_blank" rel="noopener external" data-wpel-link="external">97 Things Every Java Programmer Should Know</a> (englanniksi)</li>
+</ul>
+<p><a href="https://codeberryschool.com/fi/java-ohjelmointi-1" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-13420" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/Java-basics-CTA.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/06/Java-basics-CTA.png 1024w, /blog/wp-content/uploads/2021/06/Java-basics-CTA-300x100.png 300w, /blog/wp-content/uploads/2021/06/Java-basics-CTA-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Kuinka kauan Javan oppimisessa kestää?</h1>
+<p>Ohjelmointikielen oppimisen kesto riippuu käyttämistäsi opiskelutavoista, oppien jäämisestä mieleesi ja siitä kuinka monta tuntia jaksat opiskella viikossa. Et voi tietenkään olettaa tietäväsi kaikkea Javasta yhden lukukauden yliopistokurssin tai 14 viikon ohjelmointikoulutuksen jälkeen. Motivaatiostasi riippuen voit kuitenkin oppia osan Javan perusteista varsin nopeasti!</p>
+<h1>Onko Java oikea kieli minulle?</h1>
+<p>Yksi parhaista asioista ohjelmistokehityksessä on se, että erilaisia kieliä on tarjolla runsaasti. Jos esimerkiksi inhoat C#-ohjelmointia, voit valita sille korvaajan monien kielien joukosta. Opiskeltava ei tule koskaan loppumaan.</p>
+<p>Useimmille Java on hyvä kieli ohjelmoinnin aloittamiseen, sillä sen avulla voit koodata sovelluksia monille laitteille ja eri käyttötarkoituksiin.</p>
+<p>Mikäli aloitat vasta ohjelmointia ja olet epävarma siitä, onko Java oikea kieli sinulle, tsekkaa ihmeessä artikkelimme “<a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Mikä ohjelmointikieli sopii sinulle parhaiten?</a>”.</p>
+<p>&nbsp;</p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>set difference | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/set-difference/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 03 Jun 2021 14:07:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best Way of Using Python Sets</title>
+		<link>/blog/en/python-sets/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 14:07:14 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[add element to set python]]></category>
+		<category><![CDATA[convert set to list]]></category>
+		<category><![CDATA[convert set to list python]]></category>
+		<category><![CDATA[dataframe set index]]></category>
+		<category><![CDATA[how to create a set in python]]></category>
+		<category><![CDATA[list to set python]]></category>
+		<category><![CDATA[python add to set]]></category>
+		<category><![CDATA[python create set]]></category>
+		<category><![CDATA[python online compiler]]></category>
+		<category><![CDATA[python range]]></category>
+		<category><![CDATA[python read csv]]></category>
+		<category><![CDATA[python remove from set]]></category>
+		<category><![CDATA[python set add]]></category>
+		<category><![CDATA[python set add list]]></category>
+		<category><![CDATA[python set function]]></category>
+		<category><![CDATA[python set literal]]></category>
+		<category><![CDATA[python set seed]]></category>
+		<category><![CDATA[python set working directory]]></category>
+		<category><![CDATA[python try except]]></category>
+		<category><![CDATA[python unique list]]></category>
+		<category><![CDATA[set difference]]></category>
+		<category><![CDATA[set to list]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13272</guid>
+
+					<description><![CDATA[A Python set is a built-in data type in python that is used to store a set of multiple items in a single variable. Sets have a few unique properties: they are unordered and unindexed. Furthermore, sets cannot contain duplicate values but can accommodate any kind of object as long as they are immutable. For [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">A Python set is a built-in data type in python that is used to store a set of multiple items in a single variable. Sets have a few unique properties: they are unordered and unindexed. Furthermore, sets cannot contain duplicate values but can accommodate any kind of object as long as they are immutable. For instance, a set can only contain strings, numbers or tuples but not dictionaries or other lists.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python sets – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/kPhDHVzrU3A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Creating a Python Set</span></h2>
+<p><span style="font-weight: 400;">There are two main ways of creating a set in Python. </span><span style="font-weight: 400;">We need to choose a name for the set, then places a set of items within the curly braces separated by a comma. A set can also be created using a built-in </span><span style="font-weight: 400;">set()</span><span style="font-weight: 400;"> function. Now in the example below we are going to create a set by the name “animals” in addition we’re just going to use strings i.e </span><span style="font-weight: 400;">{“elephant”, ”tiger”, ”kangaroo”, ”armadillo”}.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-11995 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1.png" alt="Python" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/94b7ef9324?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Note that the elements in the output are not in the same order as entered in the code, that’s because sets are unordered. Another way that you could create a set is to simply call it</span> <span style="font-weight: 400;">with curly brackets like this: animals = {}. However, if we were to leave it blank, python would assume that this is a dictionary. But if we proceed and fill out values within the curly braces, then we would have created a new set.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/e1e704f826?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">A list can contain any type of object as long as it is immutable. We can also add numbers, tuples to the above set as shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/136efce45a?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Adding and removing items from a set</span></h2>
+<p><span style="font-weight: 400;">We can also add new items to a set using the</span><span style="font-weight: 400;"> “animals.add()” </span><span style="font-weight: 400;">keyword; we can also remove them using the</span><span style="font-weight: 400;"> “animals.remove()”</span><span style="font-weight: 400;"> method and thereafter print out the resulting set. For example, we can remove ‘kangaroo’ from the set and add ‘lion’ as shown below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/e28a32c9e8?start=result" width="100%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p><span style="font-weight: 400;">The first print statement outputs the original set of animals, while the second one outputs the set after the lion has been added and finally the last print statement outputs the set after ‘kangaroo’ has been removed.</span></p>
+<p><span style="font-weight: 400;">One really useful thing you can do with the remove method is that you can easily use it to remove</span> <span style="font-weight: 400;">duplicates from a set.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="Learn python sets online" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">The Union and intersection of sets</span></h2>
+<p><span style="font-weight: 400;">In order to compare sets with an intention of drawing insights, we can use the union and the intersection among other options. This will be easy if you are already familiar with the concept of <a href="https://en.wikipedia.org/wiki/Venn_diagram" target="_blank" rel="noopener external" data-wpel-link="external">Venn diagrams</a> in mathematics. In order to be able to do a comparison we are going to create a new set that goes by the name zoo = {‘monkey’,  ‘giraffe’, ’elephant’, ’lion’}. The union and intersection of the two sets are performed as follows.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/543606aabe?start=result" width="100%" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p>The union of the two sets return a set containing elements from both the two sets, while the intersection returns elements that exist in both sets.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener external" data-wpel-link="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener external" data-wpel-link="external">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener external" data-wpel-link="external">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener external" data-wpel-link="external">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener external" data-wpel-link="external">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener external" data-wpel-link="external">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" data-wpel-link="external" target="_blank" rel="external">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" data-wpel-link="external" target="_blank" rel="external">Best way of using Java Arrays and ArrayLists</a></li>
+<li><strong>Best way of using Python Sets</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

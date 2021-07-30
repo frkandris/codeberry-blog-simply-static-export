@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>honlapkészítés | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/honlapkeszites/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 21 Mar 2021 21:29:06 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>HTML táblázatok létrehozása</title>
+		<link>/blog/hu/html-tablazat-formazas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 27 Sep 2020 10:10:43 +0000</pubDate>
+				<category><![CDATA[Programozási oktatóanyagok]]></category>
+		<category><![CDATA[adatok]]></category>
+		<category><![CDATA[beszúrás]]></category>
+		<category><![CDATA[blog létrehozása]]></category>
+		<category><![CDATA[címsor]]></category>
+		<category><![CDATA[css táblázat]]></category>
+		<category><![CDATA[honlapkészítés]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html kódok táblázat]]></category>
+		<category><![CDATA[html rowspan]]></category>
+		<category><![CDATA[html színkódok]]></category>
+		<category><![CDATA[html táblázat]]></category>
+		<category><![CDATA[html tablazat]]></category>
+		<category><![CDATA[html táblázat formázás]]></category>
+		<category><![CDATA[html táblázat készítés]]></category>
+		<category><![CDATA[html táblázat szegély]]></category>
+		<category><![CDATA[html táblázatok]]></category>
+		<category><![CDATA[html tagek]]></category>
+		<category><![CDATA[táblázat]]></category>
+		<category><![CDATA[tablazat]]></category>
+		<category><![CDATA[táblázat html]]></category>
+		<category><![CDATA[táblázat készítés]]></category>
+		<category><![CDATA[táblázatok]]></category>
+		<category><![CDATA[tagek]]></category>
+		<category><![CDATA[tartalom]]></category>
+		<category><![CDATA[weblap]]></category>
+		<category><![CDATA[webszerkesztés]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10081</guid>
+
+					<description><![CDATA[Table, TR, TD, TH – a táblázat beillesztése HTML kódba Ha az épülő honlapon táblázatot szeretnénk elhelyezni, akkor a HTML kódban kell definiálnunk azt, beillesztve a szükséges tageket, hogy létrejöjjön a táblázat szerkezete. Különböző attribútumokkal pedig a táblázat megjelenését és elrendezését tudjuk módosítani. A cikkben ezeket vesszük sorra, szerkeszthető példákkal kiegészítve.  HTML táblázatok segítségével szöveges [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Table, TR, TD, TH – a táblázat beillesztése HTML kódba</span></h2>
+<p><span style="font-weight: 400;">Ha az épülő honlapon táblázatot szeretnénk elhelyezni, akkor a HTML kódban kell definiálnunk azt, beillesztve a szükséges tageket, hogy létrejöjjön a táblázat szerkezete. Különböző attribútumokkal pedig a táblázat megjelenését és elrendezését tudjuk módosítani. A cikkben ezeket vesszük sorra, szerkeszthető példákkal kiegészítve. </span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">HTML táblázatok segítségével szöveges tartalmat, számokat, képeket, linkeket rendezhetünk sorokba és oszlopokba és cellákba. </span></p>
+<p><span style="font-weight: 400;">A </span><b>&lt;table&gt;</b><span style="font-weight: 400;"> tag segítségével hozhatunk létre táblázatot. A táblázat sorait a </span><b>&lt;tr&gt;</b><span style="font-weight: 400;"> taggel hozhatjuk létre, a cellákat a </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> taggel illeszthetjük be (az angol row és data szavak kezdőbetűi miatt alakul így a rövidítés). A cellák tartalmát, a tényleges adatokat a </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> tagek közé kell beírni. </span></p>
+<p> </p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12168 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/2.png 1024w, /blog/wp-content/uploads/2020/06/2-300x100.png 300w, /blog/wp-content/uploads/2020/06/2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p> </p>
+<p><span style="font-weight: 400;">Fontos szerepet játszanak az átláthatóságban a táblázat címsorai (heading). Ezeket </span><b>&lt;th&gt;</b><span style="font-weight: 400;"> taggel hozhatjuk létre, a ilyenkor a cella tartalma nem adatként, hanem címsorként definiálódik, megjelenítése pedig félkövér lesz. </span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat1" src="https://codepen.io/codeberryschool/embed/KKMzdQQ?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/KKMzdQQ" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat1</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<p><span style="font-weight: 400;">Alapesetben a cellákba kerülő tartalmak, amik </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> tagek közé kerülnek, balra vannak igazítva, a címsorok pedig középre. </span></p>
+<h2><span style="font-weight: 400;">Caption – a táblázat címe</span></h2>
+<p><span style="font-weight: 400;">Az egész táblázatra vonatkozó leírást vagy címet </span><b>&lt;caption&gt; </b><span style="font-weight: 400;">taggel adhatunk meg, ez a táblázat felett fog megjelenni. A </span><b>&lt;table&gt;</b><span style="font-weight: 400;"> tag után, még az első </span><b>&lt;tr&gt; </b><span style="font-weight: 400;">tag elé kerül a cím vagy leírás.</span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat2" src="https://codepen.io/codeberryschool/embed/MWeyaGB?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/MWeyaGB" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat2</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Table border – a táblázat szegélye</span></h2>
+<p><span style="font-weight: 400;">A táblázat szegélyére vonatkozó információ a </span><b>&lt;table&gt;</b><span style="font-weight: 400;"> tag </span><b>border</b><span style="font-weight: 400;"> attribútumaként kerül a kódba. Ha ha szeretnénk látni a rácsvonalakat, akkor </span><b>border = “1”</b><span style="font-weight: 400;"> -et, </span><b>“2”</b><span style="font-weight: 400;">-t stb. használunk aszerint, milyen vastagságú vonalakat szeretnénk. </span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat3" src="https://codepen.io/codeberryschool/embed/vYKGNzL?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/vYKGNzL" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat3</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Cellpadding, cellspacing – a cellák távolsága</span></h2>
+<p><span style="font-weight: 400;">A táblázat elrendezése nem csak alapértelmezett beállítások szerint jelenhet meg. Növelhetjük a cellák közötti teret és a cella tartalma valamint szegélyek közötti teret, hogy szellősebb, áttekinthetőbb legyen a táblázat, méghozzá a </span><b>cellpadding </b><span style="font-weight: 400;">és a </span><b>cellspacing </b><span style="font-weight: 400;">attribútumokkal. Ezek is a &lt;table&gt; tagen belülre kerülnek.</span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat4" src="https://codepen.io/codeberryschool/embed/abZNvar?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/abZNvar" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat4</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Width és height – a táblázat méretezése</span></h2>
+<p><span style="font-weight: 400;">A táblázat fix szélességet és magasságát is beállíthatjuk, ez a </span><b>width </b><span style="font-weight: 400;">és </span><b>height </b><span style="font-weight: 400;">attribútumokkal lehetséges. Megadhatjuk pixelpontban vagy a teljes képernyőhöz viszonyított százalékarányban. </span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat5" src="https://codepen.io/codeberryschool/embed/oNLxjQg?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/oNLxjQg" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat5</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Colspan és rowspan – sorok vagy oszlopok egyesítése</span></h2>
+<p><span style="font-weight: 400;">Sorok és oszlopok egyesítéséhez a </span><b>colspan </b><span style="font-weight: 400;">(column: oszlop) és </span><b>rowspan </b><span style="font-weight: 400;">(row: sor) attribútumok használatára van szükség, melyek a </span><b>&lt;td&gt;</b><span style="font-weight: 400;"> tagen belülre kerülnek, még a cella tartalma elé. Az utána következő értékkel azt adjuk meg, hány cellát egyesítünk.</span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat6" src="https://codepen.io/codeberryschool/embed/dyXMYrY?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/dyXMYrY" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat6</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h2><span style="font-weight: 400;">Táblázat színbeállítások</span></h2>
+<h3><span style="font-weight: 400;">Bordercolor – a táblázat szegélyeinek színe</span></h3>
+<p><span style="font-weight: 400;">Az elválasztóvonalak színét a </span><b>bordercolor </b><span style="font-weight: 400;">attribútummal állíthatjuk be. Ezután színnévvel, vagy színkóddal adhatjuk meg a kívánt árnyalatot. Erről bővebben a </span><a href="https://docs.google.com/document/d/1gy10wz3GnpBJdZMpqG7ZDz7QVxb9_PsC2DXK82sDtlM/edit" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">HTML színkódok</span></a><span style="font-weight: 400;"> című cikkben olvashatsz.</span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat7" src="https://codepen.io/codeberryschool/embed/WNxwQWM?height=265&amp;theme-id=dark&amp;default-tab=html,result&amp;editable=true" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/WNxwQWM" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat7</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<h3><span style="font-weight: 400;">Bgcolor – a táblázat háttérszíne</span></h3>
+<p><span style="font-weight: 400;">Az egész táblázat és egy-egy cella is kaphat háttérszínt, a </span><b>bgcolor </b><span style="font-weight: 400;">attribútum segítségével. Ebben az esetben is színkódokat, illetve színneveket használhatunk.</span></p>
+<p><iframe style="width: 100%;" title="HTML táblázat8" src="https://codepen.io/codeberryschool/embed/xxOVwNK?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/codeberryschool/pen/xxOVwNK" target="_blank" rel="noopener external" data-wpel-link="external">HTML táblázat8</a> by CodeBerry School<br />
+  (<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.</iframe></p>
+<p><span style="font-weight: 400;">Reméljük, megtalálod a cikkben az információt, amire szükséged van, hogy áttekinthető és látványos táblázatokat készíts. Arra biztatunk, hogy kattints rá a szerkesztő felületre és próbáld ki te magad is a különböző beállításokat. Adj meg új méreteket, színeket, keresd meg a neked tetsző színek kódjait, változtass a táblázaton. Így azonnal gyakorlod is az olvasottakat, ami segít elmélyíteni a tudást, és valóban elsajátítani a táblázatkészítés mikéntjét.</span></p>
+<p> </p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12300 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/Website-Creator-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/10/Website-Creator-2.png 1024w, /blog/wp-content/uploads/2020/10/Website-Creator-2-300x100.png 300w, /blog/wp-content/uploads/2020/10/Website-Creator-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p> </p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A CodeBerry Programozóiskola \&quot;Programozási oktatóanyagok\&quot; sorozatában olyan kiegészítő tananyagokat találsz az egyes programnyelvekhez, melyek segítségével gyorsan és egyszerűen sajátíthatod el a programozás alapjait.&quot;}" data-sheets-userformat="{&quot;2&quot;:8971,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:14281427},&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}"><strong>A CodeBerry Programozóiskola <a href="https://codeberryschool.com/blog/hu/category/programozasi-oktatoanyagok-hu/" data-wpel-link="external" target="_blank" rel="external">&#8220;Programozási oktatóanyagok&#8221; sorozatában</a></strong> olyan kiegészítő tananyagokat találsz az egyes programnyelvekhez, melyek segítségével gyorsan és egyszerűen sajátíthatod el a programozás alapjait.</span></p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/programozos-jatekok/" data-wpel-link="external" target="_blank" rel="external">Programozós játékok, amikkel erőfeszítés nélkül tanulhatsz</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-konyvek-magyarul/" data-wpel-link="external" target="_blank" rel="external">A legjobb programozós könyvek magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/css-background-images/" data-wpel-link="external" target="_blank" rel="external">Háttérkép beállítása CSS-ben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/html-szinkodok-beallitas-modjai/" data-wpel-link="external" target="_blank" rel="external">HTML színkódok – a beállítás módjai példákkal</a></li>
+<li><strong>HTML táblázatok létrehozása</strong></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

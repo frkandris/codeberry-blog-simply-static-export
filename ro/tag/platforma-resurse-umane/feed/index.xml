@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>platforma resurse umane | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/platforma-resurse-umane/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 05 Mar 2021 11:57:00 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Am dat una dintre platformele noastre confidențiale Trello utilizatorilor noștri. Iată ce s-a întâmplat.</title>
+		<link>/blog/ro/am-dat-unul-dintre-platformele-noastre-confidentiale-trello-utilizatorilor-nostri-iata-ce-s-a-intamplat/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2016 13:26:57 +0000</pubDate>
+				<category><![CDATA[Interviuri]]></category>
+		<category><![CDATA[am dat]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[confidențiale]]></category>
+		<category><![CDATA[dintre]]></category>
+		<category><![CDATA[epam feedback]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[iată]]></category>
+		<category><![CDATA[noastre]]></category>
+		<category><![CDATA[noștri]]></category>
+		<category><![CDATA[platforma resurse umane]]></category>
+		<category><![CDATA[platformele]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[una dintre]]></category>
+		<category><![CDATA[unul]]></category>
+		<category><![CDATA[utilizatorilor]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=5181</guid>
+
+					<description><![CDATA[Cum am făcut sistemul de feedback CodeBerry complet transparent. Ne-a venit o idee într-o zi: De ce să nu setăm ca panoul Trello care urmărește și rezolvă problemele clienților să fie public? Și așa am făcut. De fapt, apoi am trimis link-ul și studenților noștri și le-am cerut să o folosească de parcă nu ar [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Cum am făcut sistemul de feedback CodeBerry complet transparent.</strong></p>
+<p>Ne-a venit o idee într-o zi: De ce să nu setăm ca <a href="https://trello.com/b/6UVOOG8G/codeberry-bug-reports-feature-requests" target="_blank" rel="noopener external" data-wpel-link="external">panoul Trello</a> care urmărește și rezolvă problemele clienților să fie public? Și așa am făcut. De fapt, apoi am trimis link-ul și studenților noștri și le-am cerut să o folosească de parcă nu ar mai fi ziua de mâine. Iată de ce.</p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12338" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>Optimizat pentru feedback</strong></p>
+<p>Unul dintre principiile noastre când am pus bazele <a href="https://codeberryschool.com/" data-wpel-link="external" target="_blank" rel="external">Școlii de Programare CodeBerry</a> a fost să ne bazăm mereu pe feeback-ul clienților noștri din două motive:</p>
+<ol>
+<li>În primul rând, cu toții facem greșeli — și noi facem — și am dori să le rezolvăm rapid;</li>
+<li>În al doilea rând, dorim să creăm un produs pe care clienții nostri chiar vor să-l folosească.</li>
+</ol>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12216" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață programare web la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Cea mai rapidă modalitate de a ne îndeplini scopurile este prin intermediul feedback-ului. Muncim din răsputeri pentru a permite utilizatorilor să se facă auziți cu ușurință. Iată de ce:</p>
+<ul>
+<li>Am trimis chestionare tuturor;</li>
+<li>I-am încurajat să trimită feedback mentorilor lor; și, nu în ultimul rând</li>
+<li>Am creat canalul #meta pe Slack-ul CodeBerry, unde fiecare poate raporta erorile și să trimită ideile de dezvoltare cu privire la școală.</li>
+</ul>
+<p><img loading="lazy" class="size-full wp-image-5794 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/Slack-2.png" alt="" width="800" height="477" /></p>
+<p style="text-align: center;">Canalul #meta pe Slack-ul CodeBerry</p>
+<p><strong>Link-ul lipsă</strong></p>
+<p>S-a dovedit că posibilitatea de a trimite feedback nu a fost suficientă. Am descoperit că oamenii doreau imediat să știe ce se petrece cu ideile lor după ce le-au exprimat. Cea mai simplă soluție a fost să facem panoul pe care programatorii noștri îl folosesc să depisteze raportele de eroare și sugestiil public.</p>
+<p>&nbsp;</p>
+<p><a href="https://trello.com/b/6UVOOG8G/codeberry-bug-reports-feature-requests" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-5793 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/trello-2.png" alt="Panoul Trello" width="800" height="391" /></a></p>
+<p style="text-align: center;"><a href="https://trello.com/b/6UVOOG8G/codeberry-bug-reports-feature-requests" target="_blank" rel="noopener external" data-wpel-link="external">Panoul nostru Trello (în sfârșit) public</a></p>
+<p>Înainte, feedback-ul era ca o cutie neagră în care oamenii doar își introduceau ideile, însă habar nu aveau ce se întâmplă cu acestea. Acum întregul proces este transparent pentru toată lumea.</p>
+<p>Studenții noștri încă scriu mentorilor lor sau trimit mesaje pe canalul #meta, dar povestea nu se încheie aici. Cardul realizat din feedback-ul lor este fixat pe panoul public, unde studenții pot vedea ce se întâmplă cu mesajul lor și pot urmări procesul de rezolvare a problemei sau integrarea ideii lor.<br />
+Am spus adio cutiei negre. Nu mai există vorbe care să nu fie auzite.</p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata programare online la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>Construim împreună</strong></p>
+<p>Feedback-ul este unul dintre cele mai bune lucruri pe care o afacere tânără (precum a noastră) poate fi primit de la clienți. Cu acest nou sistem, punem în continuare accent pe această idee.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bizalmas | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/bizalmas/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 20:46:13 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Kiadtuk az egyik bizalmas Trello táblánkat a felhasználóinknak &#8211; ez lett belőle</title>
+		<link>/blog/hu/kiadtuk-a-trello-tablat-visszajelzes/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2016 03:36:09 +0000</pubDate>
+				<category><![CDATA[Codeberry hajónapló]]></category>
+		<category><![CDATA[bizalmas]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[Codeberry programozóiskola]]></category>
+		<category><![CDATA[mi az a trello]]></category>
+		<category><![CDATA[tanuló visszajelzés]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[trello blog]]></category>
+		<category><![CDATA[trello code]]></category>
+		<category><![CDATA[trello használta]]></category>
+		<category><![CDATA[trello magyar]]></category>
+		<category><![CDATA[visszajelzés]]></category>
+		<category><![CDATA[visszajelzés kezelés]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4682</guid>
+
+					<description><![CDATA[Hogyan építettük át a CodeBerry visszajelzési rendszerét teljesen transzparenssé a Trello segítségével? Ezen a héten gondoltunk egyet, és publikussá tettük azt a Trello táblát, ahol a CodeBerry közösség által bejelentett hibákat és fejlesztési javaslatokat követjük. Sőt, ki is küldtük a tanulóinknak és bátorítottuk őket arra, hogy használják szanaszét. Elmondjuk, miért. &#160; Visszajelzésre hangolva Amikor elkezdtük építeni a CodeBerry Programozóiskolát, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<section>
+<div>
+<h4 id="220c">Hogyan építettük át a CodeBerry visszajelzési rendszerét teljesen transzparenssé a Trello segítségével?</h4>
+</div>
+<div style="text-align: left;">
+<p id="30b6">Ezen a héten gondoltunk egyet, és publikussá tettük azt a <a href="https://blog.codeberryschool.com/inside-codeberry-1-transzparens-trello-20d2b6fe610f#" target="_blank" rel="noopener external" data-href="#" data-wpel-link="external">Trello táblát</a>, ahol a <a href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" data-="" data-wpel-link="external">CodeBerry</a> közösség által bejelentett hibákat és fejlesztési javaslatokat követjük. Sőt, ki is küldtük a tanulóinknak és bátorítottuk őket arra, hogy használják szanaszét. Elmondjuk, miért.</p>
+<p>&nbsp;</p>
+</div>
+</section>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<section>
+<div style="text-align: left;">
+<h4 id="e94a">Visszajelzésre hangolva</h4>
+<p id="5814">Amikor elkezdtük építeni a <a href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/?utm_source=medium-blog&amp;utm_medium=blog-post" data-="" data-wpel-link="external">CodeBerry Programozóiskolát</a>, az egyik elvünk az volt, hogy mindig támaszkodni fogunk a felhasználóink visszajelzéseire. Két okból:</p>
+<ol>
+<li id="f040">egyrészt mindenki hibázik – mi is – , és ezeket a hibákat szeretnénk gyorsan kijavítani,</li>
+<li id="b952">másrészt azt a terméket szeretnénk megépíteni, amit a felhasználóink valóban használni akarnak.</li>
+</ol>
+<p id="a74a">Mindkét célhoz a visszajelzéseken keresztül vezet a leggyorsabb út. Eddig azon a részén dolgoztunk sokat, hogy a felhasználóink minél könnyebben hallathassák a hangjukat:</p>
+<ul>
+<li id="9ac2">ezért küldünk ki rövid kérdőíveket mindegyiküknek,</li>
+<li id="65e0">ezért bátorítjuk őket, hogy adjanak visszajelzést a mentoroknak,</li>
+<li id="ba77">és ezért indítottunk el egy #meta csatornát a <a href="https://codeberryschool.slack.com/messages/meta/" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.slack.com/messages/meta/" data-="" data-wpel-link="external">CodeBerry Slack-en</a>, ahová bárki beküldheti a hibajelzéseit, fejlesztési javaslatait az iskolával kapcsolatban.</li>
+</ul>
+<p>&nbsp;</p>
+<p style="text-align: center;"><img loading="lazy" class="aligncenter wp-image-5723 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/Slack.png" alt="A Codeberry Slack #meta csatornája" width="800" height="477" />  A CodeBerry Slack #meta csatornája</p>
+<h4 id="bbe7">A hiányzó láncszem &#8211; a Trello tábla</h4>
+<p id="c880">A visszajelzés lehetősége azonban önmagában nem elég – azt vettük észre, hogy az embereknek tudniuk is kell, hogy mi történik a jelzéseikkel. A legegyszerűbb, ha publikussá tesszük a Trello táblát, amit a fejlesztőink használnak a hibabejelentések és javaslatok követésére.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="https://trello.com/b/6UVOOG8G/codeberry-bug-reports-feature-requests" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-5724 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/trello.png" alt="A (most már) publikus Trello tábla" width="800" height="391" /></a><a href="https://trello.com/b/6UVOOG8G/codeberry-bug-reports-feature-requests" target="_blank" rel="noopener external" data-wpel-link="external">A (most már) publikus Trello tábla</a></p>
+<p>&nbsp;</p>
+<p id="6376">Míg a visszajelzés eddig egy fekete dobozhoz volt hasonló, ahová az ember csak dobálta az ötleteit, de fogalma sem volt, mi történik velük, most az egész folyamat átláthatóvá vált mindenki számára.</p>
+<p id="46b8">A hallgatók továbbra is szólnak a mentoroknak vagy írnak a #meta csatornára, de most már nem ér itt véget a történet. Az üzenetből készült kártya a publikus táblára kerül, ahol aztán a hallgató követheti, hogy mi történik épp a javaslatával, láthatja, hogy mikor készül el a javítás vagy beépítésre kerül-e az ötlete.</p>
+<p id="75a0">Nincs több fekete doboz, nincs több pusztába kiáltott szó.</p>
+<h4 id="7f54">Közösen építjük</h4>
+<p id="f581">A visszajelzés az egyik legjobb dolog, amit egy fiatal cég (mint a miénk) kaphat az ügyfeleitől. Ezzel az új rendszerrel ezt a gondolatot szeretnénk még hangsúlyosabbá tenni az iskolánkban.</p>
+<p>&nbsp;</p>
+</div>
+</section>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<section></section>
+<section></section>
+<section><b>A CodeBerry Programozóiskola<a href="https://codeberryschool.com/blog/hu/category/bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external"> &#8220;A programozás alapjai&#8221;</a> című cikksorozatában programozással kapcsolatos témákat feszegetünk</b>, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a <a href="https://codeberryschool.com/blog/hu/" target="_blank" rel="noopener external" data-wpel-link="external">blogunkat</a>, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz!</p>
+<h3>A programozás alapjai</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Hasznos információk az induláshoz – a programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" target="_blank" rel="noopener external" data-wpel-link="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" target="_blank" rel="noopener external" data-wpel-link="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" data-wpel-link="external" target="_blank" rel="external">Informatikus fizetési kalauz 2021-re</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+</section>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

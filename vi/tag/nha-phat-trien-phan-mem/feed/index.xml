@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nhà phát triển phần mềm | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/nha-phat-trien-phan-mem/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 21 Nov 2019 07:53:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Mình cần chút tĩnh lặng và yên bình &#8211; Câu chuyện của sinh viên Trường CodeBerry, Balázs Gergely Soós</title>
+		<link>/blog/vi/minh-can-mot-chut-tinh-lang-va-yen-binh-cau-chuyen-cua-sinh-vien-truong-codeberry-balazs-gergely-soos/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:21:20 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[anh minh goi tien]]></category>
+		<category><![CDATA[bình cầu]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[chuyện của mình]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[kỹ sư khoa học máy tính]]></category>
+		<category><![CDATA[kỹ sư nghiên cứu]]></category>
+		<category><![CDATA[MorganStanley]]></category>
+		<category><![CDATA[nhà phát triển có thâm niên]]></category>
+		<category><![CDATA[nhà phát triển phần mềm]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[tĩnh lặng]]></category>
+		<category><![CDATA[truong yen]]></category>
+		<category><![CDATA[webgl là gì]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6488</guid>
+
+					<description><![CDATA[Balázs Gergely Soós, BeeGee tốt nghiệp ngành kỹ sư khoa học máy tính với bằng tiến sĩ của trường PPKE, đồng thời là cựu sinh viên của trường Cao đẳng BME Schönherz. Trước đây anh từng làm trợ lý nghiên cứu cho Công ty SZTAKI, làm kỹ sư nghiên cứu tại Searchlab, là lập trình [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Balázs Gergely Soós</strong>, BeeGee tốt nghiệp ngành kỹ sư khoa học máy tính với bằng tiến sĩ của trường PPKE, đồng thời là cựu sinh viên của trường Cao đẳng BME Schönherz. Trước đây anh từng làm trợ lý nghiên cứu cho Công ty SZTAKI, làm kỹ sư nghiên cứu tại Searchlab, là lập trình viên cao cấp đồng thời là sáng lập viên của Streamnovation. Ngoài ra anh cũng từng là trưởng bộ phận lập trình tại Zinemath.</p>
+<blockquote>
+<p><strong>Mình sống ở Budapest, thủ đô của Hungary.</strong><br />
+<strong>Mình làm việc tại MorganStanley</strong><br />
+<strong>Thời gian học tại CodeBerry: 3 tháng</strong><br />
+<strong>Các công cụ mình sử dụng: HP ENVY, Samsung Galaxy S4 mini, Chrome, Notepad ++, gitk</strong></p>
+</blockquote>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</strong></p>
+<p>Mình là nhà phát triển phần mềm.</p>
+<p><strong>Bạn làm nghề gì trước khi đến với lập trình? Trước đó bạn có kinh nghiệm gì trong lĩnh vực này không?</strong></p>
+<p>Hồi nhỏ mình từng tìm cách hoán đổi số 0 và chữ O trong các chương trình BASIC. Mình từng bỏ một buổi hội thảo mô hình máy bay chỉ để vẽ vời trên chiếc máy tính Commodore+4 cũng như nghịch ngợm với GV-Basic (trên máy tính C64). Mình biết Tubo Pascal khi còn học trung học. Vào đại học mình học C ++ cùng với nhiều ngôn ngữ thú vị khác. C ++ gắn bó với mình trong một thời gian dài trước khi công nghệ thị giác máy tính, robotics ra đời và lập trình GPU bắt đầu phát triển.</p>
+<p><strong>Vì sao bạn quyết định học phát triển web?</strong></p>
+<p>Theo mình thì ứng dụng máy tính đã hết thời. Giờ mình quan tâm nhiều đến nền tảng di động và dịch vụ đám mây. Mình rất muốn tìm hiểu về thư viện đồ họa WebGL sau khi tiếp xúc. Mình nghĩ bước đầu cần học lại kiến thức về web do mình từng sử dụng một ít PHP và MySQL nhưng phần giao diện luôn để người khác đảm nhiệm. Các dự án của mình phần nhiều tập trung vào tính toán thay vì giao diện. Mình khá tò mò về những gì các &#8220;phù thủy&#8221; GUI (hệ thống giao diện người dùng) có thể làm.</p>
+<p><strong>Bạn có thể chia sẻ thêm về công việc cùa mình? Một ngày bình thường của bạn trôi qua như thế nào?</strong></p>
+<p>Mình làm cho một ngân hàng nên không chia sẻ cụ thể được <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tuy nhiên công việc hàng ngày của mình có liên quan đến xử lý frontend (giao diện).</p>
+<p><strong>Bạn mất bao lâu để tìm được một công việc? Làm thế nào bạn có được công việc hiện tại?</strong></p>
+<p>Mình từng có một công việc trong mơ: quản lý tài giỏi, đồng nghiệp tuyệt vời, sản phẩm được dự triển lãm quốc tế, còn công ty thì được đỡ đầu bởi nhà đầu tư giàu kinh nghiệm. Nhưng một ngày nọ mình cảm thấy mọi thứ hơi quá tải. Mình cần chút yên bình để suy ngẫm về những ý tưởng mới và dành thêm thời gian cho gia đình và bản thân.</p>
+<p>Động lực đến với mình vào dịp hè. Vợ mình được nghỉ 4 tuần nên bọn mình chuyển đến Venice trong khoảng thời gian đó. Giây phút thư giãn bên bờ hồ khiến mình nhận ra đã lâu rồi trí não mình không được vận động tử tế, vậy là mình bắt đầu học&#8230;</p>
+<p>Hai tháng sau mình bắt đầu đi phỏng vấn. Biết mình không còn đi làm, một người bạn học cũ gọi điện và nói rằng anh ấy có một công việc tuyệt vời nếu mình vẫn còn yêu lập trình và hứng thú làm việc với cơ sở dữ liệu lớn…</p>
+<p><strong>Bạn học lập trình như thế nào? Bạn đã đăng ký khóa học gì, hay nghiên cứu những tài liệu nào?</strong></p>
+<p>Mình không nhớ rõ nữa, mọi việc cứ thế diễn ra. Mình đọc vài cuốn sách về máy tính, rồi nộp hồ sơ học về lập trình ở trường György Pongor và Zoltán László. Sau khi đã tốt nghiệp, mình trang bị thêm kiến thức chủ yếu qua nghiên cứu tài liệu trực tuyến.</p>
+<p><strong>Bạn học được gì tại CodeBerry? Và bạn thấy sao khi tham dự khóa học này?</strong></p>
+<p>Mình thấy được tiềm năng to lớn của Node.js và Angular sau khi đọc về chúng. Trong những năm học tiến sĩ, mình hình thành sở thích nghiên cứu độc lập và tìm thấy niềm vui khi khám phá những điều mới mẻ. Mình cũng rất cảm kích các giảng viên đã cho mình một khởi đầu thuận lợi trước khi bước vào cuộc hành trình này. Việc tự học qua các blog trực tuyến giống như đi trong thành phố lớn mà không có bản đồ vậy. Có hàng tá tuyến xe buýt, xe điện và tàu điện ngầm cho bạn lựa chọn. Bạn sẽ cần ai đó định hướng nếu thực sự muốn tới đích.</p>
+<p>Tháng nào mình và Andris cũng ngồi với nhau. Anh ấy kể với mình về CodeBerry từ ngày mọi thứ mới chỉ là ý tưởng. Về sau Bini (sau này cũng là học viên của CodeBerry) nói anh ấy cũng thích ý tưởng này. Mình tự hỏi tại sao không? Thế là mình trở thành 1 trong 20 học viên đầu tiên của Trường. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Công việc chính của mình trước đây không phải là tạo ra mấy thứ đẹp đẽ. Vậy mà những bài học đầu tiên lại tập trung vào lập trình frontend (những gì người dùng nhìn thấy, tương tác, hiển thị, v.v&#8230;). Tuy nhiên mình chẳng hề hối hấn khi đăng ký khóa học này. Với mình, việc vừa học vừa thực hành trực tiếp qua những ví dụ trong bài thật hữu ích. Sau khi tự tay hoàn thành một trang web WordPress thì giờ CSS và mình giống như đôi bạn thân vậy.</p>
+<p><strong>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ với những học viên mới không?</strong></p>
+<p>Bạn chỉ cần ngồi xuống và bắt tay vào làm&#8230; Mình có được &#8220;cú huých&#8221; từ một người bạn. Thấy mình đang rảnh, cậu ấy đã nhờ mình tạo một trang web responsive (hiển thị tương thích trên mọi màn hình). <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì hay chưa?</strong></p>
+<p>Thời gian tới nếu cuối tuần rảnh rỗi mình sẽ trở lại mục tiêu ban đầu là học WebGL (thư viện đồ họa dành cho web). Có thể mình sẽ nghiên cứu thêm về thực tế ảo nữa.</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

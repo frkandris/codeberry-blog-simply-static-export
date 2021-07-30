@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>python list find | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/python-list-find/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 06 Jun 2021 10:20:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best way of using Python Lists</title>
+		<link>/blog/en/python-list/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 06 Jun 2021 10:20:40 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[add to list python]]></category>
+		<category><![CDATA[dictionary python]]></category>
+		<category><![CDATA[list in python]]></category>
+		<category><![CDATA[list index python]]></category>
+		<category><![CDATA[python add list to list]]></category>
+		<category><![CDATA[python array]]></category>
+		<category><![CDATA[python dictionary]]></category>
+		<category><![CDATA[python find]]></category>
+		<category><![CDATA[python is list]]></category>
+		<category><![CDATA[python list add]]></category>
+		<category><![CDATA[python list append]]></category>
+		<category><![CDATA[python list find]]></category>
+		<category><![CDATA[python list remove]]></category>
+		<category><![CDATA[python string]]></category>
+		<category><![CDATA[string to list python]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13344</guid>
+
+					<description><![CDATA[What is a Python List? Python lists are built-in data types that are used to store multiple items in a single variable. &#160; Creating a Python List The first step involves selecting the name or variable which is then equated to square brackets.  Before we add anything between the brackets this is known as a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3>What is a Python List?</h3>
+<p><span style="font-weight: 400;">Python lists are built-in data types that are used to store multiple items in a single variable.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python list – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/_gDfJZh7iwA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">Creating a Python List</span></h3>
+<p><span style="font-weight: 400;">The first step involves selecting the name or variable which is then equated to square brackets.  Before we add anything between the brackets this is known as a blank list and it could be useful depending on what you’re doing with your code.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-11995 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1.png" alt="Python" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In this example, we are going to create a list called “bears” and we will populate the list manually with string or text. However, a list can be of anything like numbers, text, dictionaries or even other Python lists.</span></p>
+<p>&nbsp;</p>
+<p><div style="width: 832px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://media.geeksforgeeks.org/wp-content/uploads/20191023173512/Python-data-structure.jpg" width="822" height="505" /><p class="wp-caption-text">Credit: <a href="https://www.geeksforgeeks.org/python-data-types/" target="_blank" rel="noopener external" data-wpel-link="external">GeeksforGeeks</a></p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The list will contain the following [‘Polar’, ‘Brown’, ‘Panda’, ‘Grizzly’], we have now constructed a list and we can proceed to print out the list as shown below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/9eb1972172?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">And then inside the parentheses, we need to type the element that we want to add to the list, in this case, ‘Koala’. This is going to add the element to the end of the list. If we now print out the list ‘bears’ again we&#8217;ll see it&#8217;s added to the end of the list. Adding elements to a Python list</span></p>
+<p><span style="font-weight: 400;">Now to do that we use the append function. So to add an item to our Python list, we simply type the name of the list that we want to add something to and we do dot append. This is going to add something to the end of our list. Now it is important to know that it goes to the end of the list because the list is actually an ordered data type. </span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/36d39cc627" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Note that If we put the print statement before we do the append function we will obtain the first list that does not contain ‘Koala’. As shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/ee1af80278?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">Removing Item(s) from a Python List</span></h3>
+<p><span style="font-weight: 400;">Now to remove an item from a list we simply want to use pop. Now pop does what it actually sounds like which is popping the item out of the list. We also create a variable to save the popped item.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="Learn Python Lists online" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This can be quite useful and is definitely worth knowing. Let’s proceed to create a variable that goes by the name “item_popped” and then equate it to “bears.pop” with parentheses at the end. Now to remove an item from the list all that we ought to do is give the index number of the item in the list that we want to remove.</span></p>
+<p><span style="font-weight: 400;">Remember that python is a Zero index language therefore it means that items in the Python list start from index zero. </span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/f01e22893d?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Note that when we print the list out again afterwards we can see that the item ‘Polar’ will now have been removed but we still have it stored in the variable ‘item_popped’.</span></p>
+<h3><span style="font-weight: 400;">Slicing and Indexing a Python List</span></h3>
+<p><span style="font-weight: 400;">Now to index an item in a list we will say the item is equal to bears and we&#8217;re going to do the square brackets to access each part of it with our index. As we just mentioned python is a zero index language. So if I do zero and then I print out the item in index zero, this is going to now be the first item in this list.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/df6459cd6f?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Now you can actually use negative numbers as well. For instance, a minus one is an item at the end of the list. So the first one is a zero and then minus one will go to the actual end. </span></p>
+<p><span style="font-weight: 400;">This is really handy if you wanted to access an item at the end of the list without working out how long it is and then doing that number, this will give us </span><span style="font-weight: 400;">Koala</span><span style="font-weight: 400;"> as demonstrated in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/2f9180354b?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">To access multiple parts of the data we can use a slicer. This is going to separate two numbers with a colon and it&#8217;s going to get the information in between those two indexes. </span></p>
+<p><span style="font-weight: 400;">For example, if we place [0:2] we are going to get the first and second items in the list because it is up to but not including 2. The output of this code is a new list with those two items in it.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/31cccff53b?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Now we can actually just remove the zero because then the code will then just interpret that as the beginning of the Python list. So we&#8217;ll get the same results. Furthermore, we can actually do this the other way around as well and we can say it will have everything from the second, all the way to the end of the list. So that&#8217;s going to give us the last three items from the list as the output.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/1d7cd80cde?start=result" width="100%" height="350" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener external" data-wpel-link="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener external" data-wpel-link="external">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener external" data-wpel-link="external">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener external" data-wpel-link="external">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener external" data-wpel-link="external">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener external" data-wpel-link="external">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Java Arrays and ArrayLists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-sets/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Sets</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-regex/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python RegEx</a></li>
+<li><strong>Best way of using Python Lists</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

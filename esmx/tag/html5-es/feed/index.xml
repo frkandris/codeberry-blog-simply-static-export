@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML5 | CodeBerry Blog</title>
+	<atom:link href="/blog/esmx/tag/html5-es/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Mon, 18 Nov 2019 08:24:19 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>De hornos de microondas a desarrollo web: la historia de Árpád Binecz</title>
+		<link>/blog/esmx/de-hornos-de-microondas-a-desarrollo-web-la-historia-de-arpad-binecz/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 14 Aug 2018 17:22:29 +0000</pubDate>
+				<category><![CDATA[Entrevista]]></category>
+		<category><![CDATA[Apertus]]></category>
+		<category><![CDATA[arpad]]></category>
+		<category><![CDATA[Binecz Árpád]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[creador del microondas]]></category>
+		<category><![CDATA[CSS3]]></category>
+		<category><![CDATA[desarrollador]]></category>
+		<category><![CDATA[desarrollador de software]]></category>
+		<category><![CDATA[desarrollador de web]]></category>
+		<category><![CDATA[el microondas historia]]></category>
+		<category><![CDATA[historia de microondas]]></category>
+		<category><![CDATA[historia del desarrollo web]]></category>
+		<category><![CDATA[historia del microondas]]></category>
+		<category><![CDATA[historia do microondas]]></category>
+		<category><![CDATA[historia microondas]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[jQuery]]></category>
+		<category><![CDATA[la historia de la web]]></category>
+		<category><![CDATA[la historia del microondas]]></category>
+		<category><![CDATA[microondas a]]></category>
+		<category><![CDATA[microondas historia]]></category>
+		<category><![CDATA[sitebuilder]]></category>
+		<category><![CDATA[startup]]></category>
+		<category><![CDATA[web de historia]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6159</guid>
+
+					<description><![CDATA[Árpád Binecz (Bini) comenzó como ingeniero de software integrado, trabajó en una empresa startup, fundó su propia compañía y ahora, con un giro de 180°, es creador de sitios web junior. Disfruta de la entrevista que le hicimos a uno de nuestros ex estudiantes en el segundo episodio de &#8220;Historias de Éxito de CodeBerry&#8221;. &#160; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Árpád Binecz</strong> (Bini) comenzó como ingeniero de software integrado, trabajó en una empresa startup, fundó su propia compañía y ahora, con un giro de 180°, es creador de sitios web junior. Disfruta de la entrevista que le hicimos a uno de nuestros ex estudiantes en el segundo episodio de &#8220;Historias de Éxito de CodeBerry&#8221;.</p>
+<p>&nbsp;</p>
+<p><strong>¿A qué te dedicabas antes de cambiarte al área de desarrollo web?</strong><br />
+Tengo un título en Ingeniería Eléctrica, trabajé como ingeniero de software integrado en una empresa automotriz durante cuatro años. También trabajé en una startup, al mismo tiempo que comencé mi propia empresa de administración de tiempo libre, la cual vendí desde entonces.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué hace un ingeniero de software integrado?</strong><br />
+Un ingeniero de software integrado desarrolla circuitos, no para computadoras, sino para microondas o carros. Estos circuitos hacen que los aparatos funcionen con tan sólo apretar un botón.</p>
+<p>&nbsp;</p>
+<p><strong>¿Tu profesión facilitó tus estudios?</strong><br />
+Un poco. Por ejemplo, el pensamiento algorítmico.</p>
+<p>&nbsp;</p>
+<p><strong>¿Por qué decidiste cambiarte al desarrollo web?</strong><br />
+Para empezar, estaba interesado en el Internet de las cosas (IoT, por sus siglas en inglés). Conocía las herramientas muy bien debido a mi profesión original, pero no tenía idea de cómo se vería la información en un navegador. Tenía curiosidad. Después de todo, estudié para ser un ingeniero porque me gusta entender cómo funciona todo. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+En segundo lugar, me gustaría seguir siendo empresario y esta parece ser una excelente manera de lograrlo: empezar con algunas páginas únicas y después crear una pequeña agencia digital. Muchas personas que conozco lo han hecho y parece un camino factible y un tanto cool de seguir.</p>
+<p>&nbsp;</p>
+<p><strong>Cuando te preguntan sobre tu profesión, ¿cómo respondes?</strong><br />
+Depende de quién pregunte. Si es alguien que no está familiarizado con los términos, digo que estoy comenzando en las TI. De lo contrario, si es un amigo de la universidad, les contesto que soy creador de sitios web junior.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué significa eso? ¿Cómo es un día típico en tu vida?</strong><br />
+Desarrollamos grandes sistemas de TI en Apertus SRL. Soy responsable de una pequeña parte. En pocas palabras, recibo diseños listos y los vuelvo sitios web. Trabajo en la apariencia, pero, por ejemplo, mi trabajo no incluye la funcionalidad de los botones.<br />
+Para ser un poco metafórico, así es como describiría la profesión de un creador de sitios web: es un buen inicio, con un conocimiento que se adhiere rápido y te permite estar tanto en el campo de las tecnologías de desarrollo web así como el mercado laboral de las TI.</p>
+<p>&nbsp;</p>
+<p><strong>¿Qué lenguajes utilizas diariamente?</strong><br />
+HTML5, CSS3, SCSS, y Bootstrap. Tambíen utilicé JQuery en una ocasión. Como creador de sitios web, construyo las piezas que el desarrollador líder usa para completar el sitio web.</p>
+<p>&nbsp;</p>
+<p><strong>¿Disfrutas tu trabajo? <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong><br />
+¡Sí! Mis compañeros son divertidos. Sólo estoy un poco insatisfecho conmigo mismo porque siento que podría hacerlo mejor y aprender más rápido.</p>
+<p>&nbsp;</p>
+<p><strong>¿Cuánto tiempo tardaste en encontrar trabajo?</strong><br />
+Renuncié a mi anterior empleo en junio, comencé a estudiar en julio, y ya estaba trabajando para principios de septiembre. Me llegó una oferta a través de amigos.</p>
+<p>&nbsp;</p>
+<p><strong>¿Utilizaste algo más que CodeBerry para estudiar?</strong><br />
+No, sólo CodeBerry.</p>
+<p>&nbsp;</p>
+<p><strong>Como ex alumno, ¿podrías darle un consejo a los nuevos estudiantes?</strong><br />
+Creo que vale la pena tener una visión general de todo el campo antes de escoger una tecnología y profundizar en ella. Es mejor conocer a fondo la unidad más pequeña que saber un poquito de todo. Por ejemplo, HTML5, CSS3, SCSS y Bootstrap son una gran combinación. Fácilmente te puedes convertir en desarrollador junior con esas herramientas.</p>
+<p>&nbsp;</p>
+<p><b><i>En nuestra serie de “Historias de Éxito de CodeBerry” entrevistamos a estudiantes que lograron encontrar trabajo como desarrolladores. <em><strong>Si quieres saber cómo lo hicieron, estás en el lugar correcto. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></em></i></b></p>
+<p>&nbsp;</p>
+<p><b><i>¿Te gustaría aprender a programar? Ven y prueba nuestras primeras 25 lecciones sin costo en la </i></b><a href="http://codeberryschool.com/esmx" data-wpel-link="external" target="_blank" rel="external"><b><i>Escuela de Programación CodeBerry</i></b></a><b><i>.</i></b></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podstawy programowania | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/podstawy-programowania/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 02 Sep 2020 10:47:15 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Podstawy programowania &#8211; źródła wiedzy i przydatne informacje</title>
+		<link>/blog/pl/podstawy-programowania-informacje/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2020 10:47:15 +0000</pubDate>
+				<category><![CDATA[Podstawy programowania]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[książka]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[materiały do nauki]]></category>
+		<category><![CDATA[myślenie analityczne]]></category>
+		<category><![CDATA[myślenie matematyczne]]></category>
+		<category><![CDATA[nauka]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[podstawy programowania]]></category>
+		<category><![CDATA[polecane]]></category>
+		<category><![CDATA[programowanie]]></category>
+		<category><![CDATA[tutoriale]]></category>
+		<category><![CDATA[umiejętności]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9805</guid>
+
+					<description><![CDATA[W tym artykule przyjrzymy się kilku rzeczom, które mogą się pojawić, kiedy chcesz poznać podstawy programowania. Zrobimy krótkie wprowadzenie do najpopularniejszych obszarów i języków programowania, porozmawiamy o problemach związanych z podejmowaniem wielkich decyzji (o tym, jaką technologię i format nauczania wybrać) oraz powiemy kilka słów o osobistym i technicznym zapleczu niezbędnym do tego przedsięwzięcia. Polecimy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">W tym artykule przyjrzymy się kilku rzeczom, które mogą się pojawić, kiedy chcesz poznać podstawy programowania. Zrobimy krótkie wprowadzenie do najpopularniejszych obszarów i języków programowania, porozmawiamy o problemach związanych z podejmowaniem wielkich decyzji (o tym, jaką technologię i format nauczania wybrać) oraz powiemy kilka słów o osobistym i technicznym zapleczu niezbędnym do tego przedsięwzięcia. Polecimy również kilka książek i samouczków wideo, aby zmotywować Cię do rozpoczęcia nauki.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Programowanie jako parasol – i jego wiele znaczeń</span></h2>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Kiedy słyszymy, że ktoś jest programistą, od razu możemy założyć, że wykonuje skomplikowaną, lecz ciekawą pracę, która wymaga dużo uwagi. Jednak ta informacja nie jest wystarczająca, aby powiedzieć nam, co dokładnie robi ta osoba, jak wygląda jej zwyczajny dzień, czy to jakimi zadaniami się zajmuje. Programowanie jest tak zróżnicowaną dziedziną, że można je traktować jedynie jako termin ogólny, który jest podzielony na wiele niezliczonych obszarów tak jak gigantyczny parasol.</span></p>
+<p><span style="font-weight: 400;">Jest jednak jedna rzecz, która łączy wszystkie te obszary: wszystkie wiążą się z komunikacją z komputerami. A sposobem na to jest pisanie kodu, co jest robione przez programistów (którzy również testują, debugują i dokumentują; komunikują się z klientami, uczą się i nauczają, pracują w zespole lub indywidualnie nad własnym projektem). Jeśli chcesz dowiedzieć się więcej o wyżej wymienionej komunikacji na opisowych przykładach, sprawdź nasz artykuł zatytułowany </span><a href="https://codeberryschool.com/blog/pl/programowanie-wszystko-co-warto-wiedziec-na-poczatek/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Programowanie – wszystko, co warto wiedzieć na początek</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Co więc mamy na myśli mówiąc, że programowanie jest obecne w niezliczonych obszarach? Pomyśl o wszystkich różnych urządzeniach, aplikacjach, platformach, z których korzystasz na co dzień. Oprogramowanie do stron internetowych, aplikacji mobilnych, gier, aplikacji desktopowych, urządzeń wbudowanych (np. inteligentnych urządzeń domowych) itd. – lista jest nieskończona. Tworzenie i obsługa każdego z nich wiąże się z różnymi dziedzinami i technologiami programowania. </span></p>
+<p><span style="font-weight: 400;">Stosowane są różne kryteria i potrzebne są różne technologie do projektowania i tworzenia rzeczy, które widzisz jako użytkownik, oraz tych działających po stronie serwera. Różne technologie wymagają różnych języków programowania.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Najpopularniejsze języki programowania</span></h2>
+<p><span style="font-weight: 400;">Istnieje kilka ankiet dotyczących najpopularniejszych języków programowania. Ale co dokładnie mamy na myśli mówiąc „popularne”? Ankiety prowadzone na ten temat nie szukają najlepszych języków programowania, ponieważ nie ma „najlepszych” – są tylko odpowiednie i mniej odpowiednie języki do danego zadania, potrzeby czy celu oraz takie, które mogą lub nie mogą być użyte w danej sytuacji, lub dla danej platformy.  </span><a href="https://www.tiobe.com/tiobe-index/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Źródło</span></a><span style="font-weight: 400;">, z którego korzystaliśmy, pisząc ten artykuł, pokazuje języki, w których napisano najwięcej wierszy kodu w danym miesiącu, a więc technicznie rzecz biorąc, mierzy, które języki są najczęściej używane.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Bazując na tym wykresie, większość linii kodu została napisana w językach Java, C, Python, C++ oraz C♯. Jednak Visual Basic, JavaScript, SQL, PHP i R są także dość wysoko w tych rankingach. Diagram wyraźnie pokazuje, jak popularność języków programowania zmieniała się w czasie. Jest kilka rzeczy, które musisz wziąć pod uwagę przy wyborze nauki języka programowania – najważniejszy jest cel, dla którego będziesz go używać, cel związany z programowaniem.</span></p>
+<p><span style="font-weight: 400;">Możesz przeczytać kilka sugestii i wskazówek dotyczących wyboru odpowiedniego języka programowania w naszym artykule, </span><a href="https://codeberryschool.com/blog/pl/jaki-jezyk-programowania-wybrac/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Jaki język programowania wybrać?</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Wiele sposobów na zdobycie nowych umiejętności – nauka podstaw programowania</span></h2>
+<p><span style="font-weight: 400;">Naukę czegoś nowego można zacząć na wiele sposobów – programowanie nie jest tu wyjątkiem. Jednak bez względu na wybraną metodę nauki, jeśli chcesz nauczyć się programowania, będzie Ci potrzebna cierpliwość, wytrwałość i staranność.</span></p>
+<h3><span style="font-weight: 400;">Nauka indywidualna</span></h3>
+<p><span style="font-weight: 400;">Nauka indywidualna może być atrakcyjną opcją z kilku powodów. Jedną z jego największych zalet jest to, że możesz ustawić swój własny plan zajęć, spędzać tyle czasu na nauce, ile chcesz, i uczyć się w dogodnym dla Ciebie momencie. Możesz dostosowywać tempo oraz częstotliwość powtórek i ćwiczeń w zależności od swoich potrzeb – możesz przeglądać materiał tyle razy, ile potrzebujesz, bez potrzeby dostosowywania się do innych. W przypadku indywidualnej nauki dobrze jest korzystać z wielu różnych zasobów. Przejrzyj materiały online, samouczki, książki i znajdź format, który najbardziej Ci odpowiada. Nie musisz ograniczać się do jednej metody, różne metody mogą się doskonale uzupełniać.</span></p>
+<p><span style="font-weight: 400;"> Jednak indywidualna nauka również ma swoje wady: oprócz forów nie ma wielu kanałów, przez które możesz poprosić o pomoc, jeśli utkniesz w jakiś momencie. Brakuje również zewnętrznej motywacji ze strony osób trzecich, która może przyczynić się do Twojego rozwoju.</span></p>
+<p><span style="font-weight: 400;">Dobrym wyjściem w takim przypadku są rozwiązania pośrednie, łączące zalety uczenia się we własnym tempie ze wsparciem społeczności uczniowskiej i mentorów. Tak właśnie działa CodeBerry, gdzie możesz dołączyć do wirtualnej społeczności i uzyskać pomoc od mentorów online.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Kursy i programy studiów</span></h3>
+<p><span style="font-weight: 400;">Jeśli wolisz się uczyć na kursie z dobrze wyszkolonymi instruktorami, entuzjastycznymi kolegami i dobrze zorganizowanym programem nauczania masz możliwość wyboru spośród wielu opcji. Kiedy mówimy o kursach, większość z nas myśli o nauce „offline”, która odbywa się w klasie i daje wiele wspaniałych okazji do budowania zespołu, relacji, rozwoju umiejętności komunikacyjnych i zabawnych lekcjach z innymi. Jednak możesz też uczyć się programowania na kursach online, z każdego zakątka świata. Jeśli nie ma żadnych kursów programowania w Twoim mieście lub jeśli nie chcesz marnować czasu i pieniędzy na dojazdy to kurs online jest właśnie dla Ciebie. </span></p>
+<p><span style="font-weight: 400;">Możesz również uczyć się programowania na poziomie uniwersyteckim, co wiąże się z gromadzeniem znacznie większej wiedzy teoretycznej, ale jednocześnie daje mniej praktycznego doświadczenia. Będziesz mieć okazję, aby zrozumieć złożone problemy matematyczne i zyskać głębokie zrozumienie operacji, które mają miejsce na tle programowania.</span></p>
+<p><span style="font-weight: 400;">Więcej wskazówek, jak nauczyć się podstaw programowania, znajdziesz w naszym artykule </span><a href="https://codeberryschool.com/blog/pl/jak-nauczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Jak nauczyć się programowania</span></a><span style="font-weight: 400;">, który zawiera dużo szczegółowych informacji na temat metod uczenia się i języków programowania odpowiednich dla początkujących. Ale teraz pozwól nam zasugerować kilka materiałów, które pomogą Ci poprawić Twoje umiejętności pozaszkolne. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Teoria programowania:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Martin, Robert C.: Czysty kod. Podręcznik dobrego programisty, Helion.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Coldwind, Gynvael: Zrozumieć programowanie, Wydawnictwo Naukowe PWN, 2020.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Hunt Andre, Thomas David: Pragmatyczny programista. Od czeladnika do mistrza, Helion.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Podstawy programowania w Pythona: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Downey, Allan B.: Myśl w języku Python! Nauka programowania, Helion.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wawro, Jerzy: </span><a href="http://wydawnictwo.galicea.org/pyprog/#?c=0&amp;m=0&amp;s=0&amp;cv=0" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Uczymy się programować w Pythonie</span></a><span style="font-weight: 400;">, Wydawnictwo Galicea, 2017.</span></li>
+<li style="font-weight: 400;"><a href="https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">W wersji elektronicznej</span></a><span style="font-weight: 400;">: Zanurkuj w Pythonie, na podstawie </span><a href="https://diveintopython3.problemsolving.io/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Dive into Python</span></a><span style="font-weight: 400;"> Marka Pilgrima </span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Do nauki C</span><span style="font-weight: 400;">♯</span><span style="font-weight: 400;">: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Skeet, Jon: C# od podszewki, Helion.</span></li>
+<li style="font-weight: 400;"><a href="http://c-sharp.ue.katowice.pl/?page_id=36" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">W wersji elektronicznej: </span></a><span style="font-weight: 400;">Kempa Anna, Tomasz Staś: Wstęp do programowania w C#, Uniwersytet Ekonomiczny w Katowicach.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Materiały dla JavaScript:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Duckett, Jon: JavaScript i jQuery. Interaktywne strony WWW dla każdego. Podręcznik Front-End Developera, Helion.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Simpson, Kyle: Tajniki języka JavaScript. Na drodze do biegłości, Helion.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Top 10 materiałów i tutoriali YouTube:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=k3Cv-fNlHTk" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Czym jest programowanie?</span></a><span style="font-weight: 400;"> (Część serii “Od zera do junior developera”)</span></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=ErOzmh3BiXU&amp;list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs C++ dla początkujących</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/channel/UCxFUKrMr2RNOUm8jztlKCAA" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Jak nauczyć się programowania?</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=wa8fZP6IBuU" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs Java od podstaw</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=g8cd6_fRc8o" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Tworzenie strony internetowej</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=vek4MqPGvVU&amp;list=PL6aekdNhY7DBGiMXnmBYjImq_vW32QftK" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs Python 3</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=o9zn6XQKjgU&amp;list=PL6aekdNhY7DBvSnK0HUUBb-OH4y41HoZw" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs języka C</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=qVMX17uoHbk&amp;list=PL6aekdNhY7DAeU-2LEGBDXls60Yy-Ubbu" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs C# dla początkujących</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=T3Pla6wZd4E" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kurs Java dla początkujących</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=MMD4XqXSgX0&amp;t=5s" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python od podstaw</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Wymagania techniczne </span></h2>
+<p><span style="font-weight: 400;">Jeśli od jakiegoś czasu interesujesz się programowaniem i masz już wiele informacji na ten temat lub dziedzina IT nie jest Ci kompletnie obca (po prostu jeszcze nie zacząłeś programować), to wyrażenia z tej sekcji będą Ci znane. Jeśli pochodzisz z zupełnie innej dziedziny i nie miałeś do tej pory nic wspólnego z programowaniem, być może przyszło Ci do głowy kilka pytań podobnych do poniższych.</span></p>
+<h3><span style="font-weight: 400;">Komputer i system operacyjny </span></h3>
+<p><span style="font-weight: 400;">Jaki komputer i system operacyjny potrzebujesz do programowania; jakie muszą spełniać wymagania techniczne?</span></p>
+<p><span style="font-weight: 400;">Możesz pisać kodu na zwykłym laptopie lub komputerze stacjonarnym, nie musisz mieć superkomputera wykonanego przez NASA. Wystarczające są najpopularniejsze komercyjne systemy operacyjne (Windows, Linux, MacOS).</span></p>
+<h3><span style="font-weight: 400;">Środowisko rozwoju</span></h3>
+<p><span style="font-weight: 400;">Gdzie pisać kod? Jakiego środowiska należy użyć? Możesz pisać programy w edytorach tekstu, zintegrowanych środowiskach programistycznych lub platformach edycji online. Każdy z nich ma swoje zalety, więc każdy może wybrać opcję, która pasuje do jego pracy, potrzeb i portfela.</span></p>
+<p><span style="font-weight: 400;">Jeśli chcesz pracować w edytorze tekstu, możesz skorzystać z platform Atom, Notepad ++, Sublime Text itp. Umożliwiają one wygodne pisanie i edytowanie kodu, zapewniają przejrzystą prezentację i mają szereg dodatkowych funkcji, takich jak podświetlanie składni i menu pomocy. </span></p>
+<p><span style="font-weight: 400;">Zintegrowane środowiska programistyczne (IDE) to aplikacje, które rozpoznają składnię języka programowania, pomagają zapobiegać błędom i umożliwiają pisanie zagnieżdżonego kodu. Mają również szablony i można je dostosować za pomocą wtyczek i preferencji. </span><i><span style="font-weight: 400;">Eclipse, Visual Studio Code, Webstorm</span></i><span style="font-weight: 400;"> itd. są przykładami IDE. Firmy często wymagają, aby ich programiści pracowali w określonym IDE i kupują im dostęp do profesjonalnego środowiska programistycznego.</span></p>
+<p><span style="font-weight: 400;">Jednak jako osoba początkująca (a także później w wielu innych obszarach programowania), zwykłe platformy do edycji online, takie jak </span><i><span style="font-weight: 400;">codepan.io</span></i><span style="font-weight: 400;"> czy </span><i><span style="font-weight: 400;">repl.it</span></i><span style="font-weight: 400;">, będą wystarczające.</span></p>
+<p><span style="font-weight: 400;">W CodeBerry jedna z pierwszych rzeczy, które nauczamy, jest stworzenie środowiska rozwoju dla siebie i zapoznanie się z GitHub – bezpłatną platformą, na której możesz przechowywać i udostępniać swój kod. Oczywiście oprócz GitHub istnieją także inne podobne aplikacje, np. Bitbucket i GitLab.</span></p>
+<h2><span style="font-weight: 400;">Jakie umiejętności są potrzebne do programowania ? </span></h2>
+<h3><span style="font-weight: 400;">Myślenie analityczne</span></h3>
+<p><span style="font-weight: 400;">Jeśli myślisz o zapisaniu się na kurs programowania na poziomie uniwersyteckim, powinieneś wiedzieć, że aby go rozpocząć, będziesz potrzebować zaawansowanej wiedzy matematycznej – nie da się tego uniknąć. W przeciwieństwie do tego inne kursy, szkolenia i nauczanie indywidualne, nie wymagają tak  głębokiej wiedzy teoretycznej, jak programy uniwersyteckie, więc zazwyczaj nie potrzebujesz do nich tak zaawansowanej matematyki.</span></p>
+<p><span style="font-weight: 400;">Bez wątpienia będziesz jednak potrzebować logicznego i analitycznego myślenia. Aby zrozumieć i nauczyć się algorytmów, będziesz potrzebować głębokiego, analitycznego i racjonalnego myślenia, jeśli nie tradycyjnych umiejętności matematycznych. Będziesz także musiał znać podstawowe pojęcia i rozumieć podstawowe operacje programistyczne. Najlepiej by było często nad nimi ćwiczyć i wracać do nich od czasu do czasu, aby móc z nich korzystać z maksymalną pewnością.</span></p>
+<h3><span style="font-weight: 400;">Kursy programowania w Twoim języku i rola języka angielskiego w programowaniu</span></h3>
+<p><span style="font-weight: 400;">Rola języka angielskiego w programowaniu jest ważną kwestią. Wiele osób może czuć się zniechęconych brakiem solidnej znajomości języka angielskiego, podczas gdy świat IT wydaje się pracować głównie w języku angielskim. Jak więc można do niego wejść, jeśli masz jakieś niedociągnięcia w tym zakresie? </span></p>
+<p><span style="font-weight: 400;">CodeBerry oferuje rozwiązanie dla tego problemu poprzez możliwość nauki kodowania w Twoim języku ojczystym. Dostępnych jest także coraz więcej materiałów (książek, podcastów, filmów, kursów) w języku polskim. W tym artykule możesz znaleźć kilka rekomendacji.</span></p>
+<p><span style="font-weight: 400;">Nie potrzebujesz więc dobrze znać języka angielskiego, aby zacząć naukę i skutecznie doskonalić swoje umiejętności programowania. Warto jednak polepszyć swoją znajomość języka obcego: umiejętność czytania forów, artykułów, aktualności i międzynarodowych opisów, korzyści, jakie pojawiają się wraz z nim na rynku pracy oraz dostęp do globalnej sceny IT to tylko niektóre z powodów, dla których warto zapoznać się z językiem komunikacji międzynarodowej.</span></p>
+<h3><span style="font-weight: 400;">Osobiste umiejętności</span></h3>
+<p><span style="font-weight: 400;">W artykule o podstawach programowania nie możemy pominąć tego, co powinien wiedzieć każdy entuzjastyczny początkujący: wytrwałość i głęboka koncentracja potrzebne do nauki i pracy jako programista. Niezależnie od tego, w jaki sposób się uczysz, nie odniesiesz sukcesu bez pracowitości i zdyscyplinowanej praktyki. Jeśli jednak je posiadasz, możesz zanurzyć się w satysfakcjonującą pracę twórczą, ekscytujące i wymagające procesy rozwiązywania problemów, oraz zyskasz znaczącą przewagę na rynku pracy.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Umiejętność pracy zespołowej</span></h3>
+<p><span style="font-weight: 400;">Jeśli myślisz o programowaniu jako czymś więcej niż tylko hobby i widzisz siebie jako profesjonalnego programistę, to prawdopodobnie będziesz musiał pracować w zespole lub współpracować z klientami, co wymaga dobrej komunikacji i umiejętności współpracy. Ważne jest również, aby umieć przedstawić to, nad czym pracujesz, istotne kwestie i ustalenia w jasny, zwięzły i skuteczny sposób. Są to umiejętności, które można doskonalić i które są niezbędne do sprawnej pracy zespołowej w roli programisty.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Nie da się zawrzeć wszystkich aspektów podstaw programowania w jednym artykule, ale mamy nadzieję, że w tym poście znajdziecie kilka przydatnych informacji. Jeśli czytasz to w celu zbadania tej dziedziny przed rozpoczęciem nauki programowania, być może zainteresuje Cię ten </span><a href="https://codeberryschool.com/blog/pl/rzeczy-ktore-chcialbym-aby-ktos-mi-powiedzial-kiedy-uczylem-sie-programowania-i-czego-sie-nauczylem-uczac-innych/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">opis początków</span></a><span style="font-weight: 400;">, wyzwań i piękna nauki programowania, oraz nasz artykuł zatytułowany </span><a href="https://codeberryschool.com/blog/pl/10-powodow-czemu-nauka-programowania-odmieni-twoje-zycie/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">10 powodów czemu nauka programowania odmieni twoje życie</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

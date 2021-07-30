@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>javascript magyarul | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/javascript-magyarul/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 16:40:38 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>A JavaScript programozás alapjai – JavaScript programozás kezdőknek</title>
+		<link>/blog/hu/a-javascript-programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 08:04:05 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[javascript alapok]]></category>
+		<category><![CDATA[javascript kezdőknek]]></category>
+		<category><![CDATA[javascript magyar]]></category>
+		<category><![CDATA[javascript magyarul]]></category>
+		<category><![CDATA[javascript nyelv]]></category>
+		<category><![CDATA[javascript programozás]]></category>
+		<category><![CDATA[javascript programozás alapjai]]></category>
+		<category><![CDATA[javascript programozás kezdőknek]]></category>
+		<category><![CDATA[javascript programozó]]></category>
+		<category><![CDATA[javascript tanulás]]></category>
+		<category><![CDATA[javascript változók]]></category>
+		<category><![CDATA[modern javascript a gyakorlatban]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=8226</guid>
+
+					<description><![CDATA[A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket. Szeretnél online megtanulni programozni? Gyere, és próbáld ki az első 25 leckénket ingyen a CodeBerry Programozóiskolában! Bevezetés a programozásba A webprogramozás alapjai – Webfejlesztés kezdőknek A Java programozás alapjai – Java programozás kezdőknek Python [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><strong>A JavaScript programozás alapjai – JavaScript programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<h3><b>Mi is a JavaScript?</b></h3>
+<p>Az általános célú, objektumorientált JavaScript magas szintű programozási nyelvként kezdő kódolók számára is kiváló választás. </p>
+<p><span style="font-weight: 400;">A JavaScript a web programnyelve. Szinte nincs is olyan oldal, ami a böngésződben megnyitva ne használna így vagy úgy JavaScriptet a felhasználói élmény javításához. Ezért olyan fontos része a JavaScript a modern programozó eszközkészletének. Tényleg semmi sem helyettesítheti igazán ezt a rugalmas nyelvet, ha kiemelkedő böngészőalapú élménnyel szeretnéd az oldaladhoz láncolni a vásárlókat, ügyfeleket vagy potenciális munkaadóidat. </span></p>
+<p><span style="font-weight: 400;">JavaScript kódból sok minden felépülhet. Szeretnél honlapot csinálni a gyors ütemben növekvő kutyazoknigyártó vállalkozásodnak? Esetleg egy böngészőben futtatható virtuális valóság-élményben modelleznéd, hogy milyen érzés anyóséknál tölteni a karácsonyt? Ehhez, és még sok egyéb nemes cél elérése érdekében is, feltétlenül szükséged lesz a JavaScript programozás elsajátítására.</span></p>
+<p><span style="font-weight: 400;">Szóval ha az imént felsoroltak közül bármelyik megmozgatta a fantáziádat (vagy csak a munkahelyi vécén unatkozol épp), olvass tovább, hogy megismerkedhess a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">JavaScript programozás alapjaival</a>, és ezzel megtedd az első lépést a webprogramozó nindzsává válásod felé.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12046 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/12.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/12.png 1024w, /blog/wp-content/uploads/2018/09/12-300x100.png 300w, /blog/wp-content/uploads/2018/09/12-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><b>Változók</b></h3>
+<p><span style="font-weight: 400;">A legjobb talán a változóknál kezdeni. A programozók változókban szeretnek tárolni mindenféle információt, amire a programnak szüksége lehet futás közben. A változók olyanok, mint a kis dobozok, amikbe dolgokat lehet tenni. A programozó farag kódból egy változót, majd megtölti valamivel, hogy később is könnyedén elő tudja venni, ha szüksége van rá.</span></p>
+<h4><span style="font-weight: 400;">De hogy lehet létrehozni a programban egy változót?</span></h4>
+<p><span style="font-weight: 400;">Hát így:</span></p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable;</code></pre>
+<h4>És ez mégis mit jelent?</h4>
+<p>Örülök, hogy érdekel. A fenti sor két részből áll, és a kettő együtt hozza létre a változót. Nézzük, mit csinálnak külön-külön.</p>
+<ul>
+<li>var
+<ul>
+<li>A JavaScriptben ez egy úgynevezett foglalt szó. Ilyenből van egy jó pár ebben a programnyelvben, és mindegyiknek különleges funkciója van. Ez itt például szól a programnak, hogy most <em>egy változót készülünk létrehozni</em>.</li>
+</ul>
+</li>
+<li>myCoolVariable
+<ul>
+<li>Ez az úgynevezett <em>változóazonosító</em>, azaz a változó neve. Ezt angolul szokás megadni, de akár lehetne „cica” is vagy „empiriokriticizmus” (könyörgöm, ne használj az utóbbihoz hasonló változóneveket!). A változóazonosító segítségével tudunk később az adott változóra <em>hivatkozni</em>, ha erre szükség van.</li>
+<li>A jó gyakorlat az, ha olyan nevet adsz a változóidnak, amik valamilyen módon utalnak az adott változó funkciójára. Ha például van egy változód, amiben az életkorodat tárolod, akkor azt érdemes myAge-nek nevezni, ami angolul annyit tesz: életkorom. Ha következetesen tartod magad ehhez, a programozótársaid imádni fognak, és apró ajándékokat fognak a lábad elé hurcolni.</li>
+</ul>
+</li>
+</ul>
+<h4>Ez mind oké, de aztán mi van?</h4>
+<p>Emlékszel, amikor azt magyaráztam, hogy a változók olyanok, mint a kis dobozok? Nos, a fenti kód létrehozza ugyan a dobozt, de még nem tettünk bele semmit. Ez a következő lépés. Előtte viszont ejtsünk egy gyors szót a különböző <em>adattípusokról</em>.</p>
+<h4>A midattípusokról?</h4>
+<p>Adattípusoknak nevezzük a különböző fajta változókat, amiket létre lehet hozni. Szinte minden programozási nyelv rendelkezik ilyenekkel. Néhányuk ráadásul nagyon szigorúan veszi ezeket: már a legelején kisajtolják belőled, hogy milyen fajta változót akarsz létrehozni, amihez aztán végig tartanod is kell magad.</p>
+<p>A JavaScript programozás nem ilyen. Itt nyugodtan létrehozhatsz egy adott típusú változót, hogy aztán később kényedre-kedvedre megváltoztasd, hiszen JavaScriptben a változók értékét és típusát szabadon meg lehet változtatni. Juhú! Itt aztán kiélheted magad rendesen!</p>
+<p>És most következzék néhány a JavaScriptben elérhető adattípusok közül:</p>
+<ul>
+<li>Number
+<ul>
+<li>A number, azaz szám adattípussal egy valamilyen számértékkel rendelkező változót határozhatunk meg. Egy ilyen változó elvileg mínusz végtelentől plusz végtelenig bármilyen értéket fel tud venni.</li>
+<li>Ezenkívül a NaN különleges értéket is tárolhatja, ami angolul annak a rövidítése, hogy „nem szám” („Not a Number”). Ez leginkább akkor jön elő, ha valamit elhibáztál, és ezzel sikerült teljesen összezavarnod a JavaScriptet. Szegény JavaScript.</li>
+</ul>
+</li>
+<li>String
+<ul>
+<li>A string-típusú változók szöveget tartalmaznak, például olyanokat, hogy „Sziasztok!”, „Pápá!” vagy „egy aprócska kalapocska, benne csacska macska mocska”.</li>
+</ul>
+</li>
+<li>Boolean
+<ul>
+<li>A boolean adattípusba tartozó változók értéke csak <em>true</em>, azaz igaz, vagy <em>false</em>, azaz hamis lehet. Az ilyen változókat sokszor arra használjuk a kódban, hogy bizonyos döntéseket hozzunk meg a segítségükkel. Menjek vagy maradjak? A boolean tudja a megoldást.</li>
+</ul>
+</li>
+</ul>
+<p>Ha szeretnél a többi adattípussal is megismerkedni, <a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external">kattints ide</a>. </p>
+<h4>Változók értékének megadása</h4>
+<p>Most lássuk, hogyan tudunk dolgokat pakolni a változókba. A következő kód például pont ezt csinálja:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">myCoolVariable = 10;
+myCoolVariable = ‘hello’;
+myCoolVariable = true;</code></pre>
+<p>&nbsp;</p>
+<p>A fenti ábrán látható kódok három különböző adattípust rendelnek hozzá a myCoolVariable („az én kis szuper változóm”) nevű változóhoz: az első egy számértéket (10), a második egy string-, azaz szövegtípusú értéket (‘Sziasztok!’), az utolsó pedig egy booleant (true).</p>
+<h4>Változók egyidejű létrehozása és meghatározása</h4>
+<p>Persze a fenti két lépést egyszerre is végrehajthatjuk, így egy csapásra létrehozhatjuk a dobozt, és meg is tölthetjük azt:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;</code></pre>
+<p>&nbsp;</p>
+<p>Itt egy soron belül hozzuk létre a myCoolVariable változót, és rendeljük hozzá a 10-es számértéket. Nem semmi!</p>
+<h4>Hivatkozás korábban meghatározott változókra</h4>
+<p>Az már önmagában nagyszerű, hogy létre tudunk hozni és meg tudunk határozni változókat. Hát még az milyen fantasztikus, ha fel is tudjuk őket később használni!</p>
+<p>De mégis hogyan? Egyszerűen. Csak az azonosítóra lesz hozzá szükségünk.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;
+var myCoolVariableDouble = myCoolVariable + myCoolVariable;</code></pre>
+<p>&nbsp;</p>
+<p>Ezzel létrehoztuk a myCoolVariable változót, és hozzárendeljük a 10-es értéket. Aztán létrehoztunk még egy változót myCoolVariableDouble névvel, aminek pedig úgy határoztuk meg az értékét, hogy az legyen a myCoolVariable kétszer.</p>
+<p>Úgyhogy a myCoolVariableDouble értéke most 20, nekünk pedig már két változónk is van a programunkban. Kettő! Gyere, apa, hozd a fényképezőgépet!</p>
+<h4>Elég a változókból</h4>
+<p>Ez nagyjából le is fedi a változók alapjait: most már létre tudjuk őket hozni, értéket tudunk hozzájuk rendelni és hivatkozni is tudunk rájuk. Ennél azonban sokkal többről szól a JavaScript programozás! Most, hogy ezzel megvolnánk, továbbmehetünk a dicsőségesebb dolgok irányába. Amilyenek például a feltételes állítások.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3>If állítások</h3>
+<p>Jó, most már értjük, hogyan működnek a változók, de hogy segíthetik világuralmi törekvéseinket? Ennek az egyik kézenfekvő módja az if állítások bevetése.</p>
+<p>Az if állítások segítségével a programozók <em>döntésalapú logikát</em> tudnak beépíteni a kódjukba. Ez azt jelenti, hogy ezzel meg lehet mondani a programnak, hogy egy bizonyos <em>feltétel</em> alapján csináljon valamit. (Az angol „if” kifejezés annyit tesz magyarul, hogy „ha”.) Lássunk erre egy példát:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">If (10 &gt; 20) {
+  // fusson le ez a kód
+} else {
+  // fusson le ez a kód
+}</code></pre>
+<p>&nbsp;</p>
+<p>A {}-ek egy adott kódblokkot határolnak körül. Bizonyos JavaScript-eszközöknél, amilyen például az if állítás is, ilyen zárójelet kell használnunk a kód különböző részeinek az elválasztásához. </p>
+<p>Részleteiben ez valahogy így néz ki:</p>
+<ul>
+<li>if
+<ul>
+<li>Ez is egy foglalt szó. Ez értesíti a programot arról, hogy az utána következő kód egy if állítás lesz.</li>
+</ul>
+</li>
+<li>(10 &gt; 20)
+<ul>
+<li>Ez maga a <em>feltétel</em>. Ezt a program ki fogja értékelni, és az eredmény alapján dönti majd el, hogy hogyan tovább. A feltételnek mindig valamilyen booleanérték lesz az eredménye, tehát true (igaz) vagy false (hamis).</li>
+<li>Ha a feltétel eredménye true, az if állítás lefuttatja a feltételt záró zárójel után közvetlenül álló kódblokkot. Ha a kiértékelés végén false eredményt kapunk, akkor ehelyett az else blokkban lévő kód lép érvénybe. Ez utóbbi történik esetünkben is, hiszen 10 nem nagyobb 20-nál.</li>
+</ul>
+</li>
+<li>else
+<ul>
+<li>Ez is egy kulcsszó a JavaScriptben. Angolul annyit tesz, hogy „egyébként”, és azt határozza meg, hogy mi történjen, ha a megadott <em>feltétel</em> hamisnak bizonyul a kiértékelés során, azaz nem teljesül. Az else kódblokkot nem kötelező megadni. Ha azonban megadod, azzal tulajdonképpen egy if / else állítást hozol létre.</li>
+</ul>
+</li>
+</ul>
+<p>Reméljük, ezzel már az is világossá vált, hogy miért van szükség a {}-ekre. A kódblokkok határainak egyértelmű meghatározása nélkül a programunk nem tudná, hogy mikor melyik kódot kéne lefuttatnia, abban az esetben, ha a feltételünk éppen true vagy false értéket kap.</p>
+<p>Az if állítások az összetett programok alapvető építőköveinek számítanak. Ezeknek a beható ismerete elengedhetetlen ahhoz, hogy valakiből profi programozó váljék.</p>
+<p>&nbsp;</p>
+<h3>Ciklusok</h3>
+<p>A ciklusok szintén fontos eszközeink a JavaScript programozásban. Ahogy azt már a nevükből is sejteni lehet, ezek olyan kódblokkok, amik addig futnak újból és újból, amíg nem teljesül egy bizonyos előre megadott feltétel. Többféle ciklus létezik, de most ezek közül csak kettővel ismerkedünk meg. Ha sikerült felkeltenem az érdeklődésedet, akkor a cikkben itt-ott csatolt linkeken még többet is megtudhatsz ezekről a témákról.</p>
+<p>&nbsp;</p>
+<h4>A for ciklus</h4>
+<p>Először vegyük a for ciklust. Itt egy példa rá:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var numberOfIterations = 10;
+ 
+for (var i = 0; i &lt; numberOfIterations; i++) {
+  // csinálj valamit 10-szer
+}</code></pre>
+<p>&nbsp;</p>
+<p>Ez egy kicsit furcsának tűnhet így elsőre, de hidd el, sec-perc alatt megérted, ha lebontjuk. Nézzük is meg rögtön, hogy mit csinálnak a különböző részei:</p>
+<ul>
+<li>var numberOfIterations = 10
+<ul>
+<li>Ezt már ismerjük: itt egyszerre hozunk létre és határozunk meg egy változót.</li>
+</ul>
+</li>
+<li>for (var i = 0; i &lt; numberOfIterations; i++)
+<ul>
+<li>for
+<ul>
+<li>Egy újabb foglalt szó. Ez közli a programmal, hogy egy for ciklus következik.</li>
+</ul>
+</li>
+<li>var i = 0
+<ul>
+<li>Ismét létrehozunk egy változót, és hozzárendelünk egy értéket is. Annyi különlegesség azért van benne, hogy most mindezt egy for cikluson belül tesszük – így aztán az i nevű változónk csak és kizárólag az adott for cikluson belül fog létezni. Ha a ciklus véget ér, örökre búcsút inthetünk az i-nek. Agyő, i.</li>
+</ul>
+</li>
+<li>i &lt; numberOfIterations
+<ul>
+<li>Ez a sor azt mondja a for ciklusnak, hogy csak addig fusson, amíg az i változó még kisebb mint a numberOfIterations értéke (10).</li>
+</ul>
+</li>
+<li>i++
+<ul>
+<li>Végül pedig ezzel a sorral utasítjuk a for ciklust, hogy minden egyes végrehajtott iteráció után növelje az i értékét eggyel.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Remélem ezzel sikerült valamivel áttekinthetőbbé tennem a for ciklusok működését. Tehát a ciklus létrehoz egy ideiglenes változót (i-t), amivel a megtett ciklusok számát tudja lekövetni, majd meghatározza a végrehajtás feltételét (csak akkor, ha i &lt; valamilyen értéknél), végül pedig meghatározza, hogyan növeljük az i értékét ciklusonként (esetünkben úgy, hogy mindig hozzáadunk egyet, de itt aztán tényleg bármi állhatna).</p>
+<p>Természetesen a for ciklus akkor a leghasznosabb, ha tudod, hogy hányszor szeretnél lefuttatni valamit. De mi van akkor, ha nem tudod? Olyankor jön képbe a while ciklus.</p>
+<p>&nbsp;</p>
+<h4>A while ciklus</h4>
+<p>A while ciklus valamivel egyszerűbb a for ciklusnál. Ő egyszerűen fog egy feltételt, és addig fut, amíg a feltétel igaz marad. Például:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var shouldKeepRunning = true;
+ 
+while (shouldKeepRunning) {
+  // futtass le valami kódot
+ 
+  shouldKeepRunning = false;
+}</code></pre>
+<p>&nbsp;</p>
+<p>Lebontva:</p>
+<ul>
+<li>while
+<ul>
+<li>Szólunk a programnak, hogy készüljön fel egy while ciklusra.</li>
+</ul>
+</li>
+<li>(shouldKeepRunning)
+<ul>
+<li>Ez a feltétel. A ciklus addig fog futni, amíg a shouldKeepRunning értéke igaz. Ezt úgy is leírhatnánk, hogy shouldKeepRunning == true, de az egyszerűség kedvéért most így is megteszi.</li>
+</ul>
+</li>
+</ul>
+<p>A JavaScript ==-t használ két érték összehasonlításánál, mert az = ebben a nyelvben arra szolgál, hogy meghatározzuk valaminek az értékét. Tehát azzal, hogy if (10 == 20), igazából azt mondjuk, hogy „ha 10 egyenlő 20-szal”.</p>
+<p>Ez a konkrét ciklus csupán egyszer fog lefutni, mivel mi már a legelső iterációnál false értéket adunk a shouldKeepRunning változónak. Ez persze valószínűleg kicsit másképp fog festeni egy általad írt programban, de fontos, hogy a ciklus végül leálljon egy adott ponton. Végtére is nem akarunk globális katasztrófát okozni egy végtelenített ciklussal.</p>
+<p>Most a ciklusoknak csak ezt a két fajtáját vesszük át, de ha szeretnél a többivel is megismerkedni, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external">mint amit itt felsoroltunk, kattintsd ide</a>. </p>
+<p>&nbsp;</p>
+<h3>Függvények</h3>
+<p>Az eddig elsajátított eszközeink kiváló szolgálatot tesznek kisebb, szekvenciális programoknál, de mi van, ha komolyabb szoftvereket is szeretnénk írni, amikben többször fel kell használni ugyanazokat a kódrészleteket? Egy biztos, nem akarjuk külön-külön bemásolgatni a kódot újból és újból. Hát, ilyenkor nyúlunk a függvényekért.</p>
+<p>A függvények újrahasználható kódrészletek. Például:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">function doSomething(argumentOne, argumentTwo) {
+  // itt csinálj valamit
+}</code></pre>
+<p>&nbsp;</p>
+<p>Ezt lebontva a következőt kapjuk:</p>
+<ul>
+<li>function
+<ul>
+<li>Csak egy újabb JavaScript-kulcsszó.</li>
+</ul>
+</li>
+<li>doSomething
+<ul>
+<li>Ez a <em>függvényazonosító</em>, azaz a függvény neve. A változóazonosítókhoz hasonlóan ennek segítségével hivatkozhatunk az adott függvényre később a kódban.</li>
+</ul>
+</li>
+<li>(argumentOne, argumentTwo)
+<ul>
+<li>A zárójelbe foglalt kódot argumentumlistának nevezzük. A két, argumentOne és argumentTwo nevű érték változóként viselkedik a függvényen belül, szóval így is kell rájuk tekinteni. Egy pillanat múlva azt is látni fogjuk, hogyan tudjuk megadni ezeket az értékeket.</li>
+</ul>
+</li>
+</ul>
+<p>Minden, a function blokkon belüli kódot annyiszor futtathatunk le, ahányszor csak akarjuk – ehhez csupán annyit kell tennünk, hogy meghívjuk a függvényt, például így:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">doSomething(10, 20);</code></pre>
+<p>&nbsp;</p>
+<p>Itt először a doSomething függvényazonosítót használjuk, majd átadunk neki két argumentumot: a 10-et és a 20-at. Ezek az átadott argumentumok fogják aztán átvenni a függvény argumentumlistájában szereplő argumentumok, tehát az argumentOne és az argumentTwo helyét. Itt számít a sorrend is: az argumentOne kapja a 10-es értéket, argumentTwo értéke pedig 20 lesz.</p>
+<p>Abból a szempontból a függvények ugyanúgy működnek, mint a változók, hogy a függvényekre is csak azon a kódblokkon, illetve annak gyermekblokkjain belül lehet hivatkozni, ahol létre lettek hozva. Ha például egy függvényt egy if állítás kódblokkjában hoztál létre, akkor nem fogod tudni azon kívül használni.</p>
+<p>A függvények nagyon fontos eszközök, ha összetett, dinamikus programokat szeretnénk írni, ezért az is fontos, hogy jól begyakoroljuk a használatukat. Ha többet szeretnél tudni a függvények használatáról, <a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external">kattints ide</a>. </p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3>Mennyit kereshetsz JavaScript programozással?</h3>
+<p>Hazánkban jelenleg az alábbiak szerint alakulnak a JavaScripttel foglalkozó szakemberek fizetései:</p>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>Junior JS fejlesztő</td>
+<td>Bruttó 431.000 Ft</td>
+</tr>
+<tr>
+<td>Medior JS fejlesztő</td>
+<td>Bruttó 697.000 Ft</td>
+</tr>
+<tr>
+<td>Senior JS fejlesztő</td>
+<td>Bruttó 963.000 Ft-tól</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p><em>Az adatok forrása: <a href="https://www.fizetesek.hu/fizetesek/informacios-technologiak/javascript-programozo" target="_blank" rel="noopener external" data-wpel-link="external">Fizetések.hu</a></em></p>
+<p>&nbsp;</p>
+<p>A fizetési rangsorban egyébként az 59 . helyet foglalja el a JS programozás, a hölgyek egyelőre 4%-os arányban vannak jelen ezen a piacon. </p>
+<p>Az átlagéletkor 22 év, úgyhogy a fiatalos lendület ennél a pozíciónál is garantált.</p>
+<p>Ha pedig részletesebben is érdekel, mennyit kereshetsz napjainkban programozóként, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>Fizetési kalauzunkban</strong> </a>összegyűjtöttük a jelenlegi nemzetközi és hazai IT-s fizetéseket.</p>
+<p>&nbsp;</p>
+<h3>Hogyan tanulhatom meg a JavaScript programozást?</h3>
+<p>A JavaScript a kezdők számára is könnyen megtanulható nyelvek közé tartozik, ezért aztán a HTML és a CSS elsajátítása után sok programozó rögtön ezzel folytatja a tanulást. Akár a kliens oldalon, akár a backend területén szeretnél elhelyezkedni, ezzel a trióval már jó alapokkal fogsz rendelkezni, bármelyiket is választod.</p>
+<p>Ha szeretnéd megtanulni a JS-t, érdemes az alábbi lépéseket követned:</p>
+<p>Természetesen mint más fontos célkitűzéseknél, itt is fontos, hogy ne csak egy tanórára alapozz, hanem otthon is hozzátedd a tanuláshoz a kellő energiabefektetést. Első lépésként iratkozz be egy jó online, illetve intenzív tanfolyamra, ahol megtanulhatod a JavaScript progrmozás alapjait. Mivel más programnyelvekhez képest a JS elég jól olvasható és könnyen érthető, gond nélkül el lehet sajátítani mindenféle formális oktatás nélkül is.</p>
+<p>Második lépésként olyan nyomtatott vagy digitális anyagokra lesz szükséged, amiből szabadidődben magad is tudod folytatni a tanulást. Rengeteg olyan könyv és útmutató, online videó és tananyag érhető el, ami bevezet a JavaScript programozás rejtelmeibe, de Youtube-on is olyan klassz, több részes videosorozatokat találtok, <a href="https://www.youtube.com/watch?v=YRswTodmICE&amp;list=PLuYHIg_0xQJsiwA4jrXTWaIdqMGJQ4sAU" target="_blank" rel="noopener external" data-wpel-link="external">mint például ez itt</a>.</p>
+<p>Harmadik lépésként pedig keress olyan online közösségeket, fórumokat és üzenőfalakat, ahol tapasztalt JavaScript programozóktól kérhetsz segítséget. Gyakorolj kitartóan, és ha elakadsz, vagy nem találsz egyedül megoldást egy problémára, fordulj tanácsért a közösséghez. </p>
+<p>&nbsp;</p>
+<h3>Mennyi idő alatt lehet megtanulni a JavaScript programozást?</h3>
+<p>Az, hogy mennyi idő alatt tudsz megtanulni egy programozási nyelvet, attól függ, hogy milyen módszerrel tanulsz, mennyire hatékonyan tudsz maradandó tudásra szert tenni, és hogy hetente hány órát fordítasz a tanulásra. Természetesen az sem mindegy, hogy mit jelent számodra az, hogy „megtanultál programozni”. Mindettől függetlenül a JS annyira egyszerű, hogy a lényege meglepően rövid idő alatt elsajátítható.</p>
+<p>Még ha nincs is korábbi tapasztalatod a programozásban, valószínűleg pár nap vagy pár hét alatt már használható tudásra tehetsz szert a JavaScript területén. Ahhoz, hogy a JS kiegészítő funkcióit is megtanuld, és elég magabiztos tudásra és gyakorlatra tegyél szert ahhoz, hogy hivatásos fejlesztőként dolgozhass, valószínűleg nagyjából 3 hónapra lesz szükséged.</p>
+<p>&nbsp;</p>
+<h3>Honnan tudhatom, hogy nekem való-e a JavaScript programozás?</h3>
+<p>Ahhoz, hogy eldöntsd neked való-e egy programnyelv, először azt kell megnézned, hogy mennyire van összhangban a hosszú távú céljaiddal. Az eligazodásban segítségedre lehet a “<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a>” című bejegyzés, ahol részletesen összeszedtük, hogy melyik programnyelvvel milyen karrierlehetőségek várnak rád.</p>
+<p>Kezdőként remek választás lehet a JavaScript programozás. Segítségével a lehető leggyorsabban vághatsz bele a frontend fejlesztésbe és keresheted vissza a befektetett pénzedet. </p>
+<p>Ahhoz pedig, hogy a lehető legkönnyebben tudj elhelyezkedni, érdemes HTML-lel és CSS-szel kiegészítened a tudásod. Ezzel a három nyelvvel igazán sokoldalú programozó válhat belőled. A Codeberry <a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">webfejlesztő</a> illetve a <a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">programozás alapjairól</a> szóló tanfolyamain mindhárom nyelvvel részletesen foglalkozunk &#8211; ráadásul most első 25 leckénket ingyen is <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">kipróbálhatod</a>.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12054 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2018/09/Basics-of-Programming-2.png 1024w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-300x100.png 300w, /blog/wp-content/uploads/2018/09/Basics-of-Programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3>Összegzés</h3>
+<p>Ebben a cikkben átvettük a JavaScript programozás pár alapvető elemét, de érdemes ennél sokkal jobban is elmerülni a témában. A programozás egy gyakorlati készség, és mint ilyen, leginkább csak szorgalmas gyakorlás által lehet kellően elsajátítani. Erre számos lehetőséget nyújtanak a CodeAcademyhez, CodeSchoolhoz és Pluralsighthoz hasonló szolgáltatások azoknak, akik beszélnek angolul &#8211; magyarul pedig kiváló programokat kínálnak a Codeberry, (..) képzései. </p>
+<p>Ha nem tudod, melyik képzési forma illene hozzád a leginkább, less be a “<a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan válasszunk a számtalan programozótanfolyam közül?</a>” című cikkünkbe, ahol összeszedtük neked a programozóképzés összes alternatíváját annak előnyeivel és hátrányaival.</p>
+<p>Remélem az itt olvasottak érdekesek voltak számodra, és hogy később is vissza tudsz nyúlni értük, ha szükséged lenne rá. Sok sikert a programozói pályához!</p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><strong>A JavaScript programozás alapjai – JavaScript programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

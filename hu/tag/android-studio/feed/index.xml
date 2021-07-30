@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android Studio | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/android-studio/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 17:18:59 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Az Android programozás alapjai &#8211; Java vagy Kotlin?</title>
+		<link>/blog/hu/android-programozas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 23:54:41 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[alkalmazás fejlesztés]]></category>
+		<category><![CDATA[alkalmazás készítés]]></category>
+		<category><![CDATA[android alkalmazás fejlesztés]]></category>
+		<category><![CDATA[android app fejlesztés]]></category>
+		<category><![CDATA[android fejlesztés]]></category>
+		<category><![CDATA[android programozás]]></category>
+		<category><![CDATA[android programozás kezdőknek]]></category>
+		<category><![CDATA[Android SDK]]></category>
+		<category><![CDATA[Android Studio]]></category>
+		<category><![CDATA[applikáció készítés]]></category>
+		<category><![CDATA[kotlin programozás]]></category>
+		<category><![CDATA[mobil applikáció fejlesztés]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10648</guid>
+
+					<description><![CDATA[Az Android szoftverfejlesztés vagy Android programozás kifejezések olyan applikációk készítésére vonatkoznak, amik Android mobil operációs rendszerrel rendelkező eszközökön futnak. A cikkben az ilyen alkalmazások létrehozásához szükséges nyelveken és eszköztáron haladunk végig, valamint megemlítjük az Android programozás tanulásának módjait és aktuális trendjeit is.  &#160; &#160; Milyen programozási nyelveket használnak Android applikációk fejlesztéséhez?  Androidra fejleszteni jelenleg két [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Az Android szoftverfejlesztés vagy Android programozás kifejezések olyan applikációk készítésére vonatkoznak, amik Android mobil operációs rendszerrel rendelkező eszközökön futnak. A cikkben az ilyen alkalmazások létrehozásához szükséges nyelveken és eszköztáron haladunk végig, valamint megemlítjük az Android programozás tanulásának módjait és aktuális trendjeit is. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12237 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/8.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/12/8.png 1024w, /blog/wp-content/uploads/2020/12/8-300x100.png 300w, /blog/wp-content/uploads/2020/12/8-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Milyen programozási nyelveket használnak Android applikációk fejlesztéséhez? </span></h2>
+<p><span style="font-weight: 400;">Androidra fejleszteni jelenleg két programnyelven, </span><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Java</span></a><span style="font-weight: 400;">ban és Kotlinban szoktak leginkább. </span></p>
+<p><span style="font-weight: 400;">A Java az egyik legnépszerűbb és legszélesebb körben elterjedt programozási nyelv, hatalmas kódbázissal, rengeteg elérhető segédanyaggal és tapasztalt programozókkal. </span></p>
+<p><span style="font-weight: 400;">Találunk tutorialokat és megoldási javaslatokat szinte minden Android programozásban felmerülő kérdésre.</span></p>
+<p><span style="font-weight: 400;">A Kotlin egy újabb nyelv, 16 évvel fiatalabb, mint a Java, számos előnye van, például jóval kevesebb sornyi kóddal létre lehet hozni ugyanazt, ami kevesebb hibalehetőséget rejt. Kevesebb viszont az elérhető tananyag, fórum, információ és nehezebb igazi szakértőket, nagy tapasztalattal rendelkező fejlesztőket találni.</span></p>
+<p><span style="font-weight: 400;">Egyelőre a legtöbb androidos alkalmazás Javaban fut, sőt, maga az Android operációs rendszer részben Javaban íródott, a C++ mellett. Idővel ez a hangsúly eltolódhat, mivel a Google a Kotlin mellett tette le a voksát. </span></p>
+<p>&nbsp;</p>
+<p><div style="width: 1210px" class="wp-caption aligncenter"><img loading="lazy" src="https://devathon.com/blog/wp-content/uploads/sites/2/2020/02/kotlin-vs-java-devathon.jpg" alt="Android programozás Javaban és Kotlinban." width="1200" height="989" /><p class="wp-caption-text">Forrás: <a href="https://devathon.com/blog/kotlin-vs-java-android-app-development/" target="_blank" rel="noopener external" data-wpel-link="external">Devathon</a></p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">A témához kapcsolódó fórumokat és blogbejegyzéseket olvasva azt láthatjuk, hogy bár a Kotlin népszerű nyelv és az Android programozás jövőjében fontos szerepe lesz, egyelőre a Java sem kerül ki a csatasorból.</span></p>
+<p><a href="https://codinginflow.com/java-or-kotlin-android-beginner" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Ebben a blogbejegyzésben</span></a><span style="font-weight: 400;"> a Java vs. Kotlin témakörhöz kapcsolódó fórum-hozzászólásokat és egyéb véleményeket fésüli össze a szerző.</span></p>
+<p><span style="font-weight: 400;">Kiemeli, hogy kezdők számára, akik a programozás alapjaival ismerkednek, érdemes Javával kezdeni, Kotlinra később is át lehet térni, hiszen teljesen kompatibilis a Javat futtató JVM-mel (Java Virtual Machine).</span></p>
+<p><span style="font-weight: 400;"> A programozás alapvető műveleteinek, struktúráinak elsajátítására pedig alkalmasabb a Java – fogalmazzák a cikkben összegyűjtött vélemények. További érv a Java mellett, hogy a nyitott pozíciók, elérhető fejlesztői állások száma egyelőre sokszorosa a Kotlinénak, mivel Android fejlesztés mellett sok más területen is alkalmazzák.</span></p>
+<p><span style="font-weight: 400;">Ha szeretnéd te is elsajátítani a programozás alapjait Java nyelven, a CodeBerry kurzusa pont neked szól! – </span><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1/?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=hu&amp;utm_term=java%20programoz%C3%B3&amp;gclid=Cj0KCQiA7qP9BRCLARIsABDaZziYiB_GE1xSiLDzuTKLfw1mlY8sX8SUtuvcJqqW5ZHaMg9JiGlPbLoaAmdAEALw_wcB" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Java programozás tanfolyam I. </span></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Az Android programozásról dióhéjban – eszközök</span></h2>
+<p><span style="font-weight: 400;">Az ismerkedéshez ideális kiindulópont az </span><a href="https://developer.android.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android Developers</span></a><span style="font-weight: 400;">, az Android fejlesztői oldala, ahol átfogó áttekintést kapunk az Android programozás menetéről és fejlesztői eszközeiről. </span></p>
+<p><span style="font-weight: 400;">Az oldalon angol nyelven részletes leírást kapunk magáról az operációs rendszerről, annak egyes verzióiról.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_10649" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10649" loading="lazy" class="wp-image-10649 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/1-1024x257.png" alt="" width="1024" height="257" srcset="/blog/wp-content/uploads/2020/11/1-1024x257.png 1024w, /blog/wp-content/uploads/2020/11/1-300x75.png 300w, /blog/wp-content/uploads/2020/11/1-768x193.png 768w, /blog/wp-content/uploads/2020/11/1-1080x271.png 1080w, /blog/wp-content/uploads/2020/11/1.png 1317w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10649" class="wp-caption-text">Forrás: <a href="https://developer.android.com/" target="_blank" rel="noopener external" data-wpel-link="external">Android Developers</a></p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Tapasztalattal rendelkező fejlesztőként a </span><a href="https://developer.android.com/docs" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dokumentáció</span></a><span style="font-weight: 400;"> áttekintése valószínűleg választ ad a legtöbb kérdésünkre. Kezdőként egyéb előismereteket kell elsajátítani ahhoz, hogy boldoguljunk az itt részletezett fogalmakkal és eljárásokkal.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Android SDK és Android Studio</span></h3>
+<p><span style="font-weight: 400;">A Google sokféle saját eszközzel és könyvtárral segíti elő a fejlesztők munkáját, ezeket az Android Software Development Toolkit (SDK), vagyis Android szoftverfejlesztői eszköztár fogja össze. Moduláris egységekben tartalmazza a különböző eszközöket (</span><a href="https://developer.android.com/studio/releases/build-tools" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Build-Tools</span></a><span style="font-weight: 400;">, </span><a href="https://developer.android.com/studio/releases/platform-tools" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Platform-Tools</span></a><span style="font-weight: 400;">, </span><a href="https://developer.android.com/studio/command-line/adb" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Debug-Tool</span></a><span style="font-weight: 400;">, </span><a href="https://developer.android.com/studio/releases/emulator" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Emulator</span></a><span style="font-weight: 400;">, stb). Az emulator segítségével például tesztelhetjük a készülő app megjelenését és működését különböző androidos eszközökön (telefonokon, tableteken stb). </span></p>
+<p><span style="font-weight: 400;">Mindehhez saját fejlesztői környezetet (IDE) is bocsátott ki a Google, ez pedig az </span><a href="https://developer.android.com/studio" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android Studio</span></a><span style="font-weight: 400;">. A code editoron kívül számos egyéb specialitást is beépítettek a folyamatosan fejlődő Android Studioba, amikről a </span><a href="https://developer.android.com/studio/intro" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">User Guide</span></a><span style="font-weight: 400;">-ban találunk részletes információt. </span></p>
+<p>&nbsp;</p>
+<p><div style="width: 1362px" class="wp-caption alignnone"><img loading="lazy" src="https://developer.android.com/studio/images/studio-homepage-hero.jpg" alt="" width="1352" height="818" /><p class="wp-caption-text">Forrás: <a href="https://developer.android.com/studio" target="_blank" rel="noopener external" data-wpel-link="external">Android Developers</a></p></div></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Mennyit kereshetek Android fejlesztőként? </span></h2>
+<p><span style="font-weight: 400;">Android fejlesztőként már kezdéskor eggyel magasabb bérsávban reménykedhetünk, mint a telítettebb, általánosabb informatikai területeken (pl.: frontend fejlesztőként).</span></p>
+<p><span style="font-weight: 400;">Ha értesz a Kotlinhoz vagy az alkalmazásfejlesztéshez Javában, máris megcélozhatsz egy </span><b>500-600 ezres bruttó kezdő fizetést.</b><span style="font-weight: 400;"> Ha pedig már vannak elkészült projektjeid, amiket prezentálhatsz, vagy esetleg jelentősebb gyakornoki tapasztalattal rendelkezel, akár egy kellemes 750 ezres bért is kialkudhatsz magadnak.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_10658" style="width: 908px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10658" loading="lazy" class="size-full wp-image-10658" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/nofluffjobs_nov.png" alt="" width="898" height="287" srcset="/blog/wp-content/uploads/2020/11/nofluffjobs_nov.png 898w, /blog/wp-content/uploads/2020/11/nofluffjobs_nov-300x96.png 300w, /blog/wp-content/uploads/2020/11/nofluffjobs_nov-768x245.png 768w" sizes="(max-width: 898px) 100vw, 898px" /><p id="caption-attachment-10658" class="wp-caption-text">Android fejlesztői állásajánlatok 2020 november &#8211; Forrás: <a href="https://nofluffjobs.com/hu/jobs/android?gclid=Cj0KCQiAwMP9BRCzARIsAPWTJ_EoOpO8JqoTLnivrRzSlvtnHDSLKmGJAv7AGN3t_XmH274_JOMRIHkaAuUFEALw_wcB" target="_blank" rel="noopener external" data-wpel-link="external">NoFluffJobs</a></p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Az IT szektorban viszonylag gyorsan lehet szeniorrá érni &#8211; persze az sem árt hozzá, ha az ehhez szükséges </span><b>3-5 évet</b><span style="font-weight: 400;"> nem csak munkával, de tanulással és önképzéssel is töltöd, és folyamatosan keresed a kihívásokat. Ennyi tapasztalattal a hátad mögött már </span><b>750-950 ezer forintos bruttó fizetés vár rád</b><span style="font-weight: 400;"> a cégeknél.</span></p>
+<p><span style="font-weight: 400;">Ha pedig még több felelősséget vállalnál, és már legalább 5 év releváns szakmai tapasztalat is van a hátad mögött, jó eséllyel indulsz a milliós álomhatárért; </span><b>expert Android fejlesztőként kb 850 ezer &#8211; 1,2 millió forintos bruttó béreket </b><span style="font-weight: 400;">vihetsz haza idén.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_10659" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10659" loading="lazy" class="size-large wp-image-10659" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/android-fizetesek-chart-1024x410.png" alt="" width="1024" height="410" srcset="/blog/wp-content/uploads/2020/11/android-fizetesek-chart-1024x410.png 1024w, /blog/wp-content/uploads/2020/11/android-fizetesek-chart-300x120.png 300w, /blog/wp-content/uploads/2020/11/android-fizetesek-chart-768x307.png 768w, /blog/wp-content/uploads/2020/11/android-fizetesek-chart-1536x614.png 1536w, /blog/wp-content/uploads/2020/11/android-fizetesek-chart-1080x432.png 1080w, /blog/wp-content/uploads/2020/11/android-fizetesek-chart.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10659" class="wp-caption-text">Az adatok forrása: <a href="https://www.hays.hu/piaci-%C3%A1ttekint%C3%A9s" target="_blank" rel="noopener external" data-wpel-link="external">Hays Hungary Salary Guide 2020</a> c. kiadvány</p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Összességében az Android fejlesztés értékes, jól megfizetett és keresett szaktudás, így ha gondolkodsz rajta, hogy összebarátkozz az alkalmazások világával, mindenképp kifizetődő tudásra tehetsz szert ezen a területen.</span></p>
+<p>Ha pedig részletesebben is érdekel, mennyit kereshetsz napjainkban programozóként, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>Fizetési kalauzunkban</strong> </a>összegyűjtöttük a jelenlegi nemzetközi és hazai IT-s fizetéseket.</p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Hogyan tanulhatom meg az Android programozást?</span></h2>
+<p><span style="font-weight: 400;">Alapvetően egy programozási nyelv (a Java vagy a Kotlin) megtanulásáról, egy eszközkészlet (az Android SDK) használatának elsajátításáról és a tervezés-megvalósítás-tesztelés lépéseinek megismeréséről van szó, mikor Android fejlesztés megtanulásáról beszélünk. </span></p>
+<p><span style="font-weight: 400;">Ezeket önállóan, különböző segédanyagokra támaszkodva is el lehet sajátítani, illetve tanfolyamok keretében is. A cikkben a főként magyar nyelvű anyagokra fókuszálunk, de természetesen angolul is számtalan tutorial, online kurzus, tankönyv elérhető. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Önálló tanulás Android programozás videók segítségével </span></h3>
+<p><span style="font-weight: 400;">Ha programozás videókat szeretnénk nézni magyarul, érdemes a Youtube-on körülnézni, de a WebUni oldalán is találunk egy izgalmas kurzust. </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Youtube tutorialok az alapoktól: </span>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/playlist?list=PLvJH6B21BDax0R7aFVlUltBnw4JGPnNqz" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android programozás kezdőknek</span></a><span style="font-weight: 400;"> – Ez a tananyag az </span><a href="https://appinventor.mit.edu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">App Inventor</span></a><span style="font-weight: 400;"> grafikus felületét használva mutatja meg az applikációfejlesztés alapjait. </span></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/playlist?list=PLDlHEyX_XL1MkhJsSB2SCy8lveNP2Gvb2" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android Programozás </span></a><span style="font-weight: 400;">– A fejlesztői környezet és eszköztár megismerésével indul a tanulás, majd a programozás alapjait tanulhatjuk meg, az applikációfejlesztéshez szükséges tudnivalókat helyezve a középpontba. </span></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/playlist?list=PLQCrW4xBBP-S9vFBBAtgmSz4o--VPbL6L" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android fejlesztés </span></a><span style="font-weight: 400;">– Alapvető fogalmak, funkciók, az Android Studio használata és sajátosságai. </span></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="App Inventor - (1) Beszélj hozzám (Android programozás kezdőknek)" width="1080" height="608" src="https://www.youtube.com/embed/au9cZLUCNIo?list=PLvJH6B21BDax0R7aFVlUltBnw4JGPnNqz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><a href="https://webuni.hu/kepzes/webes-alkalmazasfejlesztes-android-studio" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">WebUni kurzus</span></a><span style="font-weight: 400;"> (Android Studio) </span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ez a kurzus azoknak készült, akik rendelkeznek webfejlesztői tudással, viszont nem ismerik a Java nyelvet. Weblapok alkalmazásként való telepítését és futtatását mutatja be, valamint, hogy hogyan lehet  JavaScript alapú pluginok segítségével elérni és vezérelni a tablet vagy telefon funkcióit. Android Studiot és Cordova 6-os fejlesztőkörnyezetet használ a tananyag, alaposan végighaladva az elérhető funkciókon. </span></li>
+</ul>
+</li>
+</ul>
+<p><div id="attachment_10650" style="width: 420px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10650" loading="lazy" class="size-full wp-image-10650" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/2.png" alt="" width="410" height="545" srcset="/blog/wp-content/uploads/2020/11/2.png 410w, /blog/wp-content/uploads/2020/11/2-226x300.png 226w" sizes="(max-width: 410px) 100vw, 410px" /><p id="caption-attachment-10650" class="wp-caption-text">Forrás: <a href="https://webuni.hu/kepzes/webes-alkalmazasfejlesztes-android-studio" target="_blank" rel="noopener external" data-wpel-link="external">WebUni</a></p></div></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Akinek nem akadály az angol nyelv, az rengeteg tananyagot talál a </span><a href="https://www.coursera.org/search?query=android&amp;utm_source=gg&amp;utm_medium=sem&amp;utm_campaign=09-ScienceofWellBeing-ROW&amp;utm_content=09-ScienceofWellBeing-ROW&amp;campaignid=9722859275&amp;adgroupid=100391762620&amp;device=c&amp;keyword=yale%20university%20courses&amp;matchtype=b&amp;network=g&amp;devicemodel=&amp;adpostion=&amp;creativeid=442206264683&amp;hide_mobile_promo=&amp;gclid=Cj0KCQiA-rj9BRCAARIsANB_4AD7emTOpqM9__j9UGR1BdsL5lED1_cyQzxpymFdAa2iqHtw5VCB2wgaAn79EALw_wcB" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Coursera</span></a><span style="font-weight: 400;">, és </span><a href="https://www.udemy.com/courses/search/?q=android%20development&amp;src=sac&amp;kw=android" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Udemy </span></a><span style="font-weight: 400;">oldalán, Android fejlesztés témakörben. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10651" src="https://codeberryschool.com/blog/wp-content/uploads/2020/11/courses-coll..png" alt="" width="913" height="297" srcset="/blog/wp-content/uploads/2020/11/courses-coll..png 913w, /blog/wp-content/uploads/2020/11/courses-coll.-300x98.png 300w, /blog/wp-content/uploads/2020/11/courses-coll.-768x250.png 768w" sizes="(max-width: 913px) 100vw, 913px" /></p>
+<h3></h3>
+<h3><span style="font-weight: 400;">Android programozás könyvek</span></h3>
+<ul>
+<li style="font-weight: 400;"><a href="https://feherkrisztian.com/szakkoenyvek.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Fehér Krisztián könyvei:</span></a><span style="font-weight: 400;"> </span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Androidos szoftverfejlesztés alapfokon, BBS-Info Kiadó, 2014</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Navigációs szoftverek fejlesztése Androidra, BBS-Info Kiadó, 2014</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alkalmazásfejlesztés Android Studio rendszerben, BBS-Info Kiadó, 2018</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Androidos alkalmazásfejlesztés Kotlin nyelven 1-2, BBS-Info Kiadó, 2020</span></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><a href="http://szatyika.hu/files/Android_26m3y1we.alapu.szoftverfejlesztes.2012.eBOOk-digIT.pdf" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Ekler Péter –Fehér Marcell – Forstner Bertalan – Kelényi Imre:  </span><i><span style="font-weight: 400;">Android-alapú szoftverfejlesztés</span></i></a><span style="font-weight: 400;">, Szak Kiadó, 2012</span></li>
+</ul>
+<p><span style="font-weight: 400;">A könyv elérhető PDF-ben, bár nem a legfrissebb ismereteket tartalmazza, de az alapok megismeréséhez bőséges anyagot szolgáltat. </span></p>
+<h3><span style="font-weight: 400;">Android programozás tanfolyamok</span></h3>
+<p><span style="font-weight: 400;">Online és offline keretek között is többféle Android fejlesztői tanfolyam vár rád, ha nem önállóan, hanem csoporttal, oktatóval szeretnél tanulni. A magyarországi kurzusokat külön cikkben gyűjtöttük össze: </span></p>
+<div class="post-header">
+<ul>
+<li class="entry-title"><a href="https://codeberryschool.com/blog/hu/top-8-android-programozas-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">Top 8 Android programozás tanfolyam</a></li>
+</ul>
+</div>
+<p><span style="font-weight: 400;">Maga a Google is elérhetővé tett egy angol nyelvű, ingyenes Android programozás tanfolyamot, ami igazi mobilapp-fejlesztőt farag a résztvevőkből, kb. 2 hónap alatt. Ez a kurzus a Kotlin nyelvvel és a mobilos fejlesztéshez szükséges gondolkodásmóddal ismertet meg. A tanfolyam oldala: </span><a href="https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Developing Android Apps with Kotlin</span></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Mennyi idő alatt lehet megtanulni az Android programozást?</span></h2>
+<p><span style="font-weight: 400;">Természetesen mint minden más programozási ismeret – és egyáltalán, bármilyen ismeret – megszerzésének ideje függ a befektetett óraszámtól, az egyéni készségektől, motiváltságtól, tanulási módszerektől, előismeretektől. </span></p>
+<p><span style="font-weight: 400;">Bár gyakori kérdés, mennyi idő alatt lehet megtanulni egy adott nyelvet, technológiát stb., tulajdonképp erre nem lehet objektíven válaszolni, ha a fent felsorolt befolyásoló tényezőket figyelembe vesszük. A gyakorlással töltött idő, a valódi, elmélyített, alkalmazható tudás az igazán mérvadó. Elsősorban magunkat, a tanulási stílusunkat és a számunkra hatékony módszereket kell jól ismerni. </span></p>
+<p><span style="font-weight: 400;">Ha mégis szeretnénk nagyságrendileg megsaccolni, mennyi időt kell az Android programozás tanulására szánni, és kutatásba kezdünk ebben a témában, a következőket találjuk: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">kb. 3-6 hónap, ha vannak programozási előismereteink, ismerjük az androidos fejlesztéshez használt nyelvek valamelyikét, és tulajdonképp az Android eszköztárát és specialitásait kell csak megtanulnunk. (Természetesen ennél kevesebb és több is lehet, még alapismeretekkel is). Ennyi időt befektetve már komplex appokat is fogunk tudni készíteni. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Egyszerű alkalmazásokat a megfelelő előismeretekkel rendelkezve 1 hónap alatt is meg lehet tanulni összerakni</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Azoknak, akik még sosem programoztak, és most sajátítják el a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">programozás alapjait</a>, előbb a Java vagy a Kotlin nyelvek egyikét kell elsajátítani. Ez szintén igénybe vesz 3-6 hónapot, mielőtt el tudunk kezdeni Android programozással foglalkozni. </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Akik önálló tanulás helyett tanfolyamot választanak, jelenleg olyanokat találnak a magyar piacon, amik előzetes programozói tudást várnak el. Erre építve általában 40 órában, egy hónap alatt tanítják meg az applikációfejlesztés legfontosabb tudnivalóit. </span></li>
+</ul>
+<p><span style="font-weight: 400;">Összefoglalva a fentieket, elmondhatjuk, hogy egy éven belül kezdő szintről indulva is meg lehet tanulni Android appokat fejleszteni, a ráfordított időtől és gyakorlástól függ, mennyire komplex alkalmazások létrehozására leszünk képesek. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12238 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/Java-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/12/Java-2.png 1024w, /blog/wp-content/uploads/2020/12/Java-2-300x100.png 300w, /blog/wp-content/uploads/2020/12/Java-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Jó választás nekem az Android programozás? </span></h2>
+<p><span style="font-weight: 400;">Ahhoz, hogy eldöntsd, érdemes-e belevágnod az Android programozás tanulásába, azt kell mérlegelni, hogy összhangban van-e a hosszútávú céljaiddal. </span></p>
+<p><span style="font-weight: 400;">Ha saját appot fejlesztenél, mindenképpen gondosan tervezz, hogy minél nagyobb legyen az esélye, hogy sikeres, keresett termék lesz az applikációd. </span></p>
+<p><span style="font-weight: 400;">Amennyiben már van programozási tapasztalatod, esetleg már használod a Java nyelvet, mindenképp érdemes lehet megismerni az Android világát, hiszen egyértelmű trend, hogy a mobileszközök egyre népszerűbbek, egyre több rendszert használunk a mindennapjainkban, így az Android programozás piaca folyamatosan bővül. </span></p>
+<p><span style="font-weight: 400;">Az Android mára rengeteg területen megjelent: az autós navigáció megkönnyítésétől kezdve a fogyatékos személyek hozzáférését segítő automata feliratozó- és felolvasórendszerek fejlesztésén át számtalan új irány várja a programozókat. </span></p>
+<p><span style="font-weight: 400;">További böngészésre ajánljuk az </span><a href="https://www.thedroidsonroids.com/blog/10-android-development-trends-2020-guide" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android app fejlesztés aktuális trendjei</span></a><span style="font-weight: 400;">t bemutató cikket (angol nyelvű), amelyben például gépi tanulás, AI fejlesztés, chatbotok és más izgalmas lehetőségek is szóba kerülnek.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Egyszerű játék készítés :: Androidos Játék 1 (Construct 2 HUN)" width="1080" height="608" src="https://www.youtube.com/embed/Iyp_Xer_jcM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Biztosan elmondhatjuk tehát, hogy akár kezdő vagy tapasztalt fejlesztőként az Android felé fordulni jó döntés, ha az egyéni érdeklődésednek és céljaidnak megfelel, hiszen az androidos fejlesztés ismerete keresett skill a munkaerőpiacon. </span></p>
+<p><span style="font-weight: 400;">Ebben a cikkben röviden körüljártuk az Android programozással kapcsolatos leggyakoribb kérdéseket, és az androidos fejlesztés megtanulásának módjait, magyar és angol nyelvű lehetőségeit, időtartamát. Reméljük, hasznosnak találtad a cikket és további programozással kapcsolatos kérdéseidre is választ találsz a blogunkban. </span></p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><strong>Android programozás alapjai &#8211; Java vagy Kotlin?</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 8 Android programozás tanfolyam</title>
+		<link>/blog/hu/top-8-android-programozas-tanfolyam/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 25 Dec 2020 22:54:34 +0000</pubDate>
+				<category><![CDATA[Programozás tanfolyamok]]></category>
+		<category><![CDATA[adroid fejlesztés debrecen]]></category>
+		<category><![CDATA[alkalmazásfejlesztés]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[android alkalmazás fejlesztés]]></category>
+		<category><![CDATA[android app fejlesztés]]></category>
+		<category><![CDATA[android fejlesztés]]></category>
+		<category><![CDATA[Android fejlesztő]]></category>
+		<category><![CDATA[android fejlesztő tanfolyam]]></category>
+		<category><![CDATA[android programozás]]></category>
+		<category><![CDATA[android programozás kezdőknek]]></category>
+		<category><![CDATA[Android programozás kurzus]]></category>
+		<category><![CDATA[Android programozás tanfolyam]]></category>
+		<category><![CDATA[android programozási nyelv]]></category>
+		<category><![CDATA[Android SDK]]></category>
+		<category><![CDATA[Android Studio]]></category>
+		<category><![CDATA[applikáció fejlesztés]]></category>
+		<category><![CDATA[elmélet vs gyakorlat]]></category>
+		<category><![CDATA[mobil alkalmazás fejlesztés]]></category>
+		<category><![CDATA[mobil alkalmazás fejlesztés ár]]></category>
+		<category><![CDATA[mobil applikáció programozás]]></category>
+		<category><![CDATA[online oktatás]]></category>
+		<category><![CDATA[tantermi oktatás]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=11014</guid>
+
+					<description><![CDATA[Semmi kétség nem fér hozzá, hogy a mobileszközök használata meghódította a világot és ezzel együtt futótűzként terjedtek el az Android operációs rendszeren futó programok. A mobilappok fejlesztése egyre több programozót vagy leendő programozót vonz.  Ha te is azok közé tartozol, akik szeretnék megtanulni az androidos fejlesztés mikéntjét, ez az összeállítás neked készült. A cikkben összeszedtük, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Semmi kétség nem fér hozzá, hogy a mobileszközök használata meghódította a világot és ezzel együtt futótűzként terjedtek el az Android operációs rendszeren futó programok. A mobilappok fejlesztése egyre több programozót vagy leendő programozót vonz. </span></p>
+<p><span style="font-weight: 400;">Ha te is azok közé tartozol, akik szeretnék megtanulni az androidos fejlesztés mikéntjét, ez az összeállítás neked készült. A cikkben összeszedtük, hogy mit érdemes tudni a kurzusokról általában, valamint a magyar nyelvű Android programozás tanfolyamok kínálatáról.</span></p>
+<p><span style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/android-programozas/" data-wpel-link="external" target="_blank" rel="external">Android programozás:</a> átfogó cikkünkben részletes információt találsz az Android fejlesztésről, olvasd el, ha szeretnél többet tudni a témában.</span></p>
+<p> </p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12175 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/8.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/8.png 1024w, /blog/wp-content/uploads/2020/06/8-300x100.png 300w, /blog/wp-content/uploads/2020/06/8-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><span style="font-weight: 400;">Miért éri meg Android fejlesztő tanfolyamon részt venni?</span></h3>
+<p><span style="font-weight: 400;">Az önálló tanulásnak és a tanfolyamoknak is vannak előnyei, mindenki a számára megfelelő formát választhatja. <strong>Tapasztalattal rendelkező oktatók által vezetett kurzusokon könnyebb fókuszáltan haladni,</strong> a célnak legmegfelelőbb módszereket és technológiákat megismerni. A <strong>csoportban egyszerűen választ kaphatunk a kérdéseinkre</strong> és<strong> gyakorlati projekteket</strong> valósíthatunk meg. </span></p>
+<p><span style="font-weight: 400;">Az Android fejlesztői tudás nagy értéket képvisel a munkaerőpiacon, frissen megszerzett tudásunkkal könnyen és gyorsan találhatunk állást, esetleg kiegészítő lehetőségeket meglévő munkánk mellé.</span></p>
+<p><span style="font-weight: 400;">Az Android fejlesztői tanfolyam jellemzően nem hosszúak, mivel előzetes tudásra építenek (erről részletesebben a következő szakaszban olvashatsz), így az első fizetéssel jó eséllyel megtérül az áruk. </span></p>
+<p><div style="width: 760px" class="wp-caption aligncenter"><img loading="lazy" src="https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" alt="" width="750" height="500" /><p class="wp-caption-text">Forrás: <a href="https://unsplash.com/photos/gy08FXeM2L4" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></p></div></p>
+<h3><span style="font-weight: 400;">Mit kell tudni ahhoz, hogy jelentkezhessünk egy Android programozás tanfolyamra? </span></h3>
+<p><span style="font-weight: 400;">Jelenleg <strong>a legtöbb elérhető Android tanfolyam</strong> nem programozni tanítja a résztvevőket, hanem <strong>az androidos applikációfejlesztés eszközeivel</strong> (</span><a href="https://en.wikipedia.org/wiki/Android_Studio" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android Studio</span></a><span style="font-weight: 400;">, </span><a href="https://en.wikipedia.org/wiki/Android_software_development#Android_SDK" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android SDK</span></a><span style="font-weight: 400;">) és metódusaival <strong>ismertet meg. </strong></span></p>
+<p><span style="font-weight: 400;">Emiatt <strong>szükség van </strong>előzetes programozói ismeretekre, a legtöbb esetben kifejezetten <strong>a Java nyelv ismeretére,</strong> hiszen ez az Android programozás egyik fő nyelve. (A másik a Kotlin, de a magyar kínálatban egyelőre főként Javara épülő kurzusokat találunk.)</span></p>
+<p><span style="font-weight: 400;">Ha ennek a tudásnak még nem vagy a birtokában, ajánljuk a CodeBerry online kurzusát: a </span><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Java programozó tanfolyam I</span></a><span style="font-weight: 400;">.-et, ahol elsajátíthatod a szükséges alapokat. </span></p>
+<h3><span style="font-weight: 400;">Android fejlesztő tanfolyam online </span></h3>
+<p><span style="font-weight: 400;">A 2020-as évben a koronavírus-járvány felforgatta a tanulás-tanítás hagyományos formáit is. Sok képzőintézmény kényszerült rá, vagy döntött önként amellett, hogy online térbe helyezi át a tanfolyamait. Emellett voltak olyan kurzusok, amik eleve távoktatásos rendszerben működtek. </span></p>
+<p><span style="font-weight: 400;">Érdemes utánajárni, hogy a tanfolyam, amit el szeretnél végezni, elérhető-e online formában, hiszen így bárhonnan, a világ bármely pontjáról tanulhatsz és az időbeosztásodhoz is könnyebb igazítani.</span></p>
+<p><span style="font-weight: 400;">Ha azonban ragaszkodnál a személyes jelenléthez, akkor is érdemes alaposan tájékozódni, mivel könnyen lehet, hogy az adott intézmény csak a korlátozások idejére terelte online térbe az óráit, azokon kívül van lehetőség tantermi órákra is. </span></p>
+<p> </p>
+<p><iframe loading="lazy" title="Egy Android alkalmazás fejlesztése lépésről lépésre &#x1f468;&#x200d;&#x1f4bb;- Webinárium Dr. Ekler Péterrel" width="1080" height="608" src="https://www.youtube.com/embed/HVWssDklQvk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><span style="font-weight: 400;">Mit érdemes figyelembe venni a tanfolyam kiválasztásakor? </span></h2>
+<h3><span style="font-weight: 400;">Milyen hosszú és milyen intenzív a képzés? </span></h3>
+<p><span style="font-weight: 400;"><strong>A kurzusok többsége</strong> összesen <strong>40 órás,</strong> de találunk 32 órásat is. Különböző időbeosztásban zajlanak az órák, <strong>szuperintenzív, hétvégi, egész napos, délelőtti, esti képzések is vannak a piacon. </strong></span></p>
+<p><span style="font-weight: 400;">Az intenzitástól függően egy hónap, vagy mindössze néhány nap alatt áttekinthetjük a legszükségesebb tudnivalókat az Android alkalmazások fejlesztéséhez.</span></p>
+<p><span style="font-weight: 400;">Ehhez – mint a programozás bármely más területéhez – még nagyon sok gyakorlást és elmélyülést kell hozzátenni, hogy profi Android fejlesztővé váljunk.   </span></p>
+<h3><span style="font-weight: 400;">Elmélet vagy gyakorlat?</span></h3>
+<p><span style="font-weight: 400;">A kurzusok honlapján általában <strong>elérhető a tematika és a tanfolyam részletes leírása,</strong> de a szervezőket, korábbi résztvevőket, oktatókat is megkérdezhetjük, hogy mire számítsunk. </span></p>
+<p><span style="font-weight: 400;">Elméleti vagy gyakorlatorientált képzést fogunk kapni? Önállóan kell gyakorolni, házi feladatokat megoldani, vagy közösen gyakoroljuk a tanultakat? Létrehozunk valamilyen applikációt a képzés során, van konkrét kimeneti projekt?</span></p>
+<p><span style="font-weight: 400;">Ehhez hasonló kérdéseket érdemes megfogalmazni, főleg, ha már ismerjük a saját tanulási stílusunkat és tudjuk, mi számunkra a leghatékonyabb módszer.</span></p>
+<h3><span style="font-weight: 400;">Tanúsítvány</span></h3>
+<p><span style="font-weight: 400;">Bár ezek általában rövid tanfolyamok, amik meglévő tudásra építve egy speciális részterület technológiáit ismertetik meg a résztvevőkkel, mégis jó tudni, hogy kapunk-e valamilyen igazolást arról, hogy elvégeztük a tanfolyamot. </span></p>
+<p><span style="font-weight: 400;"><strong>Az Android fejlesztői képzettség előnyt jelenthet a munkaerőpiacon,</strong> gazdagítja az önéletrajzunkat vagy például a LinkedIn profilunkat. Ehhez jó, ha van egy tanúsítvány, ami formálisan is igazolja a sikeres teljesítést. </span></p>
+<p> </p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p> </p>
+<h2><span style="font-weight: 400;">Magyar nyelvű Android fejlesztő tanfolyamok</span></h2>
+<h3><a href="https://developer.android.com/courses/android-basics-kotlin/unit-1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android Developers by Google</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">Ingyenes</span></i></li>
+<li><i><span style="font-weight: 400;">5 lecke (folymatosan bővülő tananyag)</span></i></li>
+<li><i><span style="font-weight: 400;">Előzetes programozási ismeret ajánlott</span></i></li>
+</ul>
+<p>Habár ebben a cikkben főként a magyar nyelven elérhető tartalmakat szeretnénk összegyűjteni, a <strong>Google saját fejlesztésű kurzusával</strong> szeretnénk kivételt tenni.</p>
+<p>Az Andorid Developers egyelőre nem érhető el magyar nyelven, ingyenessége és szemléletes leckéi kiváló lehetőséget kínálnak mindazoknak, akik eligazodnak az angol nyelvi környezetben, és szeretnék kipróbálni magukat az alkalmazásfejlesztés világában Kotlin nyelven.</p>
+<p> </p>
+<p><div id="attachment_11015" style="width: 677px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11015" loading="lazy" class="wp-image-11015" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/google1-1024x669.jpg" alt="Android programozás tanfolyam a Google-től" width="667" height="436" srcset="/blog/wp-content/uploads/2020/12/google1-1024x669.jpg 1024w, /blog/wp-content/uploads/2020/12/google1-300x196.jpg 300w, /blog/wp-content/uploads/2020/12/google1-768x502.jpg 768w, /blog/wp-content/uploads/2020/12/google1-1536x1004.jpg 1536w, /blog/wp-content/uploads/2020/12/google1-1080x706.jpg 1080w, /blog/wp-content/uploads/2020/12/google1.jpg 1689w" sizes="(max-width: 667px) 100vw, 667px" /><p id="caption-attachment-11015" class="wp-caption-text">Forrás: <a href="https://developer.android.com/courses/android-basics-kotlin/unit-1" target="_blank" rel="noopener external" data-wpel-link="external">Android Developers</a></p></div></p>
+<p><span style="font-weight: 400;">Az</span><a href="https://developer.android.com/courses/android-basics-kotlin/unit-1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;"> Android Basics in Kotlin </span></a><span style="font-weight: 400;">kurzus teljesen az <strong>alapoktól építi fel a leckéket.</strong> Ahogy a többi képzésénél, úgy itt is a <strong>hatékony, de szemléletes oktatás</strong>ra törekedtek a fejlesztők.</span></p>
+<p><span style="font-weight: 400;">A rövid, képekkel<strong> illusztrált elméleti anyagok</strong> után egy <strong>interaktív online felület</strong>en elkészíthetjük saját kódrészleteinket, illetve kisebb-nagyobb <strong>feladatokat</strong> is kapunk, azonban a leckék tartalmazzák a megoldásokat (a kész kódokat) is, így ellenőrizhetjük a munkánkat, vagy leshetünk, ha elakadunk.</span></p>
+<p><span style="font-weight: 400;">Az egyes leckék végén <strong>tesztekkel ellenőrizhetjük a tudásunkat,</strong> a nagyobb egységek vizsgáinak sikeres teljesítése során pedig <strong>jelvényeket gyűjthetünk,</strong> illetve a profilunkon követhetjük előrehaladásunkat is.</span></p>
+<p> </p>
+<p><div id="attachment_11016" style="width: 399px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11016" loading="lazy" class="wp-image-11016" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/google2-1024x1002.jpg" alt="" width="389" height="380" srcset="/blog/wp-content/uploads/2020/12/google2-1024x1002.jpg 1024w, /blog/wp-content/uploads/2020/12/google2-300x293.jpg 300w, /blog/wp-content/uploads/2020/12/google2-768x751.jpg 768w, /blog/wp-content/uploads/2020/12/google2-1536x1503.jpg 1536w, /blog/wp-content/uploads/2020/12/google2-1080x1057.jpg 1080w, /blog/wp-content/uploads/2020/12/google2.jpg 1659w" sizes="(max-width: 389px) 100vw, 389px" /><p id="caption-attachment-11016" class="wp-caption-text">Forrás: <a href="https://developer.android.com/courses/android-basics-kotlin/unit-1" target="_blank" rel="noopener external" data-wpel-link="external">Android Developers</a></p></div></p>
+<p><span style="font-weight: 400;">A kurzus elvégzéséről <strong>a Google sorszámozott tanúsítványt állít ki</strong> nekünk, melyet feltölthetünk akár LinkedIn profilunkra, vagy hozzáadhatjuk az önéletrajzunkhoz.</span></p>
+<p> </p>
+<p><iframe loading="lazy" title="Android Basics in Kotlin: Course trailer" width="1080" height="608" src="https://www.youtube.com/embed/oSim9fBFy-E?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3> </h3>
+<h3><a href="https://masterfield.hu/hu/tanfolyamok/alkalmazasfejlesztes-android-alapokon" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Masterfield</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">139.500 Ft+Áfa</span></i></li>
+<li><i><span style="font-weight: 400;">32 tanóra, 4 egymást követő munkanapon</span></i></li>
+<li><i><span style="font-weight: 400;">Java programozói alapokkal már rendelkező fejlesztőknek, akik szeretnék megismerni az Android világát fejlesztői oldalról.</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">A Masterfieldnél is Android fejlesztő tanfolyamba csatlakozhatsz be, mely <strong>négy egymást követő napon</strong> le is zajlik, <strong>9-től 16.30-ig</strong> tartott etapokba sűrítve.</span></p>
+<p><span style="font-weight: 400;">A képzés díja <strong>139.500 Ft+Áfa</strong>, de <strong>51% kedvezmény jár az online kurzusokra való jelentkezéskor anyukák részére.</strong></span></p>
+<p> </p>
+<p><div id="attachment_11017" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11017" loading="lazy" class="wp-image-11017 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/masterfield1-1024x213.jpg" alt="" width="1024" height="213" srcset="/blog/wp-content/uploads/2020/12/masterfield1-1024x213.jpg 1024w, /blog/wp-content/uploads/2020/12/masterfield1-300x62.jpg 300w, /blog/wp-content/uploads/2020/12/masterfield1-768x160.jpg 768w, /blog/wp-content/uploads/2020/12/masterfield1-1536x320.jpg 1536w, /blog/wp-content/uploads/2020/12/masterfield1-2048x426.jpg 2048w, /blog/wp-content/uploads/2020/12/masterfield1-1080x225.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-11017" class="wp-caption-text">Forrás: <a href="https://masterfield.hu/hu/tanfolyamok/alkalmazasfejlesztes-android-alapokon" target="_blank" rel="noopener external" data-wpel-link="external">Masterfield Akadémia</a></p></div></p>
+<p><span style="font-weight: 400;">A tanfolyam során megismerkedsz az Android programozással, <strong>gyakorlati példákon keresztül</strong> sajátítva el az alábbiakat:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alkalmazásfejlesztés alapok</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Activity-életciklus</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">UI fragmentek és a fragment manager</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Listák megjelenítése, recyclerview használata</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dialógusablakok</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Adatkezelés SQLite adatbázis segítségével</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Broadcast intentek</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Háttérszolgáltatások</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A toolbar</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lokalizáció </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Stílusok és témák</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">XML drawables, 9-patch image-ek</span></li>
+</ul>
+<p><div id="attachment_11018" style="width: 448px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11018" loading="lazy" class="size-full wp-image-11018" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/masterfield1.png" alt="" width="438" height="227" srcset="/blog/wp-content/uploads/2020/12/masterfield1.png 438w, /blog/wp-content/uploads/2020/12/masterfield1-300x155.png 300w" sizes="(max-width: 438px) 100vw, 438px" /><p id="caption-attachment-11018" class="wp-caption-text">Forrás: <a href="https://masterfield.hu/hu/tanfolyamok/alkalmazasfejlesztes-android-alapokon" target="_blank" rel="noopener external" data-wpel-link="external">Masterfield Akadémia</a></p></div></p>
+<h4><span style="font-weight: 400;">Masterfield vélemények:</span></h4>
+<blockquote>
+<p><span style="font-weight: 400;">“Az tetszett a legjobban, hogy a példákat a való életből merítette az oktató és megosztotta a korábbi tapasztalatait is.” – Sersli Ádám</span></p>
+</blockquote>
+<h3><a href="https://pentaschool.hu/programozas/android-programozas-tanfolyam.php" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Pentaschool</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">40 tanórától</span></i></li>
+<li><i><span style="font-weight: 400;">100.000 Ft+Áfa-tól</span></i></li>
+<li><i><span style="font-weight: 400;">Előfeltétel legalább egy programozási nyelv ismerete (egy Java fejlesztőkörnyezet ismerete előny, de nem feltétel)</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">A PentaSchool Android fejlesztő tanfolyama szintén a <strong>Java nyelven keresztül ismertet meg az Android platform nyújtotta lehetőségekkel.</strong></span></p>
+<p><span style="font-weight: 400;">A kurzus végigveszi a <strong>Java nyelv alapelemeit,</strong> így ha nem kifejezetten a Java volt az erősséged, akkor sem dobnak egyből a mélyvízbe.</span></p>
+<p><span style="font-weight: 400;">A leckék a <strong>programozási alapok átismétlésével</strong> kezdődik, majd bemutatja a<strong> fejlesztői környezetet</strong> és az<strong> Androidos projektek felépítését</strong> általában.</span></p>
+<p><span style="font-weight: 400;">Ezután a képzés <strong>konkrét feladatok</strong>kal folytatódik, többek közt megismerkedsz az <strong>érzékelők és adatok kezelésével</strong>, majd elkészíted előbb az első, egyszerűbb alkalmazásod, a tanfolyam végére pedig egy<strong> önálló, teljes projektet fogsz megvalósítani.</strong></span></p>
+<p><span style="font-weight: 400;">A kurzus az<strong> alkalmazás publikálásával</strong> és az<strong> Androidos eszközök támogatásának bemutatásával</strong> zárul.</span></p>
+<p><span style="font-weight: 400;">A kurzus az aktuális meghirdetéstől függően folyhat délelőtt vagy délután, a tanfolyam időtartama <strong>40 óra,</strong> a képzési díj pedig <strong>100 000 Ft + Áfa.</strong></span></p>
+<h4><span style="font-weight: 400;">PentaSchool vélemények:</span></h4>
+<blockquote>
+<p><span style="font-weight: 400;">“Lassan törzstanuló leszek… Még sosem csalódtam egyetlen kurzusukban sem. A webes oktató anyagok szintén lenyűgözőek.” – Máthé Gábor, végzett PentaSchool hallgató</span></p>
+</blockquote>
+<h3><a href="https://www.ruander.hu/android-tanfolyam.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Ruander</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">120.000 Ft</span></i></li>
+<li><i><span style="font-weight: 400;">40 óra, délelőtti/esti/online képzési forma</span></i></li>
+<li><i><span style="font-weight: 400;">Tantermi vagy online oktatás</span></i></li>
+<li><i><span style="font-weight: 400;">Java előképzettség szükséges</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">Ha már rendelkezel Java alapokkal, bátran csatlakozhatsz a Ruander Android fejlesztő tanfolyamához.</span></p>
+<p><span style="font-weight: 400;">Ez a képzés bepillantást enged a <strong>mobilplatformra programozás és</strong> az <strong>alkalmazásfejlesztés</strong> világába, egyúttal biztos alapokat ad napjaink egyik legkeresettebb szakmájához.</span></p>
+<p><span style="font-weight: 400;">A tanfolyam dióhéjban:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Szükséged lesz némi Java alaptudásra</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">40 óra tananyagot kapsz</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">120.000 Ft-ért cserében.</span></li>
+</ul>
+<p><div id="attachment_11019" style="width: 1024px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11019" loading="lazy" class="wp-image-11019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/ruander4.png" alt="" width="1014" height="248" srcset="/blog/wp-content/uploads/2020/12/ruander4.png 1014w, /blog/wp-content/uploads/2020/12/ruander4-300x73.png 300w, /blog/wp-content/uploads/2020/12/ruander4-768x188.png 768w" sizes="(max-width: 1014px) 100vw, 1014px" /><p id="caption-attachment-11019" class="wp-caption-text">Forrás: <a href="https://www.ruander.hu/android-tanfolyam.html" target="_blank" rel="noopener external" data-wpel-link="external">Ruander</a></p></div></p>
+<p><span style="font-weight: 400;"><strong>Elérhető online és tantermi oktatás is</strong>, utóbbi Budapesten, a Frangepán utcai oktatási helyszínen zajlik.</span></p>
+<p><span style="font-weight: 400;">A tanfolyamok <strong>képzési díját fizetheted egy összegben, két részletben, vagy akár havonta is</strong>, ami nagyon fontos, mindezt kamatmentesen.</span></p>
+<p> </p>
+<h6 style="text-align: center;"><img loading="lazy" class="aligncenter size-full wp-image-11020" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/ruander2.png" alt="" width="883" height="309" srcset="/blog/wp-content/uploads/2020/12/ruander2.png 883w, /blog/wp-content/uploads/2020/12/ruander2-300x105.png 300w, /blog/wp-content/uploads/2020/12/ruander2-768x269.png 768w" sizes="(max-width: 883px) 100vw, 883px" /> <img loading="lazy" class="aligncenter size-large wp-image-11021" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/ruander3.png" alt="" width="881" height="365" srcset="/blog/wp-content/uploads/2020/12/ruander3.png 881w, /blog/wp-content/uploads/2020/12/ruander3-300x124.png 300w, /blog/wp-content/uploads/2020/12/ruander3-768x318.png 768w" sizes="(max-width: 881px) 100vw, 881px" />Forrás: <a href="https://www.ruander.hu/android-tanfolyam.html" target="_blank" rel="noopener external" data-wpel-link="external">Ruander</a></h6>
+<p> </p>
+<p><span style="font-weight: 400;">A Ruander ezen felül számos kedvezménnyel is várja a leendő tanulókat:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ruander Klub kedvezmény: -10%</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Álláskereső kedvezmény: -10%</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Csoportos kedvezmény: -15%</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diákkedvezmény: -10%</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kismama-kedvezmény: -10%</span></li>
+</ul>
+<p><span style="font-weight: 400;">A képzések <strong>gyakorlatorientáltak</strong>, így azonnal tudod hasznosítani a tanultakat. A Ruander emellett javasolja az otthoni gyakorlást az ismeretek elmélyítésének érdekében.</span></p>
+<h4><span style="font-weight: 400;">Ruander vélemények:</span></h4>
+<blockquote>
+<p><span style="font-weight: 400;">“Gyors, korrekt ügyintézés, mindenről többször kaptam értesítést, amit nagyon köszönök, mert néha elfelejtettem ezt-azt! (…) Az oktatók felkészültek, jól leadják az anyagot.” – Gombás Brigitta</span></p>
+</blockquote>
+<h3><a href="https://www.soterline.hu/programozo-kepzesek/android-alkalmazasfejleszto-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Soter-Line</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">145.000 Ft</span></i></li>
+<li><i><span style="font-weight: 400;">40 óra tananyag</span></i></li>
+<li><i><span style="font-weight: 400;">1 hónap, heti 1 vagy 2 alkalom</span></i></li>
+<li><i><span style="font-weight: 400;">Online oktatás</span></i></li>
+<li><i><span style="font-weight: 400;">Java előképzettség szükséges</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">A Soter-Line-nál Android programozói képzésre jelentkezhetsz, melyhez Java előképzettség szükséges.</span></p>
+<p><span style="font-weight: 400;">A tanfolyam többféle időbeosztásban érhető el:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kedden és csütörtökön: 17.30-tól 20.30-ig </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Szombatonként 08.30-tól 15.00-ig</span></li>
+</ul>
+<p><span style="font-weight: 400;">A kurzus <strong>145.000 Ft-ba kerül,</strong> melyet<strong> két részletben is lehetőség van fizetni.</strong></span></p>
+<p> </p>
+<p><div id="attachment_11022" style="width: 827px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11022" loading="lazy" class="wp-image-11022 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/soterline1.png" alt="" width="817" height="250" srcset="/blog/wp-content/uploads/2020/12/soterline1.png 817w, /blog/wp-content/uploads/2020/12/soterline1-300x92.png 300w, /blog/wp-content/uploads/2020/12/soterline1-768x235.png 768w" sizes="(max-width: 817px) 100vw, 817px" /><p id="caption-attachment-11022" class="wp-caption-text">Forrás: <a href="https://www.soterline.hu/programozo-kepzesek/android-alkalmazasfejleszto-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">Soter-Line</a></p></div></p>
+<p><span style="font-weight: 400;">A kurzus jelenleg <strong>csak online formában zajlik</strong>, azonban <strong>a vírushelyzet elmúltával valószínűleg ismét elindul a tantermi oktatás is,</strong> ahova viszont már a laptopod sem kell magaddal vinned majd, hisz <strong>az iskola rendelkezik megfelelő gépparkal is.</strong></span></p>
+<p><span style="font-weight: 400;"><strong>A képzés gyakorlatorientált,</strong> az alkalmazások teszteléséhez érdemes saját Androidos készüléket használni, azonban emulátor segítségével is teljesíthetőek a feladatok.</span></p>
+<p> </p>
+<p><div id="attachment_11023" style="width: 795px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11023" loading="lazy" class="wp-image-11023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/soterline2.png" alt="" width="785" height="428" srcset="/blog/wp-content/uploads/2020/12/soterline2.png 785w, /blog/wp-content/uploads/2020/12/soterline2-300x164.png 300w, /blog/wp-content/uploads/2020/12/soterline2-768x419.png 768w" sizes="(max-width: 785px) 100vw, 785px" /><p id="caption-attachment-11023" class="wp-caption-text">Forrás: <a href="https://www.soterline.hu/programozo-kepzesek/android-alkalmazasfejleszto-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">Soter-Line</a></p></div></p>
+<p><span style="font-weight: 400;"><strong>A Soter-Line</strong> egy igen csábító,<strong> 90%-os elhelyezkedési rátával büszkélkedhet</strong> a végzett diákjai körében, így ha biztos Android alapok elsajátítása a cél, akkor ez a kurzus mindenképp érdekes lehet számodra.</span></p>
+<p> </p>
+<h3><a href="https://tanfolyamokj.hu/az-android-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">TanfolyamOKJ</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">120.000 Ft</span></i></li>
+<li><i><span style="font-weight: 400;">40 óra tananyag</span></i></li>
+<li><i><span style="font-weight: 400;">3 hét / 1 hónap</span></i></li>
+<li><i><span style="font-weight: 400;">Előképzettség szükséges</span></i></li>
+<li><i><span style="font-weight: 400;">Online vagy tantermi oktatási forma</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">A Tanfolyam OKJ-nál is Android fejlesztő kurzust kínálnak a jelentkezőknek, mely azonban <strong>OKJ-rendszeren kívüli,</strong> így hivatalos bizonyítványt ezért nem fognak kapni a végzettek.</span></p>
+<p><span style="font-weight: 400;">A kurzus ezzel együtt is hasznos lehet, hisz az Android tudásod nem a bizonyítványod határozza meg, és a cégek sem ez iránt fognak első sorban érdeklődni.</span></p>
+<p><span style="font-weight: 400;">A csatlakozáshoz <strong>szükséges alapvető Java programozási ismeret,</strong> vagy a </span><a href="https://tanfolyamokj.hu/programozas-alapjai-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">“Programozás alapjai”</span></a><span style="font-weight: 400;"> kurzus elvégzése.</span></p>
+<p> </p>
+<p><div id="attachment_11024" style="width: 708px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11024" loading="lazy" class="wp-image-11024 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/tanfolyamokj2.png" alt="" width="698" height="165" srcset="/blog/wp-content/uploads/2020/12/tanfolyamokj2.png 698w, /blog/wp-content/uploads/2020/12/tanfolyamokj2-300x71.png 300w" sizes="(max-width: 698px) 100vw, 698px" /><p id="caption-attachment-11024" class="wp-caption-text">Forrás: <a href="https://tanfolyamokj.hu/az-android-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">TanfolyamOKJ</a></p></div></p>
+<p><span style="font-weight: 400;">A tanfolyam során megismerkedsz:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A GPS műholdas helymeghatározó alá történő programfejlesztéssel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Android alapú rendszerekre történő programírással (pl: Google Maps kiegészítés)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Android alapú kamera-programozással</span></li>
+</ul>
+<p><span style="font-weight: 400;">A kurzus <strong>120.000 Ft-ba kerül,</strong> mely<strong> 40 órányi anyag</strong>ot foglal magába.</span></p>
+<p><span style="font-weight: 400;">A képzést elvégezheted:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1 hónap alatt, hétfőn és szerdán 17.00 &#8211; 20.15 között</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1 hónap alatt, szombatonként 9.00 &#8211; 16.00 között</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3 hét alatt, hétfőtől csütörtökig 9.00 -12.15 óra között</span></li>
+</ul>
+<p><span style="font-weight: 400;">Vagy online:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1 hónap alatt, kedden és csütörtökön 17.00 &#8211; 20.15 között</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1 hónap alatt, vasárnaponként 9.00 &#8211; 16.00 között</span></li>
+</ul>
+<p><div id="attachment_11025" style="width: 710px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11025" loading="lazy" class="wp-image-11025 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/tanfolyamokj1.png" alt="" width="700" height="517" srcset="/blog/wp-content/uploads/2020/12/tanfolyamokj1.png 700w, /blog/wp-content/uploads/2020/12/tanfolyamokj1-300x222.png 300w" sizes="(max-width: 700px) 100vw, 700px" /><p id="caption-attachment-11025" class="wp-caption-text">Forrás: <a href="https://tanfolyamokj.hu/az-android-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">TanfolyamOKJ</a></p></div></p>
+<p><span style="font-weight: 400;">A képzést lehetőséged van <strong>részletekben </strong>is <strong>kifizetni,</strong> mely természetesen kamatmentes.</span></p>
+<p><span style="font-weight: 400;">A kurzusokra kedvezmények is igénybevehetőek:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Visszatérő hallgatók</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Álláskeresők</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Csoportosan jelentkezők</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diákok</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kismamák</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nagycsaládosok</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Vagy GYED-en, GYES-en lévők számára</span></li>
+</ul>
+<p><span style="font-weight: 400;">A tanfolyamot<strong> vizsga zárja</strong>, mely ingyenes, illetve <strong>a tandíj a tananyagok árát is tartalmazza.</strong></span></p>
+<h4><span style="font-weight: 400;">Tanfolyam OKJ vélemények:</span></h4>
+<blockquote>
+<p><span style="font-weight: 400;">“Ajánlom őket! Olyan képzést kerestem, amely a jelenlegi munkámhoz is jól tudok használni. A blogjukon is rengeteg hasznos infót találtam!” – Rigó-Ditzendy Orsolya</span></p>
+<p><span style="font-weight: 400;">“Rendkívül rugalmas, ügyfélorientált, gyors, tökéletes problémamegoldó képességgel rendelkező profi csapat! Tanfolyam keresőknek és hirdetőknek egyaránt ajánlom!” – Tóth-Csóka Fanni</span></p>
+</blockquote>
+<h3><a href="https://www.training360.com/informatikai-kepzesek/fejlesztoi/mobil-alkalmazas" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Training360</span></a></h3>
+<ul>
+<li><i><span style="font-weight: 400;">219.000 Ft+Áfa-tól</span></i></li>
+<li><i><span style="font-weight: 400;">32 óra tananyag (4 nap)</span></i></li>
+<li><i><span style="font-weight: 400;">Helyszíni vagy LVC (live virtual class) oktatás</span></i></li>
+<li><i><span style="font-weight: 400;">Előképzettség szükséges</span></i></li>
+</ul>
+<p><span style="font-weight: 400;">A Training360-nál<strong> két különböző Android képzésből választhatunk,</strong> függően attól, hogy <strong>Java vagy Kotlin nyelven</strong> szeretnénk megismerkedni az alkalmazásfejlesztés világával.</span></p>
+<p><span style="font-weight: 400;">A képzésekhez <strong>ajánlott egy magas szintű programozási nyelv előzetes ismerete,</strong> mint például a Python vagy a Java.</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.training360.com/android-fejlesztoi-kepzes-egy-alkalmazas-epitesevel-and-prm" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Android fejlesztői képzés alkalmazás építésével:</span></a></li>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A kurzus<strong> Java nyelven,</strong> a Google hivatalos fejlesztői környezete, az <strong>Android Studio segítségével tanítja meg a fejlesztés alapjait.</strong></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A képzés röviden áttekinti a Java programozás alapjait, illetve az Android Studio használatát, ezt követően pedig továbbhalad az összetettebb funkciók felé.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A tanfolyam végére képes leszel <strong>önállóan alkalmazást fejleszteni saját elképzeléseid alapján.</strong></span></li>
+</ul>
+</li>
+</ul>
+<p><div id="attachment_11026" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11026" loading="lazy" class="wp-image-11026 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/training360-1024x343.png" alt="" width="1024" height="343" srcset="/blog/wp-content/uploads/2020/12/training360-1024x343.png 1024w, /blog/wp-content/uploads/2020/12/training360-300x100.png 300w, /blog/wp-content/uploads/2020/12/training360-768x257.png 768w, /blog/wp-content/uploads/2020/12/training360-1080x362.png 1080w, /blog/wp-content/uploads/2020/12/training360.png 1126w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-11026" class="wp-caption-text">Forrás: <a href="https://www.training360.com/tanuljunk-meg-android-ul-tanfolyam-vid-and" target="_blank" rel="noopener external" data-wpel-link="external">Training360</a></p></div></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.training360.com/modern-android-alkalmazasok-epitese-kotlinnal-tanfolyam-and-kot" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Modern Andorid alkalmazások építése Kotlinnal:</span></a></li>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A kurzus a <strong>Kotlin nyelven keresztül mutatja be az alkalmazásfejlesztést.</strong> A gyakorlati feladatok mellett az elméleti alapokra is hangsúlyt fektetnek, így később univerzálisan leszel képes alkalmazni a tanultakat.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A tanfolyam második felében <strong>gyakorlati példákon keresztül ismerkedhetsz meg az alkalmazás építéssel,</strong> az alap alkalmazásod az alábbiakkal fogod ellátni:</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">UI komponensekkel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jetpack-el</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Listák hatékony kezelésével</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Váltás képernyők közti móddal,</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Adatok és képek lekérésével a hálózatról</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Térkép és felhasználó kezeléssel</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamera használattal</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">A kurzus végére <strong>képes leszel önállóan alkalmazásokat fejleszteni Kotlin nyelven,</strong> és rendelkezni fogsz a szükséges elméleti háttérrel is további projektek elkészítéséhez.</span></p>
+<h3><a href="https://webler.hu/android-programozo-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Webler</span></a></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">98.000 Ft</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">40 óra, 5 hét</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Java előképzettség szükséges</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Online</span></li>
+</ul>
+<p><span style="font-weight: 400;">A Weblernél <strong>kizárólag online Android oktatásra lehet jelentkezni,</strong> az órákon live class keretében kell részt venni.</span></p>
+<p><span style="font-weight: 400;">A tanfolyam résztvevőjeként megismerkedsz az Android alkalmazás fejlesztéssel és képes leszel egyedi és korszerű alkalmazásokat írni mobil platformokra.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><div id="attachment_11027" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11027" loading="lazy" class="size-large wp-image-11027" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/webler1-1024x289.png" alt="" width="1024" height="289" srcset="/blog/wp-content/uploads/2020/12/webler1-1024x289.png 1024w, /blog/wp-content/uploads/2020/12/webler1-300x85.png 300w, /blog/wp-content/uploads/2020/12/webler1-768x217.png 768w, /blog/wp-content/uploads/2020/12/webler1-1080x305.png 1080w, /blog/wp-content/uploads/2020/12/webler1.png 1164w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-11027" class="wp-caption-text">Forrás: <a href="https://webler.hu/android-programozo-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external">Webler</a></p></div></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">A képzés <strong>5 héten át tart, a díja 98.000 Ft,</strong> melyet <strong>kamatmentes részletekben is kiegyenlíthetsz.</strong></span></p>
+<p><span style="font-weight: 400;">A kurzus az alapokról indul, azonban <strong>Java előképzettség szükséges a megkezdéséhez.</strong> Ha még nem rendelkezel programozási alapokkal, <strong>a Weblernél lehetőséged van </strong></span><span style="font-weight: 400;"><strong>jelentkezni a Webler Java SE képzésére.</strong> A Java SE képzést elvégzők beiratkozáskor <strong>az Android programozó tanfolyam kedvezményes ára 88.200 Ft.</strong></span></p>
+<p> </p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-11040" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/cover-800x146-1.png" alt="" width="800" height="146" srcset="/blog/wp-content/uploads/2020/12/cover-800x146-1.png 800w, /blog/wp-content/uploads/2020/12/cover-800x146-1-300x55.png 300w, /blog/wp-content/uploads/2020/12/cover-800x146-1-768x140.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p><span style="font-weight: 400;">A cikk körképet próbál nyújtani az elérhető Android programozás tanfolyamokról és a mérlegelés szempontjairól. Reméljük, hasznosnak találtad az összeállítást és segítséget nyújt a tanfolyam kiválasztásához. </span></p>
+<p> </p>
+<p><a href="https://codeberryschool.com/hu/java-programozas-tanfolyam-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12238 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/12/Java-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/12/Java-2.png 1024w, /blog/wp-content/uploads/2020/12/Java-2-300x100.png 300w, /blog/wp-content/uploads/2020/12/Java-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p> </p>
+<p><strong>Ha belekóstolnál a programozás világába és elsajátítanád az alapokat, mielőtt egy hosszú és intenzív kurzusba kezdesz, próbáld ki a&nbsp;<a href="https://codeberryschool.com/hu" data-wpel-link="external" target="_blank" rel="external">CodeBerry programozóiskola online tanfolyamait</a>&nbsp;napi egy kávé áráért!&nbsp;</strong></p>
+<p>Ha még nem vagy biztos benne, mit szeretnél tanulni, itt egy kis segítség, hogy&nbsp;<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" data-wpel-link="external" target="_blank" rel="external">melyik programozási nyelvet válaszd</a>.</p>
+<p>A&nbsp;<a href="https://codeberryschool.com/blog/hu/category/programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">“Programozás tanfolyamok”</a>&nbsp;című cikksorozatunkban részletesen összegyűjtöttük, hogy Magyarország nagyobb városaiban milyen tanulási lehetőségek várják a kódolni vágyókat, illetve egyéb hasznos érdekességeket is, amelyek segíthetnek kiválasztani a megfelelő képzést.</p>
+<h3>Programozás tanfolyamok</h3>
+<ul>
+<li><strong>Top 8 Android programozás tanfolyam</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-tanfolyam-allasgaranciaval/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">Kurzusok, ahol biztosra mehetsz – a top 6 programozó tanfolyam állásgaranciával</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/okj-programozo-kepzes/" data-wpel-link="external" target="_blank" rel="external">Top 11 OKJ programozó képzés, amiből válogathatsz</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/webfejlesztes-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 10 webfejlesztés tanfolyam kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-gyerekeknek/" data-wpel-link="external" target="_blank" rel="external">Programozás gyerekeknek – mire figyeljünk, ha gyermekünk programozni tanulna?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 12 Python programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 20 Java programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/javascript-programozo-tanfolyamok/" data-wpel-link="external" target="_blank" rel="external">Top 10 JavaScript programozás tanfolyam magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-budapesten/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Budapesten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szegeden/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Szegeden</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzesek-debrecenben/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Debrecenben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-gyorben/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Győrben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-pecsen/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Pécsen</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-miskolcon/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Miskolcon</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-kecskemeten/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Kecskeméten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-nyiregyhazan/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Nyíregyházán</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szekesfehervaron/" data-wpel-link="external" target="_blank" rel="external">Programozó képzés Székesfehérváron</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mit-kell-tudnod-reactot-tanulni/" data-wpel-link="external" target="_blank" rel="external">Mit kell tudnod, hogy elkezdhess Reactot tanulni?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és&nbsp;<a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a>&nbsp;a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

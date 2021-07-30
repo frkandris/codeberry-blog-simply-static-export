@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript pentru incepatori | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/javascript-pentru-incepatori/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 21 Apr 2021 10:57:00 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Bazele programării în JavaScript &#8211; Programare JavaScript pentru începători</title>
+		<link>/blog/ro/baze-programare-javascript/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2020 20:06:17 +0000</pubDate>
+				<category><![CDATA[Limbaje de programare]]></category>
+		<category><![CDATA[bazele programarii]]></category>
+		<category><![CDATA[ce este javascript]]></category>
+		<category><![CDATA[ce poti face cu javascript]]></category>
+		<category><![CDATA[in javascript]]></category>
+		<category><![CDATA[Invata Javascript]]></category>
+		<category><![CDATA[Javascript pentru incepatori]]></category>
+		<category><![CDATA[javascript romana]]></category>
+		<category><![CDATA[limbaj de programare]]></category>
+		<category><![CDATA[Limbajul javascript]]></category>
+		<category><![CDATA[Programare javascript]]></category>
+		<category><![CDATA[programator JavaScript]]></category>
+		<category><![CDATA[tipuri de programare]]></category>
+		<category><![CDATA[web development]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10214</guid>
+
+					<description><![CDATA[În seria „Ghidul începătorului” de la Școala de Programare CodeBerry, vom răspunde la întrebările pe care le poți avea despre limbajul de programare pe care trebuie să-l alegi, cât vei câștiga, ce poți face în calitate de programator și de unde să începi. Ți-ar plăcea să înveți programare online? Vino și încearcă primele 25 de lecții gratuit la Școala [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi. Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ – Programarea în C++ pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP – Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# – Programarea în C# pentru începători</a></li>
+<li><strong>Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</strong></li>
+</ul>
+<h2><span style="font-weight: 400;">Introducere &#8211; Programare JavaScript</span></h2>
+<p><span style="font-weight: 400;">JavaScript este limbajul internetului. Aproape fiecare site pe care îl vizitezi în browser îl va folosi într-o anumită măsură pentru a îmbunătăți experiența utilizatorului. De aceea limbajul JavaScript este o componentă atât de dezirabilă a instrumentelor de lucru ale programatorului modern. Chiar nu există niciun înlocuitor pentru acest limbaj flexibil dacă vrei să creezi experiențe strălucite bazate pe browser capabile să capteze clienții, partenerii de afaceri și potențialii angajatori.</span> <span style="font-weight: 400;">Vrei să-ți creezi un site web pentru afacerea ta cu șosete pentru câini care e în continuă creștere? Sau ce spui de o experiență VR în browser despre cum e să vizitezi casa soacrei tale de Crăciun? Va trebui să înveți JavaScript dacă vrei să-ți îndeplinești aceste visuri nobile și multe altele.</span> <span style="font-weight: 400;">Deci dacă oricare dintre acestea te intrigă (sau dacă te-ai plictisit pe toaletă la lucru), citește pentru a afla mai multe despre noțiunile de bază ale limbajului JavaScript și începe călătoria în a deveni un expert în web development.</span>  </p>
+<p><a href="https://codeberryschool.com/ro/cursul-bazele-programarii" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12183" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Basics-of-programming-1.png" alt="Invata programare JavaScript la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Basics-of-programming-1.png 1024w, /blog/wp-content/uploads/2020/09/Basics-of-programming-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Basics-of-programming-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Cum arată JavaScript?</span></h2>
+<h3><span style="font-weight: 400;">Variabilele</span></h3>
+<p><span style="font-weight: 400;">Un bun punct de pornire sunt variabilele. Acestea reprezintă locurile unde programatorii stochează informațiile de care un program are nevoie cât timp funcționează. Acestea sunt precum niște cutii în care pui tot felul de lucruri. Un programator poate să creeze o variabilă în cod, să o umple cu ceva și apoi să o acceseze mai târziu. În acest fel, informațiile pot fi disponibile când e nevoie de ele.</span> <i><span style="font-weight: 400;">Așadar, cum creez o variabilă în cod?</span></i> <span style="font-weight: 400;">Astfel:</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable;</code></pre>
+<p>&nbsp;</p>
+<h4><i><span style="font-weight: 400;">Ce mai înseamnă și asta?</span></i></h4>
+<p><span style="font-weight: 400;">Mă bucur că ai întrebat. Linia de mai sus constă în două părți, care se combină pentru a crea o variabilă. Haide să o descompunem: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">În JavaScript, acesta este un cuvânt rezervat. Există destul de multe din acestea în limbaj, iar toate au sarcinile lor precise. Aceasta îi spune programului că ești pe cale </span><i><span style="font-weight: 400;">să creezi o variabilă</span></i><span style="font-weight: 400;">.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">myCoolVariable</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acesta este </span><i><span style="font-weight: 400;">identificatorul variabilei</span></i><span style="font-weight: 400;">, care e doar numele ei. Ar putea fi orice, de la „cat” la „antidisestablishmentarianism” (te rog să nu-ți denumești variabilele astfel). Identificatorul variabilei este folosit pentru a </span><i><span style="font-weight: 400;">te referi </span></i><span style="font-weight: 400;">la variabilă mai târziu, când ai nevoie de ea. Se consideră o bună practică să dai variabilelor nume care descriu efectiv ceea ce fac. Deci dacă ai o variabilă care conține vârsta ta, atunci ar trebui să o numești </span><span style="font-weight: 400;">myAge.</span><span style="font-weight: 400;"> Fă asta constant, iar prietenii tăi programatori vor aprecia și îți vor face cadouri.</span></li>
+</ul>
+</li>
+</ul>
+<h4><i><span style="font-weight: 400;">Ok, e grozav, dar ce facem mai departe?</span></i></h4>
+<p><span style="font-weight: 400;">Îți amintești când am spus că variabilele sunt precum cutiile? Ei bine, codul de mai sus creează cutia, dar nu am pus încă nimic înăuntru. Acesta este următorul pas. Dar înainte de asta, să spunem câteva cuvinte despre </span><i><span style="font-weight: 400;">tipurile de date</span></i><span style="font-weight: 400;">.</span></p>
+<h4><i><span style="font-weight: 400;">Date și mai cum?</span></i></h4>
+<p><span style="font-weight: 400;">Tipurile de date sunt diferitele tipuri de variabile pe care le poți crea. Majoritatea limbajelor de programare le au. Unele sunt foarte stricte cu privire la ele. Te obligă să declari exact ce tip de variabile creezi de la bun început și trebuie să continui astfel până la sfârșit. JavaScript nu este așa. Poți crea o variabilă de un anumit tip in JavaScript și apoi poți s-o schimbi mai târziu după cum ai chef, deoarece valorile și tipurile variabilelor pot fi schimbate oricând. Ura! Poți face tot ce-ți poftește inima!</span> <span style="font-weight: 400;">Iată câteva tipuri de date disponibile pentru programatorii în JavaScript: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Number</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tipul </span><i><span style="font-weight: 400;">Number </span></i><span style="font-weight: 400;">(Număr) definește o variabilă cu o valoare numerică. Acest tip de variabilă teoretic poate stoca valori de la -Infinit la +Infinit. De asemenea, poate stoca o valoare specială </span><span style="font-weight: 400;">NaN,</span><span style="font-weight: 400;">care înseamnă „Not a Number” (Nu este un număr) și apare atunci când ai făcut ceva greșit și l-ai derutat pe </span><span style="font-weight: 400;">JavaScript</span><span style="font-weight: 400;">. Bietul </span><span style="font-weight: 400;">JavaScript</span><span style="font-weight: 400;">!</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">String</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tipul </span><i><span style="font-weight: 400;">String </span></i><span style="font-weight: 400;">(Șir) definește o variabilă care conține text, precum „Salutare”, „La revedere” sau „Backstreet’s Back, Alright!”</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boolean</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tipul Boolean definește o variabilă care poate fi </span><i><span style="font-weight: 400;">true</span></i><span style="font-weight: 400;"> (adevărată) sau </span><i><span style="font-weight: 400;">false </span></i><span style="font-weight: 400;">(falsă). Acest tip de variabilă este adesea folosit pentru luarea deciziilor în cod. Ar trebui să stau sau să plec? Tipurile boolean au răspunsul.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Există alte tipuri de date disponibile și, dacă vrei să arunci o privire, o poți face dând </span><a href="https://www.w3schools.com/js/js_datatypes.asp" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">clic aici</span></a><span style="font-weight: 400;">.</span>  </p>
+<h4><i><span style="font-weight: 400;">Atribuirea unei valori variabilelor </span></i></h4>
+<p><span style="font-weight: 400;">Haide să aruncăm o privire la cum se pun valori în variabile. Mai jos e un cod care face exact asta:</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">myCoolVariable = 10;
+myCoolVariable = ‘hello’;
+myCoolVariable = true;</code></pre>
+<p>  <span style="font-weight: 400;">Imaginea de mai sus arată un cod care setează de trei ori </span><span style="font-weight: 400;">myCoolVariable: </span><span style="font-weight: 400;">o dată la o valoare </span><span style="font-weight: 400;">Numeric</span><span style="font-weight: 400;"> (10), la o valoare </span><span style="font-weight: 400;">String</span><span style="font-weight: 400;"> (‘hello’) și apoi la o valoare </span><span style="font-weight: 400;">Boolean</span><span style="font-weight: 400;"> (true).</span>  </p>
+<h4><i><span style="font-weight: 400;">Crearea și setarea variabilei în același timp</span></i></h4>
+<p><span style="font-weight: 400;">Este posibilă și crearea și setarea unei variabile în același timp. O poți face în felul următor:</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;</code></pre>
+<p>  <span style="font-weight: 400;">Aici creăm  </span><span style="font-weight: 400;">myCoolVariable </span><span style="font-weight: 400;">și îi atribuim valoarea 10 într-o singură linie. Privește! Este minunat. </span>  </p>
+<h4><i><span style="font-weight: 400;">Referirea la o variabilă mai târziu</span></i></h4>
+<p><span style="font-weight: 400;">Crearea și setarea variabilelor este minunată. Dar adevărata putere vine mai târziu, când le și folosești. Așadar, cum arată asta? Este ușor. Doar folosește identificatorul. </span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;
+var myCoolVariableDouble = myCoolVariable + myCoolVariable;</code></pre>
+<p>  <span style="font-weight: 400;">Aici creăm  </span><span style="font-weight: 400;">myCoolVariable</span><span style="font-weight: 400;"> și îi atribuim valoarea 10. Apoi creăm altă variabilă, </span><span style="font-weight: 400;">myCoolVariableDouble,</span><span style="font-weight: 400;"> și o setăm la rezultatul adunării lui </span><span style="font-weight: 400;">myCoolVariable</span><span style="font-weight: 400;"> cu ea însăși. Pentru moment, </span><span style="font-weight: 400;">myCoolVariableDouble</span><span style="font-weight: 400;"> este egal cu 20 și avem două variabile în program. Două! Adu aparatul de fotografiat, tată!</span>  </p>
+<h4><i><span style="font-weight: 400;">Destul despre variabile</span></i></h4>
+<p><span style="font-weight: 400;">Am acoperit noțiunile de bază ale variabilelor: crearea, setarea și referirea lor. Dar există mai multe de programat în JavaScript decât pare la prima vedere. Acum, după ce am parcurs asta, putem trece mai departe la lucruri mai mari și mai bune. Precum declarațiile </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;"> (</span><i><span style="font-weight: 400;">if statements</span></i><span style="font-weight: 400;">).</span>  </p>
+<p><a href="https://codeberryschool.com/ro/cursul-bazele-programarii" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12216 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="JavaScript pentru incepatori CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Declarațiile </span><i><span style="font-weight: 400;">if </span></i></h3>
+<p><span style="font-weight: 400;">Așadar, am trecut de variabile, dar cum le folosim pentru a realiza lucruri grozave? Ei bine, una dintre modalități este prin folosirea declarațiilor </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;">. </span> <span style="font-weight: 400;">O declarație </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;"> este o modalitate prin care un programator poate construi </span><i><span style="font-weight: 400;">decizii bazate pe logică </span></i><span style="font-weight: 400;">în codul lui. Asta înseamnă că le putem indica programelor noastre să facă ceva pe baza unei anumite </span><i><span style="font-weight: 400;">condiții</span></i><span style="font-weight: 400;">. Haide să analizăm un exemplu:</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">If (10 &gt; 20) {
+  // Rulează acest cod
+} else {
+  // Rulează acest cod
+} </code></pre>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">{} definesc un bloc de cod. Câteva instrumente din JavaScript, precum declarația </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;">, au nevoie de acestea pentru a separa diferiți biți de cod. </span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Haide să le luăm pe rând:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">if</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acesta este un alt cuvânt rezervat. Îi indică programului că următorul cod va fi o declarație </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;">. </span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(10 &gt; 20)</span></li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Această parte este </span><i><span style="font-weight: 400;">condiția.</span></i><span style="font-weight: 400;"> Programul va evalua asta și apoi va alege ce să facă pe baza rezultatului. O condiție are ca rezultat mereu o valoare Boolean, adică true sau false. Dacă rezultatul condiției este true, declarația </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;"> va rula blocul de cod imediat după paranteza de închidere a condiției. Dacă îl evaluează ca fiind false, atunci va fi rulat codul din blocul </span><i><span style="font-weight: 400;">else</span></i><span style="font-weight: 400;">, asta fiind exact ce s-a întâmplat aici, din moment ce 10 nu este mai mare decât 20.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">else</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acesta este un alt cuvânt-cheie în JavaScript. Pur și simplu definește codul care ar trebui rulat în cazul în care condiția </span><i><span style="font-weight: 400;">if </span></i><span style="font-weight: 400;">este evaluată ca false. Blocul </span><span style="font-weight: 400;">else</span><span style="font-weight: 400;"> nu este necesar. Dacă îl adaugi, atunci creezi din punct tehnic o declarație if else.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Din fericire, acum este clar de ce trebuie să folosim </span><span style="font-weight: 400;">{} </span><span style="font-weight: 400;">aici. Fără definirea unui bloc de cod, nu i-ar fi clar programului care cod ar trebui rulat dacă condiția este evaluată ca true sau dacă este evaluată ca false.</span> <span style="font-weight: 400;">Declarațiile </span><i><span style="font-weight: 400;">if</span></i><span style="font-weight: 400;"> sunt unele dintre blocurile de construcție de bază ale programelor complexe. Stăpânirea lor este imperativă pentru a deveni programator competent în JavaScript.</span>  </p>
+<h3><span style="font-weight: 400;">Buclele</span></h3>
+<p><span style="font-weight: 400;">Buclele reprezintă un alt instrument important. După cum sugerează și numele, acestea rulează biți de cod la nesfârșit, până când o condiție este îndeplinită. Există câteva tipuri diferite de bucle, dar vom analiza două aici. Vom furniza linkuri pentru continuarea studierii lor. </span>  </p>
+<h4><i><span style="font-weight: 400;">Bucla for </span></i></h4>
+<p><span style="font-weight: 400;">Vom analiza mai întâi </span><span style="font-weight: 400;">bucla</span> <span style="font-weight: 400;">for</span><span style="font-weight: 400;">. Iată un exemplu.</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var numberOfIterations = 10;
+for (var i = 0; i &lt; numberOfIterations; i++) {
+  // fă ceva de 10 ori
+}</code></pre>
+<p>  <span style="font-weight: 400;">Poate părea puțin ciudată în comparație cu alte lucruri, dar devine cu adevărat simplă când o analizezi. Voi parcurge fiecare parte separat.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var numberOfIterations = 10</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acesta este doar codul pentru crearea și setarea unei variabile în același timp.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for (var i = 0; i &lt; number Of Iterations; i++)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alt cuvânt rezervat. Acesta îi spune programului că ești pe cale să scrii o buclă </span><i><span style="font-weight: 400;">for</span></i><span style="font-weight: 400;">.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var i = 0</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crearea și setarea unei noi variabile. Acesta este un caz special, deoarece o creăm în cadrul buclei </span><i><span style="font-weight: 400;">for</span></i><span style="font-weight: 400;">. Asta înseamnă că variabila </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;"> va exista doar pe durata acelei bucle </span><i><span style="font-weight: 400;">for</span></i><span style="font-weight: 400;">. Odată ce s-a terminat executarea ei, </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;"> va fi înlăturată. Pentru totdeauna. La revedere, </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;">!</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i &lt; numberOfIterations</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Această linie îi spune buclei </span><i><span style="font-weight: 400;">for </span></i><span style="font-weight: 400;">să fie executată doar cât timp variabila </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;"> este mai mică decât valoarea lui numberOfIterations (10).</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i++</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">În sfârșit, această linie îi indică buclei </span><i><span style="font-weight: 400;">for</span></i><span style="font-weight: 400;"> că, odată ce este terminată executarea unei singure iterații, ar trebui să crească valoarea lui </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;"> cu 1.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Sper că acum este destul de ușor să-ți dai seama cum funcționează buclele. Se creează o variabilă temporară pentru a urmări numărul de bucle pe care l-a făcut: (</span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;">), apoi se definește condiția de execuție (doar atâta timp cât </span><i><span style="font-weight: 400;">i </span></i><span style="font-weight: 400;">&lt; o valoare anume) și apoi se definește cum </span><i><span style="font-weight: 400;">i</span></i><span style="font-weight: 400;"> trebuie să crească cu fiecare buclă (în acest caz cu +1, dar poate fi oricât ne dorim).</span> <span style="font-weight: 400;">Evident, bucla </span><i><span style="font-weight: 400;">for </span></i><span style="font-weight: 400;">este bună când cunoaștem de câte ori ne dorim să funcționeze ceva. Dar ce se întâmplă când nu știm? Ei bine, aici intră în scenă bucla </span><i><span style="font-weight: 400;">while</span></i><span style="font-weight: 400;">.</span>  </p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-12928" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/cyber-glasses-1938449_960_720.jpg" alt="Așa arată limbajul de programare JavaScript" width="960" height="640" srcset="/blog/wp-content/uploads/2020/10/cyber-glasses-1938449_960_720.jpg 960w, /blog/wp-content/uploads/2020/10/cyber-glasses-1938449_960_720-300x200.jpg 300w, /blog/wp-content/uploads/2020/10/cyber-glasses-1938449_960_720-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<h4><i><span style="font-weight: 400;">Bucla </span></i><span style="font-weight: 400;">while</span></h4>
+<p><span style="font-weight: 400;">Bucla </span><i><span style="font-weight: 400;">while</span></i><span style="font-weight: 400;"> este mai simplă decât bucla </span><i><span style="font-weight: 400;">for</span></i><span style="font-weight: 400;">. Aceasta doar ia o condiție și </span><span style="font-weight: 400;">o</span><span style="font-weight: 400;"> execută până când condiția este falsă. Iată un exemplu:</span> <span style="font-weight: 400;">var shouldKeepRunning = true;</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var shouldKeepRunning = true;
+while (shouldKeepRunning) {
+  // Fă niște cod
+  shouldKeepRunning = false;
+}</code></pre>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">while</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Îi spunem programului că suntem pe cale să scriem o buclă </span><i><span style="font-weight: 400;">while</span></i><span style="font-weight: 400;">.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(shouldKeepRunning)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Aceasta este condiția. Bucla va funcționa în timp ce valoarea lui shouldKeepRunning este true. Este același lucru cu a scrie shouldKeepRunning == true, dar putem scrie astfel prescurtat.</span></li>
+</ul>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">JavaScript folosește == pentru a compara două valori, așa cum = este folosit pentru a seta o valoare. Așadar, dacă scrii if (10 == 20), de fapt spui „dacă 10 este egal cu 20”.  </span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Bucla va funcționa doar o dată, deoarece setăm imediat </span><span style="font-weight: 400;">shouldKeepRunning</span><span style="font-weight: 400;"> la false la prima iterație. Probabil va fi puțin diferit în cod, dar este important să ne asigurăm că bucla se va opri la un anumit moment. Nu ne dorim să provoace o catastrofă globală. </span> <span style="font-weight: 400;">Acestea sunt singurele două bucle peste care vom trece aici, dar dacă dorești să înveți mai multe, poți accesa acest </span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">link</span></a><span style="font-weight: 400;">.</span>  </p>
+<h3><span style="font-weight: 400;">Funcțiile </span></h3>
+<p><span style="font-weight: 400;">Toate instrumentele pe care le avem acum sunt grozave pentru scrierea scripturilor mici și secvențiale, dar ce se întâmplă dacă dorim să scriem un program mai mare, care folosește aceiași biți de cod mereu? Nu vrem să fie necesar să copiem și să lipim constant orice cod pe care dorim să-l reutilizăm. Aici intră în joc funcțiile.</span> <span style="font-weight: 400;">Funcțiile sunt bucăți de cod reutilizabile. Iată un exemplu: </span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">function doSomething(argumentOne, argumentTwo) {
+  // fă ceva aici
+}</code></pre>
+<p>  <span style="font-weight: 400;">Dacă descompunem asta, obținem: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">function</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Încă un cuvânt-cheie din JavaScript.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">doSomething</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Acesta este </span><i><span style="font-weight: 400;">identificatorul funcției</span></i><span style="font-weight: 400;">. Ca și identificatorul unei variabile, ne permite să ne referim la această funcție mai târziu în cod.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(argumentOne, argumentTwo)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Codul dintre paranteze este lista de argumente. Cele două valori </span><span style="font-weight: 400;">argumentOne</span><span style="font-weight: 400;"> și </span><span style="font-weight: 400;">argumentTwo</span><span style="font-weight: 400;"> se comportă ca variabile în cadrul funcției și, prin urmare, pot fi utilizate ca atare. Vom vedea imediat cum sunt setate aceste variabile.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Orice cod definit în cadrul blocului  </span><span style="font-weight: 400;">function</span><span style="font-weight: 400;"> poate fi rulat de câte ori îți dorești, doar prin invocarea funcției. Iată un exemplu pentru asta:</span>  </p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">doSomething(10, 20);</code></pre>
+<p>  <span style="font-weight: 400;">Folosim identificatorul funcției </span><span style="font-weight: 400;">doSomething </span><span style="font-weight: 400;">și apoi îi transmitem două argumente, </span><span style="font-weight: 400;">10</span><span style="font-weight: 400;"> și </span><span style="font-weight: 400;">20</span><span style="font-weight: 400;">. Aceste argumente pe care i le transmitem vor popula apoi argumentele din lista de argumente, </span><span style="font-weight: 400;">argumentOne</span><span style="font-weight: 400;"> și </span><span style="font-weight: 400;">argumentTwo.</span><span style="font-weight: 400;">Ordinea contează, așadar </span><span style="font-weight: 400;">argumentOne</span><span style="font-weight: 400;"> va obține valoarea 10 și </span><span style="font-weight: 400;">argumentTwo</span><span style="font-weight: 400;"> va obține valoarea 20.</span> <span style="font-weight: 400;">Funcțiile operează la fel ca variabilele, în sensul că te poți referi doar la o  </span><span style="font-weight: 400;">funcție</span><span style="font-weight: 400;"> din bloc, și la toate blocurile copil, unde au fost definite. Dacă ai o </span><span style="font-weight: 400;">funcție</span><span style="font-weight: 400;"> care a fost creată înăuntrul unui bloc </span><span style="font-weight: 400;">if statement</span><span style="font-weight: 400;">, de exemplu, atunci nu o poți folosi în afara blocului respectiv.</span> <span style="font-weight: 400;">Funcțiile sunt instrumente extrem de importante dacă vrei să creezi programe complexe și dinamice, așadar este important să exersezi. Poți găsi mai multe informații </span><a href="https://www.w3schools.com/js/js_functions.asp" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">aici</span></a><span style="font-weight: 400;">. </span>  </p>
+<p><a href="https://codeberryschool.com/ro/cursul-bazele-programarii" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12146 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Basics-of-programming-2.png" alt="Invata limbajul JavaScript la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2020/09/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Concluzie</span></h2>
+<p><span style="font-weight: 400;">Am parcurs câteva </span><span style="font-weight: 400;">dintre</span><span style="font-weight: 400;"> noțiuni</span><span style="font-weight: 400;">le</span><span style="font-weight: 400;"> de JavaScript pentru începători în acest articol, dar există mult mai multe. Programarea este o abilitate practică și astfel poate fi învățată corespunzător doar prin exersare. Există o mulțime de servicii care te ajută în acest sens, precum CodeAcademy, CodeSchool, Pluralsight și, desigur, CodeBerry! Sperăm că aceste informații îți vor fi de folos ca un ghid de referință pentru viitor. Mult succes în cariera ta de programare!</span> <strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ – Programarea în C++ pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP – Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# – Programarea în C# pentru începători</a></li>
+<li><strong>Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</strong></li>
+</ul>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

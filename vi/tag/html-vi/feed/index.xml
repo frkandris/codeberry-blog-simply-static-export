@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/html-vi/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 24 Jan 2020 08:24:25 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Giới thiệu về lập trình</title>
+		<link>/blog/vi/gioi-thieu-ve-lap-trinh/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2019 10:12:19 +0000</pubDate>
+				<category><![CDATA[Bài báo]]></category>
+		<category><![CDATA[các trang web]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[lập trình]]></category>
+		<category><![CDATA[lập trình viên]]></category>
+		<category><![CDATA[máy vi tính]]></category>
+		<category><![CDATA[ngôn ngữ]]></category>
+		<category><![CDATA[nhị phân]]></category>
+		<category><![CDATA[phát triển]]></category>
+		<category><![CDATA[trang web]]></category>
+		<category><![CDATA[viết code]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7102</guid>
+
+					<description><![CDATA[Lập trình là gì? Hãy tưởng tượng bạn đang làm việc tại một công ty đa quốc gia và sắp có buổi họp với đối tác Trung Quốc. Bạn là người Việt và hoàn toàn không biết tiếng Hoa. May thay cả bạn và đối tác đều có thể nói tiếng Anh, vậy nên cả [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Lập trình là gì?</b></p>
+<p><span style="font-weight: 400;">Hãy tưởng tượng bạn đang làm việc tại một công ty đa quốc gia và sắp có buổi họp với đối tác Trung Quốc. Bạn là người Việt và hoàn toàn không biết tiếng Hoa. May thay cả bạn và đối tác đều có thể nói tiếng Anh, vậy nên cả hai quyết định dùng tiếng Anh để giao tiếp và thỏa thuận. </span></p>
+<p><b>Tương tự như vậy HTML, CSS, JavaScript, Java, v.v… là một dạng ngôn ngữ trung gian giúp bạn và máy tính có thể giao tiếp được với nhau. </b></p>
+<p><span style="font-weight: 400;">Ngôn ngữ nguyên bản của máy tính là hệ nhị phân (binary): đó là các chuỗi ký tự chỉ chứa hai số là 0 và 1. Người bình thường khó có thể đọc và viết bằng </span><span style="font-weight: 400;">hệ nhị phân</span><span style="font-weight: 400;">, vậy nên các ngôn ngữ lập trình ra đời như một giải pháp trung gian giúp chúng ta có thể giao tiếp với máy tính. </span></p>
+<p><span style="font-weight: 400;">Tuy nhiên, khác với con người, máy tính không có khả năng nắm bắt hàm ý trong giao tiếp mà chỉ hiểu mọi thứ theo nghĩa đen. Nếu bạn yêu cầu thực hiện một điều gì đó, máy tính sẽ thực thi chính xác những gì bạn nói. Về cơ bản, máy tính không có khả năng ra quyết định và sẽ không thể hiểu nội dung thông tin nếu bạn không giao tiếp theo nghĩa tường minh. Học cách đưa ra yêu cầu chính xác là yếu tố quan trọng khi giao tiếp với máy tính. </span></p>
+<p><span style="font-weight: 400;">Chẳng hạn, khi được nhờ làm một chiếc</span><span style="font-weight: 400;"> bánh mì kẹp</span><span style="font-weight: 400;">, bạn sẽ hỏi xem nhân bánh mình muốn cho những gì, và có muốn bánh nướng giòn hay không. Chỉ một vài câu hỏi cơ bản là bạn sẽ đủ thông tin để làm ra một chiếc bánh ngon lành. Tự bạn có thể suy luận hoặc giả định dựa trên kinh nghiệm cho những chi tiết nhỏ còn thiếu. </span></p>
+<p><span style="font-weight: 400;">Chúng ta đều hiểu đầu tiên cần phải quết sốt mayonnaise lên hai lát bánh mì, sau đó kẹp thịt nguội và phô mai vào giữa, rồi bỏ bánh vào lò nướng. Tuy nhiên, nếu chỉ nói với máy tính rằng bạn muốn một cái bánh với thịt nguội và phô mai được nướng giòn cùng sốt mayonnaise, thành phẩm bạn nhận được có thể sẽ hoàn toàn khác với tưởng tượng. </span></p>
+<p><b>Nhưng làm sao để máy tính biết những điều này? </b></p>
+<p><span style="font-weight: 400;">Khi bạn nói với máy tính rằng bạn muốn: “một cái bánh mì với thịt nguội và phô mai được nướng giòn cùng sốt mayonnaise”, máy tính sẽ thực hiện theo đúng trình tự bạn đưa ra. Chúng sẽ đặt hai lát bánh mì ở dưới, đặt thịt nguội và phô mai lên trên, nướng bánh rồi rưới sốt mayonnaise lên&#8230; </span></p>
+<p><b>Chẳng phải máy tính thông minh lắm sao?</b></p>
+<p><span style="font-weight: 400;">Bởi máy tính chỉ tiếp nhận thông tin theo nghĩa đen, bạn sẽ cần giải thích cụ thể từng bước và chỉ rõ trình tự sắp xếp nguyên liệu. Với bánh mì kẹp, ai cũng hiểu phần nhân phải đặt ở giữa. Tuy nhiên máy tính không có khái niệm này &#8211; chúng chỉ thực hiện một cách máy móc theo đúng chỉ dẫn của bạn. </span></p>
+<p><span style="font-weight: 400;">Đây cũng là lý do tại sao chúng ta chưa thể giao tiếp với máy tính bằng ngôn ngữ của con người. Ngôn ngữ của chúng ta quá mơ hồ và nhập nhằng đối với máy tính. Khi con người giao tiếp, từ và câu thường mang nghĩa khác nhau tùy theo văn cảnh. Máy tính chẳng thể suy luận điều này và sẽ cần chúng ta đưa ra thông tin một cách tường minh.</span></p>
+<p><span style="font-weight: 400;">Thực ra máy tính chẳng thông minh chút nào, chúng chỉ xử lý thông tin nhanh hơn chúng ta mà thôi. </span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-7103" src="https://codeberryschool.com/blog/wp-content/uploads/2019/03/code.2-1-2.jpg" alt="" width="5472" height="3648" srcset="/blog/wp-content/uploads/2019/03/code.2-1-2.jpg 5472w, /blog/wp-content/uploads/2019/03/code.2-1-2-300x200.jpg 300w, /blog/wp-content/uploads/2019/03/code.2-1-2-768x512.jpg 768w, /blog/wp-content/uploads/2019/03/code.2-1-2-1024x683.jpg 1024w, /blog/wp-content/uploads/2019/03/code.2-1-2-1080x720.jpg 1080w" sizes="(max-width: 5472px) 100vw, 5472px" /></p>
+<p><b>Lập trình viên là ai và công việc của họ là gì?</b></p>
+<p><span style="font-weight: 400;">Bạn không thể yêu cầu máy tính thực hiện những gì mình muốn bằng tiếng Việt, vậy nên điều bạn cần là một lập trình viên có thể đóng vai trò “phiên dịch”. </span><span style="font-weight: 400;">Lập trình viên</span><span style="font-weight: 400;"> là người truyền đạt ý tưởng và </span><span style="font-weight: 400;">chỉ dẫn</span><span style="font-weight: 400;"> của bạn cho máy tính, giúp tạo ra các website, trò chơi, và các chương trình khác. </span></p>
+<p><span style="font-weight: 400;">Lập trình viên còn được gọi là polyglot (người biết nhiều ngôn ngữ) với kỹ năng chuyên môn là giao tiếp với máy tính. Họ biết phải nói gì và làm thế nào để máy tính hiểu những gì họ nói. Nếu đã từng học ngoại ngữ, bạn chắc sẽ biết mỗi ngôn ngữ đều có hệ thống từ vựng, văn phạm và các quy tắc riêng. Tương tự, ngôn ngữ máy tính cũng có những nguyên tắc riêng được gọi là cú pháp.</span></p>
+<p><span style="font-weight: 400;">Trong giao tiếp, nếu bạn </span><span style="font-weight: 400;">phát âm sai</span><span style="font-weight: 400;"> vài từ, chia không đúng động từ hay sử dụng văn phạm không chính xác, thường người nghe vẫn có thể đoán và hiểu ý của bạn. Nhưng giao tiếp với máy tính lại hoàn toàn khác. Chỉ cần sai một lỗi cú pháp, máy tính sẽ chẳng thèm nghe bạn nữa và ngừng chạy chương trình luôn. </span></p>
+<p><span style="font-weight: 400;">Thô lỗ nhỉ! </span></p>
+<p><b>Bạn có thể làm gì khi có kỹ năng lập trình?</b></p>
+<p><span style="font-weight: 400;">Nếu đã từng sử dụng máy tính, coi video trên mạng hoặc chơi game, bạn có tin tất cả những thứ bạn thấy đều được tạo ra từ một loạt các chuỗi ký tự và biểu tượng. Khả năng xử lý hàng ngàn dòng lệnh mỗi giây là điểm mạnh của máy tính, giúp chúng có khả năng làm theo những chỉ dẫn phức tạp và thực hiện được những điều tuyệt vời.</span></p>
+<p><span style="font-weight: 400;">Dưới đây là danh sách những điều tuyệt vời bạn có thể làm với kỹ năng lập trình:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tạo và thiết kế websites</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Phát triển ứng dụng di động</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Phát triển chương trình cho máy tính để bàn (desktop)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Phát triển trò chơi</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tạo lập và bảo trì dữ liệu</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tự động hóa công việc</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Xử lý những vấn đề phức tạp</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Phát triển trí thông minh nhân tạo (AI)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Thực hiện phân tích thống kê</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Và còn nhiều nữa&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Nếu bạn quan tâm đến bất kỳ lĩnh vực nào trong danh sách kể trên và muốn phát triển sự nghiệp thì học lập trình là một điều thiết yếu. </span></p>
+<p><b>Điều gì khiến việc lập trình trở nên hữu ích và đâu là lợi ích mà nó mang lại?</b></p>
+<p><span style="font-weight: 400;">Trong cuộc sống hàng ngày, chúng ta càng phụ thuộc vào máy tính thì tầm quan trọng của các phần mềm và việc lập trình càng trở nên rõ ràng.</span></p>
+<p><span style="font-weight: 400;">Những năm trở lại đây, hầu hết mọi lĩnh vực đều có mối liên hệ với máy tính, vậy nên việc biết lập trình sẽ đem đến cho bạn lợi thế nghề nghiệp. Chẳng hạn bạn có thể sử dụng kỹ năng lập trình trong việc viết lách, phân tích, quản lý, cơ khí, phát triển phần mềm và nhiều lĩnh vực khác nữa.</span></p>
+<p><span style="font-weight: 400;">Những người yêu lập trình cho rằng chúng ta cần dạy lập trình như một kỹ năng phổ thông, giống như kỹ năng đọc, viết hay thực hiện những phương trình tính toán cơ bản. Chính phủ nhiều nước trên thế giới cũng chia sẻ suy nghĩ này và bắt đầu đưa lập trình vào chương trình học bên cạnh những môn cơ bản. </span></p>
+<p><span style="font-weight: 400;">Cũng giống chúng ta, chính phủ các nước cũng coi lập trình như chìa khóa giúp tăng sức cạnh tranh trên thị trường toàn cầu. </span></p>
+<p><b>Mình biết kỹ năng lập trình rất hữu ích, nhưng chưa hiểu lắm về công việc của lập trình viên?</b></p>
+<p><span style="font-weight: 400;">Một ngày bình thường của lập trình viên không hào nhoáng như trong phim hay các chương trình truyền hình. </span></p>
+<p><span style="font-weight: 400;">Công việc lập trình yêu cầu tập trung, kiên nhẫn và tự chủ. Nếu không thể ngồi một chỗ và tập trung hàng giờ, bạn nên cân nhắc lại việc theo đuổi nghề này. </span></p>
+<p><span style="font-weight: 400;">Một vài công việc liên quan tới lập trình sẽ yêu cầu bạn làm việc theo thời gian biểu thất thường và sẵn sàng chữa lỗi (bugs) cũng như giải quyết vấn đề ngay lập tức. Trong khi các trường hợp còn lại chỉ yêu cầu bạn làm việc từ 9 giờ sáng đến 5 giờ chiều như những công việc thông thường. </span></p>
+<p><span style="font-weight: 400;">Tuy nhiên trở thành lập trình viên thường giúp bạn có thời gian linh hoạt hơn so với công việc hiện tại. Nhiều lập trình viên nhận những công việc làm từ xa, có nghĩa là bạn có thể viết code khi đang ở nhà, ngồi quán cafe hay khi nằm phơi nắng ngoài bãi biển &#8211; miễn là bạn có wifi. </span></p>
+<p><b>Nghề lập trình có thực sự phù hợp với mình?</b></p>
+<p><span style="font-weight: 400;">Đây là lúc bạn cần nghiêm túc cân nhắc ưu và nhược điểm của nghề lập trình. Bạn có thể có những ý tưởng trên trời về nghề lập trình, nhưng cũng giống mọi công việc khác, thứ mà bạn cần vẫn là chăm chỉ làm việc. Nếu đáp ứng được những điều dưới đây, rất có thể bạn sẽ yêu thích công việc này. </span></p>
+<p><span style="font-weight: 400;">Dấu hiệu cho thấy công việc lập trình không dành cho bạn:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn chỉ quan tâm đến thu nhập và chẳng thích thú gì với máy tính</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn không thích ngồi yên một chỗ trong một khoảng thời gian dài</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mắt bạn nhòe đi mỗi khi nhìn vào màn hình code</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn đánh máy chậm và thường mắc các lỗi đánh máy</span></li>
+</ul>
+<p><span style="font-weight: 400;">Dấu hiệu cho thấy công việc lập trình đúng là DÀNH cho bạn:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn thấy bản thân vừa phân tích tốt vừa sáng tạo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn chú ý đến từng chi tiết</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn thấy thoải mái khi làm việc cùng người khác và làm việc một mình</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn có nền tảng cơ bản và có thể đọc hiểu tiếng Anh</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn thích giải quyết các vấn đề</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn luôn luôn học hỏi những điều mới mẻ</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn thích ứng với việc thay đổi</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bạn thích tổ chức thông tin và tự động hóa các quy trình</span></li>
+</ul>
+<p><b>Mình nên chọn ngôn ngữ lập trình nào và phải bắt đầu từ đâu? </b></p>
+<p><span style="font-weight: 400;">Hãy trở lại với ví dụ về cuộc họp cùng đối tác Trung Quốc.</span></p>
+<p><span style="font-weight: 400;">Dù tiếng Anh có thể hữu dụng trong công việc, bạn nhận thấy vẫn cần học thêm một vài ngôn ngữ phục vụ cho các lĩnh vực khác. Ví dụ, bạn muốn học tiếng Pháp cho công việc ngoại giao, tiếng Hy Lạp cho triết học và tiếng Đức cho ngành cơ khí. Tùy thuộc vào lĩnh vực làm việc, bạn sẽ chọn một ngôn ngữ cụ thể nhằm đáp ứng nhu cầu của mình.</span></p>
+<p><span style="font-weight: 400;">Chúng ta thường không có khả năng và thời gian để học tất cả các ngôn ngữ lập trình hiện có. Bạn nên cân nhắc những ngôn ngữ mà mình sẽ học. Đầu tiên, bạn cần xác định rõ mục đích và tìm ra những ngôn ngữ bạn cần học để đạt được mục tiêu.</span></p>
+<p><span style="font-weight: 400;">Về mặt kỹ thuật, HTML và CSS không phải là ngôn ngữ lập trình. Mặc dù vậy, đây vẫn là hai ngôn ngữ tuyệt vời cho những ai mới bắt đầu tìm hiểu về lập trình. HTML và CSS là “ngôn ngữ đánh dấu siêu văn bản”, được sử dụng trong thực tế để định dạng và sắp xếp văn bản. Nếu không có HTML hay CSS, trình duyệt sẽ không thể xác định những từ đang hiển thị là tiêu đề, đoạn văn hay phần cuối trang. Trình duyệt của bạn cũng sẽ không biết được những từ này phải tô đậm hay in nghiêng v.v&#8230;</span></p>
+<p><span style="font-weight: 400;">Khi viết bài hướng dẫn này, mình cũng dùng HTML và CSS để giúp bạn và trình duyệt của bạn hiểu những gì mình muốn nói.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Từ huấn luyện viên thể hình đến lập trình viên Frontend &#8211; Câu chuyện của học viên Gábor Baranyi</title>
+		<link>/blog/vi/tu-huan-luyen-vien-the-hinh-den-lap-trinh-vien-frontend-cau-chuyen-cua-hoc-vien-gabor-baranyi/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 12:10:32 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[bài tập front end]]></category>
+		<category><![CDATA[bằng huấn luyện viên thể hình]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[hinh den]]></category>
+		<category><![CDATA[học bằng huấn luyện viên thể hình]]></category>
+		<category><![CDATA[học front end]]></category>
+		<category><![CDATA[học huấn luyện viên thể hình]]></category>
+		<category><![CDATA[học làm huấn luyện viên thể hình]]></category>
+		<category><![CDATA[học lập trình front end]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[huấn luyện quảng cáo trên facebook]]></category>
+		<category><![CDATA[Huấn luyện viên cá nhân]]></category>
+		<category><![CDATA[huấn luyện viên thể hình]]></category>
+		<category><![CDATA[huấn luyện viên tiếng anh là gì]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[khóa học huấn luyện viên thể hình]]></category>
+		<category><![CDATA[khóa học huấn luyện viên thể hình 2018]]></category>
+		<category><![CDATA[lập trình front end là gì]]></category>
+		<category><![CDATA[lập trình viên]]></category>
+		<category><![CDATA[lập trình viên front-end]]></category>
+		<category><![CDATA[lập trình viên frontend]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[phí văn huấn làm nghề gì]]></category>
+		<category><![CDATA[SourceTree]]></category>
+		<category><![CDATA[tai den lap]]></category>
+		<category><![CDATA[tự học front end]]></category>
+		<category><![CDATA[web thể hình]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6623</guid>
+
+					<description><![CDATA[Gábor Baranyai từng là huấn luyện viên thể hình, người đứng ra tổ chức các buổi tập theo nhóm tại phòng gym. Đến một ngày, anh tìm thấy công việc yêu thích của mình, một công việc là động lực phát triển đồng thời giúp anh hoàn thiện bản thân. Gábor hiện đang là lập [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Gábor Baranyai</b><span style="font-weight: 400;"> từng là huấn luyện viên thể hình, người đứng ra tổ chức các buổi tập theo nhóm tại phòng gym. Đến một ngày, anh tìm thấy công việc yêu thích của mình, một công việc là động lực phát triển đồng thời giúp anh hoàn thiện bản thân. Gábor hiện đang là lập trình viên frontend cho một công ty quy mô vừa và nhỏ.</span></p>
+<p>&nbsp;</p>
+<p><b>Mình sống ở</b><span style="font-weight: 400;">: Thành phố Szeged, Hungary</span></p>
+<p><b>Mình làm việc tại</b><span style="font-weight: 400;">: Công ty TNHH Minero IT Hungary</span></p>
+<p><b>Thời gian học tại CodeBerry</b><span style="font-weight: 400;">: 10 tháng</span></p>
+<p><b>Mình làm việc bằng</b><span style="font-weight: 400;">: laptop Fujitsu Lifebook A555, Windows 7, phần mềm IntelliJ, SourceTree</span></p>
+<p>&nbsp;</p>
+<p><b>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</b></p>
+<p><span style="font-weight: 400;">Tùy vào người hỏi. Nếu đó là chuyên gia trong lĩnh vực này, mình nói mình là lập trình viên frontend (xây dựng giao diện và trải nghiệm cho người dùng). Nếu là người không chuyên lập trình và hỏi cho có, mình nói mình là lập trình viên hoặc nhà phát triển phần mềm.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn làm nghề gì trước khi chuyển sang phát triển web?</b></p>
+<p><span style="font-weight: 400;">Mình từng là huấn luyện viên cá nhân toàn thời gian, người chuyên tổ chức các buổi tập nhóm tại phòng gym. Mình hiện vẫn tổ chức các buổi tập như vậy bên cạnh công việc lập trình.</span></p>
+<p>&nbsp;</p>
+<p><b>Vì sao bạn quyết định học phát triển web?</b></p>
+<p><span style="font-weight: 400;">Mình luôn quan tâm đến thiết kế và tò mò về cách tạo nên một giao diện web. Trang web của phòng tập được quản lý một phần bởi những huấn luyện viên như mình. Mình dành khá nhiều thời gian để viết và thiết kế blog WordPress cho phòng tập và cảm thấy thích công việc này. Mình phát hiện một cơ hội tốt trên Facebook khi tình cờ thấy quảng cáo một khóa học trực tuyến về lập trình web. Mình tìm hiểu và quyết định sẽ nắm tường tận lĩnh vực này thông qua khóa học&#8230; hoặc ít nhất là những điều cơ bản trong lập trình. Đoạn quảng cáo mình thấy là của CodeBerry.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn học lập trình như thế nào? Bạn tham gia các khóa học, hay đọc những quyển sách nào?</b></p>
+<p><span style="font-weight: 400;">Sau khi xem đoạn quảng cáo trên, mình bắt đầu tham gia khóa học trực tuyến của CodeBerry vào tháng 9 năm 2016. Sau đó mình đăng ký thêm cả khóa học trên Codecademy và Udemy. Mình bắt đầu tìm và học các ngôn ngữ lập trình cụ thể trên những trang có video hướng dẫn.</span></p>
+<p>&nbsp;</p>
+<p><b>CodeBerry cung cấp cho bạn kiến thức gì? Cảm nhận khi học ở trường của bọn mình thế nào?</b></p>
+<p><span style="font-weight: 400;">CodeBerry rất hữu ích. Mình rất thích hệ thống đăng ký hàng tháng của các bạn bởi theo cách này mình có thể tự học theo tiến độ  riêng. Mình khá thích thú với những lời giải và ví dụ minh họa rõ ràng trong mỗi bài tập.</span></p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-6719" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5.jpeg" alt="" width="760" height="427" srcset="/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5.jpeg 760w, /blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5-300x169.jpeg 300w" sizes="(max-width: 760px) 100vw, 760px" /><img loading="lazy" class="alignnone size-full wp-image-6624" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-6.jpeg" alt="" width="760" height="427" srcset="/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-6.jpeg 760w, /blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-6-300x169.jpeg 300w" sizes="(max-width: 760px) 100vw, 760px" /></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Bàn làm việc của Gábor</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ với những học viên mới?</b></p>
+<p><span style="font-weight: 400;">Mình nghĩ điều quan trọng là phải hiểu cặn kẽ những kiến thức cơ bản và ôn lại các bài học để hiểu mối liên hệ giữa kiến thức đã học và những kiến thức mới. Việc ôn tập là rất quan trọng.</span></p>
+<p>&nbsp;</p>
+<p><b>Cho mình biết một chút về nơi bạn đang làm việc, công việc của bạn là gì? Một ngày hoặc một tuần điển hình của bạn trôi qua thế nào?</b></p>
+<p><span style="font-weight: 400;">Văn phòng của mình ở thành phố Szeged, đây là một công ty có trụ sở tại Budapest. Bọn mình phát triển một dự án nội bộ và mình phụ trách xử lý phần giao diện bằng ngôn ngữ HTML, CSS và JavaScript.</span></p>
+<p><span style="font-weight: 400;">Mình đến văn phòng khoảng 8 giờ sáng và xong việc lúc 5 giờ chiều. Mình thường làm thêm việc khác khi không ở văn phòng; huấn luyện hoặc tổ chức các lớp tập theo nhóm chẳng hạn. Điều này giúp mình luôn tràn đầy năng lượng và sức sống trong ngày làm việc tiếp theo.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn làm cùng ai, và họ hỗ trợ công việc của bạn như thế nào?</b></p>
+<p><span style="font-weight: 400;">Hiện có khoảng 20 người làm việc trên văn phòng. Mình có một người hướng dẫn hỗ trợ tiến độ, đồng thời giám sát chung dự án mà bọn mình cùng triển khai.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn đang dùng phần mềm, công cụ hoặc công nghệ nào?</b></p>
+<p><span style="font-weight: 400;">Môi trường lập trình là IntelliJ, để kiểm soát phiên bản (version control) bọn mình dùng SourceTree và BitBucket cho thư mục chứa mã nguồn.</span></p>
+<p><span style="font-weight: 400;">Trong dự án bọn mình dùng HTML, CSS (SCSS), jQuery, Angular JS, Angular Material và FUSE.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn tìm việc trong bao lâu? Quá trình tìm việc có khó không?</b></p>
+<p><span style="font-weight: 400;">Hồi mình vẫn đang học thì một người bạn khuyên mình gửi CV đến công ty cậu ấy đang làm. Họ mời mình phỏng vấn, và vài tuần sau họ gọi điện nói rằng muốn nhận mình vào làm.</span></p>
+<p>&nbsp;</p>
+<p><b>Quá trình phỏng vấn diễn ra thế nào?</b></p>
+<p><span style="font-weight: 400;">Buổi phỏng vấn diễn ra bằng tiếng Anh. Sau khi nghe giới thiệu ngắn gọn về công ty thì đến lượt mình tự giới thiệu bản thân. Mình nói một chút về cuộc sống riêng, về cách và nơi mình học lập trình, tất nhiên là bằng tiếng Anh.</span></p>
+<p><span style="font-weight: 400;">Tiếp theo là phần kỹ thuật. Để đánh giá kiến ​​thức, họ cho mình giải quyết vài bài kiểm tra mang tính logic.</span></p>
+<p><span style="font-weight: 400;">Toàn bộ buổi phỏng vấn mất khoảng 1 giờ.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn có lời khuyên gì cho những người đang chuẩn bị phỏng vấn xin việc?</b></p>
+<p><span style="font-weight: 400;">Điều quan trọng là mọi thứ bạn nói phải mang tính tích cực. Ngay cả khi có phát sinh tiêu cực, bạn hãy cố gắng nói về vấn đề từ một khía cạnh hoặc quan điểm tích cực. Luôn tự tin, hãy thể hiện rằng mình có khả năng và sẵn sàng cải thiện bản thân trong bất kỳ lĩnh vực nào.</span></p>
+<p>&nbsp;</p>
+<p><b>Bước tiếp theo của bạn là gì? Định hướng trong tương lai của bạn?</b></p>
+<p><span style="font-weight: 400;">Mình muốn trau dồi kiến thức lập trình frontend càng nhiều càng tốt. Sau đó mình sẽ thử sức với mảng backend để hiểu toàn bộ quá trình hoạt động đằng sau một ứng dụng.</span></p>
+<p>&nbsp;</p>
+<p><b><i>Trong loạt bài viết &#8220;Câu chuyện học viên Trường CodeBerry&#8221;, bọn mình trò chuyện với những học sinh viên đã tìm được việc làm ở vị trí lập trình viên.</i></b></p>
+<p>&nbsp;</p>
+<p><b><i>Bạn muốn học lập trình? Hãy ghé thăm </i></b><a href="https://codeberryschool.com/vi/" data-wpel-link="external" target="_blank" rel="external"><b><i>Trường lập trình CodeBerry</i></b></a><b> và thử sức với 15 bài học miễn phí của chúng mình nhé.</b></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Những điều tôi ước mình đã biết trước khi bước vào giới lập trình &#8211; Và những bài học tự rút ra khi đứng ở vị trí đào tạo</title>
+		<link>/blog/vi/nhung-dieu-toi-uoc-minh-biet-truoc-khi-buoc-vao-the-gioi-lap-trinh-va-nhung-bai-hoc-toi-tu-rut-ra-khi-o-vi-tri-dao-tao/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 10:33:42 +0000</pubDate>
+				<category><![CDATA[Bài báo]]></category>
+		<category><![CDATA[bái báo]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[có khi bước không chung đường vậy lại hay]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberryschool]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[cong ty dich thuat "go back to category" job]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[học lập trình cho người chưa biết gì]]></category>
+		<category><![CDATA[hội đồng]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[lập trình]]></category>
+		<category><![CDATA[lập trình viên cần học môn gì]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[toi uoc]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6570</guid>
+
+					<description><![CDATA[Đặt mục tiêu rõ ràng trước khi học lập trình Lập trình tập trung vào việc tạo ra những sản phẩm hoặc tính năng cụ thể và con đường cần đi sẽ trở nên rõ ràng nếu bạn xác định rõ mục tiêu. Nếu bạn chỉ &#8220;học cách viết code&#8221; mà không có ý tưởng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3><b>Đặt mục tiêu rõ ràng trước khi học lập trình</b></h3>
+<p><span style="font-weight: 400;">Lập trình tập trung vào việc tạo ra những sản phẩm hoặc tính năng cụ thể và con đường cần đi sẽ trở nên rõ ràng nếu bạn xác định rõ mục tiêu. Nếu bạn chỉ &#8220;học cách viết code&#8221; mà không có ý tưởng mình sẽ viết cái gì và giúp cải thiện cuộc sống của mình ra sao, thì với bạn lập trình sẽ sớm trở thành một công việc nặng nề và mệt mỏi.</span></p>
+<p><span style="font-weight: 400;">Thật xấu hổ khi phải thừa nhận trước đây mình đến với môn khoa học máy tính chỉ để chứng tỏ sự thông minh của bản thân và mong kiếm được công việc dành cho người “có đầu óc”. Bản thân mình cũng có chút năng khiếu toán học và khá thích nghiên cứu lý thuyết nên lập trình là một lựa chọn phù hợp (</span><a href="http://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">cuốn sách tuyệt vời này</span></a><span style="font-weight: 400;"> đã tạo động lực cho mình khi đó). Tuy nhiên những điều trên chưa đủ để duy trì hứng thú lâu dài với công việc cho đến một ngày mình tìm ra mối liên kết kỳ diệu giữa công nghệ và những niềm đam mê khác của bản thân như âm nhạc hay văn học.</span></p>
+<p><span style="font-weight: 400;">Bạn muốn tạo ra thứ gì? Một trang web? Một trò chơi? Một ứng dụng trên iPhone? Một công ty startup giúp bản thân giàu có? Một sản phẩm nghệ thuật tương tác? Hay đơn giản bạn chỉ muốn gây ấn tượng với sếp hoặc tìm cách tự động hóa một quy trình nào đó để có thời gian tận hưởng cuộc sống? Cũng có thể bạn muốn có cơ hội công việc mới, bổ sung vào hồ sơ một vài kỹ năng cần thiết, hoặc đáp ứng đủ điều kiện để tốt nghiệp một khóa học. Đó đều là những mục tiêu đáng để phấn đấu. Hãy chắc chắn xác định đúng mục tiêu cho bản thân, và học những gì phù hợp giúp bạn đạt được mục tiêu đó.</span></p>
+<h3><b>Lập trình không phải môn khoa học thần bí</b></h3>
+<p><span style="font-weight: 400;">Lập trình là một dạng kỹ năng cụ thể và việc học lập trình có những yêu cầu riêng giống các dạng kỹ năng khác. Ví dụ như học ngoại ngữ yêu cầu bạn phải biết ngữ pháp và từ vựng. Học toán bạn phải biết các phương pháp giúp giải quyết từng dạng bài riêng. Mỗi lĩnh vực khác nhau từ thủ công cho tới nghệ thuật đều có những kỹ thuật, công cụ và phương pháp được người đi trước đúc kết theo thời gian. Mỗi vấn đề khác nhau cần những phương pháp khác nhau để giải quyết. Dĩ nhiên bạn có thể tự do sử dụng, sửa đổi hoặc lược bỏ những bước không cần thiết.</span></p>
+<p><a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Một lập trình viên kỳ cựu</span></a><span style="font-weight: 400;"> (một người thông minh và có nhiều bài viết tranh luận mà mình rất thích) cho rằng có một ranh giới ngăn cách giữa một lập trình viên thực thụ và những người không có đủ năng lực trí tuệ để thành công trong lĩnh vực này. Theo anh thì khả năng hiểu kiến thức về con trỏ và đệ quy có thể dùng làm ví dụ (những ai chưa biết 2 khái niệm này có thể tìm hiểu thêm </span><a href="http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ở đây</span></a><span style="font-weight: 400;"> và </span><a href="http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">đây</span></a><span style="font-weight: 400;">).</span></p>
+<p><span style="font-weight: 400;">Trước đây mình có học về con trỏ và đệ quy ở trường. Mình thấy mọi thứ thú vị hơn nhiều sau khi nắm rõ 2 khái niệm trên – đây là thứ “niềm vui trí tuệ” lôi cuốn mình đến với môn khoa học máy tính trong những ngày đầu. Tuy nhiên đây lại là 2 trong vô số những khái niệm phức tạp mà sau này mình nhận ra thường chỉ xuất hiện trên trường lớp. Chẳng mấy khi mình cần kiến thức như vậy để áp dụng trong công việc hàng ngày. Trong quá trình đi dạy, mình gặp nhiều học viên không biết về 2 khái niệm trên nhưng vẫn hoàn thành xuất sắc những dự án lập trình được giao.</span></p>
+<p><span style="font-weight: 400;">Thật lãng phí thời gian khi bạn cứ băn khoăn, lo lắng về việc liệu mình có đủ thông minh để học lập trình hay không. Tất nhiên khi phải đảm nhận các dự án phức tạp và lắt léo thì bạn cần có trình độ chuyên môn nhất định. Nhưng điều này đúng ở bất cứ lĩnh vực nào trong cuộc sống, không riêng gì lập trình. Nói chung bạn không cần phải là thiên tài, một người am hiểu về đệ quy “trong lòng bàn tay” thì mới có thể lập trình những thứ bạn muốn.</span></p>
+<h3><b>Lần đầu thường chẳng đến đâu</b></h3>
+<h4><b>Và rất có thể lần hai hoặc ba cũng vẫn thế</b></h4>
+<p><span style="font-weight: 400;">Khi mới học lập trình, bạn sẽ sớm gặp tình trạng khi bản thân cho rằng đã làm mọi thứ chuẩn chỉnh, bạn kiểm tra đi kiểm tra lại, và rốt cục chương trình bạn viết vẫn không chạy&#8230; Bạn chẳng biết mình làm sai ở đâu, và thông báo lỗi của hệ thống (nếu có) cũng thường vô dụng và chẳng chỉ ra manh mối cụ thể nào. Bạn lúc này bắt đầu nghĩ đến việc bỏ cuộc, cho rằng mình sẽ chẳng bao giờ giải quyết được vấn đề, cho rằng mình không có năng khiếu lập trình. Lần đầu tiên mình trải qua cảm giác đó là khi tập viết một chương trình bằng ngôn ngữ C ++, thử cho chương trình chạy và màn hình hiện thông báo &#8220;lỗi phân đoạn&#8221;.</span></p>
+<p><span style="font-weight: 400;">Đây là trải nghiệm phổ biến đối với lập trình viên ở mọi cấp độ và hoàn toàn không thể sử dụng để đánh giá sự thông minh hay kiến thức công nghệ của bạn. Nó cũng chẳng thể dùng để quyết định xem bạn có phù hợp với nghề lập trình hay không. Bạn sẽ luôn gặp những vấn đề kiểu vậy khi mới bắt đầu lập trình và ngay cả sau này khi đã trở thành một lập trình viên chuyên nghiệp. Sự khác biệt chỉ là cách bạn chọn để đương đầu với khó khăn.</span></p>
+<p><span style="font-weight: 400;">Mình nhận ra điểm khác biệt lớn nhất giữa một lập trình viên mới và một người giàu kinh nghiệm chính là lòng tin. Một người có kinh nghiệm sẽ luôn tin rằng mọi trục trặc đều do một nguyên nhân mang tính logic và chắc chắn có thể tìm ra, họ tin rằng mọi vấn đề đều có cách giải quyết và luôn có con đường để về tới đích. Từ &#8220;không hoạt động&#8221; đến &#8220;hoạt động tốt&#8221; có thể là một đoạn đường mù mờ, nhưng với bản tính kiên định bạn nhất định sẽ đến đích.</span></p>
+<h3><b>Luôn có ai đó bảo rằng bạn đang làm sai</b></h3>
+<p><span style="font-weight: 400;">Sẽ luôn có ai đó chỉ vào màn hình của bạn và nói những điều kiểu như: </span><a href="http://theprofoundprogrammer.com/page/17" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dấu ngoặc nhọn này nên đặt ở dòng tiếp theo</span></a><span style="font-weight: 400;">; </span><a href="http://programmers.stackexchange.com/a/2782" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dấu ngoặc nhọn kia nên đặt trên cùng một dòng</span></a><span style="font-weight: 400;">; </span><a href="http://derkarl.org/why_to_tabs.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">đừng quên dùng tab để thụt lề</span></a><span style="font-weight: 400;">; </span><a href="http://www.emacswiki.org/emacs/TabsAreEvil" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">nhưng dùng tab thực ra không hay lắm</span></a><span style="font-weight: 400;">; hãy thử dùng </span><a href="http://mysqlstoredprocedure.com/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=40" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">stored procedure</span></a><span style="font-weight: 400;"> (một tập các khai báo sql được lưu trữ trong cơ sở dữ liệu), mà không thực ra </span><a href="http://www.tonymarston.co.uk/php-mysql/stored-procedures-are-evil.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">không nên sử dụng stored procedure</span></a><span style="font-weight: 400;">; đừng quên </span><a href="http://www.lanoie.net/classes/DHTML/programming/lectures/lecture.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">để lại ghi chú khi viết code</span></a><span style="font-weight: 400;">; nhưng nếu code viết chuẩn rồi thì </span><a href="http://visualstudiomagazine.com/articles/2013/06/01/roc-rocks.aspx" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">không cần để lại ghi chú</span></a><span style="font-weight: 400;"> đâu.</span></p>
+<p><span style="font-weight: 400;">Trong lập trình có nhiều cách tiếp cận khác nhau cho cùng một vấn đề và thường không có cách “đúng nhất”. Nhiều người thích áp đặt cách tiếp cận của họ, nhưng lại quên đó không phải cách duy nhất. Khi mới vào nghề, trải nghiệm mệt mỏi nhất là khi ai đó liên tục bảo rằng mình đang làm sai. Những lúc như vậy mình phải căng đầu để cân nhắc xem những gì họ nói có chính xác hay không.</span></p>
+<p><span style="font-weight: 400;">Khi lập trình theo nhóm, sẽ luôn có ai đó bất đồng quan điểm với bạn. Cũng có lúc quan điểm của họ chính xác và bạn nên kiểm tra lại những gì mình viết. Nhưng nhiều khi bạn nghe phải những quan điểm hết sức nhảm nhí, những vấn đề vốn là tranh luận muôn thủa trong ngành mà lẽ ra lập trình viên chỉ nên bám theo và làm đúng như yêu cầu vậy là xong.  </span></p>
+<p><span style="font-weight: 400;">Ngược lại, nếu bạn cũng là người rảnh rỗi thích dành thời gian tranh luận những vấn đề không đâu thì chúc mừng, bạn vừa tìm được “cạ cứng” của mình (mình đang nhắc tới mấy người hay bị ám ảnh bởi lý thuyết đấy).</span></p>
+<h3><b>Luôn có ai đó cho rằng bạn chưa phải lập trình viên “thực thụ”</b></h3>
+<p><span style="font-weight: 400;">Sẽ luôn có ai đó nói với bạn những điều kiểu như: </span><a href="http://www.cs.tut.fi/~jkorpela/prog.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">biết HTML đâu thể coi là biết lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://the-shaolin.blogspot.ca/2007/12/why-vi-only-true-programmers-editor.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">chưa dùng vi (trình biên tập theo chế độ) thì chưa thể coi là biết lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://www.ericsink.com/entries/c_morse_code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">lập trình viên “thực thụ” thì phải biết ngôn ngữ C</span></a><span style="font-weight: 400;">; </span><a href="http://www.zazzle.ca/real_coders_dont_do_windows_tees-235789605999466863" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">người lập trình “thực thụ” chẳng ai dùng Windows cả</span></a><span style="font-weight: 400;">; </span><a href="http://www.codinghorror.com/blog/2006/07/separating-programming-sheep-from-non-programming-goats.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">lập trình không dành cho tất cả mọi người</span></a><span style="font-weight: 400;">; </span><a href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">cậu không nên học lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">câu chưa phải là một lập trình viên (tôi thì có)</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Khái niệm &#8220;lập trình&#8221; có ý nghĩa khác nhau với mỗi người, và việc lập trình bây giờ cũng đã khác xưa. Việc ra đời của các công cụ, package và framework cho phép người mới và ngay cả những lập trình viên chuyên nghiệp viết các chương trình và tính năng hết sức nhanh chóng và dễ dàng. Thế nhưng nhiều người cho rằng việc tận dụng những công cụ như vậy không chứng tỏ bạn là một lập trình viên “thực thụ” (những ai quan tâm tới luận điểm này có thể đọc bài: “</span><a href="http://blog.enfranchisedmind.com/2009/04/return-of-the-real-programmer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Sự trở lại của những lập trình viên thứ thiệt</span></a><span style="font-weight: 400;">”).</span></p>
+<p><span style="font-weight: 400;">Thực ra đằng sau quan niệm này phản ánh nỗi sợ vô hình của một nhóm nhỏ lập trình viên. Họ cho rằng </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">nếu “bất kỳ ai” cũng có thể trở thành lập trình viên, thì danh hiệu này sẽ chẳng còn danh giá</span></a><span style="font-weight: 400;">. Cá nhân mình thấy suy nghĩ này hại nhiều hơn lợi.</span></p>
+<p><span style="font-weight: 400;">Hãy sử dụng bất cứ công cụ hỗ trợ nào giúp công việc lập trình của bạn trở nên dễ dàng. Sẽ chẳng có vấn đề gì nếu bạn chọn viết một tựa game bằng Stencyl hoặc GameMaker thay vì thủ công viết lại từng dòng code từ đầu. Nếu thành quả đầu tiên của bạn trong lập trình được viết ra bằng HTML hoặc sử dụng macro trong Excel thì cũng tốt thôi. Hãy cứ làm những việc bạn thích và cảm thấy có thể gắn bó lâu dài.</span></p>
+<p><span style="font-weight: 400;">Một cách tự nhiên, khi được tiếp cận lập trình theo cách của riêng mình, bạn sẽ nhận ra những công cụ đơn giản này có nhiều hạn chế và sẽ bắt đầu tìm tòi học cách sử dụng các công cụ “mạnh mẽ” hơn. Nói cho cùng, chẳng ai săm soi từng dòng code bạn viết hay để ý xem bạn sử dụng phần mềm gì. Chỉ có sản phẩm bạn tạo ra mới thực sự quan trọng.</span></p>
+<h3><b>Đừng sống khác đi để được thần tượng là “mọt sách”</b></h3>
+<p><span style="font-weight: 400;">Mình từng lo lắng nhiều về điều này, đặc biệt là hồi đi học. Hồi đó mình cho rằng để được tông trọng trong giới công nghệ thì bản thân phải trở thành một con “mọt sách”. Với ý nghĩ đó, mình quan tâm nhiều hơn tới cách ăn mặc, cách thuyết trình, cách lựa chọn tài liệu học, thậm chí cả cách chọn phần mềm sử dụng trong công việc. Rốt cục đó là sự lãng phí thời gian khủng khiếp, và nhận ra mình sẽ làm việc hiệu quả hơn nếu không tốn thời gian cho những việc vô bổ như vậy. </span></p>
+<p><span style="font-weight: 400;">Bạn phải hiểu rằng khả năng lập trình của mình </span><i><span style="font-weight: 400;">chẳng liên quan gì</span></i><span style="font-weight: 400;"> đến việc bạn có thích nghi được hay không với các nhóm “mọt sách” trong cộng đồng công nghệ. Điều này đặc biệt đúng khi trong thâm tâm bạn biết rằng mình sẽ chẳng bao giờ phù hợp với những người kiểu vậy. Thay vì thể hiện bản thân, bạn nên sử dụng sức lực và thời gian để tạo ra những sản phẩm tuyệt vời. Kể cả trường hợp bạn có phong cách của một “mọt sách” thực thụ thì cũng đừng bao giờ đánh giá đồng nghiệp qua vẻ bề ngoài của họ.</span></p>
+<h3><b>Đôi lúc sự kiên trì quan trọng hơn phương pháp</b></h3>
+<p><span style="font-weight: 400;">Có đầy rẫy bài viết trên mạng về cách “tốt nhất” hoặc “đúng nhất” để học lập trình và cũng có rất nhiều phương pháp hay để người mới có thể tiếp cận môn học này. Bạn có thể tìm hiểu các khái niệm</span><a href="http://pine.fm/LearnToProgram/" target="_blank" rel="noopener external" data-wpel-link="external"> <span style="font-weight: 400;">từ một cuốn sách</span></a><span style="font-weight: 400;">, học qua thực hành </span><a href="http://www.codecademy.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">các bài tập mang tính tương tác</span></a> <span style="font-weight: 400;">hoặc bằng cách tập </span><a href="http://learnpythonthehardway.org/book/intro.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">debug (gỡ lỗi) trong những đoạn code do người khác viết ra</span></a><span style="font-weight: 400;">. Dĩ nhiên cũng có rất nhiều ngôn ngữ lập trình cho bạn lựa chọn.</span></p>
+<p><span style="font-weight: 400;">Phần lớn những ai theo học các khóa “tự học lập trình” đều gặp tình trạng hào hứng ở thời điểm bắt đầu, nhưng chóng nản khi chương trình học ngày một khó hơn. Bạn biết cách viết code giúp hiển thị một vài dòng văn bản, nhưng lại chẳng biết bắt đầu từ đâu khi áp dụng kiến thức này trong một dự án thực tế. Bạn cảm thấy mình chỉ đang làm theo hướng dẫn và không thực sự hiểu vấn đề. Rồi bạn bắt đầu đổ lỗi cho chất lượng của khóa học.</span></p>
+<p><span style="font-weight: 400;">Ở giai đoạn này, phần lớn những bài giảng hoặc tài liệu trực tuyến tỏ ra vô dụng vì nội dung bài giảng thường mặc định bạn đã thành thạo các kiến thức và kỹ năng được dạy trước đó. Mọi việc càng khó khăn hơn bởi bạn chẳng biết mình đang thiếu kiến thức hay làm sai điều gì. Việc xác định xem tiếp theo phải làm gì thực sự là một câu hỏi khó.</span></p>
+<p><span style="font-weight: 400;">Thực tế bạn sẽ gặp hoàn cảnh này bất kể bạn theo học chương trình nào đi chăng nữa, và thứ duy nhất giúp bạn vượt qua là sự kiên trì. Bạn phải tiếp tục thử những phương pháp mới, mày mò tìm hiểu thêm, và dần dần tự “vỡ ra” cách để hoàn thành dự án. Bạn cũng sẽ có khả năng thành công cao hơn nếu đã định hướng rõ ngay từ đầu lý do mình học lập trình.</span></p>
+<p><span style="font-weight: 400;">Dẫu mất thời gian, nhưng nếu kiên trì xếp từng viên gạch sẽ đến lúc bạn xây được một bức tường. Giá trị của niềm tin chính là ở đây. Nếu bản thân tin rằng với thời gian và sự kiên định, bạn hoàn toàn có thể nắm được những kiến thức cần thiết để trở thành một lập trình viên thì chắc chắn sẽ đến lúc bạn đạt được mục tiêu.</span></p>
+<p><span style="font-weight: 400;">Bài viết gốc bằng tiếng Anh có thể đọc tại <a href="https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank" rel="noopener external" data-wpel-link="external">đây</a>.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Từ hiệu bánh đến vị trí nhân viên lập trình frontend &#8211; câu chuyện của János Farkas</title>
+		<link>/blog/vi/tu-hieu-banh-den-vi-tri-nhan-vien-lap-trinh-frontend-cau-chuyen-cua-janos-farkas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 10:32:34 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[front end là gì]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[frontend là gì]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[học front end]]></category>
+		<category><![CDATA[học lập trình front end]]></category>
+		<category><![CDATA[học scss]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[khóa học front end]]></category>
+		<category><![CDATA[khoa học máy tính]]></category>
+		<category><![CDATA[lập trình front end]]></category>
+		<category><![CDATA[lập trình front end là gì]]></category>
+		<category><![CDATA[lập trình viên front-end]]></category>
+		<category><![CDATA[mục tiêu nghề nghiệp lập trình viên]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[phát triển trang WordPress]]></category>
+		<category><![CDATA[tiệm bánh]]></category>
+		<category><![CDATA[trí nhân]]></category>
+		<category><![CDATA[tri trinh]]></category>
+		<category><![CDATA[trinhan]]></category>
+		<category><![CDATA[tự học front end]]></category>
+		<category><![CDATA[tự học lập trình]]></category>
+		<category><![CDATA[tự học lập trình web]]></category>
+		<category><![CDATA[webstorm là gì]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6501</guid>
+
+					<description><![CDATA[János Farkas là một kỹ sư xây dựng, nghệ sĩ đồ họa ứng dụng, đồng thời là thợ làm bánh chuyên nghiệp. Anh mới trở thành nhân viên lập trình frontend và làm việc cho Y-collective (một công ty ở Hungary) từ tháng Giêng. Mình sống ở Pécs, Hungary Mình làm việc cho Y-collective Mình [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>János Farkas</strong> là một kỹ sư xây dựng, nghệ sĩ đồ họa ứng dụng, đồng thời là thợ làm bánh chuyên nghiệp. Anh mới trở thành nhân viên lập trình frontend và làm việc cho Y-collective (một công ty ở Hungary) từ tháng Giêng.</p>
+<blockquote>
+<p><strong>Mình sống ở Pécs, Hungary</strong><br />
+<strong>Mình làm việc cho Y-collective</strong><br />
+<strong>Mình đã học tại CodeBerry trong 2 tháng</strong><br />
+<strong>Mình sử dụng: PHPStorm, Stack Overflow, CSS-tricks, W3Schools</strong></p>
+</blockquote>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn trả lời như thế nào?</strong></p>
+<p>Trước hết, mình sẽ trả lời rằng mình là một lập trình viên. Thường thì mọi người đều hiểu ngay.</p>
+<p>Trong đa số trường hợp, mọi người thường quan tâm khi mình giới thiệu về nghề nghiệp bản thân. Vậy nên mình sẽ giải thích thêm rằng mình đảm nhận thiết kế giao diện người dùng cho các trang web.</p>
+<p>Đôi khi mình cũng làm cả những tác vụ liên quan đến server nữa&#8230;</p>
+<p><strong>Bạn làm nghề gì trước khi chuyển sang lĩnh vực phát triển web?</strong></p>
+<p>Đây là lần đầu mình làm ở vị trí lập trình viên phát triển web, nhưng mình đã có cơ hội làm quen lĩnh vực này từ trước. Mình quan tâm đến lĩnh vực này cách đây 10 năm, nhưng chỉ bắt đầu nghiêm túc tìm hiểu và làm từ năm ngoái. Tới giờ mình mới chỉ làm một vài trang web nho nhỏ (và giờ nếu làm lại mình có thể sẽ làm theo một cách khác <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Trước đây mình làm trong lĩnh vực thương mại khoảng 10 năm. Là quản lý bộ phận bán hàng của một siêu thị bánh có diện tích 7000 mét vuông, nhiệm vụ của mình là giám sát sản xuất, thu mua, lên lịch hoạt động và các đầu việc khác có liên quan. Với mình đây là một thay đổi lớn trong sự nghiệp.</p>
+<p><strong>Vì sao bạn quyết định học lập trình web?</strong></p>
+<p>Mình luôn bị cuốn hút bởi lĩnh vực phần mềm trong ngành khoa học máy tính. Theo thời gian, internet và công nghệ web đang dần đóng vai trò ngày một lớn trong cuộc sống hàng ngày. Điều này dẫn đến nhu cầu cấp bách cần thêm nhiều lập trình viên chuyên nghiệp. Mình muốn nắm bắt cơ hội này. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Hãy chia sẻ một chút về nơi làm việc hiện tại của bạn, nhiệm vụ của bạn là gì? Một ngày hoặc một tuần của bạn trôi qua như thế nào?</strong></p>
+<p>Mình là một lập trình viên mới tại Y-collective. Văn phòng của bọn mình nằm ở trung tâm thành phố Pécs.</p>
+<p>Đầu tuần sẽ có một buổi họp dự án để xác định và phân công công việc. Buổi họp giúp mọi người nắm rõ những gì cần làm trong tuần và có thể là cả những tuần kế tiếp.</p>
+<p>Bọn mình có rất nhiều dự án, vì vậy mỗi người đều có đầu việc khác nhau.</p>
+<p>Thỉnh thoảng dự án cũng sẽ phát sinh vấn đề khẩn cấp, hoặc có một số lỗi cần xử lý.</p>
+<p>Một ngày của mình thường bắt đầu vào khoảng 6 giờ sáng với một ly cà phê.</p>
+<p>Trong lúc nhâm nhi cà phê, mình lướt qua tin thời sự hoặc xem lại công việc đã làm ngày hôm trước.</p>
+<p>Mình thường đi làm bằng xe đạp. Giờ làm việc chính thức là từ 8 giờ sáng đến 4 giờ chiều, thỉnh thoảng cũng cần ở lại làm thêm 0.5 tiếng hoặc 1 tiếng.</p>
+<p>Bên cạnh việc tạo mới các trang web, bọn mình cũng thực hiện các thay đổi, sửa lỗi, áp dụng các mô-đun hiện có vào các dự án khác, làm những công việc hành chính, chỉnh sửa cơ sở dữ liệu&#8230;</p>
+<p>Gần đây, bọn mình tập trung hơn vào việc phát triển các trang WordPress riêng.</p>
+<p>Đôi khi công việc yêu cầu phải nghiên cứu, hoặc thay đổi một số plugin, nên cũng không hề nhàm chán.</p>
+<p>Những thứ mình sử dụng hàng ngày là PHP, HTML, CSS, SCSS/LESS, Javascript/jQuery, Node/Bower, Bootstrap, và git.</p>
+<p>Bọn mình cũng có các khóa đào tạo và thảo luận nội bộ hàng tuần/hai tuần một lần về một chủ đề nào đó.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-5833" src="https://codeberryschool.com/blog/wp-content/uploads/2017/04/Janos_Farkas_pic1-3.jpeg" alt="" width="800" height="543" /></p>
+<p><strong>Bạn mất bao lâu để tìm được công việc này? Quá trình tìm việc có khó khăn không?</strong></p>
+<p>Mình không tốn mấy thời gian để tìm việc. Đúng hơn là mình không nghĩ có thể bước chân vào ngành CNTT sau khoảng thời gian ngắn đến vậy. Adam Freisinger, một trong những cố vấn tại CodeBerry đã hỏi mình về mục tiêu nghề nghiệp tương lai, vì khi đó việc học của mình đang tiến bộ khá nhanh. Mình đã chia sẻ về dự định làm việc trong lĩnh vực CNTT, và thế là anh ấy sắp xếp một buổi phỏng vấn cho mình. Sau đó mình thử việc, và được nhận vào làm chính thức.</p>
+<p>Nhân dịp này, mình muốn cảm ơn sự ủng hộ của tất cả mọi người. Mình sẽ cố hết sức để đền đáp lại sự ủng hộ này <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bạn học lập trình như thế nào? Bạn đã đăng ký khóa học gì, hay nghiên cứu những tài liệu nào?</strong></p>
+<p>Lúc đầu mình nghiên cứu các tài liệu trực tuyến, đọc các bài viết và làm theo. Sau đó, mình tự học nhiều hơn và tiếp theo là học tại CodeBerry.</p>
+<p><strong>CodeBerry cung cấp cho bạn những kiến thức gì? Bản cảm thấy thế nào khi học ở Trường của bọn mình?</strong></p>
+<p>Lúc đó mình tìm một khóa học trực tuyến để đạt lên cấp độ tiếp theo. Nhưng vì nhiều lý do, không có khóa học nào thực sự phù hợp với bản thân.</p>
+<p>Và rồi mình tình cờ tìm ra CodeBerry.</p>
+<p>Mình thực sự thích cách tiếp cận của khóa học: nó không chỉ cho thấy có nhiều người cần khóa học này, mà còn chỉ ra lĩnh vực CNTT cũng đang rất cần nguồn nhân lực mới.</p>
+<p>Một mối quan hệ cộng sinh được xây dựng từ cách tiếp cận này, qua đó đáp ứng nhu cầu của tất cả các bên.</p>
+<p>Quá trình học được cá nhân hóa hoàn toàn: học viên có thể học theo tiến độ riêng. Nếu ai gặp khó khăn thì có thể nhờ giúp đỡ từ cộng đồng Slack, và Amanda.</p>
+<p>Mình không thấy có nhiều kiến thức mới trong tài liệu giảng dạy, nhưng với mình nội dung học rất hữu ích cho việc ôn tập, lấp đầy những lỗ hổng kiến thức, nâng cao trình độ hiện có&#8230;</p>
+<p>Điều tuyệt vời nhất mình nhận được từ khóa học này là cơ hội tự đánh giá kiến thức bản thân. Điều này mang đến cho mình sự tự tin để quyết định thử thách bản thân trong lĩnh vực IT.</p>
+<p><strong>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ với những học viên mới không?</strong></p>
+<p>Bạn có thể thực hiện một dự án nhỏ song song với việc học. Tập đưa ra giải pháp cho một vấn đề thực tế, kể cả những vấn đề rất nhỏ bạn gặp trong dự án. Bạn sẽ học được khá nhiều theo phương pháp này. Bạn có thể thoải mái sao chép một đoạn code mẫu, nhưng sau đó hãy cố xây dựng giải pháp của riêng mình và luôn chủ động tìm hiểu những vấn đề còn khúc mắc. Thậm chí phạm vi nghiên cứu của bạn cũng có thể xây dựng dựa theo phương pháp này.</p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì hay chưa?</strong></p>
+<p>Trước hết, mình muốn trau dồi thêm kiến thức để bắt kịp với đồng nghiệp. Bọn mình có một đội ngũ lập trình viên với kiến thức bài bản và giàu kinh nghiệm. Mọi người đều giỏi về chuyên môn, và mỗi ngày trôi qua, mình học được rất nhiều từ họ.</p>
+<p>Mình muốn thử đạt đến giới hạn của bản thân, và sau đó&#8230; chúng mình sẽ chờ xem.</p>
+<p><em><strong>Trong loạt bài viết &#8220;Câu chuyện thành công từ CodeBerry&#8221;, bọn mình trò chuyện cùng các cựu học viên, những người đã tìm được công việc mới ở vị trí lập trình viên.</strong></em></p>
+<p><em><strong>Bạn có muốn học viết code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Từ học Python tại trường trung học đến làm việc cho EPAM &#8211; Câu chuyện của học viên trường CodeBerry, Attila Blascsák</title>
+		<link>/blog/vi/tu-hoc-python-tai-truong-trung-hoc-den-lam-viec-cho-epam-cau-chuyen-cua-hoc-vien-truong-codeberry-attila-blascsak/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:59:07 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[câu hỏi phỏng vấn python]]></category>
+		<category><![CDATA[Công ty EPAM]]></category>
+		<category><![CDATA[Dịch vụ CNTT]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[giáo trình python tiếng việt]]></category>
+		<category><![CDATA[hồ sơ LinkedIn]]></category>
+		<category><![CDATA[học code python]]></category>
+		<category><![CDATA[học python]]></category>
+		<category><![CDATA[học python để làm gì]]></category>
+		<category><![CDATA[học python mất bao lâu]]></category>
+		<category><![CDATA[học python ở đâu]]></category>
+		<category><![CDATA[hoọc python]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[hướng dẫn học python]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[khóa học python]]></category>
+		<category><![CDATA[lâm python]]></category>
+		<category><![CDATA[lập trình giao diện python]]></category>
+		<category><![CDATA[mạng máy tính]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[nhà phát triển web]]></category>
+		<category><![CDATA[phát triển ứng dụng]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python làm được gì]]></category>
+		<category><![CDATA[python tiếng việt]]></category>
+		<category><![CDATA[sách học python]]></category>
+		<category><![CDATA[sách python tiếng việt]]></category>
+		<category><![CDATA[tu hoc html]]></category>
+		<category><![CDATA[tự học python]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6496</guid>
+
+					<description><![CDATA[Attila Blascsák là một trong những học viên đầu tiên tại CodeBerry. Sau khi kết thúc khóa học, anh đã thành công trong việc thay đổi sự nghiệp và trở thành một lập trình viên phát triển web. Chúng mình có một cuộc trò chuyện ngắn để xem anh ấy đã học được những gì, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Attila Blascsák</strong> là một trong những học viên đầu tiên tại CodeBerry. Sau khi kết thúc khóa học, anh đã thành công trong việc thay đổi sự nghiệp và trở thành một lập trình viên phát triển web. Chúng mình có một cuộc trò chuyện ngắn để xem anh ấy đã học được những gì, bằng cách nào có được vị trí như ngày hôm nay, và đâu là những khó khăn một lập trình viên ít kinh nghiệm gặp phải khi đi tìm việc.</p>
+<p><strong>Khi có người hỏi về nghề nghiệp của bạn cách đây vài tháng, bạn trả lời như thế nào?</strong></p>
+<p>Trước đây công việc của mình là kết nối mạng Dịch vụ CNTT, nói cách khác mình giúp các công ty lớn kết nối với internet. Bọn mình phụ trách chuyển giao bộ định tuyến đến cho khách hàng và giúp họ cài đặt thiết bị.</p>
+<p><strong>Còn giờ thì sao?</strong></p>
+<p>Giờ mình là lập trình viên chuyên về giao diện (frontend UI) tại Công ty <a href="https://www.epam.com/" target="_blank" rel="noopener external" data-wpel-link="external">EPAM</a>. Mình làm cùng một đội lớn, phát triển một ứng dụng dựa vào các công nghệ về giao diện và mình chịu trách nhiệm thiết kế giao diện người dùng. HTML, CSS và JavaScript là những ngôn ngữ chính mình sử dụng hàng ngày.</p>
+<p><strong>Thật thú vị! Lập trình không phải là lĩnh vực mới đối với bạn phải không? Bạn đã làm quen với lập trình trước đó hay chưa?</strong></p>
+<p>Mình bắt đầu học HTML và CSS ở trường tiểu học. Vào trung học, bọn mình học Python từ một cuốn sách lỗi thời. Cuốn sách đó trích dẫn nguồn từ các thư viện vốn không còn tồn tại nữa, vậy nên bài tập của mình đi vào ngõ cụt. Vậy là mình phải bỏ giữa chừng <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Vì sao bạn có ý tưởng theo đuổi lĩnh vực phát triển web?</strong></p>
+<p>&#8220;Năm cuối trung học, có hai anh chàng nói với mình rằng họ cần một vài nhân viên lập trình web cho công ty khởi nghiệp của họ. Lúc đó mình chả biết sắp lao đầu vào công việc gì, nhưng cũng gật đầu đồng ý. May mắn là mình thích nghi khá nhanh với công việc.&#8221;</p>
+<p>Sau khi dự án kết thúc, mình bắt đầu quan tâm tới lĩnh vực phát triển web và tiếp tục mày mò tìm hiểu. Nhưng sang mùa xuân, mình đi vào ngõ cụt và không tự học được nữa. Đó là lúc mình nhận ra cần phải kiếm một giáo viên hướng dẫn.</p>
+<p>Đó cũng là lúc mình gặp CodeBerry. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bạn học ở CodeBerry bao lâu rồi?</strong></p>
+<p>Mình học từ Tháng 6/2016</p>
+<p><strong>Theo bạn học ở CodeBerry có những điểm lợi gì và bạn có thích khóa học này hay không?</strong></p>
+<p>Thành thật mà nói, lượng thông tin mới trong khóa học không nhiều nhưng các bạn đã giúp mình sắp xếp lại kiến thức một cách bài bản. Những người hướng dẫn cũng giúp mình rất nhiều &#8211; đây có lẽ là điều tuyệt vời nhất mình nhận được. Có người cùng thảo luận vấn đề với bạn là một lợi thế cực lớn.</p>
+<p><strong>Nghe bạn nói vậy bọn mình rất vui. Giờ là đầu mùa thu, nghĩa là bạn đã bỏ ra 3 tháng để học trước khi có công việc hiện tại. Vậy bạn mất bao lâu để tìm việc? </strong><em>(Buổi phỏng vấn diễn ra vào Tháng 9/2016)</em></p>
+<p>Thực ra mình chưa quyết định tìm việc đâu. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Mình tạo một hồ sơ cá nhân trên LinkedIn. Trên đó ghi rằng mình đang học để trở thành một lập trình viên đồng thời ghi thêm các kỹ năng mới vào hồ sơ. Hai tuần sau Công ty EPAM liên lạc với mình.</p>
+<p>Mình đã dự định sẽ tạo một hồ sơ hoàn chỉnh trước khi đi tìm việc, nào ngờ EPAM lại nhanh chân hơn. Họ mời luôn mình đến phỏng vấn.</p>
+<p><strong>Mình tính hỏi bạn xem đi tìm việc có khó không, nhưng chắc bỏ qua câu này được rồi.</strong></p>
+<p>Phải rồi. <em>(Cười)</em></p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì hay chưa?</strong></p>
+<p>React đang là mối quan tâm của mình ở thời điểm hiện tại và mình muốn tìm hiểu thêm trong thời gian tới.</p>
+<p>Mình mơ một ngày nào đó có thể hướng dẫn người khác lập trình, có thể là trực tiếp đứng giảng hoặc tham gia một chương trình nào đó. Mình chưa biết mọi thứ sẽ diễn ra thế nào, nhưng chắc chắn là mình có thể làm được.</p>
+<p><strong>Là một sinh viên giàu kinh nghiệm, bạn có lời khuyên gì cho những người mới học lập trình?</strong></p>
+<p>Mình nghĩ quan trọng là bạn phải hiểu việc học không thể đi đường tắt. Học lập trình là thách thức thực sự, nó chẳng hề dễ ở thời điểm đầu. Nhưng một khi bạn đã quen và hiểu được logic đằng sau những dòng code thì tất cả sẽ trở nên rõ ràng. Từ thời điểm đó, mọi việc sẽ trơn tru hơn nhiều. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><em><strong>Trong loạt bài viết “Câu chuyện thành công từ CodeBerry”, bọn mình trò chuyện cùng các cựu học viên của trường, những người đã thay đổi nghề nghiệp và hiện đang làm công việc của một lập trình viên. Nếu bạn muốn biết họ đã làm gì để có ngày hôm nay thì hãy tiếp tục đón đọc các phần tiếp theo nhé!</strong></em></p>
+<p><em><strong>Bạn có muốn học code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

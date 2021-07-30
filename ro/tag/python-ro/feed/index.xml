@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Python | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/python-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 21 Jul 2021 10:41:43 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Cele mai bune 10 cursuri pentru dezvoltare web</title>
+		<link>/blog/ro/cursuri-dezvoltare-web/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 21 Jul 2021 10:41:43 +0000</pubDate>
+				<category><![CDATA[Cursuri de programare]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[ASP.NET]]></category>
+		<category><![CDATA[back-end]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[curs dezvoltare web]]></category>
+		<category><![CDATA[cursuri dezvoltare web]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dezvoltare web]]></category>
+		<category><![CDATA[dezvoltator web]]></category>
+		<category><![CDATA[front-end]]></category>
+		<category><![CDATA[full-stack]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[joburi IT]]></category>
+		<category><![CDATA[MySQL]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[programare]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[site web]]></category>
+		<category><![CDATA[SQL]]></category>
+		<category><![CDATA[web developer]]></category>
+		<category><![CDATA[web development]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12785</guid>
+
+					<description><![CDATA[În zilele noastre, nu folosim internetul doar pentru obținerea de informații, citit, vizualizare de filme și videouri sau pentru a asculta muzică—creăm conținut folosind rețele sociale, postând, comentând, povestind, folosind aplicații web, făcând cumpărături în magazine online, planificând rute și așa mai departe. Echipele de dezvoltare web complexe lucrează împreună pentru a opera funcțiile enumerate [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">În zilele noastre, nu folosim internetul doar pentru obținerea de informații, citit, vizualizare de filme și videouri sau pentru a asculta muzică—creăm conținut folosind rețele sociale, postând, comentând, povestind, folosind aplicații web, făcând cumpărături în magazine online, planificând rute și așa mai departe.</span></p>
+<p><span style="font-weight: 400;">Echipele de dezvoltare web complexe lucrează împreună pentru a opera funcțiile enumerate mai sus—diferiți membri sunt responsabili cu diferite zone și folosesc diverse tehnologii și limbaje de programare pentru a realiza asta.</span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-13219 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Self-paced-1.png" alt="Învață dezvoltare web la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/05/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/05/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/05/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Zonele principale ale dezvoltării web</span></h2>
+<p><span style="font-weight: 400;">Dezvoltarea web e de obicei separată în două domenii mari (front-end și back-end) și există alt termen pentru cei care au cunoștințe vaste ale ambelor domenii (full stack). În acest articol, am colectat cursuri care te pot ajuta să înveți despre aceste domenii ale dezvoltării web și să obții abilitățile necesare pentru a lucra în aceste domenii.</span></p>
+<h3><span style="font-weight: 400;">Front-end</span></h3>
+<p><span style="font-weight: 400;">Unul dintre domeniile dezvoltării web e dezvoltarea front-end, adică crearea și întreținerea interfețelor văzute de către utilizatori. Programarea de partea clientului înseamnă crearea și întreținerea website-urilor dinamice și responsive folosind planuri de la artiști grafici și designeri.</span></p>
+<p><span style="font-weight: 400;">Ca dezvoltator front-end, trebuie să fii familiarizat cu HTML, CSS și JavaScript. În plus, e folositor să știi și framework-uri și librării precum Angular, jQuery sau React.</span></p>
+<h3><span style="font-weight: 400;">Back-end</span></h3>
+<p><span style="font-weight: 400;">Un alt domeniu a dezvoltării web despre care vorbim separat de obicei e dezvoltarea back-end, care înseamnă întreținere și programare pe partea de server. Dezvoltatorii back-end creează procese de fundal și construiesc comunicare cu baze de date.</span></p>
+<p><span style="font-weight: 400;">Iată câteva limbaje de programare pe parte de server folosite des: Java, PHP, SQL, Python, Ruby, Node.js, ASP.NET. </span></p>
+<h3><span style="font-weight: 400;">Full stack</span></h3>
+<p><span style="font-weight: 400;">Există specialiști IT care sunt familiarizați și cu dezvoltarea front-end și cea back-end, adică înțeleg tot procesul dezvoltării web. Și procesele de fundal și întreținerea interfețelor de utilizator cer cunoștințe complexe, așa că dezvoltatorii front-end, back-end și full stack sunt foarte căutați pe piața muncii</span></p>
+<p><span style="font-weight: 400;">Poți citi mai multe despre </span><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">bazele dezvoltării web</span></a><span style="font-weight: 400;"> dacă ai nevoie de mai multe informații.</span></p>
+<h2><span style="font-weight: 400;">Cursuri pentru dezvoltare web în română</span></h2>
+<p><span style="font-weight: 400;">Dacă te interesează acest domeniu și ai vrea să lucrezi ca dezvoltator web, ar trebui să aplici pentru un curs care îți place și să începi să înveți limbaje web. Cursurile listate în această postare au scopuri diferite, așa că te învață diferite tehnologii. În timp, va deveni important să știi clar ce vrei să faci, pentru a putea învăța corespunzător.</span></p>
+<h3><span style="font-weight: 400;">1. </span><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">CodeBerry &#8211; curs proiectant de website-uri</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">199 RON/lună</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">3-5 ore de studiu pe săptămână</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online, cu mentorat</span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">De la nivel începător</span></li>
+</ul>
+<p><span style="font-weight: 400;">Poți învăța bazele HTML, CSS3 și folosirea editorilor online și offline pe parcursul cursului. După ce l-ai terminat cu succes, vei putea crea website-uri moderne pe cont propriu. Cursul e online, iar mentorii cu experiență te vor ajuta pe parcurs dacă te blochezi. Poți învăța individual și după propriul program. Nu e nevoie de cunoștințe anterioare, doar de interesul și angajamentul tău.</span></p>
+<p><a href="https://codeberryschool.com/ro" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-large wp-image-13556" src="/blog/wp-content/uploads/2021/07/codeberry-1024x468.png" alt="Interfața școlii de programare CodeBerry" width="1024" height="468" srcset="/blog/wp-content/uploads/2021/07/codeberry-1024x468.png 1024w, /blog/wp-content/uploads/2021/07/codeberry-300x137.png 300w, /blog/wp-content/uploads/2021/07/codeberry-768x351.png 768w, /blog/wp-content/uploads/2021/07/codeberry-1080x494.png 1080w, /blog/wp-content/uploads/2021/07/codeberry.png 1242w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;">Dacă ai deja cunoștințe de bază, recomandăm și </span><a href="https://codeberryschool.com/ro/curs-web-developer-aplicatii-practice" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">cursul nostru curs web developer &#8211; aplicații practice</span></a><span style="font-weight: 400;">, unde îți poți consolida cunoștințele pentru a crea website-uri cu mai multă încredere.</span></p>
+<p><span style="font-weight: 400;">Cursul îți ia 5 ore pe săptămână și poți crea noi interfețe interesante, de ex. pagina principală a unui blog sau interfața de utilizator a unei aplicații de chat. Vei primi feedback constant pentru munca ta de la mentori pentru ca dezvoltarea ta să fie chiar și mai rapidă</span></p>
+<p><i><span style="font-weight: 400;">„CodeBerry a fost o experiență frumoasă și foarte utilă în lansarea mea în domeniul IT. Momentan nu am un job, consider că mai am de studiat. În continuare mă pregătesc intens pentru a putea face față unui interviu tehnic cu un angajator. De asemenea, mă atrage și poziția de freelancer. Ca și concluzie, cu cât descopăr mai mult domeniul, cu atât mi se pare mai fascinant.” &#8211; Petrescu Iulian (Pitești)</span></i></p>
+<h3><span style="font-weight: 400;">2. </span><a href="https://codecool.com/ro/course/full-stack-developer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">CodeCool</span></a></h3>
+<ul>
+<li><span style="font-weight: 400;">Diverse training-uri</span></li>
+<li><span style="font-weight: 400;">Durată de 4 luni (30 de ore pe săptămână)</span></li>
+<li><span style="font-weight: 400;">Începător </span></li>
+<li><span style="font-weight: 400;">Online sau la locație</span></li>
+</ul>
+<p><a href="https://codecool.com/ro/course/front-end/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Programator front-end. Curs de dezvoltare web</span></a></p>
+<p><span style="font-weight: 400;">Există multe oportunități de training la CodeCool. Unele cursuri sunt disponibile </span><b>la locație</b><span style="font-weight: 400;">, iar altele </span><b>online</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Cursul de dezvoltare web și programare front-end e online, iar 35% din acesta constă în </span><b>cursuri practice</b><span style="font-weight: 400;">, în timp ce 65% constă în </span><b>sarcini făcute individual sau în echipă, în propriul ritm</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Cursul se ocupă cu tehnologii și instrumente necesare pentru dezvoltarea de website-uri, cum ar fi </span><b>HTML5, CSS3, Bootstrap4, Vue și Webpack</b><span style="font-weight: 400;">. Limba cursului e româna, dar ai nevoie de cunoștințe de engleză intermediare pentru a termina cursul.</span></p>
+<p><a href="https://codecool.com/ro/course/full-stack-developer/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-large wp-image-13557" src="/blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493-1024x367.jpg" alt="Website-ul CodeCool" width="1024" height="367" srcset="/blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493-1024x367.jpg 1024w, /blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493-300x108.jpg 300w, /blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493-768x276.jpg 768w, /blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493-1080x388.jpg 1080w, /blog/wp-content/uploads/2021/07/6512ee4e246d2b489adb4f4616ca0493.jpg 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><b>Cursul durează 4 luni </b><span style="font-weight: 400;">și în fiecare săptămână vei aveam 20 de ore de studiu cu școala și trebuie să petreci 10 ore pentru sarcini individuale. Astfel studenții pot învăța mai repede materia care ar dura 1-2 ani la un curs de seară sau de weekend.</span></p>
+<p><b>Prețul cursului de front-end e de 8100 RON, </b><span style="font-weight: 400;">pentru care sunt disponibile împrumuturi de studenți.</span></p>
+<p><span style="font-weight: 400;">Dacă termini cursul cu succes, poți profita de serviciile de carieră de la Codecool. Ca parte din acestea, mentorii te vor ajuta să te pregătești pentru examene sau să-ți găsești un job la unul dintre partenerii CodeCool. Dacă alegi să-ți găsești un job cu Codecool, îți vor da înapoi 25% din taxa de curs.</span></p>
+<p><a href="https://codecool.com/ro/course/full-stack-developer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Cursuri de programare full stack</span></a></p>
+<p><span style="font-weight: 400;">Există cursuri de dezvoltare full stack care nu-ți cer studii anterioare, care pun accent pe învățarea </span><b>teoriei sistemelor și obținerea de cunoștințe de dezvoltatori complexe</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Acestea sunt cursuri full-time intensive, care te învață despre diferite zone ale dezvoltării web prin sarcini practice. Oferă și o garanție de job.</span></p>
+<p><span style="font-weight: 400;">Acest curs constă într-o săptămână de studiu, urmată de cursuri practice la locație, alternând timp de un an. Acesta e urmat de un internship la o companie parteneră cu un salariu de intern.</span></p>
+<p><span style="font-weight: 400;">Singura condiție pentru a aplica la acest curs e o diplomă de liceu și abilități de engleză intermediare. Taxa pentru acest curs e undeva între 1300-35900 RON. Însă poți începe să plătești în rate lunare după ce termini cursul, într-un plan care îți convine cel mai bine</span></p>
+<h3>3. <a href="https://www.udemy.com/course/curs-html-invata-cum-se-poate-construi-o-pagina-web-de-la-0/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Udemy</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Curs video</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">19.99 EUR</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător </span></li>
+</ul>
+<p><span style="font-weight: 400;">Un curs video de 3 ore și jumătate care explică cum poți construi o pagină web de la 0. Pe lângă video, vei primi 36 de articole și 10 resurse descărcabile. Odată ce ai achiziționat acest curs, îl ai pe viață și merge pe orice dispozitiv. </span></p>
+<p><span style="font-weight: 400;">Vei învăța HTML și puțin CSS, așa că nu ai nevoie de cunoștințe de programare anterioare. </span></p>
+<p><span style="font-weight: 400;">La finalizarea acestui curs, vei primi un certificat pentru noile tale cunoștințe.</span></p>
+<h3>4. <a href="https://www.itschool.ro/curs-online-webdesign.php" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">IT School</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">5 luni (100 de ore)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">1020 EUR</span></li>
+</ul>
+<p><span style="font-weight: 400;">Cursul se ține online și te învață tot ce trebuie să știi despre dezvoltare web. Vei învăța JavaScript , Bootstrap , GIT , HTML , CSS și altele. </span></p>
+<p><span style="font-weight: 400;">Vei avea parte de un trainer cu experiență care te va ajuta să înveți cum să construiești aplicații și site-uri web. </span></p>
+<p><span style="font-weight: 400;">În plus, vei putea să te pregătești pentru viitorul tău job cu ajutorul sesiunilor speciale de pregătire și coaching de carieră. </span></p>
+<p><span style="font-weight: 400;">La finalizarea cursului vei avea competențele necesare pentru a susține examenul oficial de certificare Microsoft.</span></p>
+<p><a href="https://www.itschool.ro/curs-online-webdesign.php" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-large wp-image-13558" src="/blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12-1024x337.png" alt="Website-ul IT School" width="1024" height="337" srcset="/blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12-1024x337.png 1024w, /blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12-300x99.png 300w, /blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12-768x253.png 768w, /blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12-1080x356.png 1080w, /blog/wp-content/uploads/2021/07/385205fcb7e34b2c2b910f6abe98af12.png 1287w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>5. <a href="https://www.telacad.ro/cursuri/curs-web-developer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Telecom Academy</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">1599 RON</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător </span></li>
+</ul>
+<p><span style="font-weight: 400;">Curs online cu video care te învață tot ce trebuie să știi pentru dezvoltarea web pentru a deveni un dezvoltator back-end, front-end sau fullstack. </span></p>
+<p><span style="font-weight: 400;">Vei învăța HTML, CSS, PHP, JavaScript, React, SQl, NoSQL, Agile, Git și multe altele. După fiecare capitol vei primi un examen pentru a-ți testa cunoștințele. La cererea ta, vei primi un examen final, care e online și cronometrat.</span></p>
+<p><span style="font-weight: 400;">La finalul cursului vei primi o diplomă care atestă faptul că ai terminat cursul la telecom Academy.</span></p>
+<h3>6. <a href="https://www.avantajconsulting.ro/#webdesign" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Avantaj Consulting</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Offline, în București</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">6 săptămâni</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">990 RON</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător </span></li>
+</ul>
+<p><span style="font-weight: 400;">Cursul este dedicat începătorilor care doresc să-și înceapă o nouă carieră în domeniul IT. Vei învăța HTML și CSS, iar până la finalul cursului vei putea crea un site web.</span></p>
+<p><span style="font-weight: 400;">Cursul are și a doua parte, mai avansată, unde aprofundezi CSS și înveți despre JavaScript, SEO, hosting și jQuery.</span></p>
+<p><a href="https://www.avantajconsulting.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-13559" src="/blog/wp-content/uploads/2021/07/c190b48e35138fc001e3beefcac6db3c.png" alt="Website-ul Avantaj Consulting" width="942" height="614" srcset="/blog/wp-content/uploads/2021/07/c190b48e35138fc001e3beefcac6db3c.png 942w, /blog/wp-content/uploads/2021/07/c190b48e35138fc001e3beefcac6db3c-300x196.png 300w, /blog/wp-content/uploads/2021/07/c190b48e35138fc001e3beefcac6db3c-768x501.png 768w" sizes="(max-width: 942px) 100vw, 942px" /></a></p>
+<h3>7. <a href="https://www.bitacad.net/curs/html-css" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Bit Academy</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">500 RON</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">8 ședințte de 3h30min</span></li>
+</ul>
+<p><span style="font-weight: 400;">Un curs potrivit pentru începători despre cum să creezi conținut web de succes. Vei învăța ce e și cum funcționează o aplicație web, cum să structurezi un layout folosind HTML și CSS, design responsiv și Bootstrap.</span></p>
+<p><span style="font-weight: 400;">Partea teoretică e suplinită de multe exerciții practice, pentru a putea să-ți implementezi noile cunoștințe. </span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-13304" src="/blog/wp-content/uploads/2021/06/Testimonial-2.png" alt="Învață la CodeBerry și poți lucra de acasă" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/06/Testimonial-2.png 1024w, /blog/wp-content/uploads/2021/06/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2021/06/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>8. <a href="https://www.academiacredis.ro/curs-programare-web1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Academia Credis</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Offline, în București</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">900 RON</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">12 laboratoare a câte 2 ore</span></li>
+</ul>
+<p><span style="font-weight: 400;">Un curs pentru dezvoltare web perfect pentru cei care vor să-și creeze propriile aplicații web, care vor să folosească ultimele tehnologii de creare a paginilor web și vor să aprofundeze tehnologiile din domeniul web. </span></p>
+<p><span style="font-weight: 400;">Cursul oferă o grămadă de competențe: HTML, CSS, JavaScript, jQuery, SEO, Bootstrap, DOM și multe altele.</span></p>
+<p><span style="font-weight: 400;">Cunoștințele dobândite îți vor permite să dai </span><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/70-480" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Microsoft Exam 70-480: Programming in HTML5 with JavaScript and CSS3</span></a><span style="font-weight: 400;">, care e un certificat recunoscut internațional.</span></p>
+<h3>9. <a href="https://www.digitalskills.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Digital Skills</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online, pe Skype sau Zoom</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">1170 RON</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">5 săptămâni, în weekend</span></li>
+</ul>
+<p><span style="font-weight: 400;">Cursurile online se țin pe Zoom sau pe Skype, în weekenduri, ca să poți participa chiar dacă lucrezi. Plata cursului se poate face în două rate, una la înscriere și una în a treia săptămână.</span></p>
+<p><span style="font-weight: 400;">Vei învăța tot ce trebuie să știi despre web design: HTML5, CSS3, Bootstrap 5, PHP, jQuery, WordPress și SEO. </span></p>
+<p><i><span style="font-weight: 400;">„Mi-a plăcut foarte mult cursul de web design. Totul a fost foarte practic și ușor de înțeles. Am plecat de la 0 și am învățat multe lucruri.&#8221; &#8211; </span></i><span style="font-weight: 400;">Ana-Maria Lazarescu</span></p>
+<p><a href="https://www.digitalskills.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-large wp-image-13560" src="/blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3-1024x389.png" alt="Website-ul Digital Skills" width="1024" height="389" srcset="/blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3-1024x389.png 1024w, /blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3-300x114.png 300w, /blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3-768x292.png 768w, /blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3-1080x411.png 1080w, /blog/wp-content/uploads/2021/07/d725abee6ef05178d1fb4a0a9ff059f3.png 1349w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>10. <a href="https://fasttrackit.org/curs-web-cluj-napoca/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">FastTrackIT</span></a></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Online, pe Zoom sau offline, în Cluj-Napoca</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">4 luni, sesiuni de 3 ore</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Începător</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">90 EUR/lună</span></li>
+</ul>
+<p><span style="font-weight: 400;">Cursurile online au loc live, prin intermediul a Zoom. Vei avea un trainer care te va îndruma prin toate lecțiile și va împărtăși ecranul cu studenții. </span></p>
+<p><span style="font-weight: 400;">Cursul e împărțit în 20 de laboratoare în care vei învăța o mulțime de lucruri noi:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">HTML</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">CSS</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Flexbox</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Tranziții și animații</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">JavaScript</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DOM</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">BOM</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">React</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Redux</span></li>
+</ul>
+<p><span style="font-weight: 400;">Pentru acest curs vei avea nevoie de câteva cunoștințe de engleză și o diplomă de bacalaureat (indiferent de domeniu) pentru a putea primi acreditarea oferită de acest curs.</span><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-13222" src="/blog/wp-content/uploads/2021/05/Self-paced-2.png" alt="Învață dezvoltare web la CodeBerry și schimbă-ți cariera" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/05/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/05/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/05/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;">Dacă vrei o profesie care e căutată și bine plătită și te interesează lumea dezvoltării web, alege un curs și începe să înveți sau antrenează-te mai departe în orice tehnologie te interesează.</span></p>
+<p><span style="font-weight: 400;">Dacă încă nu te-ai decis clar să înveți dezvoltare web, poți găsi cursuri de </span><a href="https://codeberryschool.com/blog/ro/invata-java-curs-programare-java/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Java</span></a><span style="font-weight: 400;">, </span><a href="https://codeberryschool.com/blog/ro/cursuri-javascript-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">JavaScript</span></a><span style="font-weight: 400;"> și </span><a href="https://codeberryschool.com/blog/ro/cele-mai-bune-cursuri-python/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Python</span></a><span style="font-weight: 400;"> în seria de articole intitulată </span><a href="https://codeberryschool.com/blog/ro/category/cursuri-de-programare/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Cursuri de programare”</span></a><span style="font-weight: 400;">.</span></p>
+<blockquote class="wp-embedded-content" data-secret="Pj1ZIMkf3k">
+<p><a href="https://codeberryschool.com/blog/ro/invata-java-curs-programare-java/" data-wpel-link="external" target="_blank" rel="external">Curs Java online &#8211; Top 9 cursuri în limba română</a></p>
+</blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Curs Java online &#8211; Top 9 cursuri în limba română&#8221; &#8212; CodeBerry Blog" src="https://codeberryschool.com/blog/ro/invata-java-curs-programare-java/embed/#?secret=Pj1ZIMkf3k" data-secret="Pj1ZIMkf3k" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="QOZKDPInuV">
+<p><a href="https://codeberryschool.com/blog/ro/cursuri-javascript-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Cursuri JavaScript pentru începători</a></p>
+</blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Cursuri JavaScript pentru începători&#8221; &#8212; CodeBerry Blog" src="https://codeberryschool.com/blog/ro/cursuri-javascript-pentru-incepatori/embed/#?secret=QOZKDPInuV" data-secret="QOZKDPInuV" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote class="wp-embedded-content" data-secret="l2zNKgRCRv">
+<p><a href="https://codeberryschool.com/blog/ro/cele-mai-bune-cursuri-python/" data-wpel-link="external" target="_blank" rel="external">Cele mai bune 13 cursuri Python în română</a></p>
+</blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Cele mai bune 13 cursuri Python în română&#8221; &#8212; CodeBerry Blog" src="https://codeberryschool.com/blog/ro/cele-mai-bune-cursuri-python/embed/#?secret=l2zNKgRCRv" data-secret="l2zNKgRCRv" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><span style="font-weight: 400;">În seria noastră de articole </span><a href="https://codeberryschool.com/blog/ro/category/cursuri-de-programare/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Cursuri de programare”</span></a><span style="font-weight: 400;"> am strâns oportunități de studiu de care poți profita dacă vrei să înveți programare și alte câteva lucruri interesante care te vor ajuta să alegi cursul perfect pentru tine.</span></p>
+<h3><span style="font-weight: 400;">Cursuri de programare</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/invata-java-curs-programare-java/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Top 9 cursuri Java pentru începători</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-javascript-pentru-incepatori/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Cursuri JavaScript pentru începători</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/programare-pentru-copii/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Cele mai bune 7 cursuri de programare pentru copii</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-brasov/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Brașov</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-bucuresti/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în București</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-cluj-napoca/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Cluj-Napoca</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-craiova/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Craiova</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-iasi/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Iași</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-oradea/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Oradea</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-sibiu/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Sibiu</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/ro/cursuri-de-programare-in-timisoara/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Cursuri de programare în Timișoara</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Ți-ar plăcea să începi să programezi online? Vino și încearcă </span><a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">primele 25 de lecții</span></a><span style="font-weight: 400;"> ale Școlii de Programare CodeBerry gratuit!</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cele mai bune 7 cursuri de programare pentru copii</title>
+		<link>/blog/ro/programare-pentru-copii/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 06 Apr 2021 11:35:52 +0000</pubDate>
+				<category><![CDATA[Cursuri de programare]]></category>
+		<category><![CDATA[abilități de bază]]></category>
+		<category><![CDATA[cărți programare]]></category>
+		<category><![CDATA[construire roboți]]></category>
+		<category><![CDATA[creativitate]]></category>
+		<category><![CDATA[cunoștințe secol 21]]></category>
+		<category><![CDATA[cursuri programare pentru copii]]></category>
+		<category><![CDATA[joacă]]></category>
+		<category><![CDATA[jocuri programare]]></category>
+		<category><![CDATA[manuale programare]]></category>
+		<category><![CDATA[practică cod]]></category>
+		<category><![CDATA[programare Minecraft]]></category>
+		<category><![CDATA[programare pentru copii]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Scratch]]></category>
+		<category><![CDATA[succes]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12753</guid>
+
+					<description><![CDATA[Citire, scriere, calculare, abilități sociale și… programare? Societatea noastră de informații se îndreaptă spre ideea că abilitățile de programare sunt atât de importante încât trebuie să le dobândim la o vârstă mult mai fragedă. De aceea există cursuri de programare pentru copii, create special pentru nevoile acestora. În acest articol, vom rezuma de ce e [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Citire, scriere, calculare, abilități sociale și… programare? Societatea noastră de informații se îndreaptă spre ideea că abilitățile de programare sunt atât de importante încât trebuie să le dobândim la o vârstă mult mai fragedă. De aceea există cursuri de programare pentru copii, create special pentru nevoile acestora.</span></p>
+<p><span style="font-weight: 400;">În acest articol, vom rezuma </span><b>de ce e important pentru copii să învețe programare, după ce trebuie să ne uităm, care sunt metodele de învățare și ce interfață sau curs trebuie să alegem pentru copiii noștr</b><span style="font-weight: 400;">i—pe scurt, care sunt condițiile pentru a învăța programare cu plăcere și cu succes. Am adunat multe </span><b>materiale de învățare, website-uri și jocuri</b><span style="font-weight: 400;"> care pot ajuta copiii să învețe programare, și am și creat o listă pentru </span><b>cursuri și tabere de programare în România.</b></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare pentru copii la CodeBerry" class="wp-image-12338" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Abilități de bază pentru o lume în continuă schimbare</span></h2>
+<p><span style="font-weight: 400;">Experții în cercetări și reforme educaționale spun că trebuie </span><b>să ne pregătim copiii pentru provocările secolului XXI foarte diferit</b><span style="font-weight: 400;"> față de anii sau deceniile anterioare.</span></p>
+<p><b>Copiii sunt înconjurați de tehnologie încă de când se nasc. </b><span style="font-weight: 400;">Folosirea instrumentelor de infocomunicare (de ex. telefoane mobile, tablete, calculatoare) devine o abilitate necesară în timpul filtrării și consumul de informații critice e de multe ori mai esențial decât cunoștințele lexicale.</span></p>
+<div class="wp-block-image">
+<figure class="alignright"><img loading="lazy" class="wp-image-12760" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/pexels-photo-4145354-1024x683.jpeg" alt="Cursuri de programare pentru copii" width="430" height="287" srcset="/blog/wp-content/uploads/2021/04/pexels-photo-4145354-1024x683.jpeg 1024w, /blog/wp-content/uploads/2021/04/pexels-photo-4145354-300x200.jpeg 300w, /blog/wp-content/uploads/2021/04/pexels-photo-4145354-768x513.jpeg 768w, /blog/wp-content/uploads/2021/04/pexels-photo-4145354-1536x1025.jpeg 1536w, /blog/wp-content/uploads/2021/04/pexels-photo-4145354-2048x1367.jpeg 2048w, /blog/wp-content/uploads/2021/04/pexels-photo-4145354-1080x721.jpeg 1080w" sizes="(max-width: 430px) 100vw, 430px" /></figure>
+</div>
+<p><span style="font-weight: 400;">Iată câteva abilități importante în secolul XXI:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gândire critică, rezolvare de probleme, analiza, interpretarea și sintetizarea informațiilor</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Creativitate, curiozitate, imaginație și inovație</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Perseverență, auto-disciplină, planificare și adaptabilitate</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lucru în echipă, conducere, cooperare, divizie de muncă (<br />virtuală)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Abilități ICT (tehnologia info comunicării), media și ale utilizării internetului, interpretare și analiză de date, programare de calculatoare</span></li>
+</ul>
+<p><span style="font-weight: 400;">(Sursă: </span><a href="https://www.edglossary.org/21st-century-skills/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">https://www.edglossary.org/21st-century-skills/</span></a><span style="font-weight: 400;">)</span></p>
+<p><span style="font-weight: 400;">Gândirea analitică, separarea problemelor în pași mai mici, planificarea, gândirea creativă și adaptabilă și lucrul în echipă vor deveni esențiale, iar </span><b>învățarea programării de calculatoare ne oferă un mod eficient și interesant de a dobândi aceste abilități</b><span style="font-weight: 400;">.</span></p>
+<h2><span style="font-weight: 400;">La ce să ne uităm când vine vorba de educație de programare pentru copii?</span></h2>
+<p><b>Orientat pe experiență, jucăuș și care are succes </b><span style="font-weight: 400;">– cu toții am auzit acești termeni înainte, însă copiii pot învăța programare dacă aceste lucruri sunt îndeplinite. E important ca programarea să fie interesantă, colorată și nu seacă, dar trebuie să fie și destul de provocatoare pentru copii, însă nu atât de mult încât să nu poată rezolva problemele.</span></p>
+<p><b>Conceptele de bază trebuie introduse în timpul practicii</b><span style="font-weight: 400;">, iar cunoștințele trebuie adâncite cu sarcini jucăușe, astfel încât să fie aproape imperceptibile.</span></p>
+<div class="wp-block-image">
+<figure class="alignright"><img loading="lazy" class="wp-image-12761" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/pexels-photo-4709291-1024x682.jpeg" alt="Cursuri de programare pentru copii" width="504" height="336" srcset="/blog/wp-content/uploads/2021/04/pexels-photo-4709291-1024x682.jpeg 1024w, /blog/wp-content/uploads/2021/04/pexels-photo-4709291-300x200.jpeg 300w, /blog/wp-content/uploads/2021/04/pexels-photo-4709291-768x512.jpeg 768w, /blog/wp-content/uploads/2021/04/pexels-photo-4709291-1536x1024.jpeg 1536w, /blog/wp-content/uploads/2021/04/pexels-photo-4709291-1080x720.jpeg 1080w, /blog/wp-content/uploads/2021/04/pexels-photo-4709291.jpeg 1880w" sizes="(max-width: 504px) 100vw, 504px" /></figure>
+</div>
+<p class="has-text-align-left"><b>Fără un sistem independent bine structurat și gândit, </b><span style="font-weight: 400;">învățarea programării nu prea poate avea succes, din moment ce trebuie să încorporeze logica, cunoștințele și abilitățile matematice necesare. </span><b>Feedback continuu</b><span style="font-weight: 400;"> și </span><b>sentimentul de succes obținut din rezolvarea unei sarcini într-un mod creativ</b><span style="font-weight: 400;"> pot fi o garanție a progresului mult mai bună decât învățatul constant.</span></p>
+<p><b>Un limbaj ușor de înțeles, potrivit pentru vârsta lor (dar nu suprasimplificat) și felul în care explicăm lucrurile</b><span style="font-weight: 400;"> sunt esențiale în educarea copiilor.</span></p>
+<p><span style="font-weight: 400;">Programatorii în devenire s-ar putea să nu învețe singuri. În acest caz, e important să vorbim și despre </span><b>importanța personalității profesorului</b><span style="font-weight: 400;">, din moment ce un profesor poate influența pozitiv sau negativ atitudinea față de învățat—și propriile noastre experiențe dovedesc asta.</span></p>
+<p><span style="font-weight: 400;">Proiectele în care învățarea se petrece prin crearea de jocuri sau programarea de roboți pot fi chiar și mai interesante și pot construi o comunitate deoarece </span><b>copiii se pot juca cu lucrurile pe care le-au creat la sfârșitul proiectului</b><span style="font-weight: 400;">. Sentimentul de „</span><i><span style="font-weight: 400;">noi am creat asta</span></i><span style="font-weight: 400;">” e o forță motivațională grozavă.</span></p>
+<h2><span style="font-weight: 400;">Abilități potrivite pentru vârstă – Programare pentru copii</span></h2>
+<h3><span style="font-weight: 400;">Grădiniță și școală primară</span></h3>
+<p><span style="font-weight: 400;">Ne putem întreba „Cum poate un copil mic, care nu știe să scrie și să citească, care nu înțelege operațiile logice și concepte matematice de bază să învețe să programeze?”. Asta e o întrebare bună, însă </span><b>copiii de vârsta asta nu învăța să programeze încă, doar obțin abilitatea de a învăța algoritmic</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Multe concepte pot fi explicate folosind exemple de zi cu zi. De exemplu, ordinea corectă a îmbrăcării sau spălării pe dinți poate duce la înțelegerea algoritmilor.</span></p>
+<p><span style="font-weight: 400;">Există și jocuri offline și alte sarcini care pot dezvolta logica de programare a copiilor—multe dintre aceste jocuri pot fi jucate fie acasă sau la grădiniță și școală.</span></p>
+<p><a href="https://www.youtube.com/watch?v=uULpYYE1Agc" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">BeeBot</span></a><span style="font-weight: 400;"> poate fi un mod grozav de învățare pentru grupurile de grădiniță și școală primară. E un robot care poate fi pre-programat folosind butoane și poate ajuta copiii să învețe și să se dezvolte în multe feluri.</span></p>
+<p><span style="font-weight: 400;">Există tot mai multe grupuri de studiu de programare pentru copiii de grădiniță și școală primară, care îi învață abilități folositoare în timp ce creează experiențe sociale pentru aceștia.</span></p>
+<p><span style="font-weight: 400;">Există grupuri care încep de la vârsta de 4-5 pentru băieți, fete, constructori de roboți, cei care pot citi și cei care învață vizual.</span></p>
+<p><b>La sfârșitul articolului, vei găsi o listă lungă de cursuri de programare pentru copii în România, </b><span style="font-weight: 400;">unde predau de la copii până la adolescenți.</span></p>
+<h4><span style="font-weight: 400;">Jocuri pentru a dezvolta gândirea pentru programare pentru copii în română</span></h4>
+<p><span style="font-weight: 400;">Techbubble.ro a creat </span><a href="https://techbubble.ro/programare-pentru-copii-cinci-jocuri-educative-pentru-micutul-tau/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">o listă de 5 jocuri</span></a><span style="font-weight: 400;"> care vor ajuta copiii să învețe programare chiar acasă, într-un mod distractiv.</span></p>
+<h3><span style="font-weight: 400;">Copii care știu să citească bine</span></h3>
+<p><span style="font-weight: 400;">Copiii mai mari </span><b>pot începe să învețe limbaje de programare tradiționale</b><span style="font-weight: 400;"> din moment ce pot citi singuri și de asemenea se pot familiariza cu limba engleză. </span><b>Învățarea orientată pe experiență</b><span style="font-weight: 400;"> încă e importantă, dar progresul individual devine și el important.</span></p>
+<p><span style="font-weight: 400;">Multe </span><b>manuale</b><span style="font-weight: 400;"> sunt disponibile și în română. Iată câteva pe care le poți cumpăra cu ușurință pentru ca micul viitor programator să se distreze cu ele:</span></p>
+<h4><span style="font-weight: 400;">Cărți de programare pentru copii în română</span></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://carturesti.ro/carte/curs-de-programare-jocuri-pentru-copii-108391440?gclid=CjwKCAjwxuuCBhATEiwAIIIz0WHTgA184acNpsaikhRwe2w6SuDmmc2x6gokPSL736G5TcLfYUPaRRoCeP0QAvD_BwE" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Carol Voderman &#8211;&nbsp; Curs de programare jocuri pentru copii</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.litera.ro/programare-pentru-incepatori-folosind-scratch?utm_campaign=2Performant&amp;utm_source=159e0ef88&amp;utm_medium=CPS" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Programare pentru începători folosind SCRATCH</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.librariadelfin.ro/carte/super-aventura-programarii-cu-scratch--i21097" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Super aventura programarii cu Scratch</span></a></li>
+</ul>
+<h3><span style="font-weight: 400;">13-14 ani și liceu</span></h3>
+<p><span style="font-weight: 400;">La această vârstă, copiii care sunt cu adevărat interesați de programare pot începe să lucreze la proiecte mai complexe și pot </span><b>învăța chiar și mai multe despre codare</b><span style="font-weight: 400;">. Acum e momentul în care trebuie să </span><b>decidă ce vor să învețe</b><span style="font-weight: 400;"> sau poate unde vor să lucreze, dar alegerea unei cariere se poate petrece chiar și mai devreme pentru copii și părinții lor. (Alegerea unui liceu sau claselor extraculiculare pot fi și acestea decizii dificile.)</span></p>
+<p><span style="font-weight: 400;">Elevii de liceu care vorbesc engleză pot începe să învețe programare pe cont propriu, folosind cantitatea aproape infinită de materiale de studiu de pe internet.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață programare web la CodeBerry" class="wp-image-12216" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><span style="font-weight: 400;">Limbaje de programare și interfețe pentru copii</span></h2>
+<p><a href="https://scratch.mit.edu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Scratch </span></a><span style="font-weight: 400;">&#8211; Acesta e un </span><b>limbaj de programare grafic dezvoltat special pentru copii</b><span style="font-weight: 400;">, iar interfața e disponibilă și în română. Copiii pot muta module pre-scrise, însemnând că nu trebuie să scrie ei cod, ci trebuie doar să înțeleagă pașii procesului, să-l gândească și să aleagă panourile corecte. Pot crea povești, animații și jocuri folosind acest software.</span></p>
+<p><a href="https://www.scratchjr.org/about/info" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Scratch Jr</span></a><span style="font-weight: 400;"> ajută copiii între 5 și 7 ani să înțeleagă logica de bază a programării, însă nu e disponibil încă în română, dar îl adaptează în tot mai multe limbi.</span></p>
+<p><a href="https://studio.code.org/s/course1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Code.org</span></a><span style="font-weight: 400;"> &#8211; Materiale de învățare atent structurate: de la prepararea abilităților și a conceptelor de bază la sarcini complexe. Nu toate modulele sunt disponibile în română, dar unele dintre ele au fost adaptate, cum ar fi </span><b>capitolele introductive</b><span style="font-weight: 400;"> (recomandate de la 4 ani) sau modulele de </span><b>Minecraft</b><span style="font-weight: 400;"> și </span><b>Frozen</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Multe cursuri și cărți recomandă copiilor să învețe </span><b>Python</b><span style="font-weight: 400;">. Acest limbaj de programare e ideal pentru începători din moment ce e ușor de citit, logic și poate fi folosit pentru multe lucruri diferite (cum ar fi programarea de jocuri) și oferă o bază grozavă pentru a învăța bazele programării. Poți învăța mai multe despre acest limbaj în articolul nostru intitulat </span><a href="https://codeberryschool.com/blog/en/beginners-guide-to-python-programming/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Programare Python pentru începători</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Desigur, aceste cursuri, tutoriale video și jocuri introduc copiii în lumea programării în diferite feluri (de exemplu, învățându-i </span><b>HTML, CSS</b><span style="font-weight: 400;"> și </span><b>JavaScript</b><span style="font-weight: 400;"> pentru a crea website-uri). Copiii mai mari, care au o bună înțelegere a noțiunilor de bază, care sunt interesați de programare și sunt persistenți pot învăța practic orice limbaj de programare.</span></p>
+<h4><span style="font-weight: 400;">Jocuri de programare în română</span></h4>
+<ul>
+<li><i><span style="font-weight: 400;">Logischool.com</span></i><span style="font-weight: 400;"> a colecționat o gramadă de </span><a href="https://www.logiscool.com/ro/blog/2020-03/jocuri-limbaj-cod" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">jucării și jocuri</span></a><span style="font-weight: 400;">, atât online cât și offline, care pot ajuta copiii să învețe programare fără să-ți dea seama, într-un mod distractiv. Unul dintre cele mai grozave avantaje ale acestei liste e că </span><b>are și jocuri avansate care sunt recomandate pentru liceeni</b><span style="font-weight: 400;">.</span></li>
+</ul>
+<h4><span style="font-weight: 400;">Canale Youtube de programare pentru copii în română</span></h4>
+<ul>
+<li><span style="font-weight: 400;">Canalul de Youtube </span><a href="https://www.youtube.com/c/SkyexpressionRo/featured" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Sky Expression</span></a><span style="font-weight: 400;"> oferă cursuri pentru copii și începători.</span></li>
+<li><a href="https://www.youtube.com/watch?v=Ff-n-dKKy7Y" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Lidia B</span></a><span style="font-weight: 400;"> a creat pe Youtube clipuri care îi ajută pe copii să învețe despre </span><b>Scratch</b><span style="font-weight: 400;">.</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Unde și cum pot învăța copiii de programeze?</span></h2>
+<p><span style="font-weight: 400;">Există avantaje de necontestat ale învățării în </span><b>workshop-uri, tabere și cursuri</b><span style="font-weight: 400;">. Acestea sunt: ajutor continuu, explicații și feedback și, cel mai important, </span><b>o comunitate</b><span style="font-weight: 400;">.</span></p>
+<p><b>Opțiunile listate în acest articol s-au axat în mare pe studiul independent, </b><span style="font-weight: 400;">în care pot lua parte și părinții, dar au fost limitați să studieze de acasă. </span><b>Acum hai să aruncăm o privire asupra locurilor în care</b><span style="font-weight: 400;"> viitorii programatori </span><b>pot învăța într-o comunitate grozavă cu instructori antrenați</b><span style="font-weight: 400;">.</span></p>
+<h2><a href="https://codeberryschool.com/ro" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Școala de programare CodeBerry</span></a></h2>
+<p><span style="font-weight: 400;">Una dintre cele mai mari școli de programare din România: online, cursuri în propriul ritm, cu multe limbaje de programare (HTML, CSS, JavaScript, Python, Java etc.). Studiul e facilitat de mentori și o comunitate online de ajutor. Sarcini simple, ușor de înțeles și practice pot ajuta oamenii să încerce și să exerseze bazele programării.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/landing-ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="301" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/codeberry-1024x301.png" alt="Interfața cursurilor de la CodeBerry" class="wp-image-12758" srcset="/blog/wp-content/uploads/2021/04/codeberry-1024x301.png 1024w, /blog/wp-content/uploads/2021/04/codeberry-300x88.png 300w, /blog/wp-content/uploads/2021/04/codeberry-768x226.png 768w, /blog/wp-content/uploads/2021/04/codeberry-1080x317.png 1080w, /blog/wp-content/uploads/2021/04/codeberry.png 1331w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><a href="https://www.miciideveloperi.ro/curs-gratuit-programare-pentru-copii.php?utm_source=google&amp;utm_medium=search&amp;utm_content=dinamic&amp;gclid=CjwKCAjwxuuCBhATEiwAIIIz0bmgbrM0U9oeKnR-JCxy9cLN5_d6nk8GsxjXKMH5rfuuzGxC9jszehoC5CUQAvD_BwE" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Academia micilor developeri</span></a></h2>
+<p><span style="font-weight: 400;">Există o varietate de workshopuri pe categorii de vârstă, pentru copii între 8 și 18 ani. Cei mici vor crea diverse jocuri folosind </span><b>Scratch</b><span style="font-weight: 400;">, cu workshopuri pe tema </span><b>Among Us</b><span style="font-weight: 400;">. Cei peste 14 ani vor face cunoștință cu minunata lume </span><b>Java</b><span style="font-weight: 400;">, cu care vor crea și ei jocuri.&nbsp;</span></p>
+<p><span style="font-weight: 400;">Aceștia au și un curs demo, la care pot participa atât elevii, cât și părinții.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://www.miciideveloperi.ro/curs-gratuit-programare-pentru-copii.php?utm_source=google&amp;utm_medium=search&amp;utm_content=dinamic&amp;gclid=CjwKCAjwxuuCBhATEiwAIIIz0bmgbrM0U9oeKnR-JCxy9cLN5_d6nk8GsxjXKMH5rfuuzGxC9jszehoC5CUQAvD_BwE" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="565" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri-1024x565.png" alt="Câteva dintre cursurile oferite de Academia Micilor Developeri" class="wp-image-12757" srcset="/blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri-1024x565.png 1024w, /blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri-300x166.png 300w, /blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri-768x424.png 768w, /blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri-1080x596.png 1080w, /blog/wp-content/uploads/2021/03/aacdemia-micilor-developeri.png 1101w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><a href="https://www.logiscool.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Logiscool</span></a></h2>
+<p><span style="font-weight: 400;">Tabere de vară (creare de jocuri, robotică, programare, Minecraft și tabere digitale) de la 6 la 18 ani. Cursuri de programare și alte cursuri de vară pe diferite subiecte, folosind metode diferite. Folosesc un limbaj de programare creat de ei și o platformă de învățare numită &lt;scoolcode&gt; care oferă un sentiment de succes imediat.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">București, multe locații (12 în total)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Și aproape de capitală, în Ilfov</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">În multe alte locații: Alba Iulia, Arad, Bacău, Baia Mare, Brașov, Cluj, Constanța, Craiova, Deva, Drobeta-Turnu Severin, Galați, Iași, Oradea, Pitești, Ploiești, Râmnicu Vâlcea, Satu Mare, Sibiu, Suceava, Târgu Jiu, Târgu Mureș, Timișoara</span></li>
+</ul>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://www.logiscool.com/ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="959" height="583" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/logischool.png" alt="Câteva dintre cursurile oferite de Logiscool" class="wp-image-12759" srcset="/blog/wp-content/uploads/2021/04/logischool.png 959w, /blog/wp-content/uploads/2021/04/logischool-300x182.png 300w, /blog/wp-content/uploads/2021/04/logischool-768x467.png 768w" sizes="(max-width: 959px) 100vw, 959px" /></a></figure>
+</div>
+<h2><a href="https://mind-hub.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Mind Hub</span></a></h2>
+<p><span style="font-weight: 400;">Mind Hub e un club inovator de programare pentru copii cu vârstele cuprinse între 6 și 18 ani. Copiii dobândesc abilități și cunoștințe importante pentru viitor creând jocuri și animații și programând comportamentul roboților. Lucrează cu o mulțime de limbaje și tehnologii, de la </span><b>Scratch</b><span style="font-weight: 400;"> și </span><b>Scratch Jr</b><span style="font-weight: 400;"> la </span><b>Minecraft</b><span style="font-weight: 400;"> și </span><b>Roblox</b><span style="font-weight: 400;"> la </span><b>JavaScript</b><span style="font-weight: 400;"> și </span><b>Python</b><span style="font-weight: 400;">, și multe altele.</span></p>
+<p><span style="font-weight: 400;">Lucrează cu grupuri mici de copii de aproximativ aceeași vârstă, oferind copiilor o abordare individuală de a învăța.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://mind-hub.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="451" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/mindhub-1024x451.png" alt="Pagina MindHub" class="wp-image-12763" srcset="/blog/wp-content/uploads/2021/04/mindhub-1024x451.png 1024w, /blog/wp-content/uploads/2021/04/mindhub-300x132.png 300w, /blog/wp-content/uploads/2021/04/mindhub-768x338.png 768w, /blog/wp-content/uploads/2021/04/mindhub-1080x476.png 1080w, /blog/wp-content/uploads/2021/04/mindhub.png 1287w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><a href="https://www.letscode.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Let’s Code</span></a></h2>
+<p><span style="font-weight: 400;">Există o mare varietate de cursuri pentru copii de toate vârstele. Cursurile sunt sortate în funcție de vârsta și nivelul copilului. Online, copiii pot învăța </span><b>Scratch, HTML și CSS, Python, C++, dezvoltarea de aplicații mobile, programare Roblox, modelare și printare 3D și despre inteligența artificială</b><span style="font-weight: 400;">. Aceștia oferă și cursuri offline, în Cluj-Napoca, care includ cursuri </span><b>Blockly, creare jocuri RPG și robotică</b><span style="font-weight: 400;">. </span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://www.letscode.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="279" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/letscode-1024x279.png" alt="Let's Code" class="wp-image-12764" srcset="/blog/wp-content/uploads/2021/04/letscode-1024x279.png 1024w, /blog/wp-content/uploads/2021/04/letscode-300x82.png 300w, /blog/wp-content/uploads/2021/04/letscode-768x210.png 768w, /blog/wp-content/uploads/2021/04/letscode-1080x295.png 1080w, /blog/wp-content/uploads/2021/04/letscode.png 1228w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><a href="https://www.itlevel.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">IT Level</span></a></h2>
+<p><span style="font-weight: 400;">Există o mulțime de cursuri la IT Level, atât pentru profesori cât și pentru copii între 8 și 18 ani. Copiii pot învăța despre </span><b>Scratch, realitate virtuală, Python, HTML, CSS, C++, Java</b><span style="font-weight: 400;"> și multe altele, inclusiv cursuri despre </span><b>sisteme de operare</b><span style="font-weight: 400;"> sau utilizarea </span><b>pachetului Microsoft Office</b><span style="font-weight: 400;">. Aceștia oferă atât cursuri online, cât și offline la Spectrum Business Center, în București.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://www.itlevel.ro/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="191" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/ITlevel-1024x191.png" alt="IT Level" class="wp-image-12765" srcset="/blog/wp-content/uploads/2021/04/ITlevel-1024x191.png 1024w, /blog/wp-content/uploads/2021/04/ITlevel-300x56.png 300w, /blog/wp-content/uploads/2021/04/ITlevel-768x144.png 768w, /blog/wp-content/uploads/2021/04/ITlevel-1080x202.png 1080w, /blog/wp-content/uploads/2021/04/ITlevel.png 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<h2><a href="https://small.academy/cursuri/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Small Academy</span></a></h2>
+<p><span style="font-weight: 400;">Small Academy oferă o varietate de cursuri pentru copii cu vârste cuprinse între 5 și 16 ani. Cursurile sunt pe categorii de vârstă și dificultate, și oferă diverse cunoștințe, inclusiv </span><b>Minecraft, Roblox, robotică, web design, JavaScript, Scratch, jocuri și aplicații mobile</b><span style="font-weight: 400;">. Profesorii sunt alături de copii în fiecare zi pe platforma de învățare.</span></p>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://small.academy/cursuri/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="352" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/small-academy-1024x352.png" alt="C\teva dintre cursurile oferite de Small Academy" class="wp-image-12766" srcset="/blog/wp-content/uploads/2021/04/small-academy-1024x352.png 1024w, /blog/wp-content/uploads/2021/04/small-academy-300x103.png 300w, /blog/wp-content/uploads/2021/04/small-academy-768x264.png 768w, /blog/wp-content/uploads/2021/04/small-academy-1080x371.png 1080w, /blog/wp-content/uploads/2021/04/small-academy.png 1176w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<p><span style="font-weight: 400;">Iar la final, iată un scurt video în care un copil programator vorbește despre importanța învățării bazelor programării cât de repede posibil. (Videoul e în engleză, dar există subtitrări):</span></p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Coding: By a kid, for kids | Krish Mehra | TEDxKentState" width="1080" height="608" src="https://www.youtube.com/embed/vOsdfRbrNdk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</figure>
+<div class="wp-block-image">
+<figure class="aligncenter"><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" width="1024" height="340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata programare pentru copii online la CodeBerry" class="wp-image-12340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+</div>
+<p><span style="font-weight: 400;">Dacă simți că e greu să decizi ce opțiune să alegi, poți găsi ajutor pe website-ul nostru despre lucrurile după care trebuie să te uiți când alegi cursuri pentru copiii tăi: </span><a href="https://codeberryschool.com/blog/ro/cursuri-programare-incepatori/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Curs de programare pentru începători – Cum să îl alegi pe cel potrivit pentru tine</span></a><span style="font-weight: 400;">.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bazele programării în limbajul Python &#8211; Programare Python pentru începători</title>
+		<link>/blog/ro/programare-python-pentru-incepatori/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2020 19:15:54 +0000</pubDate>
+				<category><![CDATA[Limbaje de programare]]></category>
+		<category><![CDATA[dinamic]]></category>
+		<category><![CDATA[inteligența artificială]]></category>
+		<category><![CDATA[limbaj]]></category>
+		<category><![CDATA[limbajul de programare python]]></category>
+		<category><![CDATA[limbajul python]]></category>
+		<category><![CDATA[programare]]></category>
+		<category><![CDATA[programare in Python]]></category>
+		<category><![CDATA[programare python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[Python pentru incepatori]]></category>
+		<category><![CDATA[statistica]]></category>
+		<category><![CDATA[știința datelor]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10152</guid>
+
+					<description><![CDATA[În seria „Ghidul începătorului” de la Școala de Programare CodeBerry, vom răspunde la întrebările pe care le poți avea despre limbajul de programare pe care trebuie să-l alegi, cât vei câștiga, ce poți face în calitate de programator și de unde să începi. Ți-ar plăcea să înveți programare online? Vino și încearcă primele 25 de lecții gratuit la Școala [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><strong>Bazele programării în limbajul Python &#8211; Programare Python pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ &#8211; Programarea în C++ pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# &#8211; Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+</ul>
+<h2><span style="font-weight: 400;">Ce este Python?</span></h2>
+<p><span style="font-weight: 400;">Python este un limbaj de programare de nivel înalt și cu scop general, care a fost proiectat să fie extrem de ușor de citit și de înțeles. „Nivel înalt” înseamnă că Python este mai aproape de limbajele umane decât alte limbaje de programare. Python are o comunitate vibrantă și activă și, prin învățarea acestui limbaj dinamic, vei avea acces la multe instrumente grozave făcute de contributorii la Python încă de la crearea lui.</span></p>
+<p><a href="https://codeberryschool.com/ro/curs-python-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12223" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Python-1.png" alt="Învață programare Python la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Python-1.png 1024w, /blog/wp-content/uploads/2020/09/Python-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Python-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Cum este programarea în Python?</span></h2>
+<p><span style="font-weight: 400;">Filosofia limbajului Python poate fi găsită într-un document intitulat „</span><a href="https://www.python.org/dev/peps/pep-0020/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">The Zen of Python</span></a><span style="font-weight: 400;">”. Conform acestui document, Python se bazează pe următoarele principii de design:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Frumosul este mai bun decât urâtul</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Explicitul este mai bun decât implicitul</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Simplul este mai bun decât complexul</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Complexul este mai bun decât complicatul</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lizibilitatea contează</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Și multe altele&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Python este capabil să realizeze sarcini variate cu ajutorul add-on-urilor. Mulțumită numărului vast de librării specializate pentru Python, acest limbaj cu scop general poate fi reconvertit pentru a face un număr incredibil de lucruri. De exemplu, librăriile specializate le permit programatorilor să folosească Python în domenii mai degrabă tehnice, precum inteligența artificială, știința datelor și statistica.</span></p>
+<p><span style="font-weight: 400;">Pe lângă faptul că vei învăța noțiuni de bază ale lui Python, îți vei dori să înveți cum să navighezi în anumite librării care corespund domeniului tău specific. Ca și JavaScript, învățarea utilizării librăriilor și framework-urilor va reprezenta o parte-cheie din educația ta continuă.</span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13121" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/coding-code-programming-screen.jpg" alt="Limbajul de programare Python este ideal pentru a dezvolta inteligența artificială" width="910" height="511" srcset="/blog/wp-content/uploads/2020/09/coding-code-programming-screen.jpg 910w, /blog/wp-content/uploads/2020/09/coding-code-programming-screen-300x168.jpg 300w, /blog/wp-content/uploads/2020/09/coding-code-programming-screen-768x431.jpg 768w" sizes="(max-width: 910px) 100vw, 910px" /></p>
+<h2><span style="font-weight: 400;">Întrebuințările limbajului de programare Python</span></h2>
+<p><span style="font-weight: 400;">Python este considerat de către mulți ca fiind „cuțitul de armată elvețian” al limbajelor de programare și continuă să îndeplinească acest rol cu un număr în creștere de librării și framework-uri specializate.</span></p>
+<p><span style="font-weight: 400;">Dacă vizitezi site-ul </span><a href="https://www.python.org/about/apps/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python</span></a><span style="font-weight: 400;">, vei găsi o listă de programe Python, precum și librăriile și framework-urile corespunzătoare. Unele dintre acestea includ aplicații de web development, științifice și numerice, educaționale, interfață grafică cu utilizatorul (GUI &#8211; Graphic User Interface) pentru desktop, dezvoltare software și aplicații de afaceri. De asemenea, Python este limbajul de programare cel mai important pentru inteligența artificială (AI), grație popularului framework TensorFlow dezvoltat de către divizia de inteligență artificială de la Google. Pentru proiecte noi,</span> <a href="https://wiki.python.org/moin/Python2orPython3" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">e mai bine să folosești Python 3</span></a><span style="font-weight: 400;">, deoarece pentru Python 2 nu se va mai lucra la update-uri și securitate.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Cât câștigă programatorii de Python?</span></h2>
+<p><span style="font-weight: 400;">După cum am discutat în articolele anterioare, locația joacă un rol foarte important în cât câștigi în calitate de programator. Conform </span><a href="https://www.glassdoor.com/Salaries/python-developer-salary-SRCH_KO0,16.htm" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Glassdoor</span></a><span style="font-weight: 400;">, programatorii de Python din SUA se pot aștepta să câștige 92,000 de dolari pe an (409,731 de lei), făcându-l unul dintre cele mai bine plătite limbaje.</span></p>
+<p><span style="font-weight: 400;">În România, salariile programatorilor Python sunt în prezent următoarele:</span></p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator Python junior</span></td>
+<td><span style="font-weight: 400;">3870-4796 RON net*</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator Python middle</span></td>
+<td><span style="font-weight: 400;">9788 RON net*</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator Python senior</span></td>
+<td><span style="font-weight: 400;">11502 RON net*</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">*</span><a href="https://cariera.ejobs.ro/salarii-it/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">sursa</span></a></p>
+<p><a href="https://codeberryschool.com/ro/curs-python-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12216 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață limbajul de programare Python la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Cum învăț limbajul de programare Python?</span></h2>
+<p><span style="font-weight: 400;">Grație popularității limbajului de programare Python și a faptului că este relativ vechi (27 de ani), acesta are o mulțime de resurse educaționale disponibile pentru noii învățăcei. Dacă preferi o metodă de învățare mai tradițională, cursurile universitare reprezintă o alegere grozavă pentru tine. Bootcamp-urile de programare și cursurile online, pe de altă parte, sunt orientate către persoanele care învață rapid și sunt motivate.</span></p>
+<p><span style="font-weight: 400;">Dacă îți dorești să afli mai multe despre diferitele opțiuni pe care le ai pentru a învăța programare, citește articolul nostru </span><a href="https://codeberryschool.com/blog/ro/cum-sa-inveti-sa-programezi/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Cum să înveți să programezi”</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Cât timp durează să înveți programare Python?</span></h3>
+<p><span style="font-weight: 400;">Timpul necesar pentru a învăța un limbaj de programare depinde de metodele pe care le folosești, de retenția învățării și de numărul de ore pe care le aloci pe săptămână. Nu te poți aștepta să știi totul despre Python după urmarea unui curs de un semestru la universitatea ta locală sau a unui program de 14 săptămâni la un bootcamp de programare. </span></p>
+<p><span style="font-weight: 400;">Pe lângă noțiunile de bază, va trebui să petreci mult timp învățând cum să folosești diferitele framework-uri și librării. Unele dintre cele mai remarcabile framework-uri sunt </span><a href="https://www.djangoproject.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Django</span></a><span style="font-weight: 400;"> și </span><a href="http://www.web2py.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Web2Py</span></a><span style="font-weight: 400;">. Ca și JavaScript, a fi un „expert” în Python presupune cunoașterea a multe framework-uri diferite, care au fost dezvoltate de-a lungul anilor.</span></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Oare mi se potrivește Python?</span></h2>
+<p><span style="font-weight: 400;">Pentru a stabili dacă un limbaj de programare ți se potrivește, trebuie să-ți dai seama dacă acesta corespunde cu obiectivele tale pe termen lung. Python este folositor la o mulțime de sarcini, făcându-l un bun punct de pornire pentru orice programator. Totuși, dacă ți-ai propus să devii un dezvoltator web, de exemplu, nu ar trebui să investești mult timp să înveți Python. În schimb, ar trebui să te concentrezi pe HTML, CSS și JavaScript.</span></p>
+<p><span style="font-weight: 400;">Pentru a vedea dacă Python este potrivit pentru tine, te rugăm să citești articolul nostru </span><a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Ce limbaj de programare ți se potrivește?”</span></a><span style="font-weight: 400;">. Acolo vei afla despre o varietate de alte limbaje de programare și ce poți face cu ele.</span></p>
+<p><a href="https://codeberryschool.com/ro/curs-python-1" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12224 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Python-2.png" alt="Învață Python pentru începători la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Python-2.png 1024w, /blog/wp-content/uploads/2020/09/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><strong>Bazele programării în limbajul Python &#8211; Programare Python pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-programarea-in-c-pentru-incepatori/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C++ &#8211; Programarea în C++ pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# &#8211; Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+</ul>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>De la Python în liceu la EPAM – Povestea studentului nostru Attila Blascsák</title>
+		<link>/blog/ro/de-la-python-in-liceu-la-epam-povestea-studentului-nostru-attila-blascsak/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2016 03:54:29 +0000</pubDate>
+				<category><![CDATA[Interviuri]]></category>
+		<category><![CDATA[an de liceu]]></category>
+		<category><![CDATA[Attila Blascsák]]></category>
+		<category><![CDATA[carte python]]></category>
+		<category><![CDATA[citate despre liceu]]></category>
+		<category><![CDATA[citate liceu]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[EPAM]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[IT Services]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[la python]]></category>
+		<category><![CDATA[liceu]]></category>
+		<category><![CDATA[mort attila]]></category>
+		<category><![CDATA[nostru]]></category>
+		<category><![CDATA[programare python]]></category>
+		<category><![CDATA[programare web pentru liceu]]></category>
+		<category><![CDATA[programator python]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python carte]]></category>
+		<category><![CDATA[python dela]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4746</guid>
+
+					<description><![CDATA[Attila Blascsák face parte dintre primi utilizatori ai platformei CodeBerry, care și-a schimbat cu succes cariera și a devenit programator web după ce a studiat la noi. Am vorbit cu Attila despre cum a ajuns aici, ce a învățat și despre dificultățile în găsirea unui job ca programator junior. Dacă cineva te-ar fi întrebat care [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Attila Blascsák face parte dintre primi utilizatori ai platformei CodeBerry, care și-a schimbat cu succes cariera și a devenit programator web după ce a studiat la noi. Am vorbit cu Attila despre cum a ajuns aici, ce a învățat și despre dificultățile în găsirea unui job ca programator junior.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}"><strong>Attila Blascsák</strong> face parte dintre primi utilizatori ai platformei <a href="https://codeberryschool.com/ro/" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a>, care și-a schimbat cu succes cariera și a devenit programator web după ce a studiat la noi. Am vorbit cu Attila despre cum a ajuns aici, ce a învățat și despre dificultățile în găsirea unui job ca programator junior.</span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Dacă cineva te-ar fi întrebat care este profesia ta în urmă cu câteva luni, ce ai fi răspuns?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Dacă cineva te-ar fi întrebat care este profesia ta în urmă cu câteva luni, ce ai fi răspuns?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Obișnuiam să răspund că mă ocupam de rețele la IT Services, adică ajutam companiile mari să se conecteze la internet. Sarcinile noastre porneau de la asigurarea că router-ul ajunge la client până la punerea acestuia în funcțiune.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Obișnuiam să răspund că mă ocupam de rețele la IT Services, adică ajutam companiile mari să se conecteze la internet. Sarcinile noastre porneau de la asigurarea că router-ul ajunge la client până la punerea acestuia în funcțiune.</span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Și care este răspunsul tău acum?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Și care este răspunsul tău acum?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sunt programator frontend UI la EPAM. Lucrez într-o echipă mai mare, dezvolt o aplicație care se bazează mai mult pe tehnologii frontend și proiectarea interfeței utilizatorului. Folosesc HTML, CSS și JavaScript zilnic.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Sunt programator frontend UI la EPAM. Lucrez într-o echipă mai mare, dezvolt o aplicație care se bazează mai mult pe tehnologii frontend și proiectarea interfeței utilizatorului. Folosesc HTML, CSS și JavaScript zilnic.</span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12338" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Sună grozav! Așadar, programarea nu era ceva tocmai nou pentru tine, nu-i așa? Ai mai avut de-a face cu programarea înainte?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Sună grozav! Așadar, programarea nu era ceva tocmai nou pentru tine, nu-i așa? Ai mai avut de-a face cu programarea înainte?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Da, de fapt am început să folosesc HTML și CSS în școala primară. Mai târziu, la liceu mereu foloseam Python, bazându-ne pe o carte veche. A trebuit să renunț deoarece librăriile citate de către autor nu mai existau, așadar sarcinile erau de nerezolvat. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Da, de fapt am început să folosesc HTML și CSS în școala primară. Mai târziu, la liceu mereu foloseam Python, bazându-ne pe o carte veche. A trebuit să renunț deoarece librăriile citate de către autor nu mai existau, așadar sarcinile erau de nerezolvat. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;De unde ți-a venit ideea programării web?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">De unde ți-a venit ideea programării web?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;În ultimul meu an de liceu, doi băieți m-au abordat zicând că aveau nevoie de programatori web pentru startup-ul lor. Pe atunci nu aveam nicio idee în ce mă bag, dar am acceptat și curând m-am prins de ce trebuie să fac.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">În ultimul meu an de liceu, doi băieți m-au abordat zicând că aveau nevoie de programatori web pentru startup-ul lor. Pe atunci nu aveam nicio idee în ce mă bag, dar am acceptat și curând m-am prins de ce trebuie să fac. În cele din urmă, am terminat proiectul, dar programarea web mi-a atras atenția, așadar am continuat să învăț pe cont propriu. Dar în sfârșit am ajuns într-un punct mort în primăvară, când am simțit că nu pot merge mai departe și că am nevoie de un profesor. Atunci v-am găsit pe voi. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;De când înveți la CodeBerry?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">De când înveți la CodeBerry?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Din iunie 2016.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Din iunie 2016.</span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Și cum ți s-a părut, care au fost avantajele?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Și cum ți s-a părut, care au fost avantajele?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ca să fiu sincer, nu a fost un număr impresionant de informații noi, însă cursul a fost grozav pentru a-mi aminti ce am învățat deja. Mentorii m-au ajutat mult – probabil că acesta a fost unul dintre cele mai bune lucruri. Să ai pe cineva cu care să discuți problemele tale este un mare avantaj.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Ca să fiu sincer, nu a fost un număr impresionant de informații noi, însă cursul a fost grozav pentru a-mi aminti ce am învățat deja. Mentorii m-au ajutat mult – probabil că acesta a fost unul dintre cele mai bune lucruri. Să ai pe cineva cu care să discuți problemele tale este un mare avantaj.</span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12147" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-1.png" alt="Înscrie-te la cursul pentru bazele programării de la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Este bine de știut. Acum, pentru că este începutul toamnei, asta înseamnă că ai acumulat suficiente cunoștințe în 3 luni pentru a-ți găsi un loc de muncă. Cât ți-a luat să îți găsești unul? (Interviul a avut loc în septembrie 2016, n. red.)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Este bine de știut. Acum, pentru că este începutul toamnei, asta înseamnă că ai acumulat suficiente cunoștințe în 3 luni pentru a-ți găsi un loc de muncă. Cât ți-a luat să îți găsești unul? </span></strong>(Interviul a avut loc în septembrie 2016, n. red.)</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;De fapt, nici nu m-am gândit să încep să-mi caut un job deja. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">De fapt, nici nu m-am gândit să încep să-mi caut un job deja. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Îmi creasem un profil de LinkedIn, unde scrisesem că studiam să devin un programator junior și mi-am adăugat și noile abilități. Două săptămâni mai târziu m-a contactat EPAM. Aveam de gând să-mi creez un portofoliu înainte de a-mi căuta un job, dar cei de la EPAM au fost mai rapizi. M-au invitat imediat la un interviu. </span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Voiam să te întreb dacă a fost dificilă căutarea unui job, dar cred că putem trece peste această întrebare.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Voiam să te întreb dacă a fost dificilă căutarea unui job, dar cred că putem trece peste această întrebare. </span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Da. (Râde)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Da. (Râde) </span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Care este următorul tău pas? Ce cale vei urma?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Care este următorul tău pas? Ce cale vei urma?</span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Mediul React este momentan preferatul meu și mi-ar plăcea să învăț mai mult despre el în perioada următoare.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Mediul React este momentan preferatul meu și mi-ar plăcea să învăț mai mult despre el în perioada următoare. De asemenea, este un mare vis de-al meu să învăț să predau programarea într-un fel. Ținând cursuri sau luând parte la un program mai specific, nu știu cum încă, și nici nu știu cum se va întâmpla, dar sunt sigur că se va întâmpla într-un fel. </span></p>
+<p><strong><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Ca student bine experimentat, ai sfaturi de dat celor care de-abia s-au apucat de programare?&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Ca student bine experimentat, ai sfaturi de dat celor care de-abia s-au apucat de programare? </span></strong></p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Consider că este important să înțelegi că procesul de învățare nu poate fi accelerat. Programarea este o mare provocare și nu este ușoară la început. Dar odată ce ai pus mâna pe ea și îi înțelegi logica, totul devine clar. De la acel punct înainte, totul devine mai rapid. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Consider că este important să înțelegi că procesul de învățare nu poate fi accelerat. Programarea este o mare provocare și nu este ușoară la început. Dar odată ce ai pus mâna pe ea și îi înțelegi logica, totul devine clar. De la acel punct înainte, totul devine mai rapid. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata programare online la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><em><strong>În seria „Povești de succes CodeBerry” discutăm cu studenții noștri care deja și-au schimbat cariera și acum lucrează ca programatori. Dacă ești curios ce au făcut ca să reușească, fii pe fază pentru următoarele episoade! </strong></em></p>
+<p><em><strong>Ți-ar plăcea să înveți să programezi? Vino și încearcă primele noastre lecții în mod gratuit la <a href="https://codeberryschool.com/ro/" data-wpel-link="external" target="_blank" rel="external">Școala de Programare CodeBerry</a>! </strong></em></p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

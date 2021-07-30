@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/javascript-pl/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 04 Feb 2021 12:29:23 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Podstawy JavaScript &#8211; język JavaScript dla początkujących</title>
+		<link>/blog/pl/podstawy-javascript/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2020 12:02:01 +0000</pubDate>
+				<category><![CDATA[Języki programowania]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[język javascript]]></category>
+		<category><![CDATA[nauka]]></category>
+		<category><![CDATA[podstawy JavaScript]]></category>
+		<category><![CDATA[programowanie]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9919</guid>
+
+					<description><![CDATA[W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć. Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w Szkole Programowania CodeBerry. Języki programowania Tworzenie stron [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><div id="attachment_9794" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-9794" loading="lazy" class="wp-image-9794 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/javascript-4523100_1920-1024x576.jpg" alt="W artykule przedstawiamy najlepsze kursy JavaScript dostępne w Polsce. Dowiesz także się jaką role odgrywa JavaScript w tworzeniu stron www." width="1024" height="576" srcset="/blog/wp-content/uploads/2020/09/javascript-4523100_1920-1024x576.jpg 1024w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-300x169.jpg 300w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-768x432.jpg 768w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-1536x864.jpg 1536w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-1080x608.jpg 1080w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-9794" class="wp-caption-text">Image by <a href="https://mangomattermedia.com/" target="_blank" rel="noopener external" data-wpel-link="external">https://mangomattermedia.com/</a></p></div></p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry</strong> będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<h2><span id="Jezyki_programowania">Języki programowania</span></h2>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych – przewodnik dla początkujących</a>,</li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie – język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP – programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript &#8211; język JavaScript dla początkujących</a></li>
+</ul>
+<h3><b>Wstęp do</b><b> języka JavaScript</b></h3>
+<p><span style="font-weight: 400;">JavaScript jest językiem sieciowym. Prawie każda strona, którą odwiedzasz w swojej przeglądarce internetowej, będzie używać go w ten czy inny sposób, aby zapewnić odpowiednie doznania i komfort z użytkowania. Dlatego właśnie znajomość JavaScript jest tak pożądana wśród nowoczesnych programistów. Trudno jest znaleźć dobre zastępstwo dla tak elastycznego języka programowania, jeśli chce się stworzyć niezapomniane doświadczenia użytkowania, oparte na przeglądarce internetowej, zdolne do zaciekawienia klientów czy potencjalnych pracodawców. </span></p>
+<p><span style="font-weight: 400;">Chcesz stworzyć stronę internetową dla swojego szybko rozwijającego się biznesu tworzącego zabawne skarpetki dla psów? A co powiesz na doświadczenie VR w przeglądarce &#8211; zobaczyć, jak to jest odwiedzić dom swojej teściowej na Boże Narodzenie? Musisz nauczyć się JavaScript, jeśli chcesz zrealizować ambitne marzenia związane z przeglądarkami, a także wiele więcej.</span></p>
+<p><span style="font-weight: 400;">Jeśli coś z tego cię ciekawi (lub po prostu się nudzisz) &#8211; czytaj dalej, aby dowiedzieć się więcej o podstawach JavaScriptu i rozpocznij swoją podróż w kierunku zostania programistycznym ninja.</span></p>
+<h3><b>Zmienne w</b><b> JavaScript</b></h3>
+<p><span style="font-weight: 400;">Najlepszym miejscem na początek są zmienne. Zmienne są typem danych, w których programiści przechowują informacje &#8211; zwłaszcza takie, których program będzie potrzebować podczas pracy. Są one jak pudełka, do których można wkładać rzeczy. Programista może stworzyć zmienną w kodzie, wypełnić ją czymś (zadeklarować), a następnie uzyskać do niej dostęp w prosty sposób. W ten sposób informacja jest dostępna zawsze wtedy, gdy jest potrzebna.</span></p>
+<p><i><span style="font-weight: 400;">Więc, jak mogę stworzyć zmienną w kodzie?</span></i></p>
+<p><span style="font-weight: 400;">W ten sposób:</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable;</span></p>
+<p><i><span style="font-weight: 400;">A co to niby znaczy?!</span></i></p>
+<p><span style="font-weight: 400;">Cieszę się, że pytasz! Powyższy wiersz składa się z dwóch części, które łączą się, aby utworzyć zmienną. Podzielmy ją i dokonajmy jej analizy.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">W języku JavaScript jest to słowo zastrzeżone. W tym języku jest ich całkiem sporo i wszystkie mają swoje dedykowane zadania. Ten mówi programowi, że masz zamiar utworzyć zmienną.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">myCoolVariable</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to identyfikator zmiennej, jej nazwa. Może to być wszystko, od &#8222;kota&#8221; do &#8222;mojaSuperZmienna3&#8221; (ale lepiej nie nazywać ich w ten sposób!). Identyfikator zmiennej jest używany do odnoszenia się do niej w przyszłości, gdy jest ona potrzebna. Dobrą praktyką jest nadawanie swoim zmiennym nazw, które opisują ich działanie, więc jeśli masz zmienną, która zawiera twój wiek, to prawdopodobnie powinieneś ją nazwać myAge. Rób to konsekwentnie, a twoi koledzy programiści będą Cię szanować i kupować za to różne prezenty! </span></li>
+</ul>
+</li>
+</ul>
+<p><i><span style="font-weight: 400;">Dobra, fajnie, ale co dalej?</span></i></p>
+<p><span style="font-weight: 400;">Pamiętasz, że zmienne są jak pudełka? Powyższy kod tworzy pudełko, ale jeszcze niczego w nim nie włożyliśmy &#8211; to jest następny krok. Jednak zanim to zrobimy, słowo o typach danych.</span></p>
+<p><i><span style="font-weight: 400;">Jakich danych?</span></i></p>
+<p><span style="font-weight: 400;">Typy danych są różnymi rodzajami zmiennych, które można wytworzyć, w większości przypadków wszystkie języki programowania je posiadają. Niektóre języki są bardzo ścisłe, praktycznie nakazują Ci określić dokładnie jaki typ zmiennej tworzysz, a następnie musisz trzymać się tego przez cały czas! Na szczęście, JavaScript taki nie jest. Możesz stworzyć zmienną określonego typu w JavaScript, a następnie zmienić ją później w zależności od potrzeb czy własnej chęci, ponieważ wartości i typy zmiennych mogą być zmieniane w dowolnym momencie. Woohoo! Możesz sobie poszaleć.</span></p>
+<p><span style="font-weight: 400;">Oto niektóre z typów danych dostępnych dla programistów JavaScript.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Number</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Number (Liczba) określa zmienną o wartości liczbowej. Ten typ zmiennej może teoretycznie przechowywać wartości od -nieskończoności do +nieskończoności. Może również przechowywać specjalną wartość, NaN, która oznacza 'Not a Number' (Nie Liczba) i zdarza się, że kiedy popełnisz błąd w kodzie, to właśnie taką wartość otrzymasz. Biedny JavaScript.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">String</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">String (Ciąg) definiuje zmienną, która zawiera tekst, jak 'Witaj', 'Żegnaj' lub 'Pokaż mi swoje towary'.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boolean</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boolean definiuje zmienną, która może być prawdziwa lub fałszywa. Ten typ zmiennej jest często używany do podejmowania decyzji w kodzie. Czy powinienem stać, czy iść naprzód? Boolean ma dla Ciebie odpowiedź.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Dostępne są również inne typy danych i jeśli chcesz się im przyjrzeć, możesz </span><a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">kliknąć tutaj</span></a><span style="font-weight: 400;">. </span></p>
+<p><i><span style="font-weight: 400;">Nadawanie wartości zmiennym</span></i></p>
+<p><span style="font-weight: 400;">Zobaczmy, jak możesz włożyć dane do zmiennych. Poniżej znajduje się jakiś kod, który to robi.</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = ‘hello’;</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = true;</span></p>
+<p><span style="font-weight: 400;">Powyższy kod ustawia myCoolVariable trzy razy: raz na typ Number (10), raz na wartość Stringa (&#8222;hello&#8221;), a następnie na wartość boolean (true).</span></p>
+<p><i><span style="font-weight: 400;">Tworzenie i ustawianie zmiennej w tym samym czasie</span></i></p>
+<p><span style="font-weight: 400;">Możliwe jest również tworzenie i ustawienie wszystkich zmiennych naraz. Robisz to w ten sposób:</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">Tutaj stworzyliśmy myCoolVariable i nadaliśmy mu wartość 10 w jednej i tej samej linii. </span></p>
+<p><i><span style="font-weight: 400;">Odnoszenie się do zmiennej w przyszłości</span></i></p>
+<p><span style="font-weight: 400;">Tworzenie i ustawianie zmiennych jest świetne, ale prawdziwa moc przychodzi później &#8211; kiedy rzeczywiście ich używasz. Jak to wygląda? To proste! Użyj identyfikatora.</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">var myCoolVariableDouble = myCoolVariable + myCoolVariable;</span></p>
+<p><span style="font-weight: 400;">Tutaj tworzymy myCoolVariable i nadajemy mu wartość 10. Następnie tworzymy kolejną zmienną, myCoolVariableDouble i ustawiamy ją na wynik dodawania myCoolVariable do siebie. Tak więc teraz myCoolVariableDouble równa się 20 i mamy dwie zmienne w programie. Dwie! Lepiej biegnij po aparat!</span></p>
+<p><i><span style="font-weight: 400;">Dość już o zmiennych</span></i></p>
+<p><span style="font-weight: 400;">Zajęliśmy się podstawami zmiennych: ich tworzeniem, ustawianiem i odwoływaniem się do nich. Jednak w JavaScripcie jest o wiele więcej do zaprogramowania i odkrycia. Teraz gdy już znasz podstawy, możemy przejść do większych i lepszych rzeczy. Takich jak instrukcje if.</span></p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-9920" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1024x683.jpg" alt="Tak wygląda kod języka JavaScript" width="1024" height="683" srcset="/blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1024x683.jpg 1024w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-300x200.jpg 300w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-768x512.jpg 768w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1536x1024.jpg 1536w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1080x720.jpg 1080w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h3><b>Instrukcja If</b></h3>
+<p><span style="font-weight: 400;">Więc mamy opanowane zmienne, ale jak ich użyć do robienia fajnych i niesamowitych rzeczy? Cóż, jednym ze sposobów jest użycie instrukcji if.</span></p>
+<p><span style="font-weight: 400;">Instrukcja if jest sposobem, w jaki programista może wbudować w swój kod logikę decyzyjną. Oznacza to, że możemy powiedzieć naszym programom, aby zrobiły coś w oparciu o pewien warunek. Spójrzmy na przykład.</span></p>
+<p><span style="font-weight: 400;">If (10 &gt; 20) {</span></p>
+<p><span style="font-weight: 400;">  // Run this code</span></p>
+<p><span style="font-weight: 400;">} else {</span></p>
+<p><span style="font-weight: 400;">  // Run this code</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">{} definiują blok kodu. Niektóre narzędzia JavaScript, takie jak instrukcje if, wymagają ich w celu oddzielenia różnych bitów kodu.</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Rozbijmy to na części pierwsze.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">if</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To kolejne zastrzeżone słowo. Wskazuje ono programowi, że następujący kod będzie instrukcją if.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(10 &gt; 20)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ta część jest warunkiem. Program oceni warunek, a następnie na podstawie wyniku wybierze, co należy zrobić. Warunek zawsze podaje wartość typu boolean, tzn. prawdziwą lub fałszywą. Jeśli wyjście warunku jest prawdziwe, to instrukcja if uruchomi blok kodu bezpośrednio za zamykającym się nawiasem warunku. Jeśli oszacuje na wartość false, to zamiast tego zostanie uruchomiony kod w drugim bloku &#8211; co dokładnie stanie się tutaj, ponieważ 10 nie wynosi więcej od 20.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">else</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to kolejne słowo kluczowe JavaScript. Określa ono po prostu kod, który powinien zostać uruchomiony, jeśli warunek zostanie oceniony jako fałszywy. Blok else nie jest wymagany &#8211; jeśli go dodasz, to technicznie tworzysz instrukcję if else.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Miejmy nadzieję, że teraz jest jasne, dlaczego należy tutaj używać {}. Bez zdefiniowania bloku kodu, nie byłoby jasne dla programu, który kod powinien zostać uruchomiony, jeśli warunek zostanie oceniony jako prawdziwy lub fałszywy.</span></p>
+<p><span style="font-weight: 400;">Instrukcje if są jednym z podstawowych elementów składowych złożonych programów. Opanowanie ich jest niezbędne, aby stać się kompetentnym programistą JavaScript.</span></p>
+<h3></h3>
+<h3><b>Pętle</b></h3>
+<p><span style="font-weight: 400;">Kolejnym ważnym narzędziem są pętle. Jak sama nazwa wskazuje, te bity kodu uruchamiają się w kółko, aż do momentu spełnienia określonego warunku. Istnieje kilka różnych rodzajów pętli, ale przyjrzymy się tylko dwóm z nich. Podam linki do dalszej nauki, jeśli będziecie zainteresowani.</span></p>
+<p><i><span style="font-weight: 400;">Pętla For</span></i></p>
+<p><span style="font-weight: 400;">Najpierw zajmiemy się pętlą for. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">var numberOfIterations = 10;</span></p>
+<p><span style="font-weight: 400;">for (var i = 0; i &lt; numberOfIterations; i++) {</span></p>
+<p><span style="font-weight: 400;">  // do something 10 times</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Może to wyglądać trochę dziwnie w porównaniu z innymi rzeczami z tego tekstu, ale staje się naprawdę proste, gdy pozna się podstawy działania pętli. Dlatego teraz przejrzę każdą część kodu z osobna.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var numberOfIterations = 10</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to tylko kod do tworzenia i ustawiania zmiennej za jednym razem.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for (var i = 0; i &lt; numberOfIterations; i++)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kolejne zastrzeżone słowo. To mówi programowi, że masz zamiar napisać pętlę.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var i = 0</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzenie i ustawianie zmiennej ponownie. Jest to szczególny przypadek, ponieważ tworzymy ją w ramach pętli, dla tej pętli. Oznacza to, że zmienna i będzie istniała tylko przez czas trwania pętli. Gdy tylko zakończy się jej wykonywanie, zostanie ona odrzucona. Na zawsze. Żegnaj, zmienno i.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i &lt; numberOfIterations</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ta linia mówi, że pętla ma być wykonana tylko wtedy, gdy zmienna i jest mniejsza od wartości numberOfIterations (10).</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i++</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wreszcie, linia ta mówi pętli, że po wykonaniu pojedynczej iteracji, powinna ona zwiększyć wartość i o 1.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Mam nadzieję, że teraz całkiem łatwo jest zobaczyć, jak działa pętla for. Tworzy ona tymczasową zmienną do śledzenia ilości pętli, które zostały wykonane: (i), następnie definiuje warunek wykonania (tylko gdy i &lt; jakaś wartość), a następnie definiuje, jak ma się ona zwiększać z każdą pętlą (w tym przypadku +1, ale może to być naprawdę wszystko, co chcesz).</span></p>
+<p><span style="font-weight: 400;">Najwyraźniej, pętla for jest dobra, gdy wiesz, ile razy chcesz coś uruchomić. Jednak co w przypadku, gdy nie wiesz? Oto nadchodzi czas na pętlę while.</span></p>
+<p><i><span style="font-weight: 400;">Pętla While</span></i></p>
+<p><span style="font-weight: 400;">Pętla while jest prostsza niż pętla for. Po prostu bierze warunek i wykonuje go, dopóki warunek ten nie jest fałszywy. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">var shouldKeepRunning = true;</span></p>
+<p><span style="font-weight: 400;">while (shouldKeepRunning) {</span></p>
+<p><span style="font-weight: 400;">  // Do some code</span></p>
+<p><span style="font-weight: 400;">  shouldKeepRunning = false;</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">while</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mówimy programowi, że mamy zamiar napisać pętlę while.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(shouldKeepRunning)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To jest warunek. Pętla będzie działać, gdy wartość parametru shouldKeepRunning jest prawdziwa. To jest to samo co napisanie shouldKeepRunning == true, ale możemy to napisać w ten sposób, jako skrót.</span></li>
+</ul>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">JavaScript używa == do porównania dwóch wartości, dlatego bo = jest używany do ustawiania wartości. Więc jeśli piszesz if (10 == 20), to naprawdę mówisz &#8222;jeśli 10 jest równe 20, to[&#8230;]&#8221;.</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Ta pętla uruchomi się tylko raz, ponieważ natychmiast ustawiliśmy shouldKeepRunning na fałszywy przy pierwszej iteracji. Prawdopodobnie nigdy czegoś takiego nie zobaczysz w </span></p>
+<p><span style="font-weight: 400;"> swoim kodzie, ale ważne jest, aby upewnić się, że pętla w pewnym momencie się zatrzyma. Nie chcemy powodować globalnej katastrofy przy pomocy nigdy niezatrzymującej się pętli obliczeń!</span></p>
+<p><span style="font-weight: 400;">To są jedyne dwie pętle, które tutaj omówimy, ale jeśli chcesz dowiedzieć się więcej &#8211; możesz sprawdzić </span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ten link</span></a><span style="font-weight: 400;">. </span></p>
+<h3><b>Funkcje</b></h3>
+<p><span style="font-weight: 400;">Wszystkie narzędzia, jakie do tej pory poznaliśmy, są świetne do pisania małych i sekwencyjnych skryptów &#8211; ale co jeśli chcemy pisać większe programy, które w kółko korzystają z tych samych bitów kodu? Nie chcemy ciągle kopiować i wklejać fragmentów kodu, tylko po to, aby ponownie go wykorzystać. Tu właśnie pojawiają się funkcje.</span></p>
+<p><span style="font-weight: 400;">Funkcje są kawałkami kodu wielokrotnego użytku. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">function doSomething(argumentOne, argumentTwo) {</span></p>
+<p><span style="font-weight: 400;">  // do something here</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Przeanalizujmy ten kod:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">function</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jeszcze jedno słowo kluczowe JavaScript. Określa ono powstanie funkcji.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">doSomething</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to identyfikator funkcji. Tak jak identyfikator zmiennej, pozwala nam na odwołanie się do tej funkcji później, w kodzie.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(argumentOne, argumentTwo)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kod w nawiasach jest listą argumentów. Dwie wartości argumentOne i argumentTwo zachowują się jako zmienne wewnątrz funkcji i dlatego mogą być jako takie używane. Za sekundę zobaczymy, jak te zmienne zostaną ustawione.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Każdy kod zdefiniowany w bloku funkcji może być uruchamiany tyle razy, ile chcesz, po prostu wywołując funkcję. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">doSomething(10, 20);</span></p>
+<p><span style="font-weight: 400;">Używamy identyfikatora funkcji doSomething, a następnie podajemy dwa argumenty, 10 i 20. Wypełnią one następnie argumenty na liście argumentów funkcji, to jest argumentOne i argumentTwo. Kolejność ma znaczenie, więc argumentOne otrzyma wartość 10, a argumentTwo wartość 20.</span></p>
+<p><span style="font-weight: 400;">Funkcje działają tak samo, jak zmienne w tym sensie, że można odnieść się tylko do funkcji w obrębie danego bloku i wszystkich bloków dziecięcych, w których została ona zdefiniowana. Jeśli masz funkcję, która została utworzona np. wewnątrz bloku instrukcji if, to nie możesz jej używać poza tym blokiem.</span></p>
+<p><span style="font-weight: 400;">Funkcje są niezwykle ważnymi narzędziami, jeśli chcesz tworzyć złożone i dynamiczne programy &#8211; dlatego ważne jest, aby je ćwiczyć. Więcej informacji można znaleźć </span><a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">tutaj</span></a><span style="font-weight: 400;">.  </span></p>
+<h3><b>Podsumowanie</b></h3>
+<p><span style="font-weight: 400;">W tym artykule omówione zostały tylko niektóre z podstaw programowania w języku JavaScript &#8211; pozostało jeszcze sporo do poznania. Programowanie JavaScript jest umiejętnością praktyczną i można się go nauczyć tylko w praktyce. Istnieje wiele usług, które pomogą Ci to zrobić, takich jak CodeAcademy, CodeBerry, CodeSchool, Pluralsight i wiele innych. Mam nadzieję, że te informacje będą dla Was przydatne jako podręczny przewodnik na przyszłość. Powodzenia w karierze programistycznej!</span></p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry</strong> będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Języki programowania</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie – język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP – programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript &#8211; język JavaScript dla początkujących</a></li>
+</ul>
+<p>Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Programowanie &#8211; wszystko, co warto wiedzieć na początek</title>
+		<link>/blog/pl/programowanie-wszystko-co-warto-wiedziec-na-poczatek/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2018 10:18:32 +0000</pubDate>
+				<category><![CDATA[Artykuły]]></category>
+		<category><![CDATA[Podstawy programowania]]></category>
+		<category><![CDATA[binarny czlowiek co to znaczy]]></category>
+		<category><![CDATA[blog programowanie]]></category>
+		<category><![CDATA[co to jest programowanie]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[do programowania]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[jak czytać kod binarny]]></category>
+		<category><![CDATA[jaki język programowania wybrać 2018]]></category>
+		<category><![CDATA[jaki komputer dla programisty]]></category>
+		<category><![CDATA[jaki komputer do programowania]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[kod binarny nauka]]></category>
+		<category><![CDATA[komputer]]></category>
+		<category><![CDATA[komputer dla programisty]]></category>
+		<category><![CDATA[komputer do programowania]]></category>
+		<category><![CDATA[na czym polega praca programisty]]></category>
+		<category><![CDATA[na czym polega programowanie]]></category>
+		<category><![CDATA[praca zdalna programista]]></category>
+		<category><![CDATA[programista]]></category>
+		<category><![CDATA[programowanie blog]]></category>
+		<category><![CDATA[wprowadzenie do programowania]]></category>
+		<category><![CDATA[wyobraz sobie ze jestes dyrektorem szkoly musisz natychmiast]]></category>
+		<category><![CDATA[zrozumieć javascript. wprowadzenie do programowania]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6212</guid>
+
+					<description><![CDATA[W serii „Podstawy programowania” Szkoły Programowania CodeBerry omawiamy tematy związane z programowaniem – wszystkiego, co musisz wiedzieć na początek. Bądź na bieżąco z nowymi artykułami i znajdź odpowiedź na każde „co”, „dlaczego” i „jak”, które możesz mieć na temat kodowania! Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>W serii „Podstawy programowania” Szkoły Programowania CodeBerry omawiamy tematy związane z programowaniem – wszystkiego</strong>, co musisz wiedzieć na początek. Bądź na bieżąco z nowymi artykułami i znajdź odpowiedź na każde „co”, „dlaczego” i „jak”, które możesz mieć na temat kodowania!</p>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<h3>Podstawy programowania</h3>
+<ul>
+<li><strong>Programowanie – wszystko, co warto wiedzieć na początek</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/dlaczego-warto-uczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external">Dlaczego warto uczyć się programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/ile-zarabia-programista/" data-wpel-link="external" target="_blank" rel="external">Ile zarabia programista?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jak-nauczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external">Jak nauczyć się programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jaki-jezyk-programowania-wybrac/" data-wpel-link="external" target="_blank" rel="external">Jaki język programowania wybrać?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/ile-trwa-nauka-programowania/" data-wpel-link="external" target="_blank" rel="external">Ile trwa nauka programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9700&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Jak wybrać odpowiedni kurs programowania dla początkujących?</a></li>
+</ul>
+<p>&nbsp;</p>
+<h2><b>Czym jest programowanie?</b></h2>
+<p><span style="font-weight: 400;">Wyobraź sobie, że pracujesz dla międzynarodowej firmy i masz umówione spotkanie z biznesmenem z Chin. Oczywiście znasz Polski, ale nie umiesz ani słowa po chińsku. Jednakże znasz też angielski tak jak i biznesmen z Chin. Dlatego rozmawiacie ze sobą po angielsku.</span></p>
+<p>&nbsp;</p>
+<h2><b>Dokładnie tak samo używamy takich języków, jak HTML, CSS, JavaScript, Java itp., by komunikować się z komputerem w taki sposób, by się wzajemnie rozumieć.</b></h2>
+<p><span style="font-weight: 400;">Domyślnym językiem komputera jest kod binarny: niewyobrażalnie długie ciągi 0 i 1. Kod binarny nie jest łatwy dla ludzi ani w czytaniu, ani w pisaniu, dlatego wymyśliliśmy języki programowania, by móc porozumiewać się z komputerami. Jako że komputery nie znają żadnego ludzkiego języka, musieliśmy znaleźć kompromis. </span></p>
+<p><span style="font-weight: 400;">Jednakże w przeciwieństwie do ludzi, komputery nie są w stanie zrozumieć intencji nie wprost i zawsze traktują wszystko bardzo dosłownie. Jeśli każesz im coś zrobić, wykonają to dokładnie tak, jak im poleciłeś. Komputery nie są wystarczająco mądre, by samodzielnie podejmować decyzje i nie zrozumieją informacji podanych nie wprost. Dlatego to ty musisz zadbać o to, żeby instrukcje, które dajesz, były dokładne i jednoznaczne. </span></p>
+<p><span style="font-weight: 400;">Na przykład, jeśli poprosiłabym, żebyś zrobił mi </span><span style="font-weight: 400;">kanapkę</span><span style="font-weight: 400;">, mógłbyś zapytać mnie o składniki i czy chce ją na zimno, czy na ciepło. To mogą być wszystkie informacje, których potrzebujesz, aby przygotować pyszną kanapkę. Jednakże przygotowanie kanapki wymaga podjęcia wielu małych decyzji i wiedzy dotyczącej kanapek.</span></p>
+<p><span style="font-weight: 400;">Natomiast jeśli powiedziałbyś komputerowi, że chciałbyś ciepłą kanapkę z serem, szynką na żytnim chlebie i z majonezem, możesz otrzymać coś zupełnie innego niż zamawiałeś. Człowiek wie, że najpierw trzeba posmarować chleb majonezem, potem położyć na nim szynkę i ser, a następnie włożyć do piekarnika, by ją podgrzać.</span></p>
+<h2></h2>
+<h2><b>Ale skąd komputer ma to wiedzieć? </b></h2>
+<p><span style="font-weight: 400;">Pamiętaj, że powiedzieliśmy komputerowi “ciepłą kanapkę z serem, szynką na żytnim chlebie i z majonezem”. Dla komputera logiczne może być wykonanie tych rzeczy po kolei. Mógłby na przykład najpierw podgrzać każdy składnik oddzielnie, następnie ułożyć jeden na drugim i polać majonezem.</span></p>
+<h2></h2>
+<h2><b>Czy komputery nie powinny być mądrzejsze?</b></h2>
+<p><span style="font-weight: 400;">Cóż, komputery rozumieją wszystko bardzo </span><span style="font-weight: 400;">dosłownie</span><span style="font-weight: 400;">, musisz dokładnie określić każdy kolejny krok i ułożenie składników. Każdy wie, że miejsce składników jest w bułce, ale komputer nie ma takiej wiedzy z doświadczenia — on po prostu wykonuje twoje instrukcje. </span></p>
+<p><span style="font-weight: 400;">To jest kolejny powód, czemu nie możemy porozumiewać się z komputerami za pomocą ludzkiego języka, przynajmniej na razie. Nasze języki są po prostu zbyt niedokładne dla komputera. Poza tym słowa i zdania mogą mieć wiele znaczeń i komputer nie wiedziałby, o które z nich nam chodzi. Wszystko musi być powiedziane jednoznacznie. </span></p>
+<p><span style="font-weight: 400;">Prawda jest taka, że komputery wcale nie są mądre; po prostu umieją przetwarzać informacje szybciej niż my. </span></p>
+<p><img loading="lazy" class="size-full wp-image-6214 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/code.2-2.jpg" alt="" width="5472" height="3648" /></p>
+<h2></h2>
+<h2><b>Kim są programiści i czym się zajmują?</b></h2>
+<p><span style="font-weight: 400;">Pamiętaj, że nie możesz powiedzieć czegoś do komputera po prostu po polsku. Potrzebujesz programisty, który przetłumaczy twoją wypowiedź na język komputera. Programista komputerowy to osoba, przedkładająca twoje pomysły i </span><span style="font-weight: 400;">instrukcje</span><span style="font-weight: 400;"> na język komputera, tworzy strony internetowe, gry i inne programy, które widzisz na ekranie. </span></p>
+<p><span style="font-weight: 400;">Programistę możemy nazwać też poliglotą (osobą znającą wiele języków), który specjalizuje się w rozmawianiu z komputerami. Programista wie dokładnie co i w jaki sposób “powiedzieć”, żeby komputer go zrozumiał. Jeśli kiedykolwiek uczyłeś się drugiego języka, wiesz, że każdy język ma swoje słowa, gramatykę i reguły. Języki komputerowe też mają to wszystko, nazwane jednym zgrabnym słowem — syntax. </span></p>
+<p><span style="font-weight: 400;">Jeśli </span><span style="font-weight: 400;">źle wymówisz</span><span style="font-weight: 400;"> słowo, użyjesz złej odmiany lub popełnisz błąd gramatyczny, człowiek powinien zrozumieć cię bez problemu, jednak komputery są mniej wybaczające. Jeśli popełnisz błąd, komputer przestanie “słuchać” i zakończy program. </span></p>
+<p><span style="font-weight: 400;">To niezbyt miłe.</span></p>
+<p>&nbsp;</p>
+<h2><b>Do czego może ci się przydać programowanie?</b></h2>
+<p><span style="font-weight: 400;">Jeśli kiedykolwiek używałeś komputera, oglądałeś filmy online lub grałeś w gry na komputerze, może być ciężko w to uwierzyć, ale te wszystkie rzeczy to tak naprawdę ciągi liter i symboli. Siła komputera wynika z tego, że może przetworzyć tysiące linijek kodu w sekundę, co pozwala mu wykonywać bardzo skomplikowane instrukcje i robić niesamowite rzeczy.</span></p>
+<p><span style="font-weight: 400;">Zajmijmy się tym, co fajnego można zrobić programując:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzyć i projektować strony internetowe</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzyć aplikacje mobilne</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pisać programy na komputer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzyć gry</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzyć bazy danych i korzystać z nich</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rozwiązywać skomplikowane problemy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzyć sztuczną inteligencję</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Robić analizę statystyczną</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">I wiele więcej&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Jeśli interesuje cię którykolwiek z tych rzeczy lub chciałbyś robić je zawodowo, nauka programowania to podstawa, bez której się nie obejdziesz.</span></p>
+<p>&nbsp;</p>
+<h2><b>Co sprawia, że programowanie się przydaje i do czego?</b></h2>
+<p><span style="font-weight: 400;">Jako że coraz więcej rzeczy bazuje na komputerach, nasze codzienne życie powoli staje się od nich zależne, a wraz ze wzrostem ważności komputerów rośnie ważność programowania. </span></p>
+<p><span style="font-weight: 400;">W niedalekiej przyszłości wszystko będzie bazować na komputerach, a co za tym idzie, programowanie pomoże ci z twoją przyszłą karierą. Na przykład programowanie można wykorzystać przy pisaniu, analizie, zarządzaniu, inżynierii, pisaniu programów itd. </span></p>
+<p><span style="font-weight: 400;">Zwolennicy nauki programowania uważają je za uniwersalną umiejętność, którą powinien mieć każdy, podobnie jak umiejętność czytania, pisania i podstaw matematyki. Wiele rządów na świecie też jest takiego zdania i wprowadza obowiązkowe lekcje programowania do szkół. </span></p>
+<p><span style="font-weight: 400;">Podobnie jak my, rozumieją, że programowanie to przydatna umiejętność na obecnym rynku pracy.</span></p>
+<p>&nbsp;</p>
+<h2><b>Już wiem, że jest przydatne, ale na czym dokładnie polega programowanie?</b></h2>
+<p><span style="font-weight: 400;">Zwyczajny dzień z życia programisty nie jest tak porywający, jak to czasem widać w filmach czy serialach. </span></p>
+<p><span style="font-weight: 400;">Bycie dobrym programistą wymaga dużo koncentracji, cierpliwości i samodzielności. Jeśli nie umiesz usiąść i być skupionym przez wiele godzin, powinieneś zastanowić się, czy programowanie to na pewno coś dla ciebie. </span></p>
+<p><span style="font-weight: 400;">Niektóre zawody związane z programowaniem wymagają też bycia w gotowości cały czas, bo nigdy nie wiadomo kiedy znajdzie się nowy błąd, który trzeba będzie natychmiast naprawić. Jednak są też takie, które funkcjonują w zwykłym trybie od ósmej do szesnastej. </span></p>
+<p><span style="font-weight: 400;">Jednakże praca programisty może zapewnić ci swobodę, która jest niewyobrażalna w twojej obecnej pracy. Wiele firm zatrudnia programistów do pracy zdalnej, co oznacza, że możesz programować z domu, kawiarni, lub nawet z plaży — oczywiście, jeśli zasięg WiFi jest tak duży. </span></p>
+<h4></h4>
+<h2><b>Czy programowanie to coś naprawdę dla mnie?</b></h2>
+<p><span style="font-weight: 400;">Tutaj następuje zderzenie z rzeczywistością i moment, w którym będziesz musiał rozważyć wady i zalety pracy jako programista. Możliwe, że miałeś błędne wyobrażenie o programowaniu i nie brałeś pod uwagę, że to praca jak każda inna na rynku — to wciąż ciężka praca. Jednakże jeśli masz poniższe cechy i umiejętności, jest duża szansa, że programowanie to coś dla ciebie. </span></p>
+<p><span style="font-weight: 400;">Znaki, że programowanie nie jest dla ciebie:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Interesują cię tylko pieniądze, a nie komputery</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nie lubisz długo siedzieć</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Włosy stają ci dęba, gdy widzisz stronę kodu</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wolno piszesz na klawiaturze i robisz dużo błędów</span></li>
+</ul>
+<p><span style="font-weight: 400;">Znaki, że programowanie jest dla ciebie:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jesteś wnikliwy ORAZ kreatywny</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Zwracasz uwagę na detale</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Umiesz pracować zarówno z innymi, jak i samodzielnie</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Znasz dobrze podstawy angielskiego</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lubisz rozwiązywać problemy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lubisz uczyć się nowych rzeczy</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Szybko dostosowujesz się do zmian</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lubisz organizować informacje i automatyzować procesy</span></li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-large wp-image-7365" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-1024x683.jpg" alt="Programowanie to nie praca indywidualna, ale zespołowa" width="1024" height="683" srcset="/blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-1024x683.jpg 1024w, /blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-300x200.jpg 300w, /blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-768x512.jpg 768w, /blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-1536x1025.jpg 1536w, /blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2-1080x721.jpg 1080w, /blog/wp-content/uploads/2018/09/two-women-looking-at-the-code-at-laptop-1181263-1-2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h2></h2>
+<h2><b>Jaki język programowania wybrać i gdzie powinienem zacząć? </b></h2>
+<p><span style="font-weight: 400;">Wróćmy do naszego przykładu ze spotkaniem z chińskim biznesmenem.</span></p>
+<p><span style="font-weight: 400;">Mimo że w środowisku biznesowym angielski może być przydatny, w innych miejscach inne języki mogą okazać się lepsze. Na przykład, możesz potrzebować francuskiego do dyplomacji, greckiego do filozofii i niemieckiego do inżynierii. Zależy w czym chcesz się specjalizować, powinieneś wybrać odpowiedni język.</span></p>
+<p><span style="font-weight: 400;">W przyszłości możesz nie mieć czasu i możliwości, żeby nauczyć się nowego języka, dlatego musisz zawczasu podjąć właściwą decyzję, jakich języków się nauczysz. Najpierw musisz zdecydować, co jest dla ciebie ważne, co chcesz osiągnąć i jakie języki będą ci do tego potrzebne. </span></p>
+<p><span style="font-weight: 400;">Mimo że technicznie nie są to języki programowania, HTML i CSS są dobrym wyborem na początek, by poznać podstawy działania programowania. HTML i CSS są “językami znaczników”, których używamy, by formatować tekst. Bez HTML i CSS twoja przeglądarka nie wiedziałaby, czy te słowa powinny być pogrubione, kursywą itd.</span></p>
+<p><span style="font-weight: 400;">Nawet teraz pisząc ten artykuł używam HTML i CSS, by pomóc twojej przeglądarce zrozumieć co mam do powiedzenia.</span></p>
+<p>&nbsp;</p>
+<h2><b>TL;DR (Za długie; Nie przeczytałem)</b></h2>
+<p><span style="font-weight: 400;">Podsumowując, programowanie jest dobrze płatnym zawodem, który wymaga cierpliwości, zaangażowania i dbałości o szczegóły. </span></p>
+<p><span style="font-weight: 400;">Jeśli nie lubisz siedzenia długo przed komputerem i nie będziesz chciał poświęcać czasu na ćwiczenie, bardzo prawdopodobnie nie polubisz programowania i szybko je porzucisz. Również, jeśli motywuje cię myśl o pensji, a nie o samej pracy, raczej ci się nie uda. </span></p>
+<p><span style="font-weight: 400;">Jednakże, jeśli lubisz uczyć się nowych rzeczy, jesteś zmotywowany i nie poddajesz się bez walki, osiągniesz sukces niezależnie od twojego wykształcenia.</span></p>
+<p>&nbsp;</p>
+<p><strong>W serii „Podstawy programowania” Szkoły Programowania CodeBerry omawiamy tematy związane z programowaniem – wszystkiego</strong>, co musisz wiedzieć na początek. Bądź na bieżąco z nowymi artykułami i znajdź odpowiedź na każde „co”, „dlaczego” i „jak”, które możesz mieć na temat kodowania!</p>
+<h3>Podstawy programowania</h3>
+<ul>
+<li><strong>Programowanie – wszystko, co warto wiedzieć na początek</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/dlaczego-warto-uczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external">Dlaczego warto uczyć się programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/ile-zarabia-programista/" data-wpel-link="external" target="_blank" rel="external">Ile zarabia programista?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jak-nauczyc-sie-programowania/" data-wpel-link="external" target="_blank" rel="external">Jak nauczyć się programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jaki-jezyk-programowania-wybrac/" data-wpel-link="external" target="_blank" rel="external">Jaki język programowania wybrać?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/ile-trwa-nauka-programowania/" data-wpel-link="external" target="_blank" rel="external">Ile trwa nauka programowania?</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9700&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Jak wybrać odpowiedni kurs programowania dla początkujących?</a></li>
+</ul>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>10 Powodów czemu nauka programowania odmieni twoje życie</title>
+		<link>/blog/pl/10-powodow-czemu-nauka-programowania-odmieni-twoje-zycie/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2018 16:00:07 +0000</pubDate>
+				<category><![CDATA[Artykuły]]></category>
+		<category><![CDATA[10 powodów]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[blog o programowaniu]]></category>
+		<category><![CDATA[blog o życiu]]></category>
+		<category><![CDATA[blog programowanie]]></category>
+		<category><![CDATA[blog życie]]></category>
+		<category><![CDATA[blogi o życiu]]></category>
+		<category><![CDATA[blogi programistyczne]]></category>
+		<category><![CDATA[code berry]]></category>
+		<category><![CDATA[code bery]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[ile czasu zajmuje nauka programowania]]></category>
+		<category><![CDATA[ile zajmuje nauka programowania]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[moje życie nie ma sensu blog]]></category>
+		<category><![CDATA[nauka javascript]]></category>
+		<category><![CDATA[nauka programowania]]></category>
+		<category><![CDATA[nauka programowania ile czasu]]></category>
+		<category><![CDATA[odmieniłeś moje życie]]></category>
+		<category><![CDATA[programista]]></category>
+		<category><![CDATA[programowanie blog]]></category>
+		<category><![CDATA[programowanie na zlecenie]]></category>
+		<category><![CDATA[strony do nauki programowania]]></category>
+		<category><![CDATA[twoje zycie]]></category>
+		<category><![CDATA[życie w tajlandii blog]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6191</guid>
+
+					<description><![CDATA[Czy znasz to przygnębiające uczucie, gdy NIE MASZ POJĘCIA, co będzie dalej? Gdy nie dostajesz pracy mimo wytrwania do ostatniej rozmowy kwalifikacyjnej. Lub, gdy idziesz do pracy i znajdujesz zamknięte drzwi z napisem “Przepraszamy, trwa likwidacja.”? (To naprawdę zdarzyło się mojemu znajomemu.) Albo, gdy zaczynasz się zastanawiać nad sobą i orientujesz się, że nie masz [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Czy znasz to przygnębiające uczucie, gdy NIE MASZ POJĘCIA, co będzie dalej? Gdy nie dostajesz pracy mimo wytrwania do ostatniej rozmowy kwalifikacyjnej. Lub, gdy idziesz do pracy i znajdujesz zamknięte drzwi z napisem “Przepraszamy, trwa likwidacja.”? (To naprawdę zdarzyło się mojemu znajomemu.)</span></p>
+<p><span style="font-weight: 400;">Albo, gdy zaczynasz się zastanawiać nad sobą i orientujesz się, że nie masz pojęcia, co tak naprawdę chcesz robić w życiu? Jest zbyt wiele rzeczy, które można by robić. Zbyt wiele dróg. Wybierając karierę prawnika, porzucasz marzenie o pojechaniu w trasę koncertową jako muzyk. Wyjazd do Peru w góry, by podążać za swoją pasją do kawy, oznacza, że nie zostanie się projektantem wnętrz.</span></p>
+<p><span style="font-weight: 400;">A co jeśli nie musiałoby tak być? Oczywiście, zawsze będzie trzeba podejmować decyzje, ale może nie muszą one być tak czarno-białe? Może da się robić 3 rzeczy, które się uwielbia zamiast tylko 1, albo nawet poświęcić się swojej pasji I JEDNOCZEŚNIE zarabiać duże pieniądze?</span></p>
+<p><span style="font-weight: 400;">Laurence Bradford jest tego przykładem. Jak wielu z nas próbowała jakoś połączyć naukę, marzenia i zarabianie na życie, w ścieżkę kariery, która ma sens. To na co wpadła, jest bardzo inspirujące i jak zapewne się domyślasz, wymagało odlotowych umiejętności programistycznych.</span></p>
+<h3><b>Jak nauka programowania zmieniła 10 rzeczy w moim życiu</b></h3>
+<p><span style="font-weight: 400;">Gdy w maju 2012 roku ukończyłam studia jako historyczka, nie poczułam ulgi, że to koniec nauki. Zrozumiałam, że mam problem. Miałam niewiele ścieżek kariery do wyboru. Mogłam albo wrócić na dłużej na studia, albo zmienić branżę.</span></p>
+<p><span style="font-weight: 400;">Zamiast podejmować decyzję, zdecydowałam się pojechać do Tajlandii i uczyć tam angielskiego. Jak to zwykle w życiu bywa, reszta stała się sama. Mój blog podróżniczy sprawił, że poznałam WordPress, który później doprowadził mnie do bardziej zaawansowanego programowania stron.</span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-6192 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/08/10-reasons-1.jpg" alt="" width="768" height="797" /></p>
+<p><span style="font-weight: 400;">Prawie od razu zaczęłam się uczyć CSS — bardzo chciałam zrozumieć i poprawić wygląd mojego bloga podróżniczego. Przez to poznałam też Bootstrap (responsywną bibliotekę front-endu), bo wtedy wygląd mojego bloga był napisany z jego pomocą. Co więcej, do dzisiaj często używam Bootstrapa!</span></p>
+<p><span style="font-weight: 400;">Dopiero gdy wróciłam z Tajlandii, zaczęłam się uczyć średniozaawansowanych i zaawansowanych technik. Głównie dzięki lekcjom na żywo i warsztatom dostępnym w mojej okolicy.</span></p>
+<p><span style="font-weight: 400;">Na początku byłam tak głodna wiedzy, że chciałam spróbować wszystkiego, do tego stopnia, że zapisywałam się na wiele warsztatów z przeróżnych tematów (głównie przez </span><a href="http://www.girldevelopit.com/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Girl Develop It</span></a><span style="font-weight: 400;">). Ostatecznie udało mi się skończyć 7 kursów w 3 miesiące. Niektóre z ich tematów to Photoshop, SQL, JavaScript, Ruby on Rails i wiele więcej.</span></p>
+<p><span style="font-weight: 400;">Teraz jestem bardziej skoncentrowana na jednym. (Na całe szczęście!) Zajmuję się głównie WordPress, front-endem (np. HTML, CSS oraz ostatnio Sass, Stylus i JavaScript), oraz oczywiście Meteor-em, rozbudowanym zbiorem bibliotek do JavaScript.</span></p>
+<p><span style="font-weight: 400;">Mimo wszystko nie żałuję eksperymentowania na początku. Z niektórymi rzeczami rzeczywiście poczułam “Wow, to nie dla mnie”, a z innymi miałam zupełnie odwrotnie. Na przykład stylizowanie stron z pomocą CSS i inne front-endowe zadania zawsze sprawiały mi przyjemność.</span></p>
+<p><span style="font-weight: 400;">Nie mam wątpliwości, że nauka programowania, a właściwie nauczenie się pisania stron internetowych, a teraz też małych aplikacji sieciowych, zmieniło moje życie na lepsze.</span></p>
+<p><span style="font-weight: 400;">Nie tylko wpłynęło to na moją karierę, ale również na moje życie prywatne i to w taki sposób, którego nie mogłam się spodziewać, gdy dwa lata temu zaczynałam bawić się WordPress.</span></p>
+<p><span style="font-weight: 400;">Oto dziesięć rzeczy, które zmieniły się w moim życiu, odkąd nauczyłam się pisać strony internetowe (i teraz również aplikacje sieciowe):</span></p>
+<h3><b>1. Sama układam swój plan</b></h3>
+<p><span style="font-weight: 400;">Każdy, kto rezygnuje z pracy typu 8 &#8211; 16 chwali sobie ten aspekt wolności.</span></p>
+<p><span style="font-weight: 400;">W końcu to oczywiste, że jak sam jesteś swoim pracodawcom, to </span><b>sam decydujesz o swoim planie dnia.</b></p>
+<p><span style="font-weight: 400;">Oczywiście, jak zawsze są terminy, które trzeba dotrzymać. Są spotkania, na których trzeba być. </span><i><span style="font-weight: 400;">Jednak wciąż sama decydujesz kiedy, gdzie i jak się odbywają.</span></i></p>
+<p><span style="font-weight: 400;">Dawniej, nawet jak uczyłam w Tajlandii, musiałam być w określonym miejscu, o określonej godzinie — od</span><i><span style="font-weight: 400;"> poniedziałku do piątku</span></i><span style="font-weight: 400;">. Teraz, lubię od czasu do czasu zrobić sobie dzień wolny w środku tygodnia i odpracować go w sobotę.</span></p>
+<h3><b>2. Zarabiam więcej, pracuję mniej</b></h3>
+<p><span style="font-weight: 400;">Mając tylko dwa lata doświadczenia w świecie programowania sieciowego, wciąż jestem względnym nowicjuszem. </span><b>Dlatego moje ceny nie są zbyt wysokie.</b></p>
+<p><span style="font-weight: 400;">Jednakże wielu deweloperów z większym doświadczeniem zarabia nawet $100 za godzinę pracy jako freelancer albo na zlecenie. A gdy ma się kontrakt godzinowy, praktycznie nie ma żadnych ograniczeń. (Widziałam konsultantów od stron internetowych zarabiających dużo więcej niż $100 za godzinę. Oczywiście byli to eksperci, mający zazwyczaj ponad 10 lat doświadczenia i portfolio takich projektów, które usprawiedliwiały taką cenę.)</span></p>
+<p><span style="font-weight: 400;">W każdym razie im więcej umiejętności technicznych zdobywam, tym więcej zarabiam za godzinę.</span></p>
+<p><span style="font-weight: 400;">Właśnie dzięki temu mogę teraz </span><b>pracować mniej godzin w tygodniu i wciąż zarabiać porównywanie do tego ile dostałabym w innym zawodzie.</b></p>
+<h3><b>3. Mogę odrzucać oferty pracy</b></h3>
+<p><span style="font-weight: 400;">Pamiętam jak jeszcze nie tak dawno temu, brałam każde zlecenie i robiłam każdy projekt, które wpadły mi w ręce. Nie zważając na to, że zapłata była daleka od wymarzonej.</span></p>
+<p><span style="font-weight: 400;">Jednakże odkąd moje umiejętności deweloperskie się poprawiły, jest to tylko wspomnienie. Teraz mogę bez wahania i martwienia się powiedzieć “Nie, dziękuję”, jeśli proponowane zadanie mnie nie interesuje. </span><b>Po prostu mam pewność, że nie będę musiała długo czekać na nowe propozycje.</b></p>
+<h3><b>4. Ludzie przychodzą do MNIE, pytając, czy nie chciałabym dla NICH pracować</b></h3>
+<p><span style="font-weight: 400;">Kto by pomyślał, że do mnie, zwykłej dziewczyny z Bethlehem w Pensylwanii, </span><b>będą pisać ludzie z całego świata, z prośbami bym dołączyła do ich zespołów.</b></p>
+<p><span style="font-weight: 400;">Prawda jest taka, że </span><i><span style="font-weight: 400;">wcale nie jestem wyjątkiem.</span></i></p>
+<p><span style="font-weight: 400;">Gdy jesteś deweloperem albo programistą cały czas dostajesz wiadomości z propozycjami pracy od rekruterów, ludzi z HR., różnych firm itd.</span></p>
+<p><span style="font-weight: 400;">Jako ciekawostkę dodam, że widziałam online kilka CV i profili na LinkedIn kilku profesjonalistów, na których było wyraźnie zaznaczone, że </span><b>aktualnie nie szukają pracy.</b></p>
+<p><span style="font-weight: 400;">To oznacza, że deweloperzy i programiści są do tego stopnia zasypywani ofertami pracy, że muszą wprost pisać, że </span><b>nie są zainteresowani nowymi możliwościami pracy. </b><span style="font-weight: 400;">Proszą nawet, </span><b>żeby się z nimi nie kontaktować. </b><span style="font-weight: 400;">Szczerze, w jakiej innej branży dzieje się coś takiego?</span></p>
+<h3><b>5. Nigdy nie muszę męczyć się z tymi okropnymi podaniami o pracę online</b></h3>
+<p><span style="font-weight: 400;">Kolejną zaletą ofert, o które nie prosiłam, jest pominięcie całego męczącego procesu aplikowania o pracę online.</span></p>
+<p><span style="font-weight: 400;">Dbam, o to jakich mam znajomych na LinkedIn oraz żeby mój profil był solidny i zachęcający. Dzięki temu jestem postrachem tych wyczerpujących formularzy zgłoszeniowych. Tych, które zadają mnóstwo pytań, każą ci wysyłać tonę załączników i CV oraz po prostu zajmują dużo czasu.</span></p>
+<p><span style="font-weight: 400;">Na szczęście, im więcej ma się doświadczenia, tym bardziej można o nich zapomnieć. </span><i><span style="font-weight: 400;">Co bardzo mnie cieszy!</span></i></p>
+<h3><b>6. Mam więcej czasu na swoje zainteresowania</b></h3>
+<p><span style="font-weight: 400;">Skoro mogę pracować </span><b>mniej </b><span style="font-weight: 400;">godzin w ciągu tygodnia, oznacza to, że mam </span><b>więcej</b><span style="font-weight: 400;"> czasu na inne rzeczy, jak np. hobby i rodzinę.</span></p>
+<p><span style="font-weight: 400;">Osobiście lubię pisać, tak bardzo, jak lubię podróżować.</span></p>
+<p><span style="font-weight: 400;">Dlatego w tym wolnym czasie piszę </span><a href="http://learntocodewith.me/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">bloga</span></a><span style="font-weight: 400;"> skierowanego do ludzi zaczynających naukę programowania. </span><i><span style="font-weight: 400;">(Pasuje, nie?)</span></i></p>
+<p><span style="font-weight: 400;">Okazało się, że pisanie go sprawiło mi wiele przyjemności, nie mówiąc już o innych korzyściach, jak poznanie nowych ludzi i innych związanych z moją pracą.</span></p>
+<p><span style="font-weight: 400;">Niemniej, gdybym nie miała tego wolnego czasu, </span><b>nie mogłabym napisać tamtego bloga. </b><span style="font-weight: 400;">A jeśli bym go nie napisała, to nie wiem, czym bym się dziś zajmowała. Jak dramatycznie by to nie brzmiało, </span><i><span style="font-weight: 400;">nie umiem sobie wyobrazić życia bez tego bloga.</span></i></p>
+<h3><b>7. Mogę pracować i pracuję zdalnie</b></h3>
+<p><span style="font-weight: 400;">Gdy twoja praca związana jest z technologią, dużo łatwiej jest pracować online, albo zdalnie. Nie ważne gdzie jesteś — na wakacjach, w domu, czy w kawiarni — póki</span><i><span style="font-weight: 400;"> wykonujesz swoje zadania.</span></i></p>
+<p><i><span style="font-weight: 400;">Wcześniej</span></i><span style="font-weight: 400;"> już wspominałam, że lubię podróżować, zwłaszcza w Azji wschodniej. (Do dziś odwiedziłam tam 13 różnych krajów.)</span></p>
+<p><span style="font-weight: 400;">W każdym razie, po uczeniu w Tajlandii wróciłam tam i od stycznia do kwietnia 2014 odwiedziłam </span><b>6 różnych krajów i 15 różnych miast. </b><span style="font-weight: 400;">To było wspaniałe przeżycie.</span></p>
+<p><span style="font-weight: 400;">Pewnie zastanawiasz się jakim cudem było mnie stać na trzymiesięczny wyjazd. </span><b>Nie zgadniesz. </b><span style="font-weight: 400;">Cały czas pracowałam!</span></p>
+<p><span style="font-weight: 400;">Oczywiście dziennie pracowałam mniej, w porównaniu do tego, jak pracuję w domu. </span><i><span style="font-weight: 400;">Ale to był świadomy wybór. </span></i><b>Mogłam </b><span style="font-weight: 400;">pracować cały czas, gdy podróżowałam. Jednak wolałam poświęcić się mojej podróży, a nie pracy.</span></p>
+<p><span style="font-weight: 400;">Gdybym nie miała tych umiejętności ułatwiających znalezienie zatrudnienia, </span><b>nigdy nie mogłabym sobie pozwolić na trzymiesięczną eksplorację. </b><span style="font-weight: 400;">Jakich umiejętności? HTML, CSS oraz budowania stron w WordPress.</span></p>
+<h3><b>8. Każdy pomysł mogę łatwo wcielić w życie</b></h3>
+<p><span style="font-weight: 400;">Jeśli jesteś podobny do mnie, pewnie ciągle masz nowe świetne pomysły, które chciałbyś </span><b>jak najszybciej</b><span style="font-weight: 400;"> zrealizować.</span></p>
+<p><span style="font-weight: 400;">Umiejętność budowania stron internetowych i prototypów aplikacji sieciowych daje mi taką możliwość, bez zatrudniania kogokolwiek. (Co też pomaga zaoszczędzić pieniądze.)</span></p>
+<p><span style="font-weight: 400;">Właśnie te dodatkowe projekty sprawiły, że nauczyłam się robić własne aplikacje sieciowe, </span><i><span style="font-weight: 400;">a nie tylko strony WordPress o e-commerce.</span></i></p>
+<p><span style="font-weight: 400;">Sądzę, że 98% obecnie używanych stron można uznać za aplikacje sieciowe. Moje blogi, strony informacyjne i e-commerce </span><i><span style="font-weight: 400;">są </span></i><span style="font-weight: 400;">takimi aplikacjami. Jednakże systemy zarządzające treścią (CMS) takie jak WordPress lub Magento (który przydaje się do e-commerce) umożliwiają każdemu zbudowanie strony, nawet najbardziej początkującym. (Na marginesie: istnieje mnóstwo CMS-ów.)</span></p>
+<p><span style="font-weight: 400;">Mimo swoich zalet CMS-y mają też swoje ograniczenia. Często jest to więcej niż ograniczenia, jest to zbędny balast. (Tona funkcji i dodatków, których nawet nie potrzebujesz.)</span></p>
+<p><span style="font-weight: 400;">Niedawno próbowałam zrobić aplikację podobną do quizu online. W skrócie każdy może wejść na stronę quizu, rozwiązać go i otrzymać wynik na podstawie odpowiedzi.</span></p>
+<p><span style="font-weight: 400;">W tym wypadku cały quiz mógłby działać w przeglądarce z pomocą tylko JavaScriptu. Ale przez to wynik skasowałby się po opuszczeniu strony — bo</span><b> nic nie zostało zapisane w bazie danych.</b></p>
+<p><span style="font-weight: 400;">Zależnie od tego, jakiej definicji użyć, ten quiz albo jest, albo nie jest aplikacją sieciową.</span></p>
+<p><span style="font-weight: 400;">Niezależnie od tego, jeśli dodamy do niego konta dla użytkowników, </span><b>na pewno będzie to aplikacja sieciowa. </b><span style="font-weight: 400;">Bo dzięki temu informacje o quizie wyniku każdego użytkownika będzie zapisana w bazie danych. Dzięki czemu użytkownik może zamknąć stronę i wrócić do niej później, a gdy się zaloguje zobaczy swój wynik.</span></p>
+<h3><b>9. Jestem częścią Super Tajnego Klubu (a.k.a. społeczności technicznej)</b></h3>
+<p><span style="font-weight: 400;">Umiejętność tworzenia własnych narzędzi jest super.</span></p>
+<p><span style="font-weight: 400;">Wiesz, co jeszcze jest super? Rozumienie ludzi rozmawiających o różnych technicznych rzeczach. </span><i><span style="font-weight: 400;">To zupełnie jak bycie częścią jakiejś tajnej organizacji. Dodatkowo widzę</span></i><span style="font-weight: 400;"> dzięki temu, ile już umiem.</span></p>
+<p><span style="font-weight: 400;">Dla przykładu kilka miesięcy temu przechodziłam koło MIT w Cambridge. Za mną szło dwóch studentów MIT, rozmawiających o różnicy między pisaniem jakiegoś programu w Pythonie, a w jakimś innym języku. </span><i><span style="font-weight: 400;">A ja zrozumiałam sens ich rozmowy.</span></i></p>
+<p><span style="font-weight: 400;">Ja, rozumiejąca rozmowę dwóch studentów z MIT. </span><i><span style="font-weight: 400;">Kto by pomyślał?</span></i></p>
+<p><span style="font-weight: 400;">Nauka programowania może być też frustrująca. </span><b>Ale w tamtym momencie poczułam, że coś udało mi się osiągnąć — naprawdę</b><span style="font-weight: 400;"> nauczyłam się </span><i><span style="font-weight: 400;">czegoś</span></i><span style="font-weight: 400;">.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">(Mimo tych wszystkich momentów, gdy myślałam: “Nic nie rozumiem!”)</span></p>
+<p><span style="font-weight: 400;">Co więcej, rozumienie tych rozmów, pozwala mi brać udział w nich na lokalnych spotkaniach i w podobnych sytuacjach. Co samo w sobie ma kilka korzyści — między innymi możliwość znalezienia pracy.</span></p>
+<h3><b>10. Jestem pewna siebie i czuję, że coś umiem</b></h3>
+<p><span style="font-weight: 400;">Nauka programowania i doskonalenie moich umiejętności technicznych pomogło mi zdobyć poczucie, że mogę na sobie polegać. </span><i><span style="font-weight: 400;">Umiem sama okiełznać tę dziką bestię, jaką jest internet.</span></i></p>
+<p><span style="font-weight: 400;">Dodatkowo skończeniu pierwszej strony lub aplikacji (nawet prostej) towarzyszy uczucie spełnienia. Nawet dotarcie do jakiegoś etapu w projekcie lub rozwiązanie jakiegoś problemu, które trwało kilka dni może dać poczucie osiągnięcia czegoś.</span></p>
+<p><b>To wszystko bardzo dodaje siły i pewności siebie.</b></p>
+<p><span style="font-weight: 400;">Każdy uczy się pisania stron i aplikacji z innego powodu. Gdy pierwszy raz zdecydowałam się na naukę HTML, CSS i innych podstaw, robiłam to głównie, żeby zarobić. Widziałam wszystkie te ogłoszenia o pracę szukające web deweloperów. Widziałam też umiejętności techniczne w innych ogłoszeniach. </span><i><span style="font-weight: 400;">Nauczenie się tych rzeczy miało sens.</span></i></p>
+<p><span style="font-weight: 400;">Jednakże, gdy poznałam to lepiej, </span><i><span style="font-weight: 400;">pieniądze zeszły na drugi plan.</span></i></p>
+<p><span style="font-weight: 400;">Teraz moją główną motywacją jest chęć nauczenia się więcej, nie zarabiania</span><b> więcej.</b></p>
+<p><span style="font-weight: 400;">Motywuje mnie tworzenie własnych stron / aplikacji, nauka z nowych doświadczeń i pomaganie innym. </span><b>Dokładnie tymi rzeczami zajmuje się na co dzień.</b></p>
+<p><span style="font-weight: 400;">I nie mogłabym być bardziej szczęśliwa.</span></p>
+<p>Laurence Bradford &#8211;<a href="https://skillcrush.com/2015/01/28/laurence-bradford-10-reasons/" target="_blank" rel="noopener external" data-wpel-link="external">10 Life-Changing Reasons You Should Learn to Code</a></p>
+<p><span style="font-weight: 400;">Jeśli potrzebujesz więcej wskazówek lub porad, zachęcamy również do zapoznania się z innymi artykułami, które szczegółowo opisują nasze doświadczenia i pomysły, jak łatwo i szybko wejść w świat IT!</span></p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/porady-przydatne-przy-rozmowie-o-prace-zyskaj-pewnosc-siebie-i-zostan-programista/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Porady przydatne przy rozmowie o pracę – zyskaj pewność siebie i zostań programistą</span></a></li>
+<li><a href="https://codeberryschool.com/blog/pl/10-powodow-czemu-nauka-programowania-odmieni-twoje-zycie/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Rzeczy, które chciałbym, aby ktoś mi powiedział, kiedy uczyłem się programowania – I czego się nauczyłem ucząc innych</span></a></li>
+</ul>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Od Pythona w szkole do pracy jako front end deweloper w EPAM — historia Attila Blascsák</title>
+		<link>/blog/pl/droga-do-pracy-front-end-deweloper/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 14 Dec 2016 03:49:47 +0000</pubDate>
+				<category><![CDATA[Wywiady]]></category>
+		<category><![CDATA[Attila Balascsák]]></category>
+		<category><![CDATA[attila historia]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[deweloper]]></category>
+		<category><![CDATA[EPAM]]></category>
+		<category><![CDATA[epam praca]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[jak szukać pracy w szkole]]></category>
+		<category><![CDATA[jak zostać deweloperem]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[praca programista python]]></category>
+		<category><![CDATA[programista]]></category>
+		<category><![CDATA[programista python praca]]></category>
+		<category><![CDATA[projektowanie stron www]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[pythona]]></category>
+		<category><![CDATA[twórca stron internetowych]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=4743</guid>
+
+					<description><![CDATA[Attila Blascsák jest jednym z pierwszych użytkowników CodeBerry, któremu udało się zmienić jego życie i zostać deweloperem po nauce u nas. Zapytaliśmy go, jak mu się to udało, czego się nauczył i czy ciężko jest rozpocząć karierę jako młodszy front end deweloper. Gdyby parę miesięcy temu ktoś zapytał Cię o twój zawód, co byś odpowiedział? Zazwyczaj [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Attila Blascsák jest jednym z pierwszych użytkowników CodeBerry, któremu udało się zmienić jego życie i zostać deweloperem po nauce u nas. Zapytaliśmy go, jak mu się to udało, czego się nauczył i czy ciężko jest znaleźć posadę młodszego dewelopera.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}"><strong>Attila Blascsák</strong> jest jednym z pierwszych użytkowników <a href="https://codeberryschool.com/pl/" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a>, któremu udało się zmienić jego życie i zostać deweloperem po nauce u nas. Zapytaliśmy go, jak mu się to udało, czego się nauczył i czy ciężko</span><span style="font-weight: 400;"> </span><span style="font-weight: 400;">jest rozpocząć karierę jako młodszy front end deweloper.</span></p>
+<h4><strong>Gdyby parę miesięcy temu ktoś zapytał Cię o twój zawód, co byś odpowiedział?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zazwyczaj mówiłem, że moim zajęciem jest podłączanie do sieci, czyli pomaganie dużym firmom połączyć się z internetem. Nasze zadania polegały na dopilnowniu, żeby router dotarł do klienta, a następnie działał.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Zazwyczaj mówiłem, że moim zajęciem jest podłączanie do sieci, czyli pomaganie dużym firmom połączyć się z internetem. Nasze zadania polegały na dopilnowaniu, żeby router dotarł do klienta, a następnie działał. </span></p>
+<h4><strong>A co odpowiadasz teraz?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Zajmuję się front endem w EPAM. Pracuję w dużym zespole, rozwijającym aplikacje polegające głównie na front endzie oraz projektującym interfejs użytkownika. Codziennie korzystam z HTML, CSS i JavaScriptu.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}"><span style="font-weight: 400;">Pracuję jako front end deweloper w <a href="https://www.epam.com/" target="_blank" rel="noopener external" data-wpel-link="external">EPAM</a>. Jestem zatrudniony</span> w dużym zespole, rozwijającym aplikacje polegające głównie na front endzie oraz projektującym interfejs użytkownika. Codziennie korzystam z HTML, CSS i JavaScriptu. </span></p>
+<h4><strong>Brzmi wspaniale! Czyli programowanie nie było dla ciebie czymś zupełnie nowym? Miałeś okazję już wcześniej programować?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tak, HTML i CSS pierwszy raz używałem w szkole podstawowej. Później w liceum cały czas używaliśmy Pythona, ucząc się z zabytkowej książki. Korzystałem z niej dopóki biblioteki używane w niej nie przestały istnieć i przez to zadania stały się niewykonalne. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Tak, HTML i CSS pierwszy raz używałem w szkole podstawowej. Później w liceum cały czas używaliśmy Pythona, ucząc się z zabytkowej książki. Korzystałem z niej, dopóki biblioteki używane w niej nie przestały istnieć i przez to zadania stały się niewykonalne. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span></p>
+<h4><strong>Skąd pomysł na tworzenie stron internetowych </strong><b>i pracę jako front end deweloper?</b></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Podczas mojego ostatniego roku w liceum zostałem poproszony przez ludzi potrzebujących twórców stron internetowych do swojego startupu o współpracę. Wtedy nie miałem pojęcia, co będę miał robić, ale się zgodziłem i szybko zrozumiałem, na czym to polega.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Podczas mojego ostatniego roku w liceum zostałem poproszony przez ludzi potrzebujących twórców stron internetowych do swojego start upu o współpracę. Wtedy nie miałem pojęcia, co będę miał robić, ale się zgodziłem i szybko zrozumiałem, na czym to polega. W końcu skończyliśmy ten projekt, ale pisanie stron na tyle mnie zainteresowało, że samodzielnie kontynuowałem naukę. Wiosną doszedłem do ściany, zrozumiałem, że sam się więcej nie nauczę, potrzebowałem nauczyciela. I wtedy znalazłem was. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </span></p>
+<h4><strong>Jak długo uczyłeś się z CodeBerry?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Od czerwca 2016.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Od czerwca 2016.</span></p>
+<h4><strong>I jak ci się podobało?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Szczerze mówiąc, wiele z tego już wiedziałem, ale kurs był świetnym uporządkowaniem mojej wiedzy. Mentorzy bardzo mi pomogli — to była chyba najlepsza część tego kursu. Mieć kogoś z kim można omówić swoje problemy to wielki plus.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Szczerze mówiąc, wiele z tego już wiedziałem, ale kurs był świetnym uporządkowaniem mojej wiedzy. Mentorzy bardzo mi pomogli — to była chyba najlepsza część tego kursu. Mieć kogoś z kim można omówić swoje problemy to wielki plus. </span></p>
+<h4><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Miło to słyszeć. Teraz zaczyna się jesień, to znaczy, że w trzy miesiące nauczyłeś się wystarczająco, żeby znaleźć pracę. Ile czasu ci to zajęło? (Wywiad odbył się we wrześniu 2016)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}"><strong>Miło to słyszeć. Teraz zaczyna się jesień, to znaczy, że w trzy miesiące nauczyłeś się wystarczająco, żeby znaleźć pracę. Ile czasu ci to zajęło?</strong> (Wywiad odbył się we wrześniu 2016)</span></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tak na prawdę nawet nie zdecydowałem się jeszcze na szukanie pracy. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Tak naprawdę nawet nie zdecydowałem się jeszcze na szukanie pracy. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Zrobiłem profil na LinkedIn, gdzie napisałem, że uczę się, by zostać młodszym deweloperem i dodałem moje umiejętności. Dwa tygodnie później EPAM skontaktował się ze mną.</span><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tak na prawdę nawet nie zdecydowałem się jeszcze na szukanie pracy. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}"> Chciałem najpierw zrobić portfolio, zanim zacząłbym szukać pracy, ale EPAM był szybszy. Od razu zaprosili mnie na rozmowę. </span></p>
+<h4><strong>Chciałem zapytać, czy szukanie było ciężkie, ale rozumiem, że możemy pominąć to pytanie.</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Tak. (Śmieje się)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Tak. (Śmieje się)</span></p>
+<h4><strong>Co jest twoim następnym krokiem? W jakim kierunku planujesz iść?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Środowisko React jest moim aktualnym ulubieńcem, chciałbym się o nim więcej dowiedzić w najbliższym czasie.&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Środowisko React jest moim aktualnym ulubieńcem, chciałbym się o nim więcej dowiedzieć w najbliższym czasie. Moim wielkim marzeniem jest uczenie programowania. Prowadzenie wykładów albo udział w jakimś programie, jeszcze nie wiem dokładnie w jaki sposób, ale na pewno kiedyś się to stanie. </span></p>
+<h4><strong>Jako doświadczony uczeń czy masz jakieś wskazówki dla tych, którzy dopiero zaczynają programować?</strong></h4>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Myślę, że warto zrozumieć, że proces nauki można przyśpieszyć. Programowanie to duże wyzwanie, niełatwe na początku. Jednak gdy w końcu zrozumiesz kryjącą się za nim logikę, wszystko staje się jasne. Od tego momentu idzie już dużo szybciej. :)&quot;}" data-sheets-userformat="{&quot;2&quot;:384,&quot;10&quot;:1,&quot;11&quot;:3}">Myślę, że warto zrozumieć, że proces nauki można przyśpieszyć. Programowanie to duże wyzwanie, niełatwe na początku. Jednak gdy w końcu zrozumiesz kryjącą się za nim logikę, wszystko staje się jasne. Od tego momentu idzie już dużo szybciej. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>&nbsp;</p>
+<p><em><strong>W <a href="https://codeberryschool.com/blog/pl/category/wywiady/" data-wpel-link="external" target="_blank" rel="external">&#8222;Historiach Sukcesu CodeBerry&#8221;</a> rozmawiamy z naszymi byłymi uczniami, którzy już zmienili swoje życie i pracują jako deweloperzy. Jeśli jesteś ciekaw, jak to zrobili, czekaj na następne odcinki. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> </strong></em></p>
+<p><em><strong>Chciałbyś nauczyć się programować? Odwiedź naszą stronę i spróbuj naszej pierwszej lekcji za darmo w <a href="https://codeberryschool.com/pl/" data-wpel-link="external" target="_blank" rel="external">Szkole Programowania CodeBerry</a>.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

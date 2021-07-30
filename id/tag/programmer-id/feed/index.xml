@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programmer | CodeBerry Blog</title>
+	<atom:link href="/blog/id/tag/programmer-id/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 24 Jan 2020 08:23:52 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Penjelasan singkat Programming</title>
+		<link>/blog/id/penjelasan-singkat-programming/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2019 10:08:08 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[apa itu programmer]]></category>
+		<category><![CDATA[apa itu programming]]></category>
+		<category><![CDATA[bahasa]]></category>
+		<category><![CDATA[bahasa inggris roti gandum]]></category>
+		<category><![CDATA[belajar bahasa biner]]></category>
+		<category><![CDATA[biner]]></category>
+		<category><![CDATA[codberry]]></category>
+		<category><![CDATA[CodeBarry]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry indonesia]]></category>
+		<category><![CDATA[codebery]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[komputer]]></category>
+		<category><![CDATA[mengembangkan]]></category>
+		<category><![CDATA[Pemrograman]]></category>
+		<category><![CDATA[penjelasan singkat]]></category>
+		<category><![CDATA[programmer]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7099</guid>
+
+					<description><![CDATA[Apa itu Programming? Semisalnya kamu bekerja di perusahaan multinasional dan kamu akan menghadapi pertemuan pertama dengan pebisnis dari negara Cina. Bahasa aslimu adalah Bahasa Indonesia dan kamu sama sekali tidak mengerti Bahasa Mandarin. Tetapi, kamu ingat bahwa bahasa kedua yang kamu kuasai adalah Bahasa Inggris dan pebisnis tersebut juga menguasai Bahasa Inggris. Dengan begitu, kamu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Apa itu Programming?</b></p>
+<p><span style="font-weight: 400;">Semisalnya kamu bekerja di perusahaan multinasional dan kamu akan menghadapi pertemuan pertama dengan pebisnis dari negara Cina. Bahasa aslimu adalah Bahasa Indonesia dan kamu sama sekali tidak mengerti Bahasa Mandarin. Tetapi, kamu ingat bahwa bahasa kedua yang kamu kuasai adalah Bahasa Inggris dan pebisnis tersebut juga menguasai Bahasa Inggris. Dengan begitu, kamu mulai menggunakan Bahasa Inggris sebagai bahasa umum untuk bernegosiasi dan berkomunikasi dengan pebisnis tersebut.  </span></p>
+<p><b>Dengan cara yang sama, kita menggunakan bahasa seperti HTML, CSS, JavaScript, Java, dll untuk berkomunikasi dengan komputer sehingga kita dapat memahami satu sama lain. </b></p>
+<p><span style="font-weight: 400;">Bahasa asli komputer adalah dengan bilangan biner: daftar panjang yang hanya terdiri dari angka 1 dan 0. </span><span style="font-weight: 400;">Biner</span><span style="font-weight: 400;"> tidaklah mudah untuk dibaca dan ditulis sehingga sebagai gantinya kita menciptakan bahasa pemrograman agar dapat berbicara dengan komputer. Karena komputer tidak mengerti bahasa manusia, kita memilih untuk dapat berkomunikasi dengan jalan tengah.</span></p>
+<p><span style="font-weight: 400;">Tetapi, berbeda dengan manusia, komputer tidak mengerti komunikasi tidak langsung dan selalu memahami segala hal secara harfiah. Apabila kamu memerintahkan sesuatu, maka mereka akan melakukan sesuai dengan apa yang diperintahkan. Komputer tidak sepintar itu saat mengambil keputusan sendiri dan tidak akan mengerti informasi yang tidak dijabarkan untuk mereka. Untuk alasan ini, kamu harus memastikan bahwa kamu memberikan instruksi yang tepat.</span></p>
+<p><span style="font-weight: 400;">Sebagai contoh, apabila saya menyuruhmu untuk membuat </span><span style="font-weight: 400;">sandwich</span><span style="font-weight: 400;">, kamu mungkin akan bertanya bahan apa yang saya mau untuk sandwich tersebut dan apakah saya ingin sandwich dipanggang terlebih dahulu atau tidak. Untuk kamu, mungkin hal itu saja yang ingin kamu ketahui untuk membuat sandwich</span> <span style="font-weight: 400;">yang enak. Namun, terdapat banyak keputusan kecil dan pengetahuan sebelumnya yang terlibat dalam membuat sandwich. </span></p>
+<p><span style="font-weight: 400;">Apabila kamu hanya memerintahkan komputer bahwa kamu menginginkan daging panggang dan sandwich keju dengan roti gandum dan mayones, kamu mungkin akan mendapatkan sesuatu yang sangat berbeda dengan apa yang kamu perintahkan. Manusia akan tahu bahwa mayones dioleskan ke roti terlebih dahulu, setelah itu ditambahkan daging dan keju, kemudian sandwich dimasukkan ke dalam oven untuk dipanggang. </span></p>
+<p><b>Tapi, bagaimana sebuah komputer mengerti akan semua hal itu?</b></p>
+<p><span style="font-weight: 400;">Ingat sebelumnya kita memberitahukan komputer apa yang kita mau, “daging panggang dan sandwich keju dengan roti gandum dan mayones”. Untuk sebuah komputer, mungkin masuk akal untuk melakukan semua hal itu dengan berurutan. Komputer akan memanggang daging dan kejunya tersendiri, meletakkan dua potong roti gandum di atasnya, dan kemudian mengoleskan mayones pada roti. </span></p>
+<p><b>Bukankah seharusnya komputer lebih pintar dari itu?</b></p>
+<p><span style="font-weight: 400;">Nah, ini karena komputer memahami segala hal secara </span><span style="font-weight: 400;">harfiah</span><span style="font-weight: 400;">, kamu harus memerinci urutan setiap langkah dan penempatan setiap bahan. Semua orang tahu kalau semua bahan ditempatkan di antara dua lapis roti, tetapi komputer tidak mempunyai pengetahuan sebelumnya tentang seperti apa roti lapis itu — komputer hanya mengikuti instruksi langsung darimu. </span></p>
+<p><span style="font-weight: 400;">Inilah alasan lain kenapa kita tidak bisa berkomunikasi langsung dengan komputer menggunakan bahasa manusia, setidaknya masih belum. Bahasa yang digunakan manusia terlalu ambigu dan samar untuk dimengerti komputer dengan baik. Juga, apabila sebuah kata atau kalimat memiliki makna ganda, komputer tidak tahu bagaimana menginterpretasikannya. Komputer membutuhkan segala sesuatu dijabarkan untuknya.</span><span style="font-weight: 400;"><br />
+</span></p>
+<p><span style="font-weight: 400;">Yang benar adalah komputer tidak pintar sama sekali; mereka hanya memproses informasi lebih cepat dari kita. </span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-7100" src="https://codeberryschool.com/blog/wp-content/uploads/2019/03/code.2-1-1.jpg" alt="" width="5472" height="3648" srcset="/blog/wp-content/uploads/2019/03/code.2-1-1.jpg 5472w, /blog/wp-content/uploads/2019/03/code.2-1-1-300x200.jpg 300w, /blog/wp-content/uploads/2019/03/code.2-1-1-768x512.jpg 768w, /blog/wp-content/uploads/2019/03/code.2-1-1-1024x683.jpg 1024w, /blog/wp-content/uploads/2019/03/code.2-1-1-1080x720.jpg 1080w" sizes="(max-width: 5472px) 100vw, 5472px" /></p>
+<p><b>Apa itu programmer dan apa yang mereka lakukan?</b></p>
+<p><span style="font-weight: 400;">Ingat, kamu tidak memerintahkan komputer untuk melakukan apa yang kamu mau dengan bahasa Indonesia. Kamu membutuhkan programmer komputer untuk menafsirkan kebutuhanmu. Programmer komputer adalah seseorang yang dapat mengkomunikasikan ide dan instruksi yang kamu punya kepada komputer, membuat website, game, dan program lain yang muncul pada layar. </span></p>
+<p><span style="font-weight: 400;">Seorang programer juga dapat diartikan sebagai polyglot (orang yang menguasai banyak bahasa) yang berspesialisasi untuk berbicara dengan komputer. Mereka tahu persis apa yang harus dikatakan dan bagaimana mengatakannya sehingga komputer dapat mengerti mereka. Jika kamu pernah belajar bahasa lain, tahu bahwa setiap bahasa dilengkapi dengan kosa kata, tata bahasa, dan aturannya sendiri. Bahasa komputer juga memiliki cara mereka sendiri dalam mengatakan sesuatu yang dinamakan dengan sintaks.</span></p>
+<p><span style="font-weight: 400;">Sementara seseorang mungkin masih bisa mengerti jika kamu </span><span style="font-weight: 400;">salah mengucapkan kata</span><span style="font-weight: 400;">, menggunakan konjugasi yang salah, atau tata bahasa yang berantakan, tetapi komputer kurang bisa mentolerir kesalahan. Segera saat kamu melakukan kesalahan sintaks, komputer akan berhenti mendengarkanmu dan langsung berhenti menjalankan program.</span></p>
+<p><span style="font-weight: 400;">Betapa tidak sopan. </span></p>
+<p><b>Apa yang dapat kamu capai dengan keterampilan coding?</b></p>
+<p><span style="font-weight: 400;">Bila kamu pernah menggunakan komputer, menonton video online, atau bermain video game, memang ini sulit dipercaya tapi semua itu merupakan serangkaian huruf dan simbol. Kemampuan untuk memproses ribuan baris kode per detik adalah kelebihan dari komputer dan memungkinkannya untuk mengikuti instruksi yang sangat kompleks dan menyelesaikan tugas yang luar biasa.</span></p>
+<p><span style="font-weight: 400;">Mari kita lihat beberapa hal keren yang bisa lakukan dengan kode:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Menciptakan &amp; Mendesain Website</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Membuat aplikasi mobile</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengembangkan Aplikasi Desktop</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengembangkan Video Games</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Membuat &amp; Memelihara Database</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengotomatiskan Pekerjaan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Memecahkan Masalah Kompleks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Menciptakan AI (Kecerdasan Buatan)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengerjakan Analisis Statistik</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dan masih banyak lagi&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Apabila kamu tertarik dengan salah satu aktivitas di atas dan ingin menjadikannya sebagai sumber penghasilan, belajar membuat program merupakan keterampilan yang sangat penting untuk dimiliki.</span></p>
+<p><b>Apa yang membuat coding bermanfaat dan apa manfaatnya?</b></p>
+<p><span style="font-weight: 400;">Sebagaimana kita semakin bergantung terhadap komputer di kehidupan sehari-hari, seiring pentingnya pemrograman komputer dan coding yang terus tumbuh dan berkembang.</span></p>
+<p><span style="font-weight: 400;">Pada tahun mendatang, hampir semua bidang akan melibatkan pemrograman komputer dan belajar coding akan memberimu keunggulan untuk karirmu di masa depan. Contohnya, kamu dapat menggunakan keterampilan pemrograman di bidang penulisan, analisis, manajemen, teknik, pengembangan perangkat lunak, dan banyak lagi.</span></p>
+<p><span style="font-weight: 400;">Advokat pemrograman melihat belajar coding sebagai keterampilan universal yang harus dimiliki setiap orang, seperti kemampuan membaca dan menulis atau melakukan persamaan matematika sederhana. Banyak pemerintah di seluruh dunia mempercayai hal ini juga dan telah mengusulkan inisiatif untuk mengajarkan coding kepada anak-anak di samping kurikulum inti di sekolah.</span></p>
+<p><span style="font-weight: 400;">Sama seperti kita, mereka melihat coding sebagai kunci untuk tetap kompetitif di pasar global.</span></p>
+<p><b>Saya sudah tahu ini berguna, tetapi seperti apa sebenarnya programming itu?</b></p>
+<p><span style="font-weight: 400;">Keseharian seorang programmer tidak semewah yang ditayangkan di film maupun acara televisi. </span></p>
+<p><span style="font-weight: 400;">Menjadi seorang programer membutuhkan banyak konsentrasi, kesabaran dan kesadaran diri yang tinggi. Apabila kamu tidak dapat duduk diam dan fokus selama berjam-jam, mungkin kamu perlu mempertimbangkan lagi untuk mengejar karir di pemrograman komputer.</span></p>
+<p><span style="font-weight: 400;">Beberapa pekerjaan pemrograman mungkin mengharuskanmu untuk bekerja di waktu yang tidak tentu dan harus selalu siap sedia untuk memperbaiki bug dan menyelesaikan masalah segera saat masalah itu muncul. Pekerjaan lain memungkinkanmu untuk bekerja dari jam sembilan hingga jam lima, sama seperti pekerjaan biasa.</span></p>
+<p><span style="font-weight: 400;">Namun, bekerja sebagai programmer komputer mungkin dapat memberimu lebih banyak kebebasan daripada pekerjaanmu saat ini. Sebagian besar pekerjaan pemrograman adalah pekerjaan remote, yang berarti kamu dapat melakukan coding saat berada di rumah, di kafe, atau saat kamu berjemur di pantai — mengingat sinyal wifi dapat mencapai sejauh itu. </span></p>
+<p><b>Apakah programming pilihan yang tepat untuk saya?</b></p>
+<p><span style="font-weight: 400;">Di sinilah ban roda bertemu jalan dan di mana kamu harus serius mempertimbangkan pro dan kontra pekerjaan di bidang pemrograman. Mungkin, kamu memiliki gagasan yang tidak realistis tentang seperti apa pemrograman itu dan belum menganggap bahwa coding sama seperti pekerjaan lain di luar sana — ini juga merupakan kerja keras. Tetapi apabila kamu memenuhi kriteria berikut, kemungkinan kamu akan menyukai setiap detiknya.</span></p>
+<p><span style="font-weight: 400;">Tanda-tanda Programming bukan Pilihan Tepat untukmu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu hanya termotivasi uang dan tidak berminat pada komputer sama sekali</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tidak suka duduk dalam jangka waktu yang lama</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Matamu menjadi sayu saat menatap halaman penuh deretan kode</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kecepatan mengetikmu lambat dan kerap melakukan salah ketik</span></li>
+</ul>
+<p><span style="font-weight: 400;">Tanda-tanda Programming Pilihan yang Tepat untukmu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu adalah orang yang analitis DAN kreatif</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu adalah orang yang sangat teliti</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu nyaman bekerja dalam tim maupun sendirian</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu memiliki kemampuan dasar yang baik untuk memahami bahasa Inggris tertulis</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka memecahkan masalah</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka mempelajari hal-hal baru</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu beradaptasi dengan baik terhadap perubahan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka mengorganisir informasi dan mengotomatiskan proses</span></li>
+</ul>
+<p><b>Bahasa pemrograman apa yang harus dipilih dan di mana saya bisa mulai?</b></p>
+<p><span style="font-weight: 400;">Mari kita kembali ke contoh pertemuan kita dengan Pebisnis dari negara Cina.</span></p>
+<p><span style="font-weight: 400;">Meskipun bahasa Inggris mungkin berguna dalam bisnis, kamu mungkin perlu mempelajari bahasa lain untuk bidang yang berbeda. Misalnya, kamu mungkin ingin tahu bahasa Perancis untuk diplomasi, bahasa Yunani untuk filsafat, dan bahasa Jerman di bidang teknik. Tergantung pada bidang apa pekerjaanmu, kamu akan memilih bahasa tertentu untuk memenuhi kebutuhanmu.</span></p>
+<p><span style="font-weight: 400;">Kamu tidak akan memiliki waktu atau kemampuan untuk mempelajari setiap bahasa pemrograman di luar sana, Jadi kamu harus memiliki strategi tentang bahasa apa yang ingin kamu pelajari. Pertama, kamu harus menentukan fokus dan bahasa apa yang kamu butuhkan untuk memenuhi tujuanmu. </span></p>
+<p><span style="font-weight: 400;">Meskipun secara teknis bukan bahasa pemrograman, HTML dan CSS adalah bahasa yang baik untuk mulai mempelajari dasar-dasar cara kerja pemrograman. HTML dan CSS adalah &#8220;bahasa markup teks&#8221; yang sebenarnya adalah bahasa yang kita gunakan untuk memformat dan mengatur teks. Tanpa HTML atau CSS, browser tidak akan tahu apakah kata-kata yang saya tulis ini adalah judul, paragraf, atau catatan kaki. Browser juga tidak akan tahu apakah kata-kata ini harus dicetak tebal, dicetak miring, dll.</span></p>
+<p><span style="font-weight: 400;">Bahkan ketika saya menulis artikel ini, saya menggunakan HTML dan CSS untuk membantu kamu dan browser internet memahami apa yang saya katakan. </span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dari Personal Trainer menjadi Front-End Developer &#8211; Kisah Siswa Kami, Gábor Baranyi</title>
+		<link>/blog/id/dari-personal-trainer-menjadi-front-end-developer-kisah-siswa-kami-gabor-baranyi/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 12:07:49 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[apa itu frontend]]></category>
+		<category><![CDATA[apa itu personal trainer]]></category>
+		<category><![CDATA[bahasa indonesia front]]></category>
+		<category><![CDATA[belajar front end]]></category>
+		<category><![CDATA[belajar front end developer]]></category>
+		<category><![CDATA[belajar front end web]]></category>
+		<category><![CDATA[blog frontend]]></category>
+		<category><![CDATA[cara menjadi personal trainer]]></category>
+		<category><![CDATA[codecademy indonesia]]></category>
+		<category><![CDATA[contoh front end]]></category>
+		<category><![CDATA[contoh front end dan back end]]></category>
+		<category><![CDATA[contoh front end web]]></category>
+		<category><![CDATA[front end developer indonesia]]></category>
+		<category><![CDATA[front-end]]></category>
+		<category><![CDATA[frontend adalah]]></category>
+		<category><![CDATA[kursus front end developer]]></category>
+		<category><![CDATA[Pelatih Pribadi]]></category>
+		<category><![CDATA[Pengembang]]></category>
+		<category><![CDATA[peter baranyai fan]]></category>
+		<category><![CDATA[programmer]]></category>
+		<category><![CDATA[sekolah personal trainer]]></category>
+		<category><![CDATA[trainer kami]]></category>
+		<category><![CDATA[tugas back end developer]]></category>
+		<category><![CDATA[tugas front end developer]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6620</guid>
+
+					<description><![CDATA[Gábor Baranyai pernah bekerja sebagai personal trainer, dan juga mengadakan sesi pelatihan untuk kelompok di gym. Sejak itu, ia telah menemukan sesuatu yang memenuhi keinginan dirinya, dan di mana ia dapat terus berkembang: ia bekerja sebagai seorang pengembang frontend junior di sebuah perusahaan menengah. &#160; Saya tinggal di: Szeged, Hungary Saya berkerja di: Minero IT [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Gábor Baranyai</b><span style="font-weight: 400;"> pernah bekerja sebagai personal trainer, dan juga mengadakan sesi pelatihan untuk kelompok di gym. Sejak itu, ia telah menemukan sesuatu yang memenuhi keinginan dirinya, dan di mana ia dapat terus berkembang: ia bekerja sebagai seorang pengembang frontend junior di sebuah perusahaan menengah.</span></p>
+<p>&nbsp;</p>
+<p><b>Saya tinggal di:</b><span style="font-weight: 400;"> Szeged, Hungary</span></p>
+<p><b>Saya berkerja di:</b><span style="font-weight: 400;"> Minero IT Hungary KFT.</span></p>
+<p><b>Lama belajar di Codeberry</b><b>:</b><span style="font-weight: 400;"> 10 bulan</span></p>
+<p><b>Saya bekerja menggunakan:</b><span style="font-weight: 400;"> Fujitsu Lifebook A555, Windows 7, IntelliJ, SourceTree</span></p>
+<p>&nbsp;</p>
+<p><b>Ketika kamu ditanya tentang profesimu, bagaimana kamu menjawabnya?</b></p>
+<p><span style="font-weight: 400;">Itu tergantung pada siapa yang bertanya. Jika seorang profesional di bidang ini, saya katakan saya bekerja sebagai pengembang frontend. Jika orang awam yang tertarik, jawaban saya adalah saya seorang programmer atau pengembang perangkat lunak.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa pekerjaanmu sebelum beralih menjadi pengembang web?</b></p>
+<p><span style="font-weight: 400;">Saya dulu bekerja penuh waktu sebagai personal trainer, dan mengadakan sesi pelatihan kelompok di gym fungsional. Saya masih menawarkan sesi grup ini, selain bekerja sebagai programmer.</span></p>
+<p>&nbsp;</p>
+<p><b>Mengapa kamu memutuskan untuk mulai mempelajari pengembangan web?</b></p>
+<p><span style="font-weight: 400;">Saya selalu tertarik dengan desain web, bagaimana dan mengapa situs web terlihat seperti itu. Selain itu, halaman web gym sebagian dikelola oleh kami, para pelatih / trainer, jadi saya menghabiskan banyak waktu untuk menulis dan mendesain blog WordPress kami, yang sangat saya nikmati. Saya melihat peluang bagus di Facebook, di mana mereka mengiklankan kursus pengembangan web online. Saya mencari tahu, dan saya tahu bahwa saya harus menguasai seluk-beluk profesi ini di platform ini &#8230; atau setidaknya dasar-dasarnya. Itu adalah iklan dari CodeBerry.</span></p>
+<p>&nbsp;</p>
+<p><b>Bagaimana cara kamu belajar pemrograman? Jenis kursus, buku, atau apa yang kamu gunakan?</b></p>
+<p><span style="font-weight: 400;">Setelah melihat iklan yang saya sebutkan di atas, saya mulai belajar di kelas online CodeBerry pada bulan September 2016, dan kemudian saya menambahkan kursus Codecademy dan Udemy ke sumber pembelajaran saya juga. Saya mencari dan mempelajari bahasa pemrograman tertentu di situs berbagi video.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa yang ditawarkan oleh CodeBerry? Bagaimana rasanya belajar di sekolah kami?</b></p>
+<p><span style="font-weight: 400;">Itu sangat berguna. Saya sangat menyukai sistem berlangganan bulanan CodeBerry, karena dengan cara ini saya bisa belajar dengan kecepatan diri saya sendiri. Saya menyukai penjelasannya, contoh-contoh melalui tugas-tugas yang disajikan.</span></p>
+<p style="text-align: center;"><img loading="lazy" class="alignnone size-full wp-image-6717" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-4.jpeg" alt="" width="760" height="427" srcset="/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-4.jpeg 760w, /blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-4-300x169.jpeg 300w" sizes="(max-width: 760px) 100vw, 760px" /><img loading="lazy" class="alignnone size-full wp-image-6621" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5.jpeg" alt="" width="760" height="427" srcset="/blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5.jpeg 760w, /blog/wp-content/uploads/2018/11/Gabor_Baranyi_pic1-5-300x169.jpeg 300w" sizes="(max-width: 760px) 100vw, 760px" /></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Meja kerja Gábor</span></p>
+<p>&nbsp;</p>
+<p><b>Apakah kamu memiliki pengalaman, tips, atau trik untuk berbagi dengan mereka yang baru mulai mempelajarinya?</b></p>
+<p><span style="font-weight: 400;">Saya merasa sangat penting untuk mempelajari dasar-dasar dengan baik dan merevisi pelajaran sebelumnya untuk melihat hubungannya dan untuk mampu menempatkan materi baru dalam konteks. Revisi sangat penting.</span></p>
+<p>&nbsp;</p>
+<p><b>Ceritakan sedikit tentang di mana kamu bekerja sekarang, apa tugasmu. Apa yang biasanya kamu lakukan tiap hari atau tiap minggu?</b></p>
+<p><span style="font-weight: 400;">Saat ini, saya bekerja di kantor perusahaan yang berbasis di Budapest di daerah Szeged. Kami sedang mengembangkan proyek internal di mana saya berurusan dengan frontend, yang terdiri dari HTML, CSS, dan JavaScript.</span></p>
+<p><span style="font-weight: 400;">Saya tiba di kantor sekitar jam 8 pagi dan saya pulang jam 5 sore. Saya mencoba melakukan sesuatu yang berbeda ketika saya tidak ada di sana; dengan latihan atau mengadakan pelatihan kelompok, sehingga saya dapat menghadapi hari kerja berikutnya dengan berenergi dan segar bugar.</span></p>
+<p>&nbsp;</p>
+<p><b>Dengan siapa kamu bekerja, dan bagaimana mereka membantu pekerjaanmu?</b></p>
+<p><span style="font-weight: 400;">Saat ini ada sekitar 20 orang yang bekerja di kantor. Saya memiliki seorang mentor yang membantu saya dengan perkembangan saya, yang juga mengawasi proyek yang sedang kami kerjakan.</span></p>
+<p>&nbsp;</p>
+<p><b>Software, alat atau teknologi apa yang kamu gunakan saat ini?</b></p>
+<p><span style="font-weight: 400;">Lingkungan pengembangan adalah IntelliJ, untuk kontrol versi kami menggunakan SourceTree dan untuk repo, kami menggunakan BitBucket.</span></p>
+<p><span style="font-weight: 400;">Dalam proyek kami menggunakan HTML, CSS (SCSS), jQuery, Angular JS, Angular Material dan FUSE.</span></p>
+<p>&nbsp;</p>
+<p><b>Berapa lama kamu mencari pekerjaan? Apakah sulit menemukan tempat untuk bekerja?</b></p>
+<p><span style="font-weight: 400;">Sebenarnya, saya masih belajar ketika teman saya menyarankan saya untuk mengirim CV saya ke perusahaan tempat dia bekerja. Mereka mengundang saya untuk wawancara, dan beberapa minggu kemudian mereka menelepon saya mengatakan bahwa mereka ingin bekerja dengan saya, berdasarkan kinerja kerja saya.</span></p>
+<p>&nbsp;</p>
+<p><b>Bagaimana proses wawancara?</b></p>
+<p><span style="font-weight: 400;">Setelah pengenalan singkat perusahaan, wawancara dilanjutkan dalam bahasa Inggris, dan giliran saya memperkenalkan diri, menceritakan sedikit tentang kehidupan pribadi saya dan tentang bagaimana dan di mana saya belajar pemrograman, juga dalam bahasa Inggris.</span></p>
+<p><span style="font-weight: 400;">Ini diikuti oleh bagian teknis, di mana mereka menilai pengetahuan saya, dan memberi saya beberapa tes logika untuk dipecahkan.</span></p>
+<p><span style="font-weight: 400;">Seluruh wawancara memakan waktu sekitar satu jam.</span></p>
+<p>&nbsp;</p>
+<p><b>Apakah kamu punya saran untuk mereka yang sedang mempersiapkan wawancara kerja?</b></p>
+<p><span style="font-weight: 400;">Sangat penting bahwa semua yang kamu katakan harus positif. Bahkan jika sesuatu yang negatif muncul, cobalah membicarakannya dari segi atau perspektif positifnya. Selalu tetap percaya diri, dan tunjukkan bahwa kamu mampu dan berkeinginan untuk meningkatkannya dalam bidang apa pun.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa langkah kamu selanjutnya? Arah apa yang kamu ambil?</b></p>
+<p><span style="font-weight: 400;">Saya ingin tahu sebanyak mungkin tentang pengembangan frontend, dan merasakan juga pengembangan backend untuk melihat dan memahami seluruh proses latar belakang.</span></p>
+<p>&nbsp;</p>
+<p><b><i>Dalam seri &#8220;Cerita Siswa CodeBerry&#8221; kami, kami mengobrol dengan para siswa kami yang berhasil menemukan pekerjaan sebagai pengembang.</i></b></p>
+<p>&nbsp;</p>
+<p><b><i>Apakah kamu ingin belajar koding? Datang dan coba 15 pelajaran pertama kami secara gratis di </i></b><a href="https://codeberryschool.com/id/" data-wpel-link="external" target="_blank" rel="external"><b><i>Sekolah Pemrograman CodeBerry</i></b></a><b><i>.</i></b></p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pengembang JavaScript dengan Gelar Pekerja Sosial &#8211; Kisah Pelajar Kami, Anikó Borosová</title>
+		<link>/blog/id/pengembang-javascript-dengan-gelar-pekerja-sosial-kisah-pelajar-kami-aniko-borosova/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 11:52:21 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[bahasa javascript]]></category>
+		<category><![CDATA[cara menggunakan gitkraken]]></category>
+		<category><![CDATA[code pelajar]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[gitkraken adalah]]></category>
+		<category><![CDATA[javascript indonesia]]></category>
+		<category><![CDATA[kisah pelajar]]></category>
+		<category><![CDATA[Pekerja Sosial]]></category>
+		<category><![CDATA[pekerja sosial industri]]></category>
+		<category><![CDATA[Pengembang JavaScript]]></category>
+		<category><![CDATA[programmer]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6598</guid>
+
+					<description><![CDATA[Anikó Borosová mendapat gelar dalam bidang sosial dari Universitas Eötvös Loránd. Setelah lulus, ia bekerja di sektor sosial, kemudian sebagai pengolah data dan di layanan pelanggan. Saat ini, ia bekerja sebagai pengembang JavaScript junior di EDMdesigner.com. &#160; Saya tinggal di: Budapest, Hungary Saya bekerja di: EDMdesigner.com Kft. Lama belajar di Codeberry: 4 bulan Saya bekerja [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Anikó Borosová</b> <span style="font-weight: 400;">mendapat gelar dalam bidang sosial dari Universitas Eötvös Loránd. Setelah lulus, ia bekerja di sektor sosial, kemudian sebagai pengolah data dan di layanan pelanggan. Saat ini, ia bekerja sebagai pengembang JavaScript junior di </span><a href="https://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner.com</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<p><b>Saya tinggal di:</b><span style="font-weight: 400;"> Budapest, Hungary</span></p>
+<p><b>Saya bekerja di:</b> <a href="http://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner.com</span></a><span style="font-weight: 400;"> Kft.</span></p>
+<p><b>Lama belajar di Codeberry</b><b>:</b><span style="font-weight: 400;"> 4 bulan</span></p>
+<p><b>Saya bekerja menggunakan:</b><span style="font-weight: 400;"> Laptop ASUS laptop dengan Ubuntu di kantor / Lenovo ThinkPad Edge dengan Windows 10 di rumah / Teks Sublime / Saya mempunyai Nokia yang sudah 11 tahun lamanya (bukan, bukan Nokia 3310, Saya tidak sekeren itu)</span></p>
+<p>&nbsp;</p>
+<p><b>Ketika kamu ditanya tentang profesi, bagaimana kamu menjawabnya?</b></p>
+<p><span style="font-weight: 400;">Saya katakan programmer atau pengembang JavaScript junior. Tidak ada programmer atau guru otodidak di sekitar saya, jadi saya biasanya tidak membahasnya secara rinci. Selain itu, ini adalah pertanyaan yang lebih sulit daripada kelihatannya. Saya bukan pekerja sosial lagi, tetapi saya juga belum merasa seperti seorang programmer, karena belum menjadi bagian dari identitas saya sepenuhnya. Ini adalah perasaan yang aneh.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa pekerjaanmu sebelum memulai coding?</b></p>
+<p><span style="font-weight: 400;">Setelah lulus sebagai pekerja sosial dari Universitas Eötvös Loránd, saya kembali ke Slovakia dan mulai bekerja di bidang saya. Saya bekerja di pusat pekerjaan dan untuk pemerintah daerah, kebanyakan dengan para klien yang menganggur dan tidak beruntung secara sosial, para tunawisma dan sebuah distrik Romani yang terpisah. Kemudian, saya bekerja di posisi pengolahan data / layanan pelanggan di industri otomotif.</span></p>
+<p>&nbsp;</p>
+<p><b>Mengapa kamu memutuskan untuk mulai mempelajari pengembangan web?</b></p>
+<p><span style="font-weight: 400;">Pekerjaan saya sebelumnya tidak membuat saya bahagia. Sebagai pekerja sosial, kamu hampir tidak pernah melihat hasil usahamu: Sumber daya dan waktu kami biasanya hanya cukup untuk solusi sementara, dan hanya ada sedikit peluang untuk mencapai perubahan nyata. Ini seperti novel Kafka: Anda pergi berbaris melawan sistem, mencoba untuk membantu, tetapi tanpa sumber daya yang memadai, atau dalam lingkungan yang terbakar, demotivasi, yang lebih sering daripada tidak, hanya terus merendahkan klien, Anda akan dengan cepat kehilangan harapan, dan maka Anda memutuskan apakah Anda pergi melarikan diri atau melawan sistem. Saya memutuskan untuk melarikan diri, tetapi bekerja di sektor IT tidak pernah terpikirkan oleh saya sebagai pilihan yang layak. Lalu, tahun lalu saya mendengar banyak tentang permintaan yang terus berkembang untuk pengembang, dan semua kursus online, jadi saya memutuskan untuk mencobanya. Saya menyukainya, dan yang paling penting: saya bisa melihat hasil pekerjaan saya. Kemampuan saya meningkat perlahan tapi pasti, dan beberapa bulan kemudian saya berpikir: Sudah waktunya saya mempelajari ini dengan lebih serius, karena itu mungkin benar-benar dapat membawa saya ke sebuah pekerjaan. Dan itu benar terjadi.</span></p>
+<p>&nbsp;</p>
+<p><b>Bagaimana kamu belajar pemrograman? Jenis kursus, buku, dll apa yang kamu gunakan?</b></p>
+<p><span style="font-weight: 400;">Saya mulai di Codecademy dan FreeCodeCamp, membaca dokumentasi, mengikuti video, kemudian saya mulai belajar dengan CodeBerry. Saya juga menghadiri workshop Bratislava Rails Girls musim panas ini.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa yang ditawarkan oleh CodeBerry? Bagaimana rasanya belajar di sekolah kami?</b></p>
+<p><span style="font-weight: 400;">Memiliki seorang mentor adalah bantuan terbesar bagi saya, itu terbukti menjadi cara belajar yang paling efisien. Sebelum CodeBerry, saya terbiasa belajar sendiri, tetapi dengan cara itu &#8211; terutama sebagai pemula &#8211; kamu tidak bisa yakin kamu memahami koneksi dan logika dengan benar; sulit untuk mencari tahu apa yang hilang dan apa yang harus menjadi langkahmu selanjutnya. Di CodeBerry, bimbingan benar-benar efektif dan informal. Kamu dapat meminta bantuan kapanpun ketika kamu menghadapi rintangan, dan mendapatkan jawaban dengan cepat; bahkan ketika kamu memiliki 10 pertanyaan sekaligus. Ini adalah pengalaman yang sangat positif dibandingkan dengan studi saya sebelumnya dalam sistem pendidikan tradisional.</span></p>
+<p><span style="font-weight: 400;">Saya juga memanfaatkan bantuan persiapan untuk wawancara. Saya menerima tips tentang pertanyaan apa yang harus saya sekiranya ditanyakan dan bagaimana menjawabnya. Pengetahuan tambahan ini sangat membantu saya, terutama karena saya beralih dari profesi lain, memulai dari nol di bidang ini.</span></p>
+<p>&nbsp;</p>
+<p><b>Apakah kamu memiliki pengalaman, tips, atau trik untuk berbagi dengan mereka yang baru mulai mempelajarinya?</b></p>
+<p><span style="font-weight: 400;">Tidak masalah jika kamu tidak mengerti sesuatu untuk pertama (atau kedua, ketiga, kesekian) kalinya, teruslah mencoba. Terus lakukan sampai kamu berhasil. Teruslah perhatikan sampai kamu mulai melihatnya (saran guru sekolah menengah saya &#8211; dan itu benar). Akan selalu ada rintangan, tetapi tidak ada alasan untuk menyerah.</span></p>
+<p><span style="font-weight: 400;">Mintalah bantuan, berani bertanya, dan jika kamu menemukan dirimu sendiri di rumah, terjebak tanpa jawaban dan motivasi, maka cukup menghadiri acara atau lokakarya pemrograman IRL (&#8220;dalam kehidupan nyata&#8221;, yaitu pribadi) untuk bertemu dan berbicara dengan orang lain yang berada di kondisi yang sama. The Rail Girls memberi saya dorongan besar pada saat yang tepat, meninggalkan saya dengan perasaan yang sangat baik. Saya kembali dari lokakarya berpikir bahwa jika mentor saya (pahlawan saya, Pilar Huidobro), yang juga memulai pemrograman di acara serupa, dapat bekerja sebagai pengembang perangkat lunak dan guru setelah 5 tahun coding, maka saya juga bisa melakukannya, saya juga bisa mempelajarinya.</span></p>
+<p><img loading="lazy" class="size-full wp-image-6725 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-2.jpeg" alt="" width="743" height="557" srcset="/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-2.jpeg 743w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-2-300x225.jpeg 300w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-2-510x382.jpeg 510w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-6599 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-5.jpeg" alt="" width="743" height="557" srcset="/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-5.jpeg 743w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-5-300x225.jpeg 300w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-5-510x382.jpeg 510w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Tempat kerja saya saat ini</span></p>
+<p>&nbsp;</p>
+<p><b>Ceritakan sedikit tentang di mana kamu bekerja sekarang, apa tugasmu. Apa yang kamu lakukan tiap hari atau tiap minggunya?</b></p>
+<p><span style="font-weight: 400;">Saya bekerja di </span><a href="http://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner</span></a><span style="font-weight: 400;"> sebagai pengembang JavaScript. Kami sedang bekerja pada perangkat lunak manajemen konten e-mail perusahaan dalam tim yang lebih kecil, di mana setiap orang mendapatkan bagian pekerjaannya. Terlepas dari ini, kami memiliki perpustakaan komponen yang terus berkembang untuk Knockouts.js, Knob.js &#8211; Saya juga membuat komponen baru untuk ini. Tugas tim saya (duo) adalah akuisisi pengguna; kami sedang mencari cara untuk mendapatkan lebih banyak pendaftaran dan pelanggan. Kami menggunakan Google Analytics, Interkom, dan Hotjar.</span></p>
+<p><span style="font-weight: 400;">Mengikuti metode SCRUM, kami memiliki stand-up setiap pagi, di mana kami berbicara tentang tugas sehari-hari, hambatan dan tugas di masa depan.</span></p>
+<p><span style="font-weight: 400;">Terlepas dari kesulitannya, terbukti bahwa menulis kode sejak awal adalah sebuah keuntungan. Dengan cara ini, saya dapat mempelajari alur kerja perusahaan di mana saja, dan saya dapat mengetahui bagaimana kode saya terhubung dengan yang sudah ada, yang dibuat oleh rekan kerja saya. Selama 6 minggu terakhir, saya hanya melakukan hal-hal yang belum pernah saya lakukan sebelumnya, jadi saya benar-benar belajar hal baru setiap hari.</span></p>
+<p>&nbsp;</p>
+<p><b>Dengan siapa kamu da bekerja, dan bagaimana mereka membantu pekerjaanmu?</b></p>
+<p><span style="font-weight: 400;">Ini bukan perusahaan besar, hampir kurang dari 20 orang di kantor. Sebagian besar rekan kerja bekerja paruh waktu, dan kami juga memiliki pelajar di antara kami. Selama stand-up, yang saya sebutkan sebelumnya, kami juga berbicara tentang bagaimana saya seharusnya melanjutkannya dan saya dapat bertanya kepada siapa pun jika saya ada kesulitan, semua orang sangat membantu.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa Software, perangkat, dan teknologi yang kamu gunakan saat ini?</b></p>
+<p><span style="font-weight: 400;">Saya menggunakan Ubuntu, Slack, Sublime Text, terminator, GitKraken, Node.js, Jasmine, gulp, mongoDB, redis, docker, nginx etc. Ada juga perpustakan JavaScript dan paket npm baru yang diterbitkan setiap hari atau setiap minggu. </span></p>
+<p>&nbsp;</p>
+<p><b>Berapa lama kamu mencari pekerjaan? Apakah sulit menemukan tempat untuk bekerja?</b></p>
+<p><span style="font-weight: 400;">Kasus saya tidak bisa disebut biasa, karena butuh sedikit keberuntungan hingga semuanya bisa menjadi seperti ini. Strategi saya adalah melamar paling tidak 8–10 pekerjaan, sedikit berjuang pada awalnya mencoba untuk melewati tahap wawancara, tetapi menguasainya pada akhirnya. Saya berharap bahwa wawancara ke 10 atau lebih akan berhasil, dan mereka akhirnya akan menawarkan saya pekerjaan. Sebaliknya, EDMdesigner adalah tempat pertama yang saya hubungi, dan merekalah yang mempekerjakan saya. Namun jangan lupa, bahwa itu adalah satu hal untuk mendapatkan pekerjaan, dan yang lain untuk dapat mempertahankannya. Saya benar-benar panik setelah wawancara, merasa saya tidak siap untuk ini dan itu bukan seperti yang saya rencanakan. Minggu-minggu pertama adalah yang paling sulit, saya takut bahwa saya tidak akan cocok, bahwa saya tidak mampu melakukan tugas-tugas saya. Sejak itu, 6 minggu telah berlalu, dan saya masih berdiri.</span></p>
+<p>&nbsp;</p>
+<p><b>Bagaimana proses wawancara?</b></p>
+<p><span style="font-weight: 400;">Ada tiga tahap dalam jangka waktu 1–1,5 minggu. Yang pertama adalah wawancara telepon, di mana mereka mengajukan pertanyaan tentang JavaScript. Setelah itu, saya memiliki sekitar 3 hari untuk membuat &#8220;to-do list&#8221; dengan menggunakan JavaScript, termasuk kode HTML. Dan akhirnya kami melakukan wawancara Skype, mendiskusikan tempat kerja, tugas harian, tim dan persyaratan pekerjaan.</span></p>
+<p>&nbsp;</p>
+<p><b>Apakah kamu punya saran untuk mereka yang sedang mempersiapkan wawancara kerja?</b></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Jangan terlalu khawatir tentang hal itu. Tidur malam yang cukup di malam sebelumnya. Pastikan lebih dari 2,5 jam. Ini sangat penting!</span></p>
+<p><span style="font-weight: 400;">Dan jangan panik jika kamu benar-benar mendapatkan pekerjaan. Itu semua akan berhasil.</span></p>
+<p>&nbsp;</p>
+<p><b>Apa langkah kamu selanjutnya? Arah apa yang kamu ambil?</b></p>
+<p><span style="font-weight: 400;">Sangat sulit untuk melihat masa depan &#8211; saat ini, ada begitu banyak informasi baru, saya senang jika saya berhasil mengatur rencana bahkan untuk beberapa hari ke depan. Yang pasti adalah saya masih harus belajar banyak hal dan alat baru, saya harus meningkatkan kemampuan untuk &#8220;naik level&#8221; dan dapat bekerja lebih mandiri. Saya masih jauh dari </span><i><span style="font-weight: 400;">master</span></i><span style="font-weight: 400;"> JavaScript, tetapi saya berharap suatu hari nanti saya akan mencapainya.</span></p>
+<p>&nbsp;</p>
+<p><b><i>Dalam seri &#8220;Cerita Siswa CodeBerry&#8221; kami, kami mengobrol dengan para siswa kami yang berhasil menemukan pekerjaan sebagai pengembang.</i></b></p>
+<p>&nbsp;</p>
+<p><b><i>Apakah kamu ingin belajar koding? Datang dan coba 15 pelajaran pertama kami secara gratis di </i></b><a href="https://codeberryschool.com/id/" data-wpel-link="external" target="_blank" rel="external"><b><i>Sekolah Pemrograman CodeBerry</i></b></a><b><i>.</i></b></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>egységbezárás | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/egysegbezaras/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 29 May 2021 09:09:54 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Mi az objektum orientált programozás?</title>
+		<link>/blog/hu/mi-az-objektum-orientalt-programozas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 24 May 2021 15:10:14 +0000</pubDate>
+				<category><![CDATA[Bevezetés a programozásba]]></category>
+		<category><![CDATA[absztrakció]]></category>
+		<category><![CDATA[egységbezárás]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[metódus]]></category>
+		<category><![CDATA[objektum]]></category>
+		<category><![CDATA[objektum orientált programozás]]></category>
+		<category><![CDATA[öröklés]]></category>
+		<category><![CDATA[osztály]]></category>
+		<category><![CDATA[polimorfizmus]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[tulajdonság]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13182</guid>
+
+					<description><![CDATA[Objektum orientált vagy objektumorientált?  Sokféleképp látjuk leírva ezt a kifejezést, akár egybeírva, akár külön, de még kötőjellel is. Angolul nem jelent problémát, egyszerűen különírjuk: object oriented. Magyarul, ha a helyesírási szabályokat vesszük figyelembe, akkor egybeírjuk: objektumorientált.  Az láttuk viszont, hogy különírva többször kerestek rá, és szerettük volna, hogy mindenképp megtaláljátok a cikket, így a címben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Objektum orientált vagy objektumorientált? </span></h2>
+<p><span style="font-weight: 400;">Sokféleképp látjuk leírva ezt a kifejezést, akár egybeírva, akár külön, de még kötőjellel is. Angolul nem jelent problémát, egyszerűen különírjuk: object oriented. Magyarul, ha a helyesírási szabályokat vesszük figyelembe, akkor egybeírjuk: objektumorientált. </span></p>
+<p><span style="font-weight: 400;">Az láttuk viszont, hogy különírva többször kerestek rá, és szerettük volna, hogy mindenképp megtaláljátok a cikket, így a címben a különírt verzió szerepel. </span></p>
+<p><span style="font-weight: 400;">Emellett gyakran látjuk rövidítve ennek a programozási paradigmának a nevét, így mi is fogjuk használni a rövidített alakot: OOP. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Jó, de mi az objektum orientált programozás?</span></h2>
+<p><span style="font-weight: 400;">Az objektumorientált programozás az egyik legmeghatározóbb <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">programozási paradigma,</a> vagyis egy olyan alapelvrendszer, ami meghatározza, milyen alapvető logika szerint közelítik meg az adott feladat megoldását és a program felépítését, illetve hogyan épülnek fel és kapcsolódnak egymáshoz a kód elemei. </span></p>
+<p><span style="font-weight: 400;">Egy-egy programozási nyelv több paradigmához is besorolható lehet, illetve egy adott kódban többféle paradigma is érvényesülhet. Ismerünk például procedurális, objektumorientált, funkcionális vagy logikai programozási paradigmákat. </span></p>
+<h3><span style="font-weight: 400;">Mi az objektumorientált programozás előnye</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Komplex dolgokat lehet egyszerű, kisebb, könnyen reprodukálható struktúrákban modellezni </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A létrejött kód egyszerűen újrafelhasználható</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Gyorsabban futtatható programokat hozhatunk létre</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A kód struktúrája átlátható</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A fejlesztés üteme is gyorsabb, mert lehetővé teszi az osztályok párhuzamos fejlesztését</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A program egyszerűbben módosítható, debugolható, karbantartható</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Nagyobb biztonság (az egységbezárásnak és az absztrakciónak köszönhetően védettebbek az adatok) </span></li>
+</ul>
+<h3><span style="font-weight: 400;">A legnépszerűbb objektumorientált programozási nyelvek: </span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">C++</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">C#</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Java</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">JavaScript </span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Python</span></a></li>
+</ul>
+<h2><span style="font-weight: 400;">Objektum vs osztály</span></h2>
+<p><span style="font-weight: 400;">Az objektumorientált programozás alapja az objektum, mint koncepció.  Ahogy a való életben a tárgyaknak is vannak jellemzői és funkciói, úgy a programozásban objektumoknak is vannak tulajdonságai és metódusai. </span></p>
+<p><span style="font-weight: 400;">Az objektumokban tárolt adatok és funkciók szerkezetét nem kell újra és újra bevinni, amikor programozunk. Azért, hogy gazdaságosabb és egyszerűbb legyen a kódolás folyamata és maga a kód, sajátos tervrajzokat, úgynevezett osztályokat (angolul class-t) hoznak létre. Ezek tartalmazzák az objektumok szerkezetére vonatkozó általános információt, az objektum pedig a specifikus, konkrét adatokat és metódusokat. </span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13184" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Osztalyok-es-objektumok-2.png" alt="" width="662" height="674" srcset="/blog/wp-content/uploads/2021/05/Osztalyok-es-objektumok-2.png 662w, /blog/wp-content/uploads/2021/05/Osztalyok-es-objektumok-2-295x300.png 295w" sizes="(max-width: 662px) 100vw, 662px" /></p>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Létrehozunk egy “autók” osztályt, amiben benne van, hogy milyen tulajdonságokat és metódusokat adunk majd meg. A márka neve, az autó színe, a gyártási év fog szerepelni az objektumokban és el lehet majd “indítani” (metódus). </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Minden új autóhoz hozzáadásánál használhatjuk az “autók” osztály felépítését, logikáját. Így hozzunk létre objektumot egy “1988-as piros Polskinak”  vagy egy “2010-es ezüst BMW-nek”.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Minden esetben, új autót viszünk be a rendszerbe, újra fel tudjuk használni azt a kódot, amit az eredeti “autók” osztály tartalmaz.</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Kisszótár az objektumorientált programozáshoz</span></h3>
+<p><span style="font-weight: 400;">Nézzünk meg néhány kifejezést az objektumorientált paradigma szemüvegén keresztül, ami gyakran előkerül objektumorientált programozás esetén:</span></p>
+<table>
+<tbody>
+<tr>
+<td></td>
+<td><span style="font-weight: 400;">Mi ez? </span></td>
+<td><span style="font-weight: 400;">Milyen információt tartalmaz?</span></td>
+<td><span style="font-weight: 400;">Műveletek</span></td>
+<td><span style="font-weight: 400;">Példa</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">osztály</span></td>
+<td><span style="font-weight: 400;">általános “tervrajz” vagy vázlat</span></td>
+<td><span style="font-weight: 400;">attribútomok</span></td>
+<td><span style="font-weight: 400;">behavior (metódusokkal definiálva)</span></td>
+<td><span style="font-weight: 400;">autók</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">objektum</span></td>
+<td><span style="font-weight: 400;">specifikus, konkrét jellemzők</span></td>
+<td><span style="font-weight: 400;">state, adat</span></td>
+<td><span style="font-weight: 400;">metódusok</span></td>
+<td><span style="font-weight: 400;">Polski, BMW</span></td>
+</tr>
+</tbody>
+</table>
+<h2><span style="font-weight: 400;">Hogyan strukturálódnak az objektumorientált programok? </span></h2>
+<p><span style="font-weight: 400;">Vegyünk egy példát a való életből: képzeljük el, hogy egy kutyapanziót üzemeltetünk, ahol évente több száz kutyus fordul meg, és nyomon kell követni, kik vannak épp benn, meddig maradnak, mik az alapvető információk róluk. </span></p>
+<p><span style="font-weight: 400;">Így nézne ki két konkrét kutyus, Bodri és Boca objektuma JavaScriptben. (Az ábrákon magyarul olvashatók az információk, de a JavaScript kódban tulajdonságok neveit, értékeit, és a funkciókat angolul találod.)</span></p>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="Dog sitting1" src="https://codepen.io/codeberryschool/embed/mdWmBwx?height=265&amp;theme-id=dark&amp;default-tab=js,result" height="450" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/mdWmBwx" target="_blank" rel="noopener external" data-wpel-link="external">Dog sitting1</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Ha jól megfigyeled, láthatod, hogy sok ismétlődő elem a két objektumban, pl. az age() function mindkettőben megjelenik. Ha az összetartozó információkat, az ismétlődő kódelemeket csoportosítjuk és osztályokba rendezzük, akkor a kód rövidebbé és könnyebben karbantarthatóvá válik. </span></p>
+<p><span style="font-weight: 400;">Hogyan érdemes gondolkodnia egy programozónak, mikor a kutyapanzió adatbázisát fejleszti? </span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Létrehoz egy parent classt minden olyan tulajdonság és metódus számára, amit fajtától függetlenül minden kutyánál feltüntet majd. Ez lesz a későbbi objektumok tervrajza.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Létrehoz child class-eket, hogy reprezentálja azokat az alkategóriákat, amiket majd használni fog. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Hozzáadja az egyedi tulajdonságokat és viselkedéseket, amik megkülönböztetik az alkategóriákba sorolt kutyákat. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A child class-ekből kiindulva objektumokat hoz létre az egyes kutyáknak.</span></li>
+</ol>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13185" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Orokles-es-polimorfizmus-1.png" alt="" width="748" height="723" srcset="/blog/wp-content/uploads/2021/05/Orokles-es-polimorfizmus-1.png 748w, /blog/wp-content/uploads/2021/05/Orokles-es-polimorfizmus-1-300x290.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Tehát csoportosítja a közös tulajdonságokat és metódusokat, amivel létrehoz egy egyszerű vázlatot, majd alosztályokat hoz létre, hogy a specifikus viselkedéseket megadja.</span></p>
+<h2><span style="font-weight: 400;">Az objektumorientált programozás 4 alapelve</span></h2>
+<p><span style="font-weight: 400;">Az objektumorientált programozás 4 alapelvre épül: </span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Egységbezárás (angolul encapsulation)</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Absztrakció</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Öröklés</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Polimorfizmus</span></li>
+</ul>
+<p><span style="font-weight: 400;">A következőkben ezeken haladunk végig, példákkal kiegészítve. </span></p>
+<h3><span style="font-weight: 400;">Egységbezárás</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Az objektum minden tulajdonsága és metódusa biztonságosan, egységként, az objektumon belül tárolódik. Más objektumok metódusai csak akkor tudják befolyásolni őket, ha ezt megengedjük. Minden objektumban lehetnek publikusként és privátként beállított változók és metódusok. </span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A publikus változókat elérhetik és használhatják más objektumok, a privátokat nem. Az egységbezárás segít biztonságosabbá tenni a kódot.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-13186" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Publikus-metodusok-1.png" alt="" width="1024" height="768" srcset="/blog/wp-content/uploads/2021/05/Publikus-metodusok-1.png 1024w, /blog/wp-content/uploads/2021/05/Publikus-metodusok-1-300x225.png 300w, /blog/wp-content/uploads/2021/05/Publikus-metodusok-1-768x576.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Lássunk néhány példát az egységbezárásra</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Az autós példánál maradva: a szín, év és a modell neve privát változók, más objektumok nem tudják megváltoztatni őket.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Az autó indítása viszont lehet egy publikus metódus: más objektumok, pl. a “személy” objektum meghívhatják at indítást </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Új példa: szerepjáték: </span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A hősnek lehet neve, ruhája, hajszíne, és metódusai: pl. támadás, futás, ugrás. Ezek tipikusan privát változók és metódusok.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Lehet viszont “életerő” nevű tulajdonsága, és “támadás” metódusa, amik publikusak, vagyis más objektumok módosíthatják őket. Pl. az “ellenség” objektum képes lesz meghívni ezt a függvényt és módosítani a hős “életerő” változójánál található értéket, amikor megtámadja őt.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A kutyapanzió esetében ez azt jelenti, hogy a gazdák csak a saját kutyájuk adataihoz férnek hozzá, másokéhoz nem. Ez JavaScript nyelven a következőképp néz ki: </span></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><iframe style="width: 100%;" title="Dog sitting2" src="https://codepen.io/codeberryschool/embed/JjWNrBJ?height=676&amp;theme-id=dark&amp;default-tab=js,result" height="676" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/codeberryschool/pen/JjWNrBJ" target="_blank" rel="noopener external" data-wpel-link="external">Dog sitting2</a> by CodeBerry School<br />
+(<a href="https://codepen.io/codeberryschool" target="_blank" rel="noopener external" data-wpel-link="external">@codeberryschool</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h3><span style="font-weight: 400;">Absztrakció</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Az absztrakció lényege, hogy csak a szükséges információkat szolgáltatja a külvilágnak, és elrejti a végrehajtás belső részleteit.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A programok gyakran sok ezer-tízezer sorból álló, hatalmas egységek, amiket nehéz karbantartani. Az absztrakció abban is segít, hogy könnyebben karbantartható legyen a kód és könnyebben átlátható legyen a program a felhasználó számára.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Az absztrakció révén az objektumok csak a felszíni működésben, interakcióban fontos elemeket láttatják a többi objektummal, a belső struktúrát, ami mindehhez szükséges, elrejtik.</span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Az autós példával élve: az “indítás” metódus tartalmazza azt a kódot, ami leírja, mi történik, “indítás”-kor, vagyis  amikor meghívják ezt a függvényt. Annak az objektumnak, amelyik meghívta, (tehát pl. a “személy” objektum, aki elindítja az autót), nem kell  pontosan tudnia, milyen kód fut le a háttérben. Csak az a lényeg, hogy működik az “autó”, és az “indítás”-t követően elindul.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A szerepjátékos példát folytatva: a “támadás” metódus valószínűleg sok-sok sornyi kódot tartalmaz, leírja, hogyan működik a támadás és milyen hatásai lehetnek a támadásnak a hősünkre. Az “ellenség” objektumnak viszont nem kell tisztában lennie azzal, hogy működik pontosan a támadás, számára csak az a lényeg, hogy csökken az érték a hősünk “életerő” változójánál.</span></li>
+</ul>
+</li>
+</ul>
+<h3><span style="font-weight: 400;">Öröklés</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A hosszú, bonyolult kódokkal több nehézség is adódik: nem csak nehéz őket karbantartani és átlátni, de sok a hasonló kódrészlet, hasonló objektum. Megegyezhet a logikájuk, gyakran nagyobb kódrészletek ismétlődnek, a teljes objektum mégsem ugyanaz.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Azért, hogy ne kelljen mindenhez teljesen új objektumot létrehozni, alkalmazhatjuk az öröklést. Programozásban is használjuk a “szülő” (parent) és “gyerek” (child) kifejezéseket, a gyerek örököl a szülőtől.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Öröklés során a parent objektum logikáját, felépítését örökli a child. A child osztályok automatikusan hozzáférnek a parentben tárolt függvényekhez.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Az öröklés támogatja az egyszerű újrahasznosíthatóságot.</span></li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Nézzük meg az autós példát: az “autó” objektum bizonyos változóit (pl. szín, modell neve, gyártási év) megörökölheti egy új objektum, létrehozhatunk ennek mintájára részben hasonló, bizonyos tulajdonságokban viszont különböző objektumokat is, pl. “teherautó”, “kisbusz”, “traktor”.</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Az öröklésre a szerepjátékban is találunk számos példát. Valószínűleg sokféle különböző ellenség van a játékban (pl, “ork”, “sárkány”, “sötét tünde”, de ezek mind lehetnek child objektumai az “ellenség” parent objektumnak. Sok tulajdonságát örökölhetik az eredeti objektumnak (“mozgás”, “támadás”), de más lehet például a ruházatuk vagy a fegyvereik. </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A kutyapanzió esetében az öröklést ott figyelhetjük meg, amikor a kutyák osztályán belül alkategóriákat (subclass) hoztunk létre a terelőkutyáknak és a mentőkutyáknak. Mindegyik kutya örökli a parent osztály tulajdonságait és az “ugatás” metódusát. </span></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12023 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Polimorfizmus </span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A polimorfizmus megengedi, hogy a child objektum örökölje a parent tulajdonságait, de saját metódusai legyenek, eltérően használja őket. Tehát képes legyen másképp implementálni a parent függvényeit. </span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Ha az “autó”, “teherautó”, “traktor” objektumok mind egy közös “jármű” osztály leszármazottai, akkor örökölhetik annak tulajdonságait. Viszont a polimorfizmus révén lehetővé válik, hogy az “indítás” metódus mindegyik child objektumnál különbözőképp zajlódjon le. </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">A játékban mindegyik ellenségünk, így pl. az “ork” és a “sárkány” objektumok öröklik az “ellenség” objektumtól, hogy van “támadás” metódusuk, de mindegyikük a saját módján támad, tehát másképp implementálódik “támadás”. </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Kutyáink esetében például lehetséges, hogy a terelőkutyák (child class) másképp ugassanak, másképp valósítsák meg az “ugat” metódust, mint a parent classban levő “ugat” parancs. Pl: nem “Vau!”-t fog kiírni a konzol esetükben, hanem “Woof!”-ot, tehát a child class felülírja a parent class metódusát.</span></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter wp-image-13187 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/05/Polimorfizmus.png" alt="Mi az oobjektum orientált programozás? Egy UML diagram" width="900" height="700" srcset="/blog/wp-content/uploads/2021/05/Polimorfizmus.png 900w, /blog/wp-content/uploads/2021/05/Polimorfizmus-300x233.png 300w, /blog/wp-content/uploads/2021/05/Polimorfizmus-768x597.png 768w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Az objektumorientált programozás komplex szemlélet, az itt kiragadott példák mentén egyszerűnek tűnhet, de valójában haladó szinteken alkalmazzák inkább. Bizonyos elemeit és aspektusait viszont kezdő szintű programozásba is beépíthetjük, egyszerű objektumokat például könnyen létrehozhatunk és alkalmazhatunk JavaScriptben, Javaban, Pythonban stb. </span></p>
+<h3><span style="font-weight: 400;">Köszönet az educative.io-nak</span></h3>
+<p><span style="font-weight: 400;">Ebben a cikkben az objektumorientált programozás alapjairól olvashattatok, a 4 fő alapelv mellett fogalmakkal is megismerkedhettetek. Cikkünk írása során nagyban támaszkodtunk az </span><a href="https://www.educative.io/blog/object-oriented-programming" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">educative.io objektumorinetált programozásról szóló cikkére</span></a><span style="font-weight: 400;"> és szuper ábráira, köszönjük nekik, hogy ilyen hasznos és érthető anyagot állítottak össze a témáról. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><b>A CodeBerry Programozóiskola A programozás alapjai című cikksorozatában programozással kapcsolatos témákat feszegetünk</b>, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a <a href="https://codeberryschool.com/blog/hu/" target="_blank" rel="noopener external" data-wpel-link="external">blogunkat</a>, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz!</p>
+<h3>A programozás alapjai</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/frontend-fejleszto-2021/" target="_blank" rel="noopener external" data-wpel-link="external">Mit kell tudnia egy frontend fejlesztőnek 2021-ben?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Hasznos információk az induláshoz – a programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" target="_blank" rel="noopener external" data-wpel-link="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" target="_blank" rel="noopener external" data-wpel-link="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+</ul>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

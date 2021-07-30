@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>javascript with statement | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/javascript-with-statement/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 17:49:41 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Mit kell tudnod, hogy elkezdhess Reactot tanulni?</title>
+		<link>/blog/hu/mit-kell-tudnod-reactot-tanulni/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2020 12:57:31 +0000</pubDate>
+				<category><![CDATA[Programozás tanfolyamok]]></category>
+		<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[arrow functions]]></category>
+		<category><![CDATA[bind javascript]]></category>
+		<category><![CDATA[bind jelentése]]></category>
+		<category><![CDATA[call apply bind]]></category>
+		<category><![CDATA[javascript with statement]]></category>
+		<category><![CDATA[mi az a react]]></category>
+		<category><![CDATA[node h]]></category>
+		<category><![CDATA[node jelentése]]></category>
+		<category><![CDATA[react jelentése]]></category>
+		<category><![CDATA[react js magyar]]></category>
+		<category><![CDATA[react magyarul]]></category>
+		<category><![CDATA[react programozás]]></category>
+		<category><![CDATA[template literals]]></category>
+		<category><![CDATA[vanilla js]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7339</guid>
+
+					<description><![CDATA[Szeretnél Reactot tanulni, de nem vagy biztos benne, hogy megvan-e a megfelelő tudásod hozzá? Azt olvastad valahol, hogy &#8220;stabil JavaScript-tudásra&#8221; van szükséged, de fogalmad sincs, hogy ez mit jelent? Találtál egy forrást, amely négy oldalon keresztül sorolta az előkövetelményeket, és ettől megrettentél? Egy pillanatig se aggódj, meghoztuk a megoldást! A tananyagíró csapatunk összeállította azoknak a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3>Szeretnél Reactot tanulni, de nem vagy biztos benne, hogy megvan-e a megfelelő tudásod hozzá?</h3>
+<p>Azt olvastad valahol, hogy &#8220;stabil JavaScript-tudásra&#8221; van szükséged, de fogalmad sincs, hogy ez mit jelent? Találtál egy forrást, amely négy oldalon keresztül sorolta az előkövetelményeket, és ettől megrettentél?</p>
+<h4><strong>Egy pillanatig se aggódj, meghoztuk a megoldást!</strong></h4>
+<p><strong>A tananyagíró csapatunk összeállította azoknak a készségeknek a </strong>rövid<strong> listáját, amelyekre <em>valóban</em> szükséged van</strong> ahhoz, hogy elkezdhess Reactban kódolni<strong>,</strong> és ne vessz el a második sornál.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/react-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12232 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/01/5.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/01/5.png 1024w, /blog/wp-content/uploads/2020/01/5-300x100.png 300w, /blog/wp-content/uploads/2020/01/5-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>Ha a lenti felsorolásból minden elemet ismersz alapszinten (nem kell a mesterüknek lenned!), akkor bőven készen állsz arra, hogy nekiállj Reactot tanulni. Ha pedig vannak még ismeretlen témák, a kapcsolódó linkeken olyan – többnyire ingyenes – anyagokat találsz, amelyekből megszerezheted a szükséges tudást.</p>
+<p>&nbsp;</p>
+<p><div style="width: 1890px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/574285/pexels-photo-574285.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="A Codeberrynél Reactot is tanulhatsz online" width="1880" height="1253" /><p class="wp-caption-text">A Codeberrynél Reactot is tanulhatsz online</p></div></p>
+<h2>Ezt kell tudnod, mielőtt a Reactba vágnád a fejszéd</h2>
+<table class="table-striped table-hover">
+<tbody>
+<tr>
+<th>Készség</th>
+<th>Tananyag</th>
+</tr>
+<tr>
+<td>Alapvető JavaScript</td>
+<td>Részletes tananyag: <a href="https://codeberryschool.com/hu/programozas-alapjai-kurzus/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a>*<br />
+Gyorstalpaló: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Asztali fejlesztői környezet felállítása</td>
+<td><a href="https://orange.codeberryschool.com/lessons/desktop-editor/wujdaq/0" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a>*</td>
+</tr>
+<tr>
+<td>Alapvető CLI skillek</td>
+<td><a href="https://lifehacker.com/a-command-line-primer-for-beginners-5633909" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Node.js telepítése</td>
+<td>Ha a sima telepítőfájl valamiért nem elegendő, itt egy hosszú gyűjtés a Node különböző telepítési lehetőségeiről: <a href="https://nodejs.org/en/download/package-manager/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">link</a>.</td>
+</tr>
+<tr>
+<td>Az npm (Node Package Manager) használatának alapjai (pl. <code>npm install</code>, <code>npm start</code>, mi az a <code>package.json</code>, stb.)</td>
+<td><a href="https://www.sitepoint.com/beginners-guide-node-package-manager/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td><code>export</code> statement</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td><code>import</code> statement</td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Callback és higher order functions</td>
+<td><a href="https://watchandcode.com/courses/60264/lectures/1126356" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a> (Csak a &#8220;Buzzwords: Higher order functions and callback functions&#8221; videót nézd meg.)</td>
+</tr>
+<tr>
+<td><code>.map()</code></td>
+<td><a href="https://www.w3schools.com/jsref/jsref_map.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td><code>.reduce()</code></td>
+<td><a href="https://www.w3schools.com/jsref/jsref_reduce.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Ternary operator</td>
+<td><a href="https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Event handling vanilla JavaScriptben</td>
+<td><a href="https://www.w3schools.com/js/js_htmldom_eventlistener.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Prototypes és inheritance</td>
+<td><a href="https://www.digitalocean.com/community/tutorials/understanding-prototypes-and-inheritance-in-javascript" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Constructorok</td>
+<td><a href="https://www.w3schools.com/js/js_object_constructors.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>ES6 classok</td>
+<td><a href="https://www.taniarascia.com/understanding-classes-in-javascript/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>A <code>super</code> keyword</td>
+<td><a href="https://www.w3schools.com/jsref/jsref_class_super.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>A <code>this</code> jelentése különböző kontextusokban</td>
+<td><a href="https://github.com/gordonmzhu/cheatsheet-js" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td><code>.bind()</code>, <code>.call()</code>, <code>.apply()</code></td>
+<td><a href="https://www.taniarascia.com/this-bind-call-apply-javascript/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td><code>var</code> vs. <code>let</code> vs. <code>const</code></td>
+<td><a href="https://programmingwithmosh.com/javascript/javascript-var-let-and-const/" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Arrow functions</td>
+<td><a href="https://www.w3schools.com/js/js_arrow_function.asp" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>Template literals</td>
+<td><a href="https://codeburst.io/javascript-what-are-template-literals-5d08a50ef2e3" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>ES6 spread operator</td>
+<td><a href="https://www.codingame.com/playgrounds/7998/es6-tutorials-spread-operator-with-fun" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+<tr>
+<td>ES6 destructuring</td>
+<td><a href="https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f" target="_blank" rel="noopener noreferrer external" data-wpel-link="external">Link</a></td>
+</tr>
+</tbody>
+</table>
+<p><em>*CodeBerry tananyagok</em></p>
+<p>&nbsp;</p>
+<p><div style="width: 3385px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://images.pexels.com/photos/2781195/pexels-photo-2781195.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="A React gyakorta keresett tudás a fejlesztők körében" width="3375" height="2250" /><p class="wp-caption-text">A React gyakorta keresett tudás a fejlesztők körében</p></div></p>
+<h2>Mindenről tudsz mindent?</h2>
+<p>Szuper, akkor várunk a React kezdőknek tanfolyamunkon, ahol elsajátíthatod a React alapjait, mindössze 20 óra alatt! Ha pedig általánosságban érdekelnek a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">programozás alapjai,</a> lesd meg további kurzusainkat, vagy böngészd át cikkeinket a <a href="https://codeberryschool.com/blog/hu/" target="_blank" rel="noopener external" data-wpel-link="external">CodeBerry blogon.</a></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/react-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12234 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/01/React-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/01/React-2.png 1024w, /blog/wp-content/uploads/2020/01/React-2-300x100.png 300w, /blog/wp-content/uploads/2020/01/React-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><b>A </b><a href="https://codeberryschool.com/blog/hu/category/programozas-tanfolyamok/" target="_blank" rel="noopener external" data-wpel-link="external"><b>“Programozás tanfolyamok”</b></a><b> című cikksorozatunkban részletesen összegyűjtöttük, hogy Magyarország nagyobb városaiban milyen tanulási lehetőségek várják a kódolni vágyókat, </b>illetve egyéb hasznos érdekességeket is, melyek segíthetnek kiválasztani a megfelelő képzést.</p>
+<h3>Programozás tanfolyamok</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-tanfolyamok/" target="_blank" rel="noopener external" data-wpel-link="external">Java programozó tanfolyamok</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/javascript-programozo-tanfolyamok/" target="_blank" rel="noopener external" data-wpel-link="external">JavaScript programozó tanfolyamok</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-budapesten/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Budapesten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szegeden/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Szegeden</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzesek-debrecenben/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Debrecenben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-gyorben/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Győrben</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-pecsen/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Pécsen</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-miskolcon/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Miskolcon</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-kecskemeten/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Kecskeméten</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-nyiregyhazan/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Nyíregyházán</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozo-kepzes-szekesfehervaron/" target="_blank" rel="noopener external" data-wpel-link="external">Programozó képzés Székesfehérváron</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

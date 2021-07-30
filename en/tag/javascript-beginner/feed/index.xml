@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>javascript beginner | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/javascript-beginner/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 24 Feb 2021 12:52:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Beginner’s Guide to JavaScript</title>
+		<link>/blog/en/beginners-guide-to-javascript/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 06:38:56 +0000</pubDate>
+				<category><![CDATA[Programming languages]]></category>
+		<category><![CDATA[beginner javascript]]></category>
+		<category><![CDATA[beginners guide to javascript]]></category>
+		<category><![CDATA[code school javascript]]></category>
+		<category><![CDATA[english to javascript]]></category>
+		<category><![CDATA[guide javascript]]></category>
+		<category><![CDATA[guide to javascript]]></category>
+		<category><![CDATA[is javascript beginner friendly]]></category>
+		<category><![CDATA[javascript a beginner's guide]]></category>
+		<category><![CDATA[javascript beginner]]></category>
+		<category><![CDATA[javascript beginner guide]]></category>
+		<category><![CDATA[javascript beginners guide]]></category>
+		<category><![CDATA[javascript programming guide]]></category>
+		<category><![CDATA[javascript schools]]></category>
+		<category><![CDATA[learn javascript english]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7584</guid>
+
+					<description><![CDATA[In CodeBerry Programming School’s “Beginner&#8217;s Guide” series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start. Would you like to learn how to code, online? Come and try our first 25 lessons for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>In CodeBerry Programming School’s “Beginner&#8217;s Guide” </b>series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start.</p>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<h3>Beginner&#8217;s Guide</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/a-brief-introduction-to-web-development/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Web Development</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-java-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Java Programming Language</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-python-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Python Programming Language</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-c/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C++</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-php/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to PHP</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-c-2/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C#</a></li>
+<li><strong>Beginner’s Guide to JavaScript</strong></li>
+</ul>
+<p>&nbsp;</p>
+<h3><b>Introduction</b></h3>
+<p><span style="font-weight: 400;">JavaScript is the language of the web. Almost every site you visit in your web browser will be using it in some manner to enhance the user experience. This is why JavaScript is such a desirable component of the modern programmer’s toolkit. There really is no substitute for this flexible language if you want to create brilliant browser-based experiences capable of hooking in customers, clients, and prospective employers. </span></p>
+<p><span style="font-weight: 400;">Want to create a website for your fast-growing socks-for-dogs business? Or how about an in-browser VR experience of what it’s like to visit your mother-in-law’s house at Christmas? You’ll have to learn JavaScript if you want to achieve these noble dreams and so much more.</span></p>
+<p><span style="font-weight: 400;">So if any of that takes your fancy (or you’re just bored on the toilet at work), read on to find out more about the basics of JavaScript and begin your journey towards becoming a web-programming ninja.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><b>Variables</b></h3>
+<p><span style="font-weight: 400;">A great place to start is with variables. Variables are where coders store information that a program needs whilst it is running. They’re like boxes that you can put stuff in. A programmer can create a variable in code, fill it with something, and then access it later. This way information can be available when it is needed.</span></p>
+<h4><i>So, how do I create a variable in code?</i></h4>
+<p><span style="font-weight: 400;">Like this:</span></p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable;</code></pre>
+<h4><em>What the hell does that mean?</em></h4>
+<p>Glad you asked. The line above consists of two parts that come together to create a variable. Let’s break it down.</p>
+<ul>
+<li>var
+<ul>
+<li>In JavaScript, this is a reserved word. There’s quite a few of these in the language and they all have dedicated jobs. This one tells the program you’re about to <em>create a variable</em>.</li>
+</ul>
+</li>
+<li>myCoolVariable
+<ul>
+<li>This is the <em>variable</em> <em>identifier</em>, which is just its name. This could be anything, from ‘cat’ to ‘antidisestablishmentarianism’ (please don’t name your variables this). The variable identifier is used to <em>reference </em>the variable later when you need it. It is considered good practice to give your variables names that describe what they do. So if you have a variable to contain your age, then you should probably call it myAge. Do this consistently, and your fellow programmers will love you and buy you things.</li>
+</ul>
+</li>
+</ul>
+<h4><em>Okay, cool, but what next?</em></h4>
+<p>Remember when I said variables are like boxes? Well, the code above creates the box, but we haven’t yet put anything inside it. This is the next step. But before that, a word on <em>data types</em>.</p>
+<h4><em>Data who?</em></h4>
+<p>Data types are the different kinds of variables you can create. Mostly all programming languages have these. Some are very strict about them. They make you state exactly what type of variable you’re creating from the get-go and then stick to that throughout. JavaScript isn’t like this. You can create a variable of a certain type in JavaScript and then change it later on a whim as variable values and types can be changed at any time. Woohoo. Go crazy.</p>
+<p>Here are some of the data types available to JavaScript programmers.</p>
+<ul>
+<li>Number
+<ul>
+<li>The Number type defines a variable with a numeric value. This type of variable can theoretically store values from -Infinity to +Infinity. It can also store a special value, NaN, which means ‘Not a Number’ and happens when you’ve done something wrong and confused JavaScript. Poor JavaScript.</li>
+</ul>
+</li>
+<li>String
+<ul>
+<li>The String type defines a variable that contains text, like ‘Hello’, ‘Goodbye’ or ‘Backstreet’s Back, Alright!’</li>
+</ul>
+</li>
+<li>Boolean
+<ul>
+<li>The Boolean type defines a variable that can be either <em>true</em> or <em>false</em>. This type of variable is often used for making decisions in code. Should I stay or should I go? Booleans have the answer.</li>
+</ul>
+</li>
+</ul>
+<p>There are other data types available and if you want to look into them, you can <a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external">click here.</a> </p>
+<h4><em>Giving Variables a Value</em></h4>
+<p>Let’s look at how to put stuff into variables. The following is some code that does just that.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">myCoolVariable = 10;
+myCoolVariable = ‘hello’;
+myCoolVariable = true;</code></pre>
+<p>The image above shows some code that sets myCoolVariable three times: once to a Numeric value (10), to a String value (‘hello’) and then to a Boolean value (true).</p>
+<h4><em>Creating and Setting a Variable at the Same Time</em></h4>
+<p>It’s also possible to create and set a variable all at once. You do it like this:</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;</code></pre>
+<p>Here we create myCoolVariable and give it the value 10 in one line. Check us out. Wonderful.</p>
+<h4><em>Referencing a Variable Later</em></h4>
+<p>Creating and setting variables is great. But the true power comes later when you actually use them. So what does that look like? It’s easy. Just use the identifier.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var myCoolVariable = 10;
+var myCoolVariableDouble = myCoolVariable + myCoolVariable;</code></pre>
+<p>Here we create myCoolVariable and give it the value 10. Then we create another variable, myCoolVariableDouble and set it to the result of adding myCoolVariable to itself. So now myCoolVariableDouble equals 20 and we have two variables in the program. Two! Get the camera, dad.</p>
+<h4><em>Enough about Variables</em></h4>
+<p>We’ve covered the basics of variables: creating them, setting them and referencing them. But there is so much more to programming in JavaScript than that. Now that we have this down, we can move on to bigger and better things. Like if statements.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><strong>If Statements</strong></h3>
+<p>So we’ve got variables down, but how do we use them to do cool and awesome things? Well, one of the ways is by using if statements.</p>
+<p>An &#8216;if statement&#8217; is a way in which a programmer can build <em>decision-based logic </em>into their code. This means that we can tell our programs to do something based on a certain <em>condition</em>. Let’s look at an example.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">If (10 &gt; 20) {
+  // Run this code
+} else {
+  // Run this code
+} </code></pre>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>{}’s define a code block. Some JavaScript tools, like the if statement, require these in order to separate different bits of code.</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>Let’s break this down.</p>
+<ul>
+<li>if
+<ul>
+<li>This is another reserved word. It indicates to the program that the following code will be an if statement.</li>
+</ul>
+</li>
+<li>(10 &gt; 20)
+<ul>
+<li>This part is the <em>condition</em>. The program will evaluate this and then choose what to do based on the result. A condition always outputs a Boolean value, i.e. true or false. If the output of the condition is true, the if statement will run the code block immediately after the closing bracket of the condition. If it evaluates to false, then the code in the else block will be run instead, which is exactly what happens here since 10 is not more than 20.</li>
+</ul>
+</li>
+<li>else
+<ul>
+<li>This is another JavaScript keyword. It simply defines the code that should run if the <em>condition</em> evaluates to false. The else block is not required. If you add it, then you’re technically creating an if else statement.</li>
+</ul>
+</li>
+</ul>
+<p>Hopefully, it is now clear why we need to use {} here. Without defining a code block, it wouldn’t be clear to the program which code should run if the condition evaluates to true or if it evaluates to false.</p>
+<p>If statements are one of the core building blocks of complex programs. Mastering these is imperative to becoming a competent JavaScript programmer.</p>
+<h3><strong>Loops</strong></h3>
+<p>Loops are another important tool. As the name suggests, these run bits of code over and over again until a condition is met. There are a few different kinds of loops, but we’re only going to look at two here. I’ll provide links to further study.</p>
+<h4><em>The For Loop</em></h4>
+<p>We will look at the for loop first. Here’s an example.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var numberOfIterations = 10;
+for (var i = 0; i &lt; numberOfIterations; i++) {
+  // do something 10 times
+}</code></pre>
+<p>This might look a little weird compared to other stuff, but it becomes really straightforward when you break it down. I’ll go over each individual part.</p>
+<ul>
+<li>var numberOfIterations = 10
+<ul>
+<li>This is just the code for creating and setting a variable in one go.</li>
+</ul>
+</li>
+<li>for (var i = 0; i &lt; numberOfIterations; i++)
+<ul>
+<li>for
+<ul>
+<li>Another reserved word. This tells the program you’re about to write a for loop.</li>
+</ul>
+</li>
+<li>var i = 0
+<ul>
+<li>Creating and setting a variable again. This is a special case because we’re creating it within the for loop. This means that variable i will only exist for the duration of that for loop. Once it’s done executing, i will be discarded. Forever. Goodbye i.</li>
+</ul>
+</li>
+<li>i &lt; numberOfIterations
+<ul>
+<li>This line tells the for loop to execute only while the variable i is less than the value of numberOfIterations (10).</li>
+</ul>
+</li>
+<li>i++
+<ul>
+<li>Finally, this line tells the for loop that once it is done executing a single iteration, it should increase the value of i by 1.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>I hope it’s now quite easy to see how the for loop works. It creates a temporary variable to track the number of loops it has done: (i), then it defines the condition for execution (only while i &lt; some value) and then it defines how i should increase with each loop (in this case, +1 but it can really be anything you want).</p>
+<p>Evidently, the for loop is good when you know how many times you want to run something. But what about when you don’t? Here comes the while loop.</p>
+<h4><em>The While Loop</em></h4>
+<p>The while loop is simpler than the for loop. It just takes a condition and executes until that condition is false. Here’s an example.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">var shouldKeepRunning = true;
+while (shouldKeepRunning) {
+  // Do some code
+  shouldKeepRunning = false;
+}</code></pre>
+<ul>
+<li>while
+<ul>
+<li>We’re telling the program we’re about to write a while loop.</li>
+</ul>
+</li>
+<li>(shouldKeepRunning)
+<ul>
+<li>This is the condition. The loop will run while the value of shouldKeepRunning is true. This is the same as writing shouldKeepRunning == true, but we can write it like this as shorthand.</li>
+</ul>
+</li>
+</ul>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>JavaScript uses == to compare two values, as = is used to set a value. So if you write if (10 == 20), you’re really saying ‘if 10 is equal to 20’.</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<p>This loop will only run once as we immediately set shouldKeepRunning to false on the first iteration. It will probably be a little different in your code, but it’s important to make sure that the loop will stop at some point. We don’t want to cause a global catastrophe.</p>
+<p>These are the only two loops we will go over here, but if you want to learn more, you can check out <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external">this link</a>. </p>
+<h3><strong>Functions</strong></h3>
+<p>All the tools we’ve got right now are great for writing small, sequential scripts, but what if we want to write larger programs that make use of the same bits of code over and over? We don’t want to have to constantly copy and paste any code we want to reuse. This is where functions come in.</p>
+<p>Functions are reusable chunks of code. Here’s an example.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">function doSomething(argumentOne, argumentTwo) {
+  // do something here
+}</code></pre>
+<p>Breaking this down, we get:</p>
+<ul>
+<li>function
+<ul>
+<li>Just another JavaScript keyword.</li>
+</ul>
+</li>
+<li>doSomething
+<ul>
+<li>This is the <em>function identifier</em>. Just like a variable identifier, it lets us refer to this function later in code.</li>
+</ul>
+</li>
+<li>(argumentOne, argumentTwo)
+<ul>
+<li>The code within the brackets is the argument list. The two values argumentOne and argumentTwo behave as variables within the function and therefore can be used as such. We’ll see in a second how these variables get set.</li>
+</ul>
+</li>
+</ul>
+<p>Any code defined within the function block can be run as many times as you like simply by invoking the function. Here’s an example of that.</p>
+<pre class="wp-block-code"><code class="language-javascript" lang="javascript">doSomething(10, 20);</code></pre>
+<p>We use the function identifier doSomething and then we pass two arguments, 10 and 20. These arguments that we pass will then populate the arguments in the function’s argument list, argumentOne and argumentTwo. Order matters, so argumentOne will get the value 10, and argumentTwo will get the value 20.</p>
+<p>Functions operate the same as variables in that you can only refer to a function within the block, and all child blocks, where it was defined. If you have a function that was created inside an if statement block, for example, then you can’t use it outside of that block.</p>
+<p>Functions are extremely important tools if you want to create complex and dynamic programs, so they’re important to practice. For more information, <a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external">see here.</a> </p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><strong>Conclusion</strong></h3>
+<p>I’ve gone over some of the basics of JavaScript programming in this article, but there is a lot more to know. Coding is a practical skill, and as such can only be learned properly with practice. There are plenty of services out there to help you do this, like CodeAcademy, CodeSchool, Pluralsight and<span style="font-weight: 400;">, of course, Codeberry!</span> I hope this information will be useful to you as a handy reference guide for the future. Good luck with your coding career!</p>
+<p><strong>In CodeBerry Programming School’s “Beginner&#8217;s Guide” </strong>series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start.</p>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<h3>Beginner&#8217;s Guide</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/a-brief-introduction-to-web-development/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Web Development</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-java-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Java Programming Language</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-python-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Python Programming Language</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-c/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C++</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-php/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to PHP</a></li>
+<li><a href="https://codeberryschool.com/blog/beginners-guide-to-c-2/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C#</a></li>
+<li><strong>Beginner’s Guide to JavaScript</strong></li>
+</ul>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HSL | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/hsl/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 21 Mar 2021 21:24:50 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>HTML színkódok &#8211; a beállítás módjai példákkal</title>
+		<link>/blog/hu/html-szinkodok-beallitas-modjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2020 19:48:13 +0000</pubDate>
+				<category><![CDATA[Programozási oktatóanyagok]]></category>
+		<category><![CDATA[alapszínek]]></category>
+		<category><![CDATA[attribútum]]></category>
+		<category><![CDATA[fehér színkód]]></category>
+		<category><![CDATA[HEX]]></category>
+		<category><![CDATA[hexadecimális]]></category>
+		<category><![CDATA[hexadecimális színkód]]></category>
+		<category><![CDATA[honlapszerkesztés]]></category>
+		<category><![CDATA[HSL]]></category>
+		<category><![CDATA[HSLA]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html színek]]></category>
+		<category><![CDATA[html színkód]]></category>
+		<category><![CDATA[html színkódok]]></category>
+		<category><![CDATA[RGB]]></category>
+		<category><![CDATA[rgb színkód]]></category>
+		<category><![CDATA[rgb színkódok 0-255]]></category>
+		<category><![CDATA[RGBA]]></category>
+		<category><![CDATA[színkód]]></category>
+		<category><![CDATA[színkódok]]></category>
+		<category><![CDATA[szinkodokrgb színkódok]]></category>
+		<category><![CDATA[színkör]]></category>
+		<category><![CDATA[színpaletta]]></category>
+		<category><![CDATA[színválasztás képről]]></category>
+		<category><![CDATA[színválasztó]]></category>
+		<category><![CDATA[tag]]></category>
+		<category><![CDATA[webdesign]]></category>
+		<category><![CDATA[weblap]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10240</guid>
+
+					<description><![CDATA[HTML-ben hozhatjuk létre a weblapok szerkezeti vázát, címsorok, bekezdések, linkek struktúráját. Változatos, igényes honlapok készítésekor azonban az áttekinthetőségen túl egyéb szempontok &#8211; mint például a színek megválasztása &#8211; épp ilyen jelentősek lehetnek.  A webprogramozás alapjairól korábban már írtunk, érdemes ezt a cikket is átfutnod, ha a HTML színkódokkal kapcsolatos alapokra vagy kíváncsi. Ebben a bejegyzésben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">HTML-ben hozhatjuk létre a weblapok szerkezeti vázát, címsorok, bekezdések, linkek struktúráját. Változatos, igényes honlapok készítésekor azonban az áttekinthetőségen túl egyéb szempontok &#8211; mint például a színek megválasztása &#8211; épp ilyen jelentősek lehetnek. </span></p>
+<p><span style="font-weight: 400;">A </span><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">webprogramozás alapjairól</span></a><span style="font-weight: 400;"> korábban már írtunk, érdemes ezt a cikket is átfutnod, ha a HTML színkódokkal kapcsolatos alapokra vagy kíváncsi.</span></p>
+<p><span style="font-weight: 400;">Ebben a bejegyzésben azokat a lehetőségeket járjuk végig, hogyan lehet színeket, árnyalatokat megadni a HTML kódban, sok-sok példával illusztrálva.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12260 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/2.png 1024w, /blog/wp-content/uploads/2020/09/2-300x100.png 300w, /blog/wp-content/uploads/2020/09/2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">HTML színnevek &#8211; a HTML színkódok alapjai</span></h2>
+<p><span style="font-weight: 400;">Több millió különböző színárnyalat létezik, amit a modern böngészők meg tudnak jeleníteni. Ezeket mind elnevezni és számontartani lehetetlen volna, ezért az informatikában kódolással oldják meg a színek és árnyalatok pontos megadását. </span></p>
+<p><span style="font-weight: 400;">A HTML 140 </span><a href="https://www.tutorialspoint.com/html/html_color_names.htm" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">sztenderd színnevet</span></a><span style="font-weight: 400;"> támogat, de színkódok megadásáva ezeken kívül is bármilyen árnyalatot megjeleníthetünk a készülő honlapon. Az előre kódolt színeket elég az őket specifikusan leíró színnévvel megadnunk (aqua, black, yellowgreen, hotpink stb.), nem kell a hozzá kikeresnünk a specifikus kódot, ami pontosan definiálja az adott színt.</span></p>
+<p><span style="font-weight: 400;">Többféle kódolási rendszer létezik a színek megadására, melyek különböző komponensek (alapszínek) arányát és paraméterek (pl. áttetszőség, telítettség) mértékét tartalmazzák. Ebben a cikkben a legtöbbet használt, hexadecimális kódolási rendszert mutatjuk be részletesebben, a többi lehetőségről érintőlegesen teszünk említést. </span></p>
+<p><div style="width: 955px" class="wp-caption aligncenter"><img loading="lazy" src="https://s3.amazonaws.com/images.wealthyaffiliate.com/uploads/953826/wysiwyg/training/81e7dab23b371169feb09cdd7492853a_1502874892_cropped.jpg" alt="HTML színkódokkal szinte végtelen változatosságot hozhatunk létre" width="945" height="825" /><p class="wp-caption-text">HTML színkódokkal szinte végtelen változatosságot hozhatunk létre</p></div></p>
+<h2><span style="font-weight: 400;">Színválasztók és színkeverés</span></h2>
+<p><span style="font-weight: 400;">Egy-egy szín kódját a különböző színválasztó (color picker) eszközök segítségével lehet megtalálni. </span></p>
+<p><span style="font-weight: 400;">Néhány példa színválasztókra: </span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Színpaletta</span></a></li>
+<li style="font-weight: 400;"><a href="https://htmlcolorcodes.com/color-picker/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Átmenetek, finom árnyalatkülönbségek</span></a></li>
+<li style="font-weight: 400;"><a href="https://imagecolorpicker.com/en/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kép színeinek azonosítása</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Minden, a szemünk által érzékelhető szín alapszínek bizonyos arányú keveréke. Az informatikában a piros, a zöld és a kék (red, green, blue, vagyis RGB)  alapszínek keverésével jelenítődnek meg a különböző árnyalatok. </span></p>
+<p><span style="font-weight: 400;">(A színtanban egyébként a piros a sárga és a kék az alapszínek, az, hogy az informatikában nem ezeket a komponenseket adjuk meg, a monitorok bizonyos tulajdonságai miatt alakult így.)</span></p>
+<h2><span style="font-weight: 400;">Hexadecimális színkód </span></h2>
+<p><span style="font-weight: 400;">A lehetséges megoldások közül hexadecimálisan &#8211; 16-os számrendszerben &#8211; kódolhatunk a legtömörebben, ez a legelterjedtebb forma HTML szerkesztéskor.</span></p>
+<p><span style="font-weight: 400;">A színkód elé # karakter kerül, ezután hatjegyű karaktersort adunk meg: számjegyek (0-9) és betűk (a-f) meghatározott kombinációjával definiáljuk a pontos színt. A hatjegyű kód első két jegye a piros (RR), második két jegye a zöld (GG), a harmadik kettő pedig a kék (BB) szín értékét határozza meg. </span></p>
+<p><span style="font-weight: 400;">Például: #eb4034</span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10241" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/hex-code.png" alt="" width="852" height="490" srcset="/blog/wp-content/uploads/2020/10/hex-code.png 852w, /blog/wp-content/uploads/2020/10/hex-code-300x173.png 300w, /blog/wp-content/uploads/2020/10/hex-code-768x442.png 768w" sizes="(max-width: 852px) 100vw, 852px" /></p>
+<p><span style="font-weight: 400;">A szürke különböző árnyalatai azonos arányban tartalmazzák az egyes komponenseket. </span></p>
+<p><span style="font-weight: 400;">Pl:</span></p>
+<p><span style="font-weight: 400;">#404040</span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10242" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/hex-code-grey-1.png" alt="" width="864" height="480" srcset="/blog/wp-content/uploads/2020/10/hex-code-grey-1.png 864w, /blog/wp-content/uploads/2020/10/hex-code-grey-1-300x167.png 300w, /blog/wp-content/uploads/2020/10/hex-code-grey-1-768x427.png 768w" sizes="(max-width: 864px) 100vw, 864px" /></p>
+<p><span style="font-weight: 400;">#bebebe</span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10243" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/grey2.png" alt="" width="860" height="485" srcset="/blog/wp-content/uploads/2020/10/grey2.png 860w, /blog/wp-content/uploads/2020/10/grey2-300x169.png 300w, /blog/wp-content/uploads/2020/10/grey2-768x433.png 768w" sizes="(max-width: 860px) 100vw, 860px" /></p>
+<p><span style="font-weight: 400;">A fekete szín minden karaktere 0 </span></p>
+<p><span style="font-weight: 400;">#000000</span></p>
+<p><span style="font-weight: 400;">A fehér szín minden komponensből a legmagasabb értéket tartalmazza</span></p>
+<p><span style="font-weight: 400;">#ffffff</span></p>
+<h3><span style="font-weight: 400;">Tömörebb hexadecimális érték</span></h3>
+<p><span style="font-weight: 400;">Ilyen és hasonló esetekben még tömörebb írásmódot is alkalmazhatunk: olyan színeknél, ahol az adott komponensre vonatkozó két karakter ugyanaz, ott írhatjuk 3 számjeggyel is a színkódot, automatikusan kettőzve azonosítja a rendszer. </span></p>
+<p><span style="font-weight: 400;">A #000 ugyanúgy a fehér színt definiálja, mint a #000000, a #0ff ugyanazt a türkiz árnyalatot hozza létre, amit a #00ffff. </span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10244" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/c24.png" alt="" width="854" height="485" srcset="/blog/wp-content/uploads/2020/10/c24.png 854w, /blog/wp-content/uploads/2020/10/c24-300x170.png 300w, /blog/wp-content/uploads/2020/10/c24-768x436.png 768w" sizes="(max-width: 854px) 100vw, 854px" /></p>
+<p><span style="font-weight: 400;">A #cc2244 színkód tömörebb formája a #c24</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Hova kerül a HTML színkód?</span></h2>
+<p><span style="font-weight: 400;">A színeket attribútumok formájában adjuk meg, azon a tagen belül, amire vonatkozni fog. Az egész oldal háttérszínét a &lt;body&gt; tagen belül határozzuk meg, a fő címsor színe pedig a &lt;h1&gt; tagen belül lesz, stb. </span></p>
+<h3><span style="font-weight: 400;">Attribútumok:</span></h3>
+<p><span style="font-weight: 400;">A </span><b>&lt;body&gt;</b><span style="font-weight: 400;"> tagen belül ‘</span><b>text’ </b><span style="font-weight: 400;">attribútummal adhatjuk meg a szöveg színére, </span><b>‘bgcolor’</b><span style="font-weight: 400;">-ral a háttér színére vonatkozó információt. </span><b> </b><span style="font-weight: 400;">A </span><b>&lt;font&gt;</b><span style="font-weight: 400;"> tagen belül a ‘</span><b>color’ </b><span style="font-weight: 400;">attribútum használatával állítható be szín. </span></p>
+<p><iframe style="width: 100%;" title="html codes attribute" src="https://codepen.io/le-peters/embed/xxEpyVp?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="350" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/le-peters/pen/xxEpyVp" target="_blank" rel="noopener external" data-wpel-link="external">html codes attribute</a> by Le Peters<br />
+  (<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br /></iframe></p>
+<p><span style="font-weight: 400;">A HTML-ben lehetőségünk van bármelyik elemnél a </span><b>&lt;style&gt; </b><span style="font-weight: 400;">taget használni, amivel felülírhatunk bármilyen globálisan megadott &#8211; formázásra, stílusra, színre &#8211; vonatkozó információt, az adott helyen, ahol más megjelenést szeretnénk látni. </span></p>
+<p><iframe style="width: 100%;" title="html color code attribute 2" src="https://codepen.io/le-peters/embed/JjRMmKp?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="350" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+  See the Pen <a href="https://codepen.io/le-peters/pen/JjRMmKp" target="_blank" rel="noopener external" data-wpel-link="external">html color code attribute 2</a> by Le Peters<br />
+  (<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br /></iframe></p>
+<h2><span style="font-weight: 400;">További lehetséges színkódolási formák</span></h2>
+<h3><span style="font-weight: 400;">RGB, RGBA</span></h3>
+<p><span style="font-weight: 400;">A piros, zöld és kék színek arányát nem csak hexadecimális formában adhatjuk meg, de egy-egy 0-255-ig terjedő értékkel is jelölhetjük. Ilyenkor a </span><b>text, bgcolor </b><span style="font-weight: 400;">stb. attribútumok után</span><b> rgb(192,192,192)</b><span style="font-weight: 400;"> formában kerül a kódba a színre vonatkozó utasítás. </span></p>
+<p><span style="font-weight: 400;">Az RGBA kódolásnál az alapszínek értéke kiegészül még egy komponessel, ami az áttetszőségre utal, ez az Alpha Channel. Az alpha paraméter egy szám 0.0 (teljesen áttetsző) és 1.0 (egyáltalán nem áttetsző) között. Ebben az esetben a színre vonatkozó információ a következőképp néz ki:  rgba(255, 99, 71, 0.5)</span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10247" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/rgba.png" alt="" width="787" height="298" srcset="/blog/wp-content/uploads/2020/10/rgba.png 787w, /blog/wp-content/uploads/2020/10/rgba-300x114.png 300w, /blog/wp-content/uploads/2020/10/rgba-768x291.png 768w" sizes="(max-width: 787px) 100vw, 787px" /></p>
+<h3><span style="font-weight: 400;">HSL, HSLA</span></h3>
+<p><span style="font-weight: 400;">HTML-ben definiálhatjuk a színt a színárnyalat telítettség és világosság megadásával is, (hue, saturation, lightness &#8211; HSL). Az árnyalat értéke a színkörön való elhelyezkedésből származik, így fokban fejezzük ki. </span></p>
+<p><span style="font-weight: 400;">A telítettség egy százalékos érték, a 0% egy szürke árnyalatot definiál, a 100% a teljes szín. A világosság szintén százalékban kifejezett érték, a 0% a fekete, a 100% a fehér szín. Egy HSL színkód a következőképp néz ki:</span></p>
+<p><span style="font-weight: 400;">hsl(36, 100%, 50%)</span></p>
+<p><span style="font-weight: 400;">Szintén kiegészülhet alpha értékkel, ami az áttetszőségre utal. </span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10248" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/hsla.png" alt="" width="740" height="286" srcset="/blog/wp-content/uploads/2020/10/hsla.png 740w, /blog/wp-content/uploads/2020/10/hsla-300x116.png 300w" sizes="(max-width: 740px) 100vw, 740px" /></p>
+<p><span style="font-weight: 400;">Érdemes kipróbálni a különböző színválasztókat és színkódolási formákat és megtalálni azt, ami a célnak leginkább megfelel, illetve amivel a leggördülékenyebben tudsz dolgozni. Kis gyakorlással te is könnyedén fogsz szebbnél-szebb színeket beállítani készülő weblapodon.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12300 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/Website-Creator-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/10/Website-Creator-2.png 1024w, /blog/wp-content/uploads/2020/10/Website-Creator-2-300x100.png 300w, /blog/wp-content/uploads/2020/10/Website-Creator-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;A CodeBerry Programozóiskola \&quot;Programozási oktatóanyagok\&quot; sorozatában olyan kiegészítő tananyagokat találsz az egyes programnyelvekhez, melyek segítségével gyorsan és egyszerűen sajátíthatod el a programozás alapjait.&quot;}" data-sheets-userformat="{&quot;2&quot;:8971,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:14281427},&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;11&quot;:4,&quot;12&quot;:0,&quot;16&quot;:8}"><strong>A CodeBerry Programozóiskola <a href="https://codeberryschool.com/blog/hu/category/programozasi-oktatoanyagok-hu/" data-wpel-link="external" target="_blank" rel="external">“Programozási oktatóanyagok” sorozatában</a></strong> olyan kiegészítő tananyagokat találsz az egyes programnyelvekhez, melyek segítségével gyorsan és egyszerűen sajátíthatod el a programozás alapjait.</span></p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/programozos-jatekok/" data-wpel-link="external" target="_blank" rel="external">Programozós játékok, amikkel erőfeszítés nélkül tanulhatsz</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozas-konyvek-magyarul/" data-wpel-link="external" target="_blank" rel="external">A legjobb programozós könyvek magyarul</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/css-background-images/" data-wpel-link="external" target="_blank" rel="external">Háttérkép beállítása CSS-ben</a></li>
+<li><strong>HTML színkódok – a beállítás módjai példákkal</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/html-tablazat-formazas/" data-wpel-link="external" target="_blank" rel="external">HTML táblázatok létrehozása</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

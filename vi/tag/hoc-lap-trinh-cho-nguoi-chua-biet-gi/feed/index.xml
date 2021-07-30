@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>học lập trình cho người chưa biết gì | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/hoc-lap-trinh-cho-nguoi-chua-biet-gi/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 21 Nov 2019 07:41:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Những điều tôi ước mình đã biết trước khi bước vào giới lập trình &#8211; Và những bài học tự rút ra khi đứng ở vị trí đào tạo</title>
+		<link>/blog/vi/nhung-dieu-toi-uoc-minh-biet-truoc-khi-buoc-vao-the-gioi-lap-trinh-va-nhung-bai-hoc-toi-tu-rut-ra-khi-o-vi-tri-dao-tao/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 10:33:42 +0000</pubDate>
+				<category><![CDATA[Bài báo]]></category>
+		<category><![CDATA[bái báo]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[có khi bước không chung đường vậy lại hay]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberryschool]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[cong ty dich thuat "go back to category" job]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[học lập trình cho người chưa biết gì]]></category>
+		<category><![CDATA[hội đồng]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[lập trình]]></category>
+		<category><![CDATA[lập trình viên cần học môn gì]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[toi uoc]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6570</guid>
+
+					<description><![CDATA[Đặt mục tiêu rõ ràng trước khi học lập trình Lập trình tập trung vào việc tạo ra những sản phẩm hoặc tính năng cụ thể và con đường cần đi sẽ trở nên rõ ràng nếu bạn xác định rõ mục tiêu. Nếu bạn chỉ &#8220;học cách viết code&#8221; mà không có ý tưởng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3><b>Đặt mục tiêu rõ ràng trước khi học lập trình</b></h3>
+<p><span style="font-weight: 400;">Lập trình tập trung vào việc tạo ra những sản phẩm hoặc tính năng cụ thể và con đường cần đi sẽ trở nên rõ ràng nếu bạn xác định rõ mục tiêu. Nếu bạn chỉ &#8220;học cách viết code&#8221; mà không có ý tưởng mình sẽ viết cái gì và giúp cải thiện cuộc sống của mình ra sao, thì với bạn lập trình sẽ sớm trở thành một công việc nặng nề và mệt mỏi.</span></p>
+<p><span style="font-weight: 400;">Thật xấu hổ khi phải thừa nhận trước đây mình đến với môn khoa học máy tính chỉ để chứng tỏ sự thông minh của bản thân và mong kiếm được công việc dành cho người “có đầu óc”. Bản thân mình cũng có chút năng khiếu toán học và khá thích nghiên cứu lý thuyết nên lập trình là một lựa chọn phù hợp (</span><a href="http://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">cuốn sách tuyệt vời này</span></a><span style="font-weight: 400;"> đã tạo động lực cho mình khi đó). Tuy nhiên những điều trên chưa đủ để duy trì hứng thú lâu dài với công việc cho đến một ngày mình tìm ra mối liên kết kỳ diệu giữa công nghệ và những niềm đam mê khác của bản thân như âm nhạc hay văn học.</span></p>
+<p><span style="font-weight: 400;">Bạn muốn tạo ra thứ gì? Một trang web? Một trò chơi? Một ứng dụng trên iPhone? Một công ty startup giúp bản thân giàu có? Một sản phẩm nghệ thuật tương tác? Hay đơn giản bạn chỉ muốn gây ấn tượng với sếp hoặc tìm cách tự động hóa một quy trình nào đó để có thời gian tận hưởng cuộc sống? Cũng có thể bạn muốn có cơ hội công việc mới, bổ sung vào hồ sơ một vài kỹ năng cần thiết, hoặc đáp ứng đủ điều kiện để tốt nghiệp một khóa học. Đó đều là những mục tiêu đáng để phấn đấu. Hãy chắc chắn xác định đúng mục tiêu cho bản thân, và học những gì phù hợp giúp bạn đạt được mục tiêu đó.</span></p>
+<h3><b>Lập trình không phải môn khoa học thần bí</b></h3>
+<p><span style="font-weight: 400;">Lập trình là một dạng kỹ năng cụ thể và việc học lập trình có những yêu cầu riêng giống các dạng kỹ năng khác. Ví dụ như học ngoại ngữ yêu cầu bạn phải biết ngữ pháp và từ vựng. Học toán bạn phải biết các phương pháp giúp giải quyết từng dạng bài riêng. Mỗi lĩnh vực khác nhau từ thủ công cho tới nghệ thuật đều có những kỹ thuật, công cụ và phương pháp được người đi trước đúc kết theo thời gian. Mỗi vấn đề khác nhau cần những phương pháp khác nhau để giải quyết. Dĩ nhiên bạn có thể tự do sử dụng, sửa đổi hoặc lược bỏ những bước không cần thiết.</span></p>
+<p><a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Một lập trình viên kỳ cựu</span></a><span style="font-weight: 400;"> (một người thông minh và có nhiều bài viết tranh luận mà mình rất thích) cho rằng có một ranh giới ngăn cách giữa một lập trình viên thực thụ và những người không có đủ năng lực trí tuệ để thành công trong lĩnh vực này. Theo anh thì khả năng hiểu kiến thức về con trỏ và đệ quy có thể dùng làm ví dụ (những ai chưa biết 2 khái niệm này có thể tìm hiểu thêm </span><a href="http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ở đây</span></a><span style="font-weight: 400;"> và </span><a href="http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">đây</span></a><span style="font-weight: 400;">).</span></p>
+<p><span style="font-weight: 400;">Trước đây mình có học về con trỏ và đệ quy ở trường. Mình thấy mọi thứ thú vị hơn nhiều sau khi nắm rõ 2 khái niệm trên – đây là thứ “niềm vui trí tuệ” lôi cuốn mình đến với môn khoa học máy tính trong những ngày đầu. Tuy nhiên đây lại là 2 trong vô số những khái niệm phức tạp mà sau này mình nhận ra thường chỉ xuất hiện trên trường lớp. Chẳng mấy khi mình cần kiến thức như vậy để áp dụng trong công việc hàng ngày. Trong quá trình đi dạy, mình gặp nhiều học viên không biết về 2 khái niệm trên nhưng vẫn hoàn thành xuất sắc những dự án lập trình được giao.</span></p>
+<p><span style="font-weight: 400;">Thật lãng phí thời gian khi bạn cứ băn khoăn, lo lắng về việc liệu mình có đủ thông minh để học lập trình hay không. Tất nhiên khi phải đảm nhận các dự án phức tạp và lắt léo thì bạn cần có trình độ chuyên môn nhất định. Nhưng điều này đúng ở bất cứ lĩnh vực nào trong cuộc sống, không riêng gì lập trình. Nói chung bạn không cần phải là thiên tài, một người am hiểu về đệ quy “trong lòng bàn tay” thì mới có thể lập trình những thứ bạn muốn.</span></p>
+<h3><b>Lần đầu thường chẳng đến đâu</b></h3>
+<h4><b>Và rất có thể lần hai hoặc ba cũng vẫn thế</b></h4>
+<p><span style="font-weight: 400;">Khi mới học lập trình, bạn sẽ sớm gặp tình trạng khi bản thân cho rằng đã làm mọi thứ chuẩn chỉnh, bạn kiểm tra đi kiểm tra lại, và rốt cục chương trình bạn viết vẫn không chạy&#8230; Bạn chẳng biết mình làm sai ở đâu, và thông báo lỗi của hệ thống (nếu có) cũng thường vô dụng và chẳng chỉ ra manh mối cụ thể nào. Bạn lúc này bắt đầu nghĩ đến việc bỏ cuộc, cho rằng mình sẽ chẳng bao giờ giải quyết được vấn đề, cho rằng mình không có năng khiếu lập trình. Lần đầu tiên mình trải qua cảm giác đó là khi tập viết một chương trình bằng ngôn ngữ C ++, thử cho chương trình chạy và màn hình hiện thông báo &#8220;lỗi phân đoạn&#8221;.</span></p>
+<p><span style="font-weight: 400;">Đây là trải nghiệm phổ biến đối với lập trình viên ở mọi cấp độ và hoàn toàn không thể sử dụng để đánh giá sự thông minh hay kiến thức công nghệ của bạn. Nó cũng chẳng thể dùng để quyết định xem bạn có phù hợp với nghề lập trình hay không. Bạn sẽ luôn gặp những vấn đề kiểu vậy khi mới bắt đầu lập trình và ngay cả sau này khi đã trở thành một lập trình viên chuyên nghiệp. Sự khác biệt chỉ là cách bạn chọn để đương đầu với khó khăn.</span></p>
+<p><span style="font-weight: 400;">Mình nhận ra điểm khác biệt lớn nhất giữa một lập trình viên mới và một người giàu kinh nghiệm chính là lòng tin. Một người có kinh nghiệm sẽ luôn tin rằng mọi trục trặc đều do một nguyên nhân mang tính logic và chắc chắn có thể tìm ra, họ tin rằng mọi vấn đề đều có cách giải quyết và luôn có con đường để về tới đích. Từ &#8220;không hoạt động&#8221; đến &#8220;hoạt động tốt&#8221; có thể là một đoạn đường mù mờ, nhưng với bản tính kiên định bạn nhất định sẽ đến đích.</span></p>
+<h3><b>Luôn có ai đó bảo rằng bạn đang làm sai</b></h3>
+<p><span style="font-weight: 400;">Sẽ luôn có ai đó chỉ vào màn hình của bạn và nói những điều kiểu như: </span><a href="http://theprofoundprogrammer.com/page/17" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dấu ngoặc nhọn này nên đặt ở dòng tiếp theo</span></a><span style="font-weight: 400;">; </span><a href="http://programmers.stackexchange.com/a/2782" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dấu ngoặc nhọn kia nên đặt trên cùng một dòng</span></a><span style="font-weight: 400;">; </span><a href="http://derkarl.org/why_to_tabs.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">đừng quên dùng tab để thụt lề</span></a><span style="font-weight: 400;">; </span><a href="http://www.emacswiki.org/emacs/TabsAreEvil" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">nhưng dùng tab thực ra không hay lắm</span></a><span style="font-weight: 400;">; hãy thử dùng </span><a href="http://mysqlstoredprocedure.com/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=40" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">stored procedure</span></a><span style="font-weight: 400;"> (một tập các khai báo sql được lưu trữ trong cơ sở dữ liệu), mà không thực ra </span><a href="http://www.tonymarston.co.uk/php-mysql/stored-procedures-are-evil.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">không nên sử dụng stored procedure</span></a><span style="font-weight: 400;">; đừng quên </span><a href="http://www.lanoie.net/classes/DHTML/programming/lectures/lecture.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">để lại ghi chú khi viết code</span></a><span style="font-weight: 400;">; nhưng nếu code viết chuẩn rồi thì </span><a href="http://visualstudiomagazine.com/articles/2013/06/01/roc-rocks.aspx" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">không cần để lại ghi chú</span></a><span style="font-weight: 400;"> đâu.</span></p>
+<p><span style="font-weight: 400;">Trong lập trình có nhiều cách tiếp cận khác nhau cho cùng một vấn đề và thường không có cách “đúng nhất”. Nhiều người thích áp đặt cách tiếp cận của họ, nhưng lại quên đó không phải cách duy nhất. Khi mới vào nghề, trải nghiệm mệt mỏi nhất là khi ai đó liên tục bảo rằng mình đang làm sai. Những lúc như vậy mình phải căng đầu để cân nhắc xem những gì họ nói có chính xác hay không.</span></p>
+<p><span style="font-weight: 400;">Khi lập trình theo nhóm, sẽ luôn có ai đó bất đồng quan điểm với bạn. Cũng có lúc quan điểm của họ chính xác và bạn nên kiểm tra lại những gì mình viết. Nhưng nhiều khi bạn nghe phải những quan điểm hết sức nhảm nhí, những vấn đề vốn là tranh luận muôn thủa trong ngành mà lẽ ra lập trình viên chỉ nên bám theo và làm đúng như yêu cầu vậy là xong.  </span></p>
+<p><span style="font-weight: 400;">Ngược lại, nếu bạn cũng là người rảnh rỗi thích dành thời gian tranh luận những vấn đề không đâu thì chúc mừng, bạn vừa tìm được “cạ cứng” của mình (mình đang nhắc tới mấy người hay bị ám ảnh bởi lý thuyết đấy).</span></p>
+<h3><b>Luôn có ai đó cho rằng bạn chưa phải lập trình viên “thực thụ”</b></h3>
+<p><span style="font-weight: 400;">Sẽ luôn có ai đó nói với bạn những điều kiểu như: </span><a href="http://www.cs.tut.fi/~jkorpela/prog.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">biết HTML đâu thể coi là biết lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://the-shaolin.blogspot.ca/2007/12/why-vi-only-true-programmers-editor.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">chưa dùng vi (trình biên tập theo chế độ) thì chưa thể coi là biết lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://www.ericsink.com/entries/c_morse_code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">lập trình viên “thực thụ” thì phải biết ngôn ngữ C</span></a><span style="font-weight: 400;">; </span><a href="http://www.zazzle.ca/real_coders_dont_do_windows_tees-235789605999466863" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">người lập trình “thực thụ” chẳng ai dùng Windows cả</span></a><span style="font-weight: 400;">; </span><a href="http://www.codinghorror.com/blog/2006/07/separating-programming-sheep-from-non-programming-goats.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">lập trình không dành cho tất cả mọi người</span></a><span style="font-weight: 400;">; </span><a href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">cậu không nên học lập trình</span></a><span style="font-weight: 400;">; </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">câu chưa phải là một lập trình viên (tôi thì có)</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Khái niệm &#8220;lập trình&#8221; có ý nghĩa khác nhau với mỗi người, và việc lập trình bây giờ cũng đã khác xưa. Việc ra đời của các công cụ, package và framework cho phép người mới và ngay cả những lập trình viên chuyên nghiệp viết các chương trình và tính năng hết sức nhanh chóng và dễ dàng. Thế nhưng nhiều người cho rằng việc tận dụng những công cụ như vậy không chứng tỏ bạn là một lập trình viên “thực thụ” (những ai quan tâm tới luận điểm này có thể đọc bài: “</span><a href="http://blog.enfranchisedmind.com/2009/04/return-of-the-real-programmer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Sự trở lại của những lập trình viên thứ thiệt</span></a><span style="font-weight: 400;">”).</span></p>
+<p><span style="font-weight: 400;">Thực ra đằng sau quan niệm này phản ánh nỗi sợ vô hình của một nhóm nhỏ lập trình viên. Họ cho rằng </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">nếu “bất kỳ ai” cũng có thể trở thành lập trình viên, thì danh hiệu này sẽ chẳng còn danh giá</span></a><span style="font-weight: 400;">. Cá nhân mình thấy suy nghĩ này hại nhiều hơn lợi.</span></p>
+<p><span style="font-weight: 400;">Hãy sử dụng bất cứ công cụ hỗ trợ nào giúp công việc lập trình của bạn trở nên dễ dàng. Sẽ chẳng có vấn đề gì nếu bạn chọn viết một tựa game bằng Stencyl hoặc GameMaker thay vì thủ công viết lại từng dòng code từ đầu. Nếu thành quả đầu tiên của bạn trong lập trình được viết ra bằng HTML hoặc sử dụng macro trong Excel thì cũng tốt thôi. Hãy cứ làm những việc bạn thích và cảm thấy có thể gắn bó lâu dài.</span></p>
+<p><span style="font-weight: 400;">Một cách tự nhiên, khi được tiếp cận lập trình theo cách của riêng mình, bạn sẽ nhận ra những công cụ đơn giản này có nhiều hạn chế và sẽ bắt đầu tìm tòi học cách sử dụng các công cụ “mạnh mẽ” hơn. Nói cho cùng, chẳng ai săm soi từng dòng code bạn viết hay để ý xem bạn sử dụng phần mềm gì. Chỉ có sản phẩm bạn tạo ra mới thực sự quan trọng.</span></p>
+<h3><b>Đừng sống khác đi để được thần tượng là “mọt sách”</b></h3>
+<p><span style="font-weight: 400;">Mình từng lo lắng nhiều về điều này, đặc biệt là hồi đi học. Hồi đó mình cho rằng để được tông trọng trong giới công nghệ thì bản thân phải trở thành một con “mọt sách”. Với ý nghĩ đó, mình quan tâm nhiều hơn tới cách ăn mặc, cách thuyết trình, cách lựa chọn tài liệu học, thậm chí cả cách chọn phần mềm sử dụng trong công việc. Rốt cục đó là sự lãng phí thời gian khủng khiếp, và nhận ra mình sẽ làm việc hiệu quả hơn nếu không tốn thời gian cho những việc vô bổ như vậy. </span></p>
+<p><span style="font-weight: 400;">Bạn phải hiểu rằng khả năng lập trình của mình </span><i><span style="font-weight: 400;">chẳng liên quan gì</span></i><span style="font-weight: 400;"> đến việc bạn có thích nghi được hay không với các nhóm “mọt sách” trong cộng đồng công nghệ. Điều này đặc biệt đúng khi trong thâm tâm bạn biết rằng mình sẽ chẳng bao giờ phù hợp với những người kiểu vậy. Thay vì thể hiện bản thân, bạn nên sử dụng sức lực và thời gian để tạo ra những sản phẩm tuyệt vời. Kể cả trường hợp bạn có phong cách của một “mọt sách” thực thụ thì cũng đừng bao giờ đánh giá đồng nghiệp qua vẻ bề ngoài của họ.</span></p>
+<h3><b>Đôi lúc sự kiên trì quan trọng hơn phương pháp</b></h3>
+<p><span style="font-weight: 400;">Có đầy rẫy bài viết trên mạng về cách “tốt nhất” hoặc “đúng nhất” để học lập trình và cũng có rất nhiều phương pháp hay để người mới có thể tiếp cận môn học này. Bạn có thể tìm hiểu các khái niệm</span><a href="http://pine.fm/LearnToProgram/" target="_blank" rel="noopener external" data-wpel-link="external"> <span style="font-weight: 400;">từ một cuốn sách</span></a><span style="font-weight: 400;">, học qua thực hành </span><a href="http://www.codecademy.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">các bài tập mang tính tương tác</span></a> <span style="font-weight: 400;">hoặc bằng cách tập </span><a href="http://learnpythonthehardway.org/book/intro.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">debug (gỡ lỗi) trong những đoạn code do người khác viết ra</span></a><span style="font-weight: 400;">. Dĩ nhiên cũng có rất nhiều ngôn ngữ lập trình cho bạn lựa chọn.</span></p>
+<p><span style="font-weight: 400;">Phần lớn những ai theo học các khóa “tự học lập trình” đều gặp tình trạng hào hứng ở thời điểm bắt đầu, nhưng chóng nản khi chương trình học ngày một khó hơn. Bạn biết cách viết code giúp hiển thị một vài dòng văn bản, nhưng lại chẳng biết bắt đầu từ đâu khi áp dụng kiến thức này trong một dự án thực tế. Bạn cảm thấy mình chỉ đang làm theo hướng dẫn và không thực sự hiểu vấn đề. Rồi bạn bắt đầu đổ lỗi cho chất lượng của khóa học.</span></p>
+<p><span style="font-weight: 400;">Ở giai đoạn này, phần lớn những bài giảng hoặc tài liệu trực tuyến tỏ ra vô dụng vì nội dung bài giảng thường mặc định bạn đã thành thạo các kiến thức và kỹ năng được dạy trước đó. Mọi việc càng khó khăn hơn bởi bạn chẳng biết mình đang thiếu kiến thức hay làm sai điều gì. Việc xác định xem tiếp theo phải làm gì thực sự là một câu hỏi khó.</span></p>
+<p><span style="font-weight: 400;">Thực tế bạn sẽ gặp hoàn cảnh này bất kể bạn theo học chương trình nào đi chăng nữa, và thứ duy nhất giúp bạn vượt qua là sự kiên trì. Bạn phải tiếp tục thử những phương pháp mới, mày mò tìm hiểu thêm, và dần dần tự “vỡ ra” cách để hoàn thành dự án. Bạn cũng sẽ có khả năng thành công cao hơn nếu đã định hướng rõ ngay từ đầu lý do mình học lập trình.</span></p>
+<p><span style="font-weight: 400;">Dẫu mất thời gian, nhưng nếu kiên trì xếp từng viên gạch sẽ đến lúc bạn xây được một bức tường. Giá trị của niềm tin chính là ở đây. Nếu bản thân tin rằng với thời gian và sự kiên định, bạn hoàn toàn có thể nắm được những kiến thức cần thiết để trở thành một lập trình viên thì chắc chắn sẽ đến lúc bạn đạt được mục tiêu.</span></p>
+<p><span style="font-weight: 400;">Bài viết gốc bằng tiếng Anh có thể đọc tại <a href="https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank" rel="noopener external" data-wpel-link="external">đây</a>.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

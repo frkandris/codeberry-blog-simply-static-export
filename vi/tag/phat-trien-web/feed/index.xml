@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>phát triển web | CodeBerry Blog</title>
+	<atom:link href="/blog/vi/tag/phat-trien-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 21 Nov 2019 07:53:11 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Lập trình viên JavaScript với tấm bằng Công tác Xã hội – Câu chuyện của học viên Anikó Borosová</title>
+		<link>/blog/vi/lap-trinh-vien-javascript-voi-tam-bang-cong-tac-xa-hoi-cau-chuyen-cua-hoc-vien-aniko-borosova/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 12 Nov 2018 11:55:11 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[bảng công tác]]></category>
+		<category><![CDATA[bang xã hội]]></category>
+		<category><![CDATA[bangcong]]></category>
+		<category><![CDATA[các câu hỏi về javascript]]></category>
+		<category><![CDATA[cách học javascript hiệu quả]]></category>
+		<category><![CDATA[cần có javascript để đăng nhập skype]]></category>
+		<category><![CDATA[câu hỏi phỏng vấn javascript]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Công ty TNHH EDMdesigner]]></category>
+		<category><![CDATA[freecodecamp là gì]]></category>
+		<category><![CDATA[gitkraken là gì]]></category>
+		<category><![CDATA[Google Analytics]]></category>
+		<category><![CDATA[hoc javascript]]></category>
+		<category><![CDATA[Intercom]]></category>
+		<category><![CDATA[lập trình javascript]]></category>
+		<category><![CDATA[lập trình viên]]></category>
+		<category><![CDATA[Nhà phát triển JavaScript]]></category>
+		<category><![CDATA[Nhân viên xã hội]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[phần mềm code javascript]]></category>
+		<category><![CDATA[phần mềm lập trình javascript]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[phỏng vấn javascript]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[Sublime Text]]></category>
+		<category><![CDATA[tấm bảng]]></category>
+		<category><![CDATA[tự học javascript trong 10 tiếng]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[voi tam]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6601</guid>
+
+					<description><![CDATA[Anikó Borosová có bằng Công tác xã hội tại Đại học Eötvös Loránd. Sau tốt nghiệp, cô làm việc trong lĩnh vực xã hội, trước khi chuyển sang làm xử lý dữ liệu ở bộ phận dịch vụ khách hàng. Hiện tại, cô đang là lập trình viên JavaScript &#8211; junior (dưới 2 năm kinh [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Anikó Borosová</b><span style="font-weight: 400;"> có bằng Công tác xã hội tại Đại học Eötvös Loránd. Sau tốt nghiệp, cô làm việc trong lĩnh vực xã hội, trước khi chuyển sang làm xử lý dữ liệu ở bộ phận dịch vụ khách hàng. Hiện tại, cô đang là lập trình viên JavaScript &#8211; junior (dưới 2 năm kinh nghiệm) tại </span><a href="https://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner.com</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<p><b>Mình sống tại</b><span style="font-weight: 400;">: Thành phố Budapest, Hungary</span></p>
+<p><b>Mình làm việc cho</b><span style="font-weight: 400;">: Công ty TNHH </span><a href="http://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner.com</span></a></p>
+<p><b>Thời gian học tại CodeBerry</b><span style="font-weight: 400;">: 4 tháng</span></p>
+<p><b>Mình làm việc với</b><span style="font-weight: 400;">: laptop ASUS chạy hệ điều hành Ubuntu trên văn phòng / laptop Lenovo ThinkPad Edge chạy Windows 10 ở nhà / Phần mềm Sublime Text / Mình có 1 điện thoại Nokia “thọ” 11 tuổi (không phải chiếc 3310 nhé, mình không mô đen đến vậy)</span></p>
+<p>&nbsp;</p>
+<p><b>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</b></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Mình nói mình là lập trình viên JavaScript. Mọi người xung quanh thường không phải lập trình viên, vậy nên mình ít khi giải thích chi tiết hơn. Thêm nữa, nếu nghĩ kỹ thì câu hỏi này cũng khá khó để trả lời. Mình không còn làm công tác xã hội, nhưng cũng tự cảm thấy chưa phải một lập trình viên thực thụ, công việc mới chưa thực sự trở thành một phần chính thức trong cuộc sống của mình. Quả là một cảm giác kỳ lạ.</span></p>
+<p>&nbsp;</p>
+<p><b>Trước khi bắt đầu viết code, công việc của bạn là gì?</b></p>
+<p><span style="font-weight: 400;">Sau khi tốt nghiệp ngành công tác xã hội tại trường đại học Eötvös Loránd, mình trở lại Slovakia và làm việc theo đúng chuyên ngành đã học. Mình làm cho chính quyền địa phương tại một trung tâm việc làm, chủ yếu là tiếp những người thất nghiệp và chịu thiệt thòi trong xã hội, những người vô gia cư và người dân một quận tách biệt nơi có nhiều người Romani sinh sống. Sau đó mình chuyển qua làm xử lý dữ liệu/dịch vụ khách hàng trong lĩnh vực công nghiệp ô tô.</span></p>
+<p>&nbsp;</p>
+<p><b>Tại sao bạn quyết định theo học phát triển web?</b></p>
+<p><span style="font-weight: 400;">Công việc trước đây không khiến mình hạnh phúc. Là người làm công tác xã hội, bạn ít khi nhìn thấy thành quả từ những nỗ lực đã bỏ ra. Tài nguyên và thời gian của bọn mình thường chỉ đủ để thực hiện các giải pháp tạm thời, và cơ hội tạo ra thay đổi thực sự là rất ít. Giống như trong cuốn tiểu thuyết của nhà văn Kafka: bạn chống lại hệ thống, cố gắng giúp đỡ người khác, nhưng lại không đủ nguồn lực dẫn đến cạn kiệt sức lực, không còn động lực làm việc, thường xuyên khiến khách hàng bẽ mặt. Bạn nhanh chóng mất hy vọng và sẽ đến lúc quyết định nên bỏ cuộc hay mặc cho hệ thống nuốt chửng bạn. Mình quyết định bỏ cuộc, nhưng phải thú thực làm việc trong lĩnh vực CNTT chưa bao giờ nằm trong số các lựa chọn của mình. Năm ngoái, mình nghe nhiều tin tức về việc nhu cầu tuyển dụng lập trình viên đang ngày càng cao và có nghe về các khóa học lập trình trực tuyến, vậy là mình quyết định thử chọn một khóa. Mình bắt đầu thấy thích, và quan trọng nhất là có thể thấy ngay kết quả từ công việc. Mình tiến bộ chậm nhưng đều. Vài tháng sau, mình thấy đã đến lúc để suy nghĩ nghiêm túc hơn, vì những kiến thức này có thể kiếm cho mình một công việc thực sự và mình đã đúng.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn học lập trình như thế nào? Bạn đăng ký các khóa học, hay đọc các sách hướng dẫn nào?</b></p>
+<p><span style="font-weight: 400;">Mình bắt đầu học ở Codecademy và FreeCodeCamp, đọc tài liệu, theo dõi video hướng dẫn, sau đó bắt đầu học với CodeBerry. Mình cũng từng tham dự hội thảo Bratislava của Cộng đồng Rails Girls mùa hè này.</span></p>
+<p>&nbsp;</p>
+<p><b>CodeBerry cung cấp cho bạn những kiến thức gì? Bạn có cảm nghĩ gì khi học ở Trường của bọn mình?</b></p>
+<p><span style="font-weight: 400;">Có một người hướng dẫn là lợi ích lớn nhất, đây có lẽ là cách học hiệu quả nhất đối với mình. Trước khi vào CodeBerry, mình đã thử tự học, nhưng theo cách đó — đặc biệt là đối với người mới bắt đầu — bạn không thể chắc đã hiểu đúng các mối liên hệ và logic của bài học hay chưa. Thật khó để tìm ra những mảnh kiến thức còn thiếu và những gì nên học tiếp theo. Tại CodeBerry, giảng viên hướng dẫn làm việc thực sự hiệu quả và thân thiện. Bạn có thể yêu cầu giúp đỡ bất cứ khi nào, và nhận được phản hồi khá nhanh; ngay cả khi có hỏi 10 câu cùng một lúc. Đây là trải nghiệm rất tích cực so với những khóa trước đây của mình theo mô hình giáo dục truyền thống.</span></p>
+<p><span style="font-weight: 400;">Mình cũng được các bạn giảng viên hỗ trợ nhiều khi chuẩn bị phỏng vấn. Mình được gợi ý những câu hỏi có thể gặp trong buổi phỏng vấn và cách để trả lời. Điều này giúp ích rất nhiều, đặc biệt là khi mình xuất phát từ một ngành nghề khác, bắt đầu từ con số không trong lĩnh vực CNTT.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ cùng học viên mới?</b></p>
+<p><span style="font-weight: 400;">Nếu ban đầu bạn không hiểu một vấn đề (hoặc sau khi đọc hai, ba, thậm chí là vô số lần vẫn không hiểu) thì đừng bối rối, cứ tiếp tục cố gắng. Tiếp tục đọc cho đến khi hiểu hết. Hãy tìm tòi cho đến khi bạn thấy cốt lõi vấn đề (đây là lời khuyên từ giáo viên trung học của mình &#8211; và nó hoàn toàn đúng). Sẽ luôn có trở ngại, nhưng đó không phải là lý do để bỏ cuộc.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Sẵn sàng nhờ trợ giúp, dám đặt câu hỏi, và nếu bạn ở nhà một mình, bị kẹt trong mớ bòng bong mà không có câu trả lời thì hãy tham dự một sự kiện hoặc hội thảo về lập trình (sự kiện ngoài đời thật chứ không phải sự kiện ảo nhé) để gặp gỡ và trò chuyện với những người cùng ngành. Cộng đồng Rails Girls đã tạo động lực tuyệt vời cho mình vào một thời điểm hoàn hảo, khiến mình cảm thấy vô cùng lạc quan. Mình trở về từ buổi hội thảo, tự nghĩ rằng nếu người hướng dẫn (người hùng của mình, Pilar Huidobro), cũng bắt đầu lập trình tại một sự kiện tương tự và có thể trở thành nhà phát triển phần mềm và giáo viên sau 5 năm viết code, thì mình cũng làm được, mình có thể học được.</span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-6602 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-6.jpeg" alt="" width="743" height="557" srcset="/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-6.jpeg 743w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-6-300x225.jpeg 300w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-6-510x382.jpeg 510w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p><img loading="lazy" class="size-full wp-image-6722 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-1.jpeg" alt="" width="743" height="557" srcset="/blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-1.jpeg 743w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-1-300x225.jpeg 300w, /blog/wp-content/uploads/2018/11/Aniko_Borosova_pic1-1-510x382.jpeg 510w" sizes="(max-width: 743px) 100vw, 743px" /></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Nơi làm việc hiện tại của mình</span></p>
+<p>&nbsp;</p>
+<p><b>Cho mình biết một chút về nơi làm việc hiện tại của bạn, công việc của bạn là gì? Một ngày hoặc một tuần của bạn diễn ra như thế nào</b><b>?</b></p>
+<p><span style="font-weight: 400;">Mình làm việc tại </span><a href="http://edmdesigner.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">EDMdesigner</span></a> <span style="font-weight: 400;">với vai trò lập trình viên JavaScript. Bọn mình xây dựng phần mềm quản lý email của công ty theo các nhóm nhỏ, mỗi người lại có một phần việc riêng. Ngoài dự án này, bọn mình cũng có một thư viện chứa nhiều mẫu code cho Knockouts.js, Knob.js và hiện vẫn đang phát triển thêm cho thư viện này &#8211; mình cũng đã đóng góp một mẫu cho thư viện này đấy. Nhiệm vụ của nhóm bọn mình (2 người) là thu hút thêm người sử dụng. Bọn mình đang nỗ lực tìm hiểu cách thu hút mọi người đăng ký và sử dụng nhiều hơn. Bọn mình dùng Google Analytics, Intercom và Hotjar.</span></p>
+<p><span style="font-weight: 400;">Theo phương pháp SCRUM (quy trình phát triển phần mềm theo mô hình linh hoạt), bọn mình có những buổi họp đứng mỗi sáng để bàn về công việc hàng ngày, những trở ngại gặp phải và các nhiệm vụ cần làm trong ngày.</span></p>
+<p><span style="font-weight: 400;">Mặc dù cũng gặp khó khăn, nhưng mình học được nhiều khi tự viết code ngay từ những ngày đầu. Bằng cách này, mình có thể vừa làm vừa tìm hiểu về luồng công việc của công ty và tìm cách cho code của mình khớp với những đoạn sẵn có của đồng nghiệp. 6 tuần vừa qua mình dành để làm những việc chưa từng làm trước đây, vậy nên mình học được rất nhiều.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn làm chung với ai, và họ có hỗ trợ bạn trong công việc hay không</b><b>?</b></p>
+<p><span style="font-weight: 400;">Đây là một công ty nhỏ, bọn mình có khoảng 20 người trong văn phòng. Hầu hết đồng nghiệp của mình đều làm bán thời gian, và bọn mình còn nhận vài sinh viên nữa. Trong các buổi họp đứng đã đề cập trước đó, mọi người bàn về cách tiến hành công việc và mình có thể hỏi bất cứ ai nếu gặp trở ngại. Mọi người luôn sẵn sàng hỗ trợ nhiệt tình.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn sử dụng các phần mềm, thiết bị và công nghệ nào</b><b>?</b></p>
+<p><span style="font-weight: 400;">Mình sử dụng Ubuntu, Slack, Sublime Text, terminator, GitKraken, Node.js, Jasmine, gulp, mongoDB, redis, docker, nginx v.v… Ngoài ra còn có các thư viện JavaScript mới và các gói npm (công cụ quản lý thư viện lập trình Javascript cho Node.js) được xuất bản hàng ngày hoặc hàng tuần.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn tìm việc trong bao lâu? Tìm việc có khó hay không</b><b>?</b></p>
+<p><span style="font-weight: 400;">Trường hợp của mình chắc khó được coi là điển hình, vì mình có chút may mắn khi nhận được công việc hiện tại. Chiến lược của mình là nộp ít nhất 8-10 chỗ khác nhau. Lúc đầu cũng hơi chật vật để vượt qua các buổi phỏng vấn, nhưng cuối cùng thì cũng quen dần. Mình hy vọng ở buổi phỏng vấn thứ 10 hoặc cỡ đó, mình sẽ thành công và kiếm được một công việc. Thực tế hơi khác, EDMdesigner là nơi đầu tiên mình liên lạc, và họ cũng chính là công ty đã tuyển mình. Được tuyển là một chuyện, giữ được công việc lại là chuyện khác. Mình khá hoảng sau khi kết thúc phỏng vấn vì cảm thấy chưa sẵn sàng, chưa kể mọi thứ diễn ra không giống kế hoạch ban đầu. Những tuần đầu là khó nhất, mình sợ sẽ không thích nghi được với công việc, rằng mình không có khả năng thực hiện nhiệm vụ được giao. Nhưng từ đó đến nay, đã 6 tuần trôi qua, và mình vẫn trụ vững trong công ty.</span></p>
+<p>&nbsp;</p>
+<p><b>Quá trình phỏng vấn diễn ra như thế nào</b><b>?</b></p>
+<p><span style="font-weight: 400;">Quá trình phỏng vấn gồm ba giai đoạn kéo dài khoảng 1–1,5 tuần. Giai đoạn đầu là phỏng vấn qua điện thoại, nhà tuyển dụng đặt câu hỏi về JavaScript. Sau đó, mình có khoảng 3 ngày để tạo một &#8220;danh sách việc cần làm&#8221; bằng ngôn ngữ JavaScript, có cả code HTML. Vòng cuối mình phỏng vấn qua Skype, thảo luận về nơi làm việc, công việc hàng ngày, đội ngũ trong công ty và các yêu cầu về công việc.</span></p>
+<p>&nbsp;</p>
+<p><b>Bạn có lời khuyên nào cho những người chuẩn bị tham gia phỏng vấn xin việc không?</b></p>
+<p><span style="font-weight: 400;">Đừng quá căng thẳng. Hãy ngủ đủ giấc trước ngày phỏng vấn. Chắc chắn là phải ngủ hơn 2,5 tiếng. Điều này rất quan trọng!</span></p>
+<p><span style="font-weight: 400;">Và đừng hoảng sợ nếu bạn thực sự nhận được công việc. Mọi việc rồi sẽ ổn.</span></p>
+<p>&nbsp;</p>
+<p><b>Bước tiếp theo của bạn là gì? Định hướng trong tương lai của bạn?</b></p>
+<p><span style="font-weight: 400;">Thật khó để định hướng cho tương lai. Hiện tại, có rất nhiều thông tin mới, mình rất vui nếu có thể xoay xở lên kế hoạch cho vài ngày tới. Điều chắc chắn là mình còn phải học hỏi nhiều để làm quen với những công cụ mới. Mình phải cải thiện bản thân để có thể thăng tiến và làm việc độc lập hơn. Mình không phải chuyên gia về JavaScript, nhưng hy vọng một ngày nào đó sẽ đạt đến cấp độ này.</span></p>
+<p>&nbsp;</p>
+<p><b><i>Trong loạt bài viết &#8220;Câu chuyện học viên Trường CodeBerry&#8221;, bọn mình trò chuyện với các học viên đã tìm việc thành công với vai trò lập trình viên.</i></b></p>
+<p>&nbsp;</p>
+<p><b>Bạn có muốn học lập trình? Hãy ghé thăm </b><a href="https://codeberryschool.com/vi/" data-wpel-link="external" target="_blank" rel="external"><b><i>Trường lập trình CodeBerry</i></b></a><b> và thử sức với 15 bài học miễn phí của chúng mình nhé.</b></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Từ kỹ sư nông nghiệp đến lập trình viên phát triển web &#8211; câu chuyện của học viên Márton Radnóczi</title>
+		<link>/blog/vi/tu-ky-su-nong-nghiep-den-nguoi-xay-dung-trang-web-cau-chuyen-cua-hoc-vien-marton-radnoczi/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 11:20:29 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[codeberry ltd]]></category>
+		<category><![CDATA[Công ty Apertus]]></category>
+		<category><![CDATA[công ty khởi nghiệp]]></category>
+		<category><![CDATA[denlap]]></category>
+		<category><![CDATA[doc marton]]></category>
+		<category><![CDATA[học làm chuyên viên web]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[khóa học trực tuyến]]></category>
+		<category><![CDATA[ki su nong nghiep]]></category>
+		<category><![CDATA[kỹ sư nông nghiệp]]></category>
+		<category><![CDATA[kỹ sư nông nghiệp là gì]]></category>
+		<category><![CDATA[kỹ sư nông nghiệp làm gì]]></category>
+		<category><![CDATA[kỹ sư nông nghiệp tiếng anh]]></category>
+		<category><![CDATA[lập web]]></category>
+		<category><![CDATA[người tạo website]]></category>
+		<category><![CDATA[nhà phát triển web]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[tai den lap]]></category>
+		<category><![CDATA[tài liệu miễn phí]]></category>
+		<category><![CDATA[web nông nghiệp]]></category>
+		<category><![CDATA[webcau]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6510</guid>
+
+					<description><![CDATA[Learn to code and change your career! 100% ONLINE IDEAL FOR BEGINNERS SUPPORTIVE COMMUNITY SELF-PACED LEARNING Not sure if programming is for you? With CodeBerry you’ll like it. TRY THE FIRST LESSONS FOR FREE]]></description>
+										<content:encoded><![CDATA[<p><div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><strong>Márton Radnóczi</strong>, Marci là một nhà nông học chuyên về phát triển nông thôn. Từ lâu anh đã đam mê các sản phẩm liên quan đến web và thiết bị di động. Năm ngoái anh quyết định dành nhiều thời gian hơn cho đam mê của mình. Anh hiện đang làm tại Apertus Ltd. với vai trò là lập trình viên giao diện web.</p>
+<blockquote>
+<p><strong>Mình sống ở Budapest, thủ đô của Hungary.</strong><br /> <strong>Mình làm việc cho Apertus Ltd.</strong><br /> <strong>Thời gian học với CodeBerry: 6 tháng</strong><br /> <strong>Mình làm việc với: Oneplus One, PhpStorm, Adobe*</strong></p>
+</blockquote>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn sẽ trả lời như thế nào?</strong></p>
+<p>Giới thiệu ngắn gọn: Mình là người xây dựng trang web hay còn gọi là lập trình viên web. Mình xây dựng các trang web tĩnh (chưa có tính năng). Nhiệm vụ của mình là chuyển đổi các bản phác thảo thành dạng mã code, để mẫu phác thảo có thể hiển thị như mong muốn trên trình duyệt.</p>
+<p><strong>Trước khi chuyển sang lập trình, công việc của bạn là gì? Bạn từng có kinh nghiệm trong lĩnh vực này chưa?</strong></p>
+<p>Mình làm trong lĩnh vực tài chính trước khi trở thành chuyên viên quản lý dự án cho một startup. Mình chưa bao giờ viết code, chỉ biết sơ sơ về cách mọi thứ hoạt động và logic đằng sau.</p>
+<p><strong>Vì sao bạn quyết định học lập trình web?</strong></p>
+<p>Đây vốn là sở thích của mình. Khi bắt đầu đào sâu vào lĩnh vực này, mình cảm thấy thời gian trôi qua rất nhanh và không gì có thể ngăn bản thân tiếp tục học. Đó là trải nghiệm mình chưa từng gặp khi làm trong ngành tài chính. Mình thích ý tưởng dành toàn thời gian cho công việc lập trình. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Hãy chia sẻ một chút về nơi làm việc hiện tại của bạn, nhiệm vụ của bạn là gì? Một ngày hoặc một tuần của bạn trôi qua như thế nào?</strong></p>
+<p>Bọn mình phát triển các hệ thống web với quy mô khác nhau tại Apertus Ltd. Vai trò của mình là tạo trang web tĩnh theo bản thiết kế hoặc từ bản phác thảo. Hầu hết thời gian mình code dựa theo một vài ảnh mẫu được giao. Mình triển khai nhiều dự án cùng lúc, nhưng thường chỉ tập trung vào một dự án mỗi ngày.</p>
+<p><strong>Bạn mất bao lâu để tìm được công việc này? Quá trình tìm việc có khó khăn không?</strong></p>
+<p>Mình tìm được việc trong vòng 1 tuần, phải nói là dễ đến bất ngờ. Mình biết là sẽ tìm được việc nhanh thôi, nhưng không ngờ là nhanh đến vậy.</p>
+<p><strong>Bạn học lập trình như thế nào? Bạn đã đăng ký khóa học gì, hay nghiên cứu những tài liệu nào?</strong></p>
+<p>Mình chỉ đăng ký một vài khóa học trực tuyến. Đầu tiên, mình thử tự học bằng tài liệu miễn phí và sau đó đăng ký học 2 khóa có phí, 2 khóa này bổ trợ cho nhau về kiến thức. Mình cũng xem một số hướng dẫn trên Youtube để có cái nhìn sâu hơn về một số chủ đề cụ thể.</p>
+<p><strong>CodeBerry đã cung cấp cho bạn những kiến thức gì? Bản cảm thấy thế nào khi học ở Trường bọn mình?</strong></p>
+<p>Ưu điểm lớn nhất của CodeBerry là đưa ra bức tranh tổng quan về toàn bộ quá trình phát triển web, sau đó hướng dẫn học viên từng bước qua mỗi giai đoạn khác nhau. Điều này giúp người học quyết định xem phần nào phù hợp nhất với bạn.</p>
+<p><strong>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ với những học viên mới?</strong></p>
+<p>Phát triển web có nhiều lĩnh vực khác nhau, bạn nên tập trung vào một vài lĩnh vực cụ thể và biết sơ qua những lĩnh vực còn lại. Nếu cần biết sâu hơn, bạn luôn có thể tìm hiểu sau này.</p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì cho tương lai?</strong></p>
+<p>Mình muốn học càng nhiều càng tốt và hiện thực hóa những ý tưởng của bản thân. Mình không định bỏ phí kiến thức nông nghiệp đã học. Sẽ thật thú vị nếu mình có thể kết hợp kiến thức nông nghiệp và CNTT với nhau.</p>
+<p><em><strong>Trong loạt bài viết &#8220;Câu chuyện thành công từ CodeBerry&#8221;, bọn mình đã trò chuyện cùng các cựu học viên, những người đã tìm được công việc mới ở vị trí lập trình viên.</strong></em></p>
+<p><em><strong>Bạn có muốn học về code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Từ học Python tại trường trung học đến làm việc cho EPAM &#8211; Câu chuyện của học viên trường CodeBerry, Attila Blascsák</title>
+		<link>/blog/vi/tu-hoc-python-tai-truong-trung-hoc-den-lam-viec-cho-epam-cau-chuyen-cua-hoc-vien-truong-codeberry-attila-blascsak/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:59:07 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[câu hỏi phỏng vấn python]]></category>
+		<category><![CDATA[Công ty EPAM]]></category>
+		<category><![CDATA[Dịch vụ CNTT]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[giáo trình python tiếng việt]]></category>
+		<category><![CDATA[hồ sơ LinkedIn]]></category>
+		<category><![CDATA[học code python]]></category>
+		<category><![CDATA[học python]]></category>
+		<category><![CDATA[học python để làm gì]]></category>
+		<category><![CDATA[học python mất bao lâu]]></category>
+		<category><![CDATA[học python ở đâu]]></category>
+		<category><![CDATA[hoọc python]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[hướng dẫn học python]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[khóa học python]]></category>
+		<category><![CDATA[lâm python]]></category>
+		<category><![CDATA[lập trình giao diện python]]></category>
+		<category><![CDATA[mạng máy tính]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[nhà phát triển web]]></category>
+		<category><![CDATA[phát triển ứng dụng]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python làm được gì]]></category>
+		<category><![CDATA[python tiếng việt]]></category>
+		<category><![CDATA[sách học python]]></category>
+		<category><![CDATA[sách python tiếng việt]]></category>
+		<category><![CDATA[tu hoc html]]></category>
+		<category><![CDATA[tự học python]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6496</guid>
+
+					<description><![CDATA[Attila Blascsák là một trong những học viên đầu tiên tại CodeBerry. Sau khi kết thúc khóa học, anh đã thành công trong việc thay đổi sự nghiệp và trở thành một lập trình viên phát triển web. Chúng mình có một cuộc trò chuyện ngắn để xem anh ấy đã học được những gì, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Attila Blascsák</strong> là một trong những học viên đầu tiên tại CodeBerry. Sau khi kết thúc khóa học, anh đã thành công trong việc thay đổi sự nghiệp và trở thành một lập trình viên phát triển web. Chúng mình có một cuộc trò chuyện ngắn để xem anh ấy đã học được những gì, bằng cách nào có được vị trí như ngày hôm nay, và đâu là những khó khăn một lập trình viên ít kinh nghiệm gặp phải khi đi tìm việc.</p>
+<p><strong>Khi có người hỏi về nghề nghiệp của bạn cách đây vài tháng, bạn trả lời như thế nào?</strong></p>
+<p>Trước đây công việc của mình là kết nối mạng Dịch vụ CNTT, nói cách khác mình giúp các công ty lớn kết nối với internet. Bọn mình phụ trách chuyển giao bộ định tuyến đến cho khách hàng và giúp họ cài đặt thiết bị.</p>
+<p><strong>Còn giờ thì sao?</strong></p>
+<p>Giờ mình là lập trình viên chuyên về giao diện (frontend UI) tại Công ty <a href="https://www.epam.com/" target="_blank" rel="noopener external" data-wpel-link="external">EPAM</a>. Mình làm cùng một đội lớn, phát triển một ứng dụng dựa vào các công nghệ về giao diện và mình chịu trách nhiệm thiết kế giao diện người dùng. HTML, CSS và JavaScript là những ngôn ngữ chính mình sử dụng hàng ngày.</p>
+<p><strong>Thật thú vị! Lập trình không phải là lĩnh vực mới đối với bạn phải không? Bạn đã làm quen với lập trình trước đó hay chưa?</strong></p>
+<p>Mình bắt đầu học HTML và CSS ở trường tiểu học. Vào trung học, bọn mình học Python từ một cuốn sách lỗi thời. Cuốn sách đó trích dẫn nguồn từ các thư viện vốn không còn tồn tại nữa, vậy nên bài tập của mình đi vào ngõ cụt. Vậy là mình phải bỏ giữa chừng <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Vì sao bạn có ý tưởng theo đuổi lĩnh vực phát triển web?</strong></p>
+<p>&#8220;Năm cuối trung học, có hai anh chàng nói với mình rằng họ cần một vài nhân viên lập trình web cho công ty khởi nghiệp của họ. Lúc đó mình chả biết sắp lao đầu vào công việc gì, nhưng cũng gật đầu đồng ý. May mắn là mình thích nghi khá nhanh với công việc.&#8221;</p>
+<p>Sau khi dự án kết thúc, mình bắt đầu quan tâm tới lĩnh vực phát triển web và tiếp tục mày mò tìm hiểu. Nhưng sang mùa xuân, mình đi vào ngõ cụt và không tự học được nữa. Đó là lúc mình nhận ra cần phải kiếm một giáo viên hướng dẫn.</p>
+<p>Đó cũng là lúc mình gặp CodeBerry. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bạn học ở CodeBerry bao lâu rồi?</strong></p>
+<p>Mình học từ Tháng 6/2016</p>
+<p><strong>Theo bạn học ở CodeBerry có những điểm lợi gì và bạn có thích khóa học này hay không?</strong></p>
+<p>Thành thật mà nói, lượng thông tin mới trong khóa học không nhiều nhưng các bạn đã giúp mình sắp xếp lại kiến thức một cách bài bản. Những người hướng dẫn cũng giúp mình rất nhiều &#8211; đây có lẽ là điều tuyệt vời nhất mình nhận được. Có người cùng thảo luận vấn đề với bạn là một lợi thế cực lớn.</p>
+<p><strong>Nghe bạn nói vậy bọn mình rất vui. Giờ là đầu mùa thu, nghĩa là bạn đã bỏ ra 3 tháng để học trước khi có công việc hiện tại. Vậy bạn mất bao lâu để tìm việc? </strong><em>(Buổi phỏng vấn diễn ra vào Tháng 9/2016)</em></p>
+<p>Thực ra mình chưa quyết định tìm việc đâu. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Mình tạo một hồ sơ cá nhân trên LinkedIn. Trên đó ghi rằng mình đang học để trở thành một lập trình viên đồng thời ghi thêm các kỹ năng mới vào hồ sơ. Hai tuần sau Công ty EPAM liên lạc với mình.</p>
+<p>Mình đã dự định sẽ tạo một hồ sơ hoàn chỉnh trước khi đi tìm việc, nào ngờ EPAM lại nhanh chân hơn. Họ mời luôn mình đến phỏng vấn.</p>
+<p><strong>Mình tính hỏi bạn xem đi tìm việc có khó không, nhưng chắc bỏ qua câu này được rồi.</strong></p>
+<p>Phải rồi. <em>(Cười)</em></p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì hay chưa?</strong></p>
+<p>React đang là mối quan tâm của mình ở thời điểm hiện tại và mình muốn tìm hiểu thêm trong thời gian tới.</p>
+<p>Mình mơ một ngày nào đó có thể hướng dẫn người khác lập trình, có thể là trực tiếp đứng giảng hoặc tham gia một chương trình nào đó. Mình chưa biết mọi thứ sẽ diễn ra thế nào, nhưng chắc chắn là mình có thể làm được.</p>
+<p><strong>Là một sinh viên giàu kinh nghiệm, bạn có lời khuyên gì cho những người mới học lập trình?</strong></p>
+<p>Mình nghĩ quan trọng là bạn phải hiểu việc học không thể đi đường tắt. Học lập trình là thách thức thực sự, nó chẳng hề dễ ở thời điểm đầu. Nhưng một khi bạn đã quen và hiểu được logic đằng sau những dòng code thì tất cả sẽ trở nên rõ ràng. Từ thời điểm đó, mọi việc sẽ trơn tru hơn nhiều. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><em><strong>Trong loạt bài viết “Câu chuyện thành công từ CodeBerry”, bọn mình trò chuyện cùng các cựu học viên của trường, những người đã thay đổi nghề nghiệp và hiện đang làm công việc của một lập trình viên. Nếu bạn muốn biết họ đã làm gì để có ngày hôm nay thì hãy tiếp tục đón đọc các phần tiếp theo nhé!</strong></em></p>
+<p><em><strong>Bạn có muốn học code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hành trình từ chiếc lò vi sóng đến công việc phát triển web — Câu chuyện của Árpád Binecz</title>
+		<link>/blog/vi/hanh-trinh-tu-chiec-lo-vi-song-den-cong-viec-phat-trien-web-cau-chuyen-cua-arpad-binecz/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:32:14 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[CNTT]]></category>
+		<category><![CDATA[Công ty Apertus]]></category>
+		<category><![CDATA[công ty khởi nghiệp]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[Internet vạn vật]]></category>
+		<category><![CDATA[kỹ sư phần mềm]]></category>
+		<category><![CDATA[kỹ thuật điện]]></category>
+		<category><![CDATA[lò vi sóng]]></category>
+		<category><![CDATA[mạch bootstrap là gì]]></category>
+		<category><![CDATA[Nhà phát triển]]></category>
+		<category><![CDATA[nhà phát triển web]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[trihn lo]]></category>
+		<category><![CDATA[vi vi vi song]]></category>
+		<category><![CDATA[web den viet]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6492</guid>
+
+					<description><![CDATA[Árpád Binecz (Bini) bắt đầu sự nghiệp với vai trò kỹ sư lập trình nhúng, làm việc cho một startup, sau đó tự thành lập công ty và giờ theo đuổi công việc xây dựng các trang web ở vị trí lập trình viên mới vào nghề. Hãy dành thời gian lắng nghe buổi phỏng [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Árpád Binecz</strong> (Bini) bắt đầu sự nghiệp với vai trò kỹ sư lập trình nhúng, làm việc cho một startup, sau đó tự thành lập công ty và giờ theo đuổi công việc xây dựng các trang web ở vị trí lập trình viên mới vào nghề. Hãy dành thời gian lắng nghe buổi phỏng vấn thú vị với cựu học viên của bọn mình trong phần hai của &#8220;Những câu chuyện thành công từ CodeBerry&#8221;.</p>
+<p><strong>Trước khi chuyển sang lĩnh vực phát triển web, công việc cũ của bạn là gì?</strong></p>
+<p>Mình có bằng kỹ sư điện. Mình là kỹ sư lập trình nhúng cho một công ty ô tô trong bốn năm. Mình cũng từng làm việc cho một startup, sau đó tự mở công ty và đã bán công ty đó đi.</p>
+<p><strong>Bạn có thể chia sẻ thêm về công việc của một kỹ sư lập trình nhúng?</strong></p>
+<p>Kỹ sư lập trình nhúng sẽ chế tạo các mạch điện, không phải cho máy tính, mà là cho lò vi sóng hoặc ô tô. Những mạch điện này giúp các thiết bị hoạt động chỉ bằng một nút bấm.</p>
+<p><strong>Lĩnh vực chuyên môn trước đây có giúp bạn học lập trình dễ hơn không?</strong></p>
+<p>Có một chút, ví dụ như trong tư duy thuật toán chẳng hạn.</p>
+<p><strong>Vì sao bạn quyết định chuyển sang phát triển web?</strong></p>
+<p>Trước hết, mình có hứng thú với IoT (Internet of Things &#8211; Những công cụ có kết nối với Internet). Ở công việc trước, mình nắm rõ những công cụ như vậy nhưng lại không biết bằng cách nào mọi thứ có thể hiển thị trên trình duyệt. Mình cảm thấy rất tò mò. Xét cho cùng, mình học ngành kỹ sư là vì muốn hiểu xem mọi thứ vận hành ra sao. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Lý do thứ hai, mình muốn tiếp tục mở một doanh nghiệp và nghề lập trình phù hợp với định hướng đó. Mình muốn học cách tạo một vài trang web độc đáo, sau đó sẽ thành lập một công ty nhỏ trong mảng kỹ thuật số. Nhiều người mình biết cũng làm tương tự, vậy nên mình nghĩ đây là kế hoạch khả thi và khá thú vị.</p>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</strong></p>
+<p>Còn tùy xem ai là người hỏi. Nếu là một người chưa từng lập trình, mình sẽ nói mình là dân mới vào nghề trong ngành CNTT. Nếu là bạn cũ ở trường công nghệ thì mình sẽ trả lời rằng mình là lập trình viên mới trong lĩnh vực phát triển web.</p>
+<p><strong>Bạn có thể chia sẻ cụ thể hơn? Một ngày bình thường của bạn diễn ra như thế nào?</strong></p>
+<p>Bọn mình xây dựng những hệ thống CNTT quy mô lớn cho Công ty Apertus Kft. Mình phụ trách một mảng nhỏ. Nói đơn giản thì mình nhận các bản thiết kế đã hoàn chỉnh và biến chúng thành các trang web. Mình chỉ phụ trách phần giao diện, còn việc giúp một nút bấm trên trang hoạt động sẽ không phải phần việc của mình.</p>
+<p>Nói cách khác thì nghề lập trình giao diện web là một công việc khởi đầu tốt, với kiến thức có thể được tiếp thu nhanh, điều này là lợi thế khi bạn muốn gia nhập lĩnh vực công nghệ web hay thị trường lao động ngành IT.</p>
+<p><strong>Ngôn ngữ lập trình nào bạn hay sử dụng hàng ngày?</strong></p>
+<p>HTML5, CSS3, SCSS và Bootstrap. Mình đã từng sử dụng JQuery. Với vị trí là người lập trình giao diện, mình tạo ra các phần nhỏ để lập trình viên trưởng có thể hoàn thiện trang web.</p>
+<p><strong>Bạn có thích công việc hiện tại không? <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>Có chứ. Đồng nghiệp mình rất vui tính. Mình chưa hài lòng lắm với bản thân vì tự cảm thấy đã có thể làm tốt hơn và tiếp thu nhanh hơn.</p>
+<p><strong>Bạn mất bao lâu để tìm công việc này?</strong></p>
+<p>Mình nghỉ làm vào tháng Sáu, bắt đầu học lập trình vào tháng Bảy, và có công việc mới đầu tháng Chín. Mình nhận lời mời làm việc từ một người bạn.</p>
+<p><strong>Bạn có tham gia khóa lập trình nào khác ngoài CodeBerry không?</strong></p>
+<p>Không, mình chỉ học tại CodeBerry thôi.</p>
+<p><strong>Là một cựu học viên, bạn có lời khuyên gì cho các học viên mới?</strong></p>
+<p>Mình nghĩ các bạn nên có cái nhìn tổng quan về ngành này trước khi lựa chọn một công nghệ nào đó để học sâu hơn. Theo mình, việc hiểu tường tận một lĩnh vực cơ bản và kiếm được tiền từ đó sẽ giá trị hơn nhiều so với biết mỗi thứ một chút. Ví dụ như HTML5, CSS3, SCSS và Bootstrap là một sự kết hợp tuyệt vời. Bạn có thể dễ dàng trở thành lập trình viên nhờ vào những ngôn ngữ này.</p>
+<p><em><strong>Trong loạt bài viết &#8220;Câu chuyện thành công từ CodeBerry&#8221;, bọn mình trò chuyện cùng các cựu học viên, những người đã tìm được công việc trong lĩnh vực lập trình sau khóa học. Nếu bạn quan tâm chủ đề tìm việc thì loạt bài viết này dành cho bạn. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></em></p>
+<p><em><strong>Bạn có muốn học code? Hãy tham khảo các bài học miễn phí của Trường Lập trình CodeBerry nhé.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mình cần chút tĩnh lặng và yên bình &#8211; Câu chuyện của sinh viên Trường CodeBerry, Balázs Gergely Soós</title>
+		<link>/blog/vi/minh-can-mot-chut-tinh-lang-va-yen-binh-cau-chuyen-cua-sinh-vien-truong-codeberry-balazs-gergely-soos/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:21:20 +0000</pubDate>
+				<category><![CDATA[Phỏng vấn]]></category>
+		<category><![CDATA[Angular]]></category>
+		<category><![CDATA[anh minh goi tien]]></category>
+		<category><![CDATA[bình cầu]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[chuyện của mình]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[kỹ sư khoa học máy tính]]></category>
+		<category><![CDATA[kỹ sư nghiên cứu]]></category>
+		<category><![CDATA[MorganStanley]]></category>
+		<category><![CDATA[nhà phát triển có thâm niên]]></category>
+		<category><![CDATA[nhà phát triển phần mềm]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[phát triển web]]></category>
+		<category><![CDATA[tĩnh lặng]]></category>
+		<category><![CDATA[truong yen]]></category>
+		<category><![CDATA[webgl là gì]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6488</guid>
+
+					<description><![CDATA[Balázs Gergely Soós, BeeGee tốt nghiệp ngành kỹ sư khoa học máy tính với bằng tiến sĩ của trường PPKE, đồng thời là cựu sinh viên của trường Cao đẳng BME Schönherz. Trước đây anh từng làm trợ lý nghiên cứu cho Công ty SZTAKI, làm kỹ sư nghiên cứu tại Searchlab, là lập trình [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Balázs Gergely Soós</strong>, BeeGee tốt nghiệp ngành kỹ sư khoa học máy tính với bằng tiến sĩ của trường PPKE, đồng thời là cựu sinh viên của trường Cao đẳng BME Schönherz. Trước đây anh từng làm trợ lý nghiên cứu cho Công ty SZTAKI, làm kỹ sư nghiên cứu tại Searchlab, là lập trình viên cao cấp đồng thời là sáng lập viên của Streamnovation. Ngoài ra anh cũng từng là trưởng bộ phận lập trình tại Zinemath.</p>
+<blockquote>
+<p><strong>Mình sống ở Budapest, thủ đô của Hungary.</strong><br />
+<strong>Mình làm việc tại MorganStanley</strong><br />
+<strong>Thời gian học tại CodeBerry: 3 tháng</strong><br />
+<strong>Các công cụ mình sử dụng: HP ENVY, Samsung Galaxy S4 mini, Chrome, Notepad ++, gitk</strong></p>
+</blockquote>
+<p><strong>Khi được hỏi về nghề nghiệp, bạn trả lời thế nào?</strong></p>
+<p>Mình là nhà phát triển phần mềm.</p>
+<p><strong>Bạn làm nghề gì trước khi đến với lập trình? Trước đó bạn có kinh nghiệm gì trong lĩnh vực này không?</strong></p>
+<p>Hồi nhỏ mình từng tìm cách hoán đổi số 0 và chữ O trong các chương trình BASIC. Mình từng bỏ một buổi hội thảo mô hình máy bay chỉ để vẽ vời trên chiếc máy tính Commodore+4 cũng như nghịch ngợm với GV-Basic (trên máy tính C64). Mình biết Tubo Pascal khi còn học trung học. Vào đại học mình học C ++ cùng với nhiều ngôn ngữ thú vị khác. C ++ gắn bó với mình trong một thời gian dài trước khi công nghệ thị giác máy tính, robotics ra đời và lập trình GPU bắt đầu phát triển.</p>
+<p><strong>Vì sao bạn quyết định học phát triển web?</strong></p>
+<p>Theo mình thì ứng dụng máy tính đã hết thời. Giờ mình quan tâm nhiều đến nền tảng di động và dịch vụ đám mây. Mình rất muốn tìm hiểu về thư viện đồ họa WebGL sau khi tiếp xúc. Mình nghĩ bước đầu cần học lại kiến thức về web do mình từng sử dụng một ít PHP và MySQL nhưng phần giao diện luôn để người khác đảm nhiệm. Các dự án của mình phần nhiều tập trung vào tính toán thay vì giao diện. Mình khá tò mò về những gì các &#8220;phù thủy&#8221; GUI (hệ thống giao diện người dùng) có thể làm.</p>
+<p><strong>Bạn có thể chia sẻ thêm về công việc cùa mình? Một ngày bình thường của bạn trôi qua như thế nào?</strong></p>
+<p>Mình làm cho một ngân hàng nên không chia sẻ cụ thể được <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Tuy nhiên công việc hàng ngày của mình có liên quan đến xử lý frontend (giao diện).</p>
+<p><strong>Bạn mất bao lâu để tìm được một công việc? Làm thế nào bạn có được công việc hiện tại?</strong></p>
+<p>Mình từng có một công việc trong mơ: quản lý tài giỏi, đồng nghiệp tuyệt vời, sản phẩm được dự triển lãm quốc tế, còn công ty thì được đỡ đầu bởi nhà đầu tư giàu kinh nghiệm. Nhưng một ngày nọ mình cảm thấy mọi thứ hơi quá tải. Mình cần chút yên bình để suy ngẫm về những ý tưởng mới và dành thêm thời gian cho gia đình và bản thân.</p>
+<p>Động lực đến với mình vào dịp hè. Vợ mình được nghỉ 4 tuần nên bọn mình chuyển đến Venice trong khoảng thời gian đó. Giây phút thư giãn bên bờ hồ khiến mình nhận ra đã lâu rồi trí não mình không được vận động tử tế, vậy là mình bắt đầu học&#8230;</p>
+<p>Hai tháng sau mình bắt đầu đi phỏng vấn. Biết mình không còn đi làm, một người bạn học cũ gọi điện và nói rằng anh ấy có một công việc tuyệt vời nếu mình vẫn còn yêu lập trình và hứng thú làm việc với cơ sở dữ liệu lớn…</p>
+<p><strong>Bạn học lập trình như thế nào? Bạn đã đăng ký khóa học gì, hay nghiên cứu những tài liệu nào?</strong></p>
+<p>Mình không nhớ rõ nữa, mọi việc cứ thế diễn ra. Mình đọc vài cuốn sách về máy tính, rồi nộp hồ sơ học về lập trình ở trường György Pongor và Zoltán László. Sau khi đã tốt nghiệp, mình trang bị thêm kiến thức chủ yếu qua nghiên cứu tài liệu trực tuyến.</p>
+<p><strong>Bạn học được gì tại CodeBerry? Và bạn thấy sao khi tham dự khóa học này?</strong></p>
+<p>Mình thấy được tiềm năng to lớn của Node.js và Angular sau khi đọc về chúng. Trong những năm học tiến sĩ, mình hình thành sở thích nghiên cứu độc lập và tìm thấy niềm vui khi khám phá những điều mới mẻ. Mình cũng rất cảm kích các giảng viên đã cho mình một khởi đầu thuận lợi trước khi bước vào cuộc hành trình này. Việc tự học qua các blog trực tuyến giống như đi trong thành phố lớn mà không có bản đồ vậy. Có hàng tá tuyến xe buýt, xe điện và tàu điện ngầm cho bạn lựa chọn. Bạn sẽ cần ai đó định hướng nếu thực sự muốn tới đích.</p>
+<p>Tháng nào mình và Andris cũng ngồi với nhau. Anh ấy kể với mình về CodeBerry từ ngày mọi thứ mới chỉ là ý tưởng. Về sau Bini (sau này cũng là học viên của CodeBerry) nói anh ấy cũng thích ý tưởng này. Mình tự hỏi tại sao không? Thế là mình trở thành 1 trong 20 học viên đầu tiên của Trường. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Công việc chính của mình trước đây không phải là tạo ra mấy thứ đẹp đẽ. Vậy mà những bài học đầu tiên lại tập trung vào lập trình frontend (những gì người dùng nhìn thấy, tương tác, hiển thị, v.v&#8230;). Tuy nhiên mình chẳng hề hối hấn khi đăng ký khóa học này. Với mình, việc vừa học vừa thực hành trực tiếp qua những ví dụ trong bài thật hữu ích. Sau khi tự tay hoàn thành một trang web WordPress thì giờ CSS và mình giống như đôi bạn thân vậy.</p>
+<p><strong>Bạn có kinh nghiệm, lời khuyên hay bí quyết nào muốn chia sẻ với những học viên mới không?</strong></p>
+<p>Bạn chỉ cần ngồi xuống và bắt tay vào làm&#8230; Mình có được &#8220;cú huých&#8221; từ một người bạn. Thấy mình đang rảnh, cậu ấy đã nhờ mình tạo một trang web responsive (hiển thị tương thích trên mọi màn hình). <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bước tiếp theo của bạn là gì? Bạn có định hướng gì hay chưa?</strong></p>
+<p>Thời gian tới nếu cuối tuần rảnh rỗi mình sẽ trở lại mục tiêu ban đầu là học WebGL (thư viện đồ họa dành cho web). Có thể mình sẽ nghiên cứu thêm về thực tế ảo nữa.</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>penjelasan singkat | CodeBerry Blog</title>
+	<atom:link href="/blog/id/tag/penjelasan-singkat/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 24 Jan 2020 08:23:52 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Penjelasan singkat Programming</title>
+		<link>/blog/id/penjelasan-singkat-programming/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 25 Mar 2019 10:08:08 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[apa itu programmer]]></category>
+		<category><![CDATA[apa itu programming]]></category>
+		<category><![CDATA[bahasa]]></category>
+		<category><![CDATA[bahasa inggris roti gandum]]></category>
+		<category><![CDATA[belajar bahasa biner]]></category>
+		<category><![CDATA[biner]]></category>
+		<category><![CDATA[codberry]]></category>
+		<category><![CDATA[CodeBarry]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry indonesia]]></category>
+		<category><![CDATA[codebery]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[komputer]]></category>
+		<category><![CDATA[mengembangkan]]></category>
+		<category><![CDATA[Pemrograman]]></category>
+		<category><![CDATA[penjelasan singkat]]></category>
+		<category><![CDATA[programmer]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7099</guid>
+
+					<description><![CDATA[Apa itu Programming? Semisalnya kamu bekerja di perusahaan multinasional dan kamu akan menghadapi pertemuan pertama dengan pebisnis dari negara Cina. Bahasa aslimu adalah Bahasa Indonesia dan kamu sama sekali tidak mengerti Bahasa Mandarin. Tetapi, kamu ingat bahwa bahasa kedua yang kamu kuasai adalah Bahasa Inggris dan pebisnis tersebut juga menguasai Bahasa Inggris. Dengan begitu, kamu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Apa itu Programming?</b></p>
+<p><span style="font-weight: 400;">Semisalnya kamu bekerja di perusahaan multinasional dan kamu akan menghadapi pertemuan pertama dengan pebisnis dari negara Cina. Bahasa aslimu adalah Bahasa Indonesia dan kamu sama sekali tidak mengerti Bahasa Mandarin. Tetapi, kamu ingat bahwa bahasa kedua yang kamu kuasai adalah Bahasa Inggris dan pebisnis tersebut juga menguasai Bahasa Inggris. Dengan begitu, kamu mulai menggunakan Bahasa Inggris sebagai bahasa umum untuk bernegosiasi dan berkomunikasi dengan pebisnis tersebut.  </span></p>
+<p><b>Dengan cara yang sama, kita menggunakan bahasa seperti HTML, CSS, JavaScript, Java, dll untuk berkomunikasi dengan komputer sehingga kita dapat memahami satu sama lain. </b></p>
+<p><span style="font-weight: 400;">Bahasa asli komputer adalah dengan bilangan biner: daftar panjang yang hanya terdiri dari angka 1 dan 0. </span><span style="font-weight: 400;">Biner</span><span style="font-weight: 400;"> tidaklah mudah untuk dibaca dan ditulis sehingga sebagai gantinya kita menciptakan bahasa pemrograman agar dapat berbicara dengan komputer. Karena komputer tidak mengerti bahasa manusia, kita memilih untuk dapat berkomunikasi dengan jalan tengah.</span></p>
+<p><span style="font-weight: 400;">Tetapi, berbeda dengan manusia, komputer tidak mengerti komunikasi tidak langsung dan selalu memahami segala hal secara harfiah. Apabila kamu memerintahkan sesuatu, maka mereka akan melakukan sesuai dengan apa yang diperintahkan. Komputer tidak sepintar itu saat mengambil keputusan sendiri dan tidak akan mengerti informasi yang tidak dijabarkan untuk mereka. Untuk alasan ini, kamu harus memastikan bahwa kamu memberikan instruksi yang tepat.</span></p>
+<p><span style="font-weight: 400;">Sebagai contoh, apabila saya menyuruhmu untuk membuat </span><span style="font-weight: 400;">sandwich</span><span style="font-weight: 400;">, kamu mungkin akan bertanya bahan apa yang saya mau untuk sandwich tersebut dan apakah saya ingin sandwich dipanggang terlebih dahulu atau tidak. Untuk kamu, mungkin hal itu saja yang ingin kamu ketahui untuk membuat sandwich</span> <span style="font-weight: 400;">yang enak. Namun, terdapat banyak keputusan kecil dan pengetahuan sebelumnya yang terlibat dalam membuat sandwich. </span></p>
+<p><span style="font-weight: 400;">Apabila kamu hanya memerintahkan komputer bahwa kamu menginginkan daging panggang dan sandwich keju dengan roti gandum dan mayones, kamu mungkin akan mendapatkan sesuatu yang sangat berbeda dengan apa yang kamu perintahkan. Manusia akan tahu bahwa mayones dioleskan ke roti terlebih dahulu, setelah itu ditambahkan daging dan keju, kemudian sandwich dimasukkan ke dalam oven untuk dipanggang. </span></p>
+<p><b>Tapi, bagaimana sebuah komputer mengerti akan semua hal itu?</b></p>
+<p><span style="font-weight: 400;">Ingat sebelumnya kita memberitahukan komputer apa yang kita mau, “daging panggang dan sandwich keju dengan roti gandum dan mayones”. Untuk sebuah komputer, mungkin masuk akal untuk melakukan semua hal itu dengan berurutan. Komputer akan memanggang daging dan kejunya tersendiri, meletakkan dua potong roti gandum di atasnya, dan kemudian mengoleskan mayones pada roti. </span></p>
+<p><b>Bukankah seharusnya komputer lebih pintar dari itu?</b></p>
+<p><span style="font-weight: 400;">Nah, ini karena komputer memahami segala hal secara </span><span style="font-weight: 400;">harfiah</span><span style="font-weight: 400;">, kamu harus memerinci urutan setiap langkah dan penempatan setiap bahan. Semua orang tahu kalau semua bahan ditempatkan di antara dua lapis roti, tetapi komputer tidak mempunyai pengetahuan sebelumnya tentang seperti apa roti lapis itu — komputer hanya mengikuti instruksi langsung darimu. </span></p>
+<p><span style="font-weight: 400;">Inilah alasan lain kenapa kita tidak bisa berkomunikasi langsung dengan komputer menggunakan bahasa manusia, setidaknya masih belum. Bahasa yang digunakan manusia terlalu ambigu dan samar untuk dimengerti komputer dengan baik. Juga, apabila sebuah kata atau kalimat memiliki makna ganda, komputer tidak tahu bagaimana menginterpretasikannya. Komputer membutuhkan segala sesuatu dijabarkan untuknya.</span><span style="font-weight: 400;"><br />
+</span></p>
+<p><span style="font-weight: 400;">Yang benar adalah komputer tidak pintar sama sekali; mereka hanya memproses informasi lebih cepat dari kita. </span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-7100" src="https://codeberryschool.com/blog/wp-content/uploads/2019/03/code.2-1-1.jpg" alt="" width="5472" height="3648" srcset="/blog/wp-content/uploads/2019/03/code.2-1-1.jpg 5472w, /blog/wp-content/uploads/2019/03/code.2-1-1-300x200.jpg 300w, /blog/wp-content/uploads/2019/03/code.2-1-1-768x512.jpg 768w, /blog/wp-content/uploads/2019/03/code.2-1-1-1024x683.jpg 1024w, /blog/wp-content/uploads/2019/03/code.2-1-1-1080x720.jpg 1080w" sizes="(max-width: 5472px) 100vw, 5472px" /></p>
+<p><b>Apa itu programmer dan apa yang mereka lakukan?</b></p>
+<p><span style="font-weight: 400;">Ingat, kamu tidak memerintahkan komputer untuk melakukan apa yang kamu mau dengan bahasa Indonesia. Kamu membutuhkan programmer komputer untuk menafsirkan kebutuhanmu. Programmer komputer adalah seseorang yang dapat mengkomunikasikan ide dan instruksi yang kamu punya kepada komputer, membuat website, game, dan program lain yang muncul pada layar. </span></p>
+<p><span style="font-weight: 400;">Seorang programer juga dapat diartikan sebagai polyglot (orang yang menguasai banyak bahasa) yang berspesialisasi untuk berbicara dengan komputer. Mereka tahu persis apa yang harus dikatakan dan bagaimana mengatakannya sehingga komputer dapat mengerti mereka. Jika kamu pernah belajar bahasa lain, tahu bahwa setiap bahasa dilengkapi dengan kosa kata, tata bahasa, dan aturannya sendiri. Bahasa komputer juga memiliki cara mereka sendiri dalam mengatakan sesuatu yang dinamakan dengan sintaks.</span></p>
+<p><span style="font-weight: 400;">Sementara seseorang mungkin masih bisa mengerti jika kamu </span><span style="font-weight: 400;">salah mengucapkan kata</span><span style="font-weight: 400;">, menggunakan konjugasi yang salah, atau tata bahasa yang berantakan, tetapi komputer kurang bisa mentolerir kesalahan. Segera saat kamu melakukan kesalahan sintaks, komputer akan berhenti mendengarkanmu dan langsung berhenti menjalankan program.</span></p>
+<p><span style="font-weight: 400;">Betapa tidak sopan. </span></p>
+<p><b>Apa yang dapat kamu capai dengan keterampilan coding?</b></p>
+<p><span style="font-weight: 400;">Bila kamu pernah menggunakan komputer, menonton video online, atau bermain video game, memang ini sulit dipercaya tapi semua itu merupakan serangkaian huruf dan simbol. Kemampuan untuk memproses ribuan baris kode per detik adalah kelebihan dari komputer dan memungkinkannya untuk mengikuti instruksi yang sangat kompleks dan menyelesaikan tugas yang luar biasa.</span></p>
+<p><span style="font-weight: 400;">Mari kita lihat beberapa hal keren yang bisa lakukan dengan kode:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Menciptakan &amp; Mendesain Website</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Membuat aplikasi mobile</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengembangkan Aplikasi Desktop</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengembangkan Video Games</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Membuat &amp; Memelihara Database</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengotomatiskan Pekerjaan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Memecahkan Masalah Kompleks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Menciptakan AI (Kecerdasan Buatan)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mengerjakan Analisis Statistik</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dan masih banyak lagi&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">Apabila kamu tertarik dengan salah satu aktivitas di atas dan ingin menjadikannya sebagai sumber penghasilan, belajar membuat program merupakan keterampilan yang sangat penting untuk dimiliki.</span></p>
+<p><b>Apa yang membuat coding bermanfaat dan apa manfaatnya?</b></p>
+<p><span style="font-weight: 400;">Sebagaimana kita semakin bergantung terhadap komputer di kehidupan sehari-hari, seiring pentingnya pemrograman komputer dan coding yang terus tumbuh dan berkembang.</span></p>
+<p><span style="font-weight: 400;">Pada tahun mendatang, hampir semua bidang akan melibatkan pemrograman komputer dan belajar coding akan memberimu keunggulan untuk karirmu di masa depan. Contohnya, kamu dapat menggunakan keterampilan pemrograman di bidang penulisan, analisis, manajemen, teknik, pengembangan perangkat lunak, dan banyak lagi.</span></p>
+<p><span style="font-weight: 400;">Advokat pemrograman melihat belajar coding sebagai keterampilan universal yang harus dimiliki setiap orang, seperti kemampuan membaca dan menulis atau melakukan persamaan matematika sederhana. Banyak pemerintah di seluruh dunia mempercayai hal ini juga dan telah mengusulkan inisiatif untuk mengajarkan coding kepada anak-anak di samping kurikulum inti di sekolah.</span></p>
+<p><span style="font-weight: 400;">Sama seperti kita, mereka melihat coding sebagai kunci untuk tetap kompetitif di pasar global.</span></p>
+<p><b>Saya sudah tahu ini berguna, tetapi seperti apa sebenarnya programming itu?</b></p>
+<p><span style="font-weight: 400;">Keseharian seorang programmer tidak semewah yang ditayangkan di film maupun acara televisi. </span></p>
+<p><span style="font-weight: 400;">Menjadi seorang programer membutuhkan banyak konsentrasi, kesabaran dan kesadaran diri yang tinggi. Apabila kamu tidak dapat duduk diam dan fokus selama berjam-jam, mungkin kamu perlu mempertimbangkan lagi untuk mengejar karir di pemrograman komputer.</span></p>
+<p><span style="font-weight: 400;">Beberapa pekerjaan pemrograman mungkin mengharuskanmu untuk bekerja di waktu yang tidak tentu dan harus selalu siap sedia untuk memperbaiki bug dan menyelesaikan masalah segera saat masalah itu muncul. Pekerjaan lain memungkinkanmu untuk bekerja dari jam sembilan hingga jam lima, sama seperti pekerjaan biasa.</span></p>
+<p><span style="font-weight: 400;">Namun, bekerja sebagai programmer komputer mungkin dapat memberimu lebih banyak kebebasan daripada pekerjaanmu saat ini. Sebagian besar pekerjaan pemrograman adalah pekerjaan remote, yang berarti kamu dapat melakukan coding saat berada di rumah, di kafe, atau saat kamu berjemur di pantai — mengingat sinyal wifi dapat mencapai sejauh itu. </span></p>
+<p><b>Apakah programming pilihan yang tepat untuk saya?</b></p>
+<p><span style="font-weight: 400;">Di sinilah ban roda bertemu jalan dan di mana kamu harus serius mempertimbangkan pro dan kontra pekerjaan di bidang pemrograman. Mungkin, kamu memiliki gagasan yang tidak realistis tentang seperti apa pemrograman itu dan belum menganggap bahwa coding sama seperti pekerjaan lain di luar sana — ini juga merupakan kerja keras. Tetapi apabila kamu memenuhi kriteria berikut, kemungkinan kamu akan menyukai setiap detiknya.</span></p>
+<p><span style="font-weight: 400;">Tanda-tanda Programming bukan Pilihan Tepat untukmu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu hanya termotivasi uang dan tidak berminat pada komputer sama sekali</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tidak suka duduk dalam jangka waktu yang lama</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Matamu menjadi sayu saat menatap halaman penuh deretan kode</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kecepatan mengetikmu lambat dan kerap melakukan salah ketik</span></li>
+</ul>
+<p><span style="font-weight: 400;">Tanda-tanda Programming Pilihan yang Tepat untukmu:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu adalah orang yang analitis DAN kreatif</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu adalah orang yang sangat teliti</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu nyaman bekerja dalam tim maupun sendirian</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu memiliki kemampuan dasar yang baik untuk memahami bahasa Inggris tertulis</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka memecahkan masalah</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka mempelajari hal-hal baru</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu beradaptasi dengan baik terhadap perubahan</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kamu suka mengorganisir informasi dan mengotomatiskan proses</span></li>
+</ul>
+<p><b>Bahasa pemrograman apa yang harus dipilih dan di mana saya bisa mulai?</b></p>
+<p><span style="font-weight: 400;">Mari kita kembali ke contoh pertemuan kita dengan Pebisnis dari negara Cina.</span></p>
+<p><span style="font-weight: 400;">Meskipun bahasa Inggris mungkin berguna dalam bisnis, kamu mungkin perlu mempelajari bahasa lain untuk bidang yang berbeda. Misalnya, kamu mungkin ingin tahu bahasa Perancis untuk diplomasi, bahasa Yunani untuk filsafat, dan bahasa Jerman di bidang teknik. Tergantung pada bidang apa pekerjaanmu, kamu akan memilih bahasa tertentu untuk memenuhi kebutuhanmu.</span></p>
+<p><span style="font-weight: 400;">Kamu tidak akan memiliki waktu atau kemampuan untuk mempelajari setiap bahasa pemrograman di luar sana, Jadi kamu harus memiliki strategi tentang bahasa apa yang ingin kamu pelajari. Pertama, kamu harus menentukan fokus dan bahasa apa yang kamu butuhkan untuk memenuhi tujuanmu. </span></p>
+<p><span style="font-weight: 400;">Meskipun secara teknis bukan bahasa pemrograman, HTML dan CSS adalah bahasa yang baik untuk mulai mempelajari dasar-dasar cara kerja pemrograman. HTML dan CSS adalah &#8220;bahasa markup teks&#8221; yang sebenarnya adalah bahasa yang kita gunakan untuk memformat dan mengatur teks. Tanpa HTML atau CSS, browser tidak akan tahu apakah kata-kata yang saya tulis ini adalah judul, paragraf, atau catatan kaki. Browser juga tidak akan tahu apakah kata-kata ini harus dicetak tebal, dicetak miring, dll.</span></p>
+<p><span style="font-weight: 400;">Bahkan ketika saya menulis artikel ini, saya menggunakan HTML dan CSS untuk membantu kamu dan browser internet memahami apa yang saya katakan. </span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

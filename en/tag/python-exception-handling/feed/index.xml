@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>python exception handling | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/python-exception-handling/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 29 Jul 2021 12:23:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best way of using Python Try Except</title>
+		<link>/blog/en/python-try-except/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 29 Jul 2021 11:25:37 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[exception python]]></category>
+		<category><![CDATA[how to handle exception in python]]></category>
+		<category><![CDATA[python except]]></category>
+		<category><![CDATA[python exception handling]]></category>
+		<category><![CDATA[python try]]></category>
+		<category><![CDATA[python try catch]]></category>
+		<category><![CDATA[python try except]]></category>
+		<category><![CDATA[python try except function]]></category>
+		<category><![CDATA[throw exception in python]]></category>
+		<category><![CDATA[try except in python]]></category>
+		<guid isPermaLink="false">/blog/?p=13646</guid>
+
+					<description><![CDATA[What are exactly the Python Try Except statements? Python try except statements are useful in handling errors that occur in python code. The try block is used to try a block of code and if that doesn’t work, the program falls back and runs the except block. There are a few other bits to it [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3>What are exactly the Python Try Except statements?</h3>
+<p><span style="font-weight: 400;">Python try except statements are useful in handling errors that occur in python code. The try block is used to try a block of code and if that doesn’t work, the program falls back and runs the except block. There are a few other bits to it but we will explore that through examples.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python Try Except – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/GUDiv7J-oSw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In this example, we are going to create a function that lets us add two numbers together</span></p>
+<p><span style="font-weight: 400;">So we&#8217;re going to define adding x and y. And from this function, we&#8217;re going to return x + y. So let&#8217;s say we want to print out the add function and we want to give it arguments one and two. So we&#8217;re expecting to see three as the output when we run the code.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept1?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">What if we were trying to say programmatically and we wanted to add numbers together and we actually ended up somehow with a string involved in the numbers that we are passing in as arguments. Maybe from user input or from a list that we&#8217;ve got elsewhere. As shown below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept2?lite=true" width="100%" height="500px" frameborder="0"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p><span style="font-weight: 400;">We&#8217;re going to get a <a href="https://docs.python.org/3/tutorial/errors.html" target="_blank" rel="noopener external" data-wpel-link="external">TypeError</a> that lets us know that we have used an unsupported operand type. So what that means is we can&#8217;t add a number and a word together, which makes sense.</span></p>
+<p><span style="font-weight: 400;">But what we can do is we can actually put this into a Python try except block. That will let us manage that error and not stop our code dead in its tracks. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12196 size-full" src="/blog/wp-content/uploads/2020/03/Python-1-1.png" alt="python try except helps to make your code better" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">How to use the Python try except to avoid the error?</span></h3>
+<p><span style="font-weight: 400;">Just after the return statement we can then do away with the print statement and create a Python try except block. We will begin by writing the word try and then a colon and then we indent our code in the next line. Now since we have the try word, we should have the except word, otherwise, the code will fail.</span></p>
+<p><span style="font-weight: 400;">So then back and then on the same line as our &#8220;try&#8221; we&#8217;re going to write the word except again a colon and then we hit enter and then write the word pass in the next line.</span></p>
+<p><span style="font-weight: 400;">Now, this code is basically just going to pass through if it finds an error.</span></p>
+<p><span style="font-weight: 400;">So what we&#8217;re going to do now is we&#8217;re going to change the argument “sheep” back to the number 5. So we&#8217;re going to expect to see 6.</span></p>
+<p><span style="font-weight: 400;"> And then if we pass a string as an argument, we&#8217;re going to get nothing out. And that&#8217;s because it has run through this try and it&#8217;s gone. Can we add one and a word together?/No, we can&#8217;t. So we&#8217;re going to do the Python try except block instead.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept3?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Instead of using pass let us now write some code that the program can execute instead. We&#8217;re going to run the code that prints the statement “not a number”.So now when we run this because you can&#8217;t add a number and a string together, it&#8217;s going to execute the code in this except block. So we&#8217;re going to get “not a number” as the output.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept4?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If we change the argument “sheep” back to a number let say 5, it&#8217;s going to run the code in the try block. Since it was successful, it doesn&#8217;t run the code in the except block.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept5?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<h3><span style="font-weight: 400;">The use of else in the Python try except</span></h3>
+<p><span style="font-weight: 400;">So what we can also do is we can throw in the word else. So if we put else on the same line as Python try except, we can say else and let&#8217;s print a statement that says the addition is complete. What this is going to do, is if &#8220;try&#8221; code works, it will also run the else. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="/blog/wp-content/uploads/2020/03/Python-2.png" alt="Python Try Except is a basic tool for handling exceptions" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a> </span></p>
+<p><span style="font-weight: 400;">So now when I run this, we can see that we have the number seven, which is the complete edition and we also have the words “addition complete”.But if we change this back to a string, we&#8217;re not going to see the output “addition complete” because it failed on the try block. So since the try block of code failed we only run the except code and then it&#8217;s done. The else is completely ignored unless the &#8220;try&#8221; is successful.</span></p>
+<p>&nbsp;</p>
+<h3><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept6?lite=true" width="100%" height="500px" frameborder="0"></iframe></h3>
+<h3><span style="font-weight: 400;">The use of finally in the Python try except</span></h3>
+<p><span style="font-weight: 400;">What we can also do is the final one is we can write finally. What this is going to do is this code block will always run when this is executed. So this is quite useful in certain cases. In this example let&#8217;s add a print statement after the word finally that says “end of program”.What happens here is the &#8220;finally&#8221; block of code will always run regardless of the outcome of the Python try except so again, we&#8217;re going to run this and we can see that we have “got not a number” and the “program finished”.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="Learn how to use Python Try Except online" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">So we get “not a number” since the except code block was executed because the code under the try block doesn’t work the else code was not run,  but we did execute the &#8220;finally&#8221; block of code because that is always executed.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept7?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">So let&#8217;s change it back again and let&#8217;s just quickly add a number as an argument instead of ‘cat’ so we&#8217;ll see that we get 11, which is the output of our function. The </span><span style="font-weight: 400;">“addition was complete”</span><span style="font-weight: 400;"> and the </span><span style="font-weight: 400;">“ program was finished”</span><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://replit.com/@CodeBerrySchool/tryexcept8?lite=true" width="100%" height="500px" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener external" data-wpel-link="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener external" data-wpel-link="external">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener external" data-wpel-link="external">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener external" data-wpel-link="external">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener external" data-wpel-link="external">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener external" data-wpel-link="external">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Java Arrays and ArrayLists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-sets/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Python Sets</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-dictionary/" target="_blank" rel="noopener" data-wpel-link="internal">Best ways of using a Python Dictionary</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-classes/" data-wpel-link="internal">Best way of using Python Classes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-way-of-using-python-range/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Python Range</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-if-else-statements/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python if-else</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-regex/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python RegEx</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-list/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Lists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-enumerate/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Enumerate</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-functions/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Functions</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-way-of-using-python-split/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Split</a></li>
+<li><strong>Best way of using Python Try-Except</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>online | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/online/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Tue, 23 Feb 2021 18:36:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Basics of programming</title>
+		<link>/blog/en/basics-of-programming/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 27 Jul 2020 09:59:47 +0000</pubDate>
+				<category><![CDATA[Basics of Programming]]></category>
+		<category><![CDATA[algorithm]]></category>
+		<category><![CDATA[analytical thinking]]></category>
+		<category><![CDATA[basic programming]]></category>
+		<category><![CDATA[basics of programming]]></category>
+		<category><![CDATA[basics programming courses online]]></category>
+		<category><![CDATA[book]]></category>
+		<category><![CDATA[codepan.io]]></category>
+		<category><![CDATA[course]]></category>
+		<category><![CDATA[curriculum]]></category>
+		<category><![CDATA[development environment]]></category>
+		<category><![CDATA[individually]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[math]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[Programming basics]]></category>
+		<category><![CDATA[programming language]]></category>
+		<category><![CDATA[recommender]]></category>
+		<category><![CDATA[skills]]></category>
+		<category><![CDATA[technical background]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[the basics of programming]]></category>
+		<category><![CDATA[tutorial]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9015</guid>
+
+					<description><![CDATA[In CodeBerry Programming School’s “Basics of Programming” series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding! Would you like to learn how to code, online? Come and try our [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><strong>Basics of Programming </strong></li>
+<li><a href="https://codeberryschool.com/blog/en/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How to learn to code?</a></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<p><span style="font-weight: 400;">In this article, we are going to go through some points that might come up when you are taking your first steps in getting to know the basics of programming. We will do a short introduction of the most popular programming areas and languages, talk about the issues around making some big decisions (about what technology and learning format to choose) and say a few words about the personal and technical background necessary for this venture. We will also make some book and video tutorial recommendations in the hope of motivating you to start studying.</span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2>Programming as an umbrella term – and its many meanings</h2>
+<p><span style="font-weight: 400;">When we hear that someone is a programmer, we can already assume that he is doing some complex and interesting work that requires a lot of careful attention. But that is not really enough information for us to tell what he actually does, what an average day of his is like, and what kind of tasks he has to deal with. Coding is such a diverse field that it can be considered only a very generic term in this form, spreading over countless areas as a giant umbrella. </span></p>
+<p><span style="font-weight: 400;">Still, there is one thing that all these areas have in common: they all involve communication with computers. And the way to do that is writing program codes, which is done by programmers. (Who also do testing, debugging, and documenting; they communicate with clients, learn and teach, do teamwork or work individually on a personal project.) If you would like to learn more about the above-mentioned communication through descriptive examples, check out our article titled </span><a href="https://codeberryschool.com/blog/en/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">A Brief Introduction to Programming</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">So what do we mean when we say that programming is present in countless areas? Think about all the various devices, applications, platforms you use daily. Software for web pages, mobile apps, games, desktop applications, embedded devices (for example, smart household appliances), and so on—the list is infinite. Creating and operating each of these involves different programming areas and technologies. </span></p>
+<p><span style="font-weight: 400;">Different criteria are applied and different technologies are needed for designing and creating the things that you see as a user, and those running on the server-side. Various technologies call for various programming languages.</span></p>
+<h2>The most popular programming languages</h2>
+<p><span style="font-weight: 400;">There are several surveys looking at the most popular programming languages. But what exactly do we mean by popular? Surveys conducted in this subject are not looking for the best programming language, as there is no “best programming language”—only adequate and less adequate ones for a given task, need, or purpose, and ones that can or cannot be used in a given situation or for a given platform. The </span><a href="https://www.tiobe.com/tiobe-index/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">source</span></a><span style="font-weight: 400;"> we used when writing this article shows the languages in which the biggest number of lines were written in a particular month, so technically, it measures which languages are used the most. </span></p>
+<p><span style="font-weight: 400;">According to this, most of the code written was created in Java, C, Python, C++, and C</span><span style="font-weight: 400;">♯</span><span style="font-weight: 400;">. Visual Basic, JavaScript, SQL, PHP, and R are also quite high up in the rankings. The diagram clearly shows how the popularity of languages has changed over time. There are several things to consider when you decide to learn one or the other programming language, the most important of which is the purpose you need it for, your goals relevant to programming.</span></p>
+<p><span style="font-weight: 400;">You can read some hints and tips on finding the right programming language for you in our article titled </span><a href="https://codeberryschool.com/blog/en/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Which Programming Language is Right for You?</span></a><span style="font-weight: 400;">.</span></p>
+<h2>The many ways of gaining new skills – Learning the basics of programming</h2>
+<p><span style="font-weight: 400;">There are many ways to get started when you want to learn something new, and programming is no exception either. But whatever learning method you choose, you will need patience, perseverance, and diligence if you want to learn to code.</span></p>
+<h3>Individual learning</h3>
+<p><span style="font-weight: 400;">Individual learning can be an attractive option for several reasons. One of its biggest advantages is that you can set your own schedule, spend as much time on studying as you want, and study whenever it is most convenient for you. You can fit the pace and the frequency of reviewing and practicing to your personal needs; you can go back and forth in the material as needed; you don’t have to adjust to others. For the individual study, it is best to use multiple resources, check out online learning materials, tutorials, books, and find the format that suits you best. You don’t have to stick to one particular method, various methods could complement each other perfectly. </span></p>
+<p><span style="font-weight: 400;">However, learning by yourself also has a flip side: apart from forums, you don’t have many channels where you can ask for help if you get stuck. The external motivation that your peers and mentors would bring can make a real difference in your growth.</span></p>
+<p><span style="font-weight: 400;">There are hybrid solutions too, combining the benefit of studying at your own pace and the support of a student community and mentors. That is also how it is done at CodeBerry, where you can join a virtual community and receive online mentoring. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>Courses and higher education programs</h3>
+<p><span style="font-weight: 400;">You can also choose from a wide range of options if you would like to study in a course, with well-prepared instructors, enthusiastic classmates, and a carefully structured curriculum. When talking about courses, most of us would probably think of “offline”, classroom-based education, which has many excellent opportunities for team building, developing communication skills, and fun lessons spent together. But you can also learn programming in online courses, from anywhere in the world. If there are no coding courses where you live or you don’t want to waste time or money on commuting, then online courses are the right choice for you. </span></p>
+<p><span style="font-weight: 400;">You can also study coding on the university level, which involves acquiring a much larger theoretical knowledge base, but much less practical experience. You will get to understand complex mathematical problems and gain a deep understanding of operations running in the background of programming. </span></p>
+<p><span style="font-weight: 400;">You can find more tips on how to learn the basics of programming in our post titled </span><a href="https://codeberryschool.com/blog/en/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">How to Learn to Code</span></a><span style="font-weight: 400;">, including a more detailed account of various learning formats and beginner-friendly coding languages. </span></p>
+<h2>Technical requirements</h2>
+<p><span style="font-weight: 400;">If you have been interested in programming for some time and you have gathered a lot of information on it already, or you are no stranger to the IT scene (you just haven’t happened to start coding yet), then you will be familiar with the expressions used in this section. If you are coming from a different background and haven’t had anything to do with coding yet, then maybe you’ll be wondering about similar questions as the ones below. </span></p>
+<h3>Computer and operating system</h3>
+<p><span style="font-weight: 400;">What kind of computer and operating system is needed for programming; what do these need to be capable of? </span></p>
+<p><span style="font-weight: 400;">You can write code on a simple laptop or desktop computer; you don’t need to get a supercomputer developed by NASA. The most common commercial operating systems (Windows, Linux, macOS) will be perfectly enough. </span></p>
+<h3>Development environment</h3>
+<p><span style="font-weight: 400;">Where do I write the code? What environment should I use? You can write programs in text editors, integrated development environments, or online editing platforms. They all have their advantages, and everyone can choose the option that suits their work, needs, and wallet the best.</span></p>
+<p><span style="font-weight: 400;">If you want to work in a text editor, you can use the Atom, Notepad++, Sublime Text, etc. platforms. These allow you to write and edit your code comfortably, they ensure a clear presentation and have a number of extra features such as syntax highlighting and a help menu. </span></p>
+<p><span style="font-weight: 400;">Integrated development environments (or IDEs) are applications that recognize the syntax of the given language, help prevent bugs, and create nested code. They also have templates, and they can be customized through additional plug-ins and preferences. </span><i><span style="font-weight: 400;">Eclipse, Visual Studio Code, Webstorm</span></i><span style="font-weight: 400;">, etc. are all examples for IDEs. Companies often require their developers to work in a certain IDE, and buy them access to a professional development environment. </span></p>
+<p><span style="font-weight: 400;">But, as a beginner (and in many coding areas later on as well), simple online editing platforms, such as </span><i><span style="font-weight: 400;">codepan.io</span></i><span style="font-weight: 400;"> or </span><i><span style="font-weight: 400;">repl.it</span></i><span style="font-weight: 400;">, will serve you just fine</span><i><span style="font-weight: 400;">.</span></i></p>
+<p><span style="font-weight: 400;">At CodeBerry, one of the first things you will learn is to create a development environment for yourself and get to know GitHub, a free online platform where you can store and share your code. Of course, there are other version control applications available beside </span><i><span style="font-weight: 400;">GitHub</span></i><span style="font-weight: 400;"> too: for example, </span><i><span style="font-weight: 400;">Bitbucket</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">GitLab</span></i><span style="font-weight: 400;">.</span></p>
+<h2>What skills are needed for programming?</h2>
+<h3>Analytical thinking</h3>
+<p><span style="font-weight: 400;">If you are thinking about enrolling in a university-level programming course, you should know that you will need very strong skills and knowledge of mathematics to start with, and you won’t be able to go around that. Contrary to this, other courses, practice-oriented training, and individual learning can be successful even when requiring much less or not as deep theoretical knowledge as university programs do, so you usually don’t need such high-level math for them. </span></p>
+<p><span style="font-weight: 400;">What you will definitely need though is logical, analytical thinking. In order to understand and learn algorithms, you will need a deep, analytical, rational thinking, if not traditional mathematical capabilities. You will also have to know certain basic concepts and understand basic programming operations. It is best to practice these a lot, and to go back to them from time to time, so you can use them with absolute confidence. </span></p>
+<h3>Coding courses in your native language and the role of English in programming</h3>
+<p><span style="font-weight: 400;">The role of the English language in programming is an important question. Many people could feel discouraged by not having solid English skills, while the world of IT seems to be working mostly in English. So how can you enter it if you happen to have some shortcomings in this regard? </span></p>
+<p><span style="font-weight: 400;">CodeBerry offers a solution to this problem by providing an opportunity to learn coding in your native language, and there are more and more resources (books, podcasts, videos, courses) available in Hungarian. You can find some recommendations in this article. </span></p>
+<p><span style="font-weight: 400;">So you don’t necessarily need strong English skills to start learning and to improve your programming skills successfully. Still, it is well worth it to work on your English skills: the ability to read international forums, articles, novelties and descriptions, the labor market advantages that come with it and the access to the global IT scene are just some of the reasons for which you should get better acquainted with the language of international communication.</span></p>
+<h3>Personal skills</h3>
+<p><span style="font-weight: 400;">In an article on the basics of programming, we can’t skip mentioning what every enthusiastic beginner should be aware of: the persistence and deep focus needed for learning to code and to work as a programmer. Whatever format you are learning in, you won’t be successful without diligence and disciplined practice. But if you have these, you can immerse yourself in rewarding creative work, exciting and challenging problem-solving processes, and you will gain a substantial advantage on the job market. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>Teamwork skills</h3>
+<p><span style="font-weight: 400;">If you think of coding as more than a hobby, and you can see yourself working as a professional programmer, chances are that you will have to work in a team or cooperate with clients, which requires good communication and cooperative skills. It is also important that you can present what you are working on, the relevant issues, and your findings in a clear, concise, and efficient manner. These are all skills that can be improved, and which are essential for efficient programming teamwork.</span></p>
+<p><span style="font-weight: 400;">It is impossible to include every aspect of the basics of programming in a single article, but we hope that you could find some useful insights in this post. If you are reading this to research the topic before starting to learn to code, have a look at </span><a href="https://codeberryschool.com/blog/en/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">this personal account of the beginnings</span></a><span style="font-weight: 400;">, the challenges, and the beauty of learning to code.</span></p>
+<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><strong>Basics of Programming </strong></li>
+<li><a href="https://codeberryschool.com/blog/en/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How to learn to code?</a></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How to Learn to Code</title>
+		<link>/blog/en/how-to-learn-to-code/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 06:54:11 +0000</pubDate>
+				<category><![CDATA[Basics of Programming]]></category>
+		<category><![CDATA[begin]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[courses]]></category>
+		<category><![CDATA[education]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[mentor]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[start]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7477</guid>
+
+					<description><![CDATA[In CodeBerry Programming School’s “Basics of Programming” series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding! Would you like to learn how to code, online? Come and try our [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><strong>How to learn to code?</strong></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<h3>Introduction</h3>
+<p><span style="font-weight: 400;">Now that you’ve decided that you want to learn how to code, it’s time to turn your dream into reality.</span></p>
+<h4>In this article, we’ll take a look at:</h4>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Which coding languages are best for beginners </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Educational resources available to you </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">First steps towards learning programming </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">How to become a programmer </span></li>
+</ul>
+<p><span style="font-weight: 400;">We’d also like to point you in the direction of some supplementary resources that will help you to continue to learn on your own, such as video tutorials, podcasts, apps, games, and more. </span></p>
+<p><a href="https://pixabay.com/photos/laptop-woman-education-study-young-3087585/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-7962" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/laptop-3087585_1280.jpg" alt="It’s always exciting to learn how to code" width="1280" height="853" srcset="/blog/wp-content/uploads/2020/03/laptop-3087585_1280.jpg 1280w, /blog/wp-content/uploads/2020/03/laptop-3087585_1280-300x200.jpg 300w, /blog/wp-content/uploads/2020/03/laptop-3087585_1280-1024x682.jpg 1024w, /blog/wp-content/uploads/2020/03/laptop-3087585_1280-768x512.jpg 768w, /blog/wp-content/uploads/2020/03/laptop-3087585_1280-1080x720.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p><span style="font-weight: 400;">First, let’s start with the most important skills that you’ll need to succeed as a coder: </span></p>
+<h3>Good Programming Languages for Beginners</h3>
+<h4><a href="https://codeberryschool.com/blog/en/beginners-guide-to-python-programming-language/" data-wpel-link="external" target="_blank" rel="external"><em><span style="font-weight: 400;">Python</span></em></a></h4>
+<p><span style="font-weight: 400;">Python is a powerful, high-level programming language that can be used for a wide variety of purposes such as creating desktop applications, developing web apps, and even solving mathematical equations.</span></p>
+<p><span style="font-weight: 400;">When you hear the term “high-level programming language,” you might get the idea that it’s more difficult to learn or more complex than others. However, the term “high-level” simply refers to the fact that the language is more developed and that it’s closer to a human language. A high-level language saves you time and frustration by allowing you to write in a more natural manner. Writing in a low-level language may require you to constantly repeat yourself and type out the obvious. Python doesn’t generally do that. Instead, it allows you to create highly readable and maintainable code, which is one of the most important aspects of programming. </span></p>
+<p><span style="font-weight: 400;">Starting with Python is one of the best ways for beginners to quickly learn the basics of programming and to create a basis for future learning. Thanks to a high number of applications and an easy-to-use syntax, Python is a great language, to begin with as you embark upon your coding journey.</span></p>
+<h4><a href="https://codeberryschool.com/blog/en/beginners-guide-to-javascript/" data-wpel-link="external" target="_blank" rel="external"><em><span style="font-weight: 400;">JavaScript</span></em></a></h4>
+<p><span style="font-weight: 400;">JavaScript is </span><i><span style="font-weight: 400;">the</span></i><span style="font-weight: 400;"> programming language that powers the web and makes pages interactive and functional.  </span></p>
+<p><span style="font-weight: 400;">If you’re interested in developing websites, JavaScript is an indispensable tool. While it’s true that HTML and CSS handle the organizational and visual aspects of your website, it’s JavaScript that brings everything to life. You’ll be able to create “scripts” that cause the website to react in a certain way when you click on a button, enter information into a form, and more.</span></p>
+<p><span style="font-weight: 400;">Thanks to its popularity, there are plenty of resources available for learning JavaScript online, such as coding bootcamps and university courses. JavaScript is also incredibly versatile, as it can either be used in the front end or in the back end with the use of a run-time environment like Node.js.</span></p>
+<h4><a href="https://codeberryschool.com/blog/en/beginners-guide-to-java-programming-language/" data-wpel-link="external" target="_blank" rel="external"><em><span style="font-weight: 400;">Java</span></em></a></h4>
+<p><span style="font-weight: 400;">In addition to being one of the most popular programming languages in the world, Java (not to be confused with JavaScript) is extremely versatile and can be used in a wide variety of applications. And if you decide to learn Java, there’s a good chance of landing a job at a large corporation. Java, along with JavaScript and Python, is used by tech giants like Google, Facebook, and many more. </span></p>
+<p><span style="font-weight: 400;">When you learn Java, you will open up a whole new world of possibilities in your career as a software engineer. Using Java, you’ll be able to write computer programs for a huge variety of devices, such as smartphones, ATMs, TVs, computers, and more. </span></p>
+<p><span style="font-weight: 400;">With Java, you can also become a mobile developer for Android. Although iOS development was the trend in recent years (iOS uses Swift), creating apps for Android devices has become more commonplace. </span></p>
+<p><span style="font-weight: 400;">Thanks to its popularity, there is an abundance of resources for learning Java, both online and in the real world.</span></p>
+<p><a href="https://pixabay.com/hu/photos/otthoni-iroda-munka%C3%A1llom%C3%A1s-iroda-336378/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-7964" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/home-office-336378_1280.jpg" alt="Which one is the easiest programming language?" width="1280" height="853" srcset="/blog/wp-content/uploads/2020/03/home-office-336378_1280.jpg 1280w, /blog/wp-content/uploads/2020/03/home-office-336378_1280-300x200.jpg 300w, /blog/wp-content/uploads/2020/03/home-office-336378_1280-1024x682.jpg 1024w, /blog/wp-content/uploads/2020/03/home-office-336378_1280-768x512.jpg 768w, /blog/wp-content/uploads/2020/03/home-office-336378_1280-1080x720.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<h3>Educational Programs</h3>
+<h4><em><span style="font-weight: 400;">Coding Bootcamps </span></em></h4>
+<p><span style="font-weight: 400;">As we briefly mentioned in our “<a href="https://codeberryschool.com/blog/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">Introduction to Web Development</a>” article, coding bootcamps are short and condensed learning programs that function like military bootcamps. You probably won’t be running through tires and scrubbing the toilet with your toothbrush, but you’ll definitely be pushed to your mental limits with one of these intensive courses. </span></p>
+<p><span style="font-weight: 400;">Coding bootcamps generally last about 14 weeks (3-4 months) and teach you the fundamental skills that you need to succeed in a specific role, such as full-stack developer or frontend developer. Many employers often search for up-and-coming developers at the end of the program and choose from the best talent among the group. </span></p>
+<p><span style="font-weight: 400;">If one could truly learn everything there is to know about programming in 14 weeks, no one would pursue a degree in Computer Science or spend years developing their skills. Coding bootcamps, however, teach you the skills you need for entry-level programming jobs that don’t necessarily require a CS degree. When you’re just starting out and are looking for your first programming job, a coding bootcamp could be a great fit for you. </span></p>
+<p><span style="font-weight: 400;">Coding bootcamps are also a great option for those who want a quick overview of coding and need to learn the basics as soon as possible. To continue learning, however, we recommend that you supplement your education with more courses, additional reading materials, and daily practice. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h4><em><span style="font-weight: 400;">University Courses</span></em></h4>
+<p><span style="font-weight: 400;">Undoubtedly the most traditional form of education, a university program will provide you with a great overview of Computer Science and will help you to understand the underlying concepts behind the code. However, don’t expect your professors to hold your hand and teach you how to code in Python, JavaScript, or C++. Universities do offer courses that teach you the basics of each language, but you’ll spend more of your time learning very complex mathematics. </span></p>
+<p><span style="font-weight: 400;">For jobs in research, or at high-profile companies like Google, you’ll want to complete a Computer Science degree. However, if your dream job is to work at a medium-sized company or game studio, there’s a good chance that you won’t need to attend a University. </span></p>
+<p><span style="font-weight: 400;">In a university course, you’ll learn ideas, concepts, and theories, but very few skills that you can use immediately upon graduation. It’s up to you to learn various programming languages and search out the resources you need to succeed. This may be a disappointing reality for some when they graduate with a degree in Computer Science and leave the university lacking a sense of accomplishment. Regardless, being self-motivated and seeking out new knowledge on your own is a key characteristic of successful coders. </span></p>
+<p><span style="font-weight: 400;">This is why we recommend that both graduates and those currently enrolled in a Computer Science program learn to code on their own time. Online courses, coding bootcamps, and supplemental resources will all help you become a programming pro. </span></p>
+<h4><em><span style="font-weight: 400;">Online Courses </span></em></h4>
+<p><span style="font-weight: 400;">Online courses combine the best of traditional education with the skill-focused philosophy of a coding bootcamp. Not only will you learn the overarching concepts and theories behind programming, but you’ll also learn the skills you need to get a job. </span></p>
+<p><span style="font-weight: 400;">The freedom to study where, when, and how you want provides online learners with the flexibility that isn’t available to traditional students. You won’t need to quit your job, move to a new city, and pay thousands of dollars in tuition to learn valuable skills. Instead, you’ll be able to develop professionally in the comfort of your own home.</span></p>
+<p><span style="font-weight: 400;">Online courses also come at a fraction of the cost of a university program. An online class generally provides you with the resources you need in a digital format and, unlike a course at your local university, you probably won’t have to spend anything on old, outdated textbooks. Instead, you’ll have access to a specialized curriculum that is written by industry professionals. </span></p>
+<p><span style="font-weight: 400;">For English speakers, there are a variety of courses available online, such as Codecademy. Codecademy is a free resource that teaches you the basics of a variety of different programming languages. However, if you want to choose a specific career path, such as web development, data science, or computer science, you’ll have to sign up for the pro (paid) version. The pro version also gives you access to more advanced material. </span></p>
+<p><span style="font-weight: 400;">At <a href="https://codeberryschool.com/" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a>, you’ll find in-depth courses that are specialized for specific career paths, such as sitebuilder or front-end developer. In addition to teaching you programming in your own language, CodeBerry also assigns you a coding mentor, pairs you up with a learning buddy, and gives you access to a friendly online community.   </span></p>
+<h3>Supplemental Resources:</h3>
+<p><span style="font-weight: 400;">Although only 20% of the world’s population speaks English, it’s estimated that over 55% of the internet is written in English. This means that the majority of resources you find online won’t be written in your native language. Therefore, the availability of the following resources will vary depending on your native language. </span></p>
+<h4><em><span style="font-weight: 400;">Watch Videos </span></em></h4>
+<p><span style="font-weight: 400;">I’ve learned a lot of important skills over the years by simply watching YouTube videos. YouTube is a great free resource that contains videos and channels dedicated to nearly every topic imaginable. </span></p>
+<p><span style="font-weight: 400;">There are plenty of great videos from real web developers and programmers who share their personal experiences and give you “insider knowledge” on what you need to know. YouTube also contains many interviews with coders who give their thoughts on finding a job and how they reached professional success. </span></p>
+<p><span style="font-weight: 400;">While a great supplement to your core learning, YouTube videos aren’t consistent enough in quality to provide you with a solid education. You’ll also discover many gaps in your knowledge and have trouble finding resources to answer all of the questions that you may have regarding in-depth topics.  </span></p>
+<h4><em><span style="font-weight: 400;">Online Communities</span></em></h4>
+<p><span style="font-weight: 400;">Joining online forums and groups will help you connect with fellow coders that may be able to guide you in the right direction and provide you with helpful advice for your career. Learning from the experience of others can also help you avoid the same mistakes that they have made and find a smoother path towards success. </span></p>
+<p><span style="font-weight: 400;">Whether you realize it or not, becoming part of a community is also important for developing your confidence and building your identity as a “real” coder. Through interaction with others, you’ll leave behind the imposter syndrome that appears after learning new skills and beginning a new career. As you search for that first job or your dream job, a community will provide you with the support and stability you need to move forward.  </span></p>
+<p><span style="font-weight: 400;">By chance, you might even find job openings and opportunities through online communities, as employers often browse the web to find talented programmers. You can also network with fellow programmers and work on projects together, reinforcing that sense of belonging to a community. </span></p>
+<p><span style="font-weight: 400;">It can often be difficult to find online communities in your own language for coding and programming-related topics. Fortunately, CodeBerry gives you access to an online community with fellow students who speak your language and learn alongside you. </span></p>
+<h4><em><span style="font-weight: 400;">Find a Coding Mentor</span></em></h4>
+<p><span style="font-weight: 400;">One of the most valuable resources you can have as a learner isn’t a resource at all, but rather a person. Since they have already gone through the same process, mentors are like gold mines of tips, tricks, and experience. Think of your mentor as your future self who can help you arrive at your goals. </span></p>
+<p><span style="font-weight: 400;">You’ll learn from their mistakes and make sense of your own as you talk with your mentor and discuss your progress. </span></p>
+<p><span style="font-weight: 400;">Mentors can also help you after graduation by giving you advice on how to find jobs, grow your portfolio, and what to expect in an interview. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;">If you personally know a programmer or developer, ask them if you can become their apprentice and help them with their daily work. Tasks that might be easy and mundane for a professional could be a great learning experience for you. This way, you’ll gain invaluable insights and experience while providing them with value in exchange for their help.  </span></p>
+<p><span style="font-weight: 400;">There are a few websites that can help you find mentors online, such as codementor.io. On Codementor, you’ll be able to find experienced programmers and developers who can give you the guidance you need—at a price. This can be quite costly, as mentors start at about $10 per 15 minutes of advising ($40/hr). We would recommend this option only if you don’t have any personal contacts with programmers. </span></p>
+<p><span style="font-weight: 400;">CodeBerry, on the other hand, provides you with a mentor to help you in your coding education journey. </span></p>
+<p><span style="font-weight: 400;">Our coding mentors are IT professionals with years of experience in their field. In addition to answering your questions via chat, our mentors help you craft your learning plan, review your code and give suggestions to enhance it, and keep you accountable and committed to your courses. </span></p>
+<h4><em><span style="font-weight: 400;">Listen to Podcasts</span></em></h4>
+<p><span style="font-weight: 400;">The true beauty of podcasts is that they are free, educational, and allow you to learn on the go. When you feel the need to study while you’re stuck in rush hour traffic or commuting on the bus, you can pop in your earphones and listen to some great resources. </span></p>
+<p><span style="font-weight: 400;">Because coding is highly visual, audio might not be the best way to learn how to code. However, podcasts will keep you informed of recent updates to programming languages and related technologies. </span></p>
+<p><span style="font-weight: 400;">A great coding podcast for beginners is CodeNewbie which discusses the experiences of new coders and how they learned to code, how they landed their first job, etc. Other podcasts like Software Engineering Daily and Coding Blocks cover more technical topics and provide a lot of valuable knowledge for free. </span></p>
+<h4><em><span style="font-weight: 400;">Books/Resources</span></em></h4>
+<p><span style="font-weight: 400;">It’s nearly impossible to memorize every command in a programming language. Books and other online resources such as W3 Schools provide you with documentation to reference when you need a quick hint or reminder. If you prefer print over digital, there are plenty of great books available on websites like Amazon that provide you with a handy guide to programming languages. For the rest of us, W3 Schools has free guides on their website that will help you as you learn to code.  </span></p>
+<p><a href="https://pixabay.com/hu/photos/munka-munkam%C3%A1ni%C3%A1s-%C3%ADr%C3%B3-programoz%C3%B3-1627703/" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-7963" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/work-1627703_1280.jpg" alt="You can learn how to code almost everywhere." width="1280" height="776" srcset="/blog/wp-content/uploads/2020/03/work-1627703_1280.jpg 1280w, /blog/wp-content/uploads/2020/03/work-1627703_1280-300x182.jpg 300w, /blog/wp-content/uploads/2020/03/work-1627703_1280-1024x621.jpg 1024w, /blog/wp-content/uploads/2020/03/work-1627703_1280-768x466.jpg 768w, /blog/wp-content/uploads/2020/03/work-1627703_1280-1080x655.jpg 1080w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<h4><em><span style="font-weight: 400;">Coding Games &amp; Apps </span></em></h4>
+<p><span style="font-weight: 400;">If you want to learn how to code and have fun at the same time, coding games and apps are perfect for you. You’ll have so much fun playing these interactive, educational games that you’ll forget that you’re actually learning. Oftentimes, reading books and documents on code can be dry, boring, and a great way to cure sleeplessness. On the other hand, games and apps will keep you interested and engaged, creating the perfect environment for learning. </span></p>
+<p><span style="font-weight: 400;">Games such as CodeCombat and CodinGame are extremely fun and help you continue to learn when you feel like your brain is fried after a traditional study session. </span></p>
+<p><a href="https://codecombat.com/" target="_blank" rel="noopener external" data-wpel-link="external">CodeCombat</a><span style="font-weight: 400;"> is a browser-based RPG that allows you to control your character with lines of code. Through this method, you’ll learn languages such as JavaScript and Python without even realizing it. Not to mention, it’s a complete blast to play.</span></p>
+<p><span style="font-weight: 400;">With various lines of code, you’ll make your hero move, attack, and perform certain actions that help you complete each level. As you progress through the levels, you’ll learn important programming concepts such as syntax, arguments, strings, and more. </span></p>
+<p><a href="https://www.codingame.com/start" target="_blank" rel="noopener external" data-wpel-link="external">CodinGame</a> <span style="font-weight: 400;">is another website that features a wide variety of games that will help you improve your coding skills. CodinGame is much more difficult than CodeCombat and is geared towards those who already have a basic understanding of programming languages. If you are completely new to coding, you might want to try simpler games, such as CodeCombat, first. </span></p>
+<p><span style="font-weight: 400;">Personally, it took me a while to just navigate the site and figure out what I should have been doing. After I got adjusted to the layout, I was happily coding away in Python to control my spaceship and fire lasers at alien enemies; it felt pretty good. </span></p>
+<h3>Practice &amp; Good Study Habits</h3>
+<p><span style="font-weight: 400;">As a wise man once said, “Practice makes perfect.” </span></p>
+<p><span style="font-weight: 400;">No matter how many books you read, videos you watch, or the classes you attend, you’ll have to write code frequently to solidify your knowledge. Find projects to work on and create personal goals that cause you to always test your limits and learn new skills. Over time, you’ll find yourself prepared to start your first job. </span></p>
+<p><span style="font-weight: 400;">You’ll also want to have the drive and initiative to teach yourself the skills that you need to know. Self-taught learners tend to make the best programmers since technologies and languages are always changing. </span></p>
+<p><span style="font-weight: 400;">In many careers, it’s possible to become an expert in a given topic and feel like you can sit back, relax, and quit growing. As a programmer, you don’t have the luxury of letting your guard down and ceasing to learn new things. The moment that you stop learning is the moment when your knowledge starts to become outdated. </span></p>
+<p><span style="font-weight: 400;">The team at CodeBerry would like to encourage you to be a lifelong learner and to continuously seek to improve your coding skills. If you’re interested in learning to code in your own language, being paired up with a mentor, and want access to a friendly online community, visit our website and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">sign up to take our first 25 assignments for free. </a></span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>Begin to Research Languages</h3>
+<p><span style="font-weight: 400;">As you learn more about programming and start to identify your personal goals, you’ll discover which languages are best for you. We encourage you to begin researching various programming languages and to find out what suits your needs. In the next article, &#8220;</span><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Which programming language is good for you?</span></a><span style="font-weight: 400;">&#8220;, we’ll provide you with an overview of the most popular programming languages so that you can start learning. </span></p>
+<p><span style="font-weight: 400;">Thanks for reading; see you in the next article.</span></p>
+<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/a-brief-introduction-to-programming/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><strong>How to learn to code?</strong></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beginner’s Guide to Java Programming Language</title>
+		<link>/blog/en/introduction-java-programming-language/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2020 14:10:53 +0000</pubDate>
+				<category><![CDATA[Programming languages]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[applications of java programming language]]></category>
+		<category><![CDATA[beginners guide to java]]></category>
+		<category><![CDATA[beginners guide to java programming]]></category>
+		<category><![CDATA[class]]></category>
+		<category><![CDATA[how long does it take to learn java]]></category>
+		<category><![CDATA[is java a programming language]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[java beginners guide]]></category>
+		<category><![CDATA[java language stands for]]></category>
+		<category><![CDATA[java stands for]]></category>
+		<category><![CDATA[language]]></category>
+		<category><![CDATA[learn]]></category>
+		<category><![CDATA[object]]></category>
+		<category><![CDATA[object-oriented]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[smartphone]]></category>
+		<category><![CDATA[what is java programming language]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7460</guid>
+
+					<description><![CDATA[In CodeBerry Programming School’s “Programming languages” series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start. Would you like to learn how to code, online? Come and try our first 25 lessons for [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>In CodeBerry Programming School’s <a href="https://codeberryschool.com/blog/en/category/programming-languages/" data-wpel-link="external" target="_blank" rel="external">“Programming languages”</a> </b>series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start.</p>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<h3>Beginner&#8217;s Guide</h3>
+<ul>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/a-brief-introduction-to-web-development/" data-rich-text-format-boundary="true" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Web Development</a></li>
+<li><strong>Beginner’s Guide to Java Programming Language</strong></li>
+<li><a href="https://codeberryschool.com/blog/en/beginners-guide-to-python-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Python Programming Language</a></li>
+<li><a href="https://codeberryschool.com/blog/en/beginners-guide-to-c/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C++ programming</a></li>
+<li><a href="https://codeberryschool.com/blog/en/beginners-guide-to-php-programming/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to PHP programming</a></li>
+<li><a href="https://codeberryschool.com/blog/en/beginners-guide-to-c-sharp-programming/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C# programming</a></li>
+<li><a href="https://codeberryschool.com/blog/en/beginners-guide-to-javascript/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to JavaScript programming</a></li>
+</ul>
+<h3><b>What Is Java? </b></h3>
+<p><span style="font-weight: 400;">Java (not to be confused with JavaScript) is a <a href="https://www.computerhope.com/jargon/g/generalp.htm" target="_blank" rel="noopener external" data-wpel-link="external">general-purpose programming language</a> that was designed to run on a wide variety of devices, ranging from smartphones and PCs to smart TVs. According to the </span><a href="https://insights.stackoverflow.com/survey/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Stack Overflow Developer Survey</span></a><span style="font-weight: 400;">, Java is the 5th most popular programming language, right below SQL.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Although created back in 1995 by Sun Microsystems, the Java programming language is still popular today. Java is like a simpler version of C++ that takes many design cues from its predecessor, Oak. Java’s slogan, <a href="https://whatis.techtarget.com/definition/write-once-run-anywhere-WORA" target="_blank" rel="noopener external" data-wpel-link="external">“WORA,”</a> is an acronym that stands for “Write Once, Run Anywhere.” After the code is written in Java, it can run on any compatible device with Java installed without the need for recompilation.</span></p>
+<p><div id="attachment_8777" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8777" loading="lazy" class="size-large wp-image-8777" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/concept-2791440_1920-1024x540.jpg" alt="With a good idea and some Java knowledge you can create amazing things in short time" width="1024" height="540" srcset="/blog/wp-content/uploads/2020/03/concept-2791440_1920-1024x540.jpg 1024w, /blog/wp-content/uploads/2020/03/concept-2791440_1920-300x158.jpg 300w, /blog/wp-content/uploads/2020/03/concept-2791440_1920-768x405.jpg 768w, /blog/wp-content/uploads/2020/03/concept-2791440_1920-1536x810.jpg 1536w, /blog/wp-content/uploads/2020/03/concept-2791440_1920-1080x570.jpg 1080w, /blog/wp-content/uploads/2020/03/concept-2791440_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-8777" class="wp-caption-text">With a good idea and some Java knowledge you can create amazing things in a short time</p></div></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><b>To show you what Java programming looks like, we’ll use the classic “Hello World” example:</b></h3>
+<pre class="wp-block-code"><code class="language-java" lang="java">class HelloWorldApp {
+
+    public static void main(String[ ] args) {
+
+        System.out.printIn(“Hello World!”); // Displays the text on the screen. 
+
+    }
+
+}</code></pre>
+<h3><strong>What Is Programming in Java Like? </strong></h3>
+<p>Java programming is capable of <a class="rank-math-link" href="https://searchapparchitecture.techtarget.com/definition/object-oriented-programming-OOP" target="_blank" rel="noopener external" data-wpel-link="external">object-oriented programming,</a> meaning that it allows you to organize attributes together into objects and classes. Once defined in your program, you can reference them at a later time to save you from writing it all out again. A procedural language, on the other hand, requires you to write out huge lines of code that are dependent on each other. Without the convenience of objects, you always have to restate everything. </p>
+<h3><strong>Uses for Java</strong></h3>
+<p>The great thing about Java programming is that it is extremely versatile and can be found in just about any industry. In fact, once you’ve learned Java, you will never run out of uses and applications for it. The most common uses for Java include web, mobile, and desktop applications. </p>
+<h4><em>Mobile</em></h4>
+<p>Android applications can be created entirely in Java, meaning that you can become an Android developer with a good knowledge of Java. </p>
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1920" height="1275" class="wp-image-8775" src="https://i0.wp.com/codeberryschool.com/blog/wp-content/uploads/2020/07/ux-787980_1920-1.jpg?fit=1024%2C680&amp;ssl=1" alt="A Java programozás a legjobb választás mobilapplikációk fejlesztéséhez" srcset="/blog/wp-content/uploads/2020/07/ux-787980_1920-1.jpg 1920w, /blog/wp-content/uploads/2020/07/ux-787980_1920-1-300x199.jpg 300w, /blog/wp-content/uploads/2020/07/ux-787980_1920-1-1024x680.jpg 1024w, /blog/wp-content/uploads/2020/07/ux-787980_1920-1-768x510.jpg 768w, /blog/wp-content/uploads/2020/07/ux-787980_1920-1-1536x1020.jpg 1536w, /blog/wp-content/uploads/2020/07/ux-787980_1920-1-1080x717.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+</div>
+<h4><em>Web</em></h4>
+<p>Although websites are made up of HTML, CSS, and JavaScript, web applications are made up of various different components that can be written in multiple programming languages. Many web applications rely on server code written in Java. Java also supports the creation of Applets, which are small programs, like games, that can be run directly in the browser.</p>
+<h4><em>Desktop</em></h4>
+<p>In line with its “Write Once, Run Anywhere” philosophy, Java programming can be used to power desktop applications on multiple operating systems, such as Windows, MacOS, and Linux. While Java is not truly native to any platform, there are plenty of tools that allow you to run Java on any operating system. <a class="rank-math-link" href="https://www.oracle.com/java/" target="_blank" rel="noopener external" data-wpel-link="external">Oracle</a>, the company that bought out Sun Microsystems (the creator of Java) offers developer tools for writing Java programs on various platforms.</p>
+<h4><em>Enterprise</em></h4>
+<p>Not only is Java a programming language, but it’s also a platform. <a class="rank-math-link" href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noopener external" data-wpel-link="external">Java EE, or Java Enterprise Edition,</a> is a special version of the Java platform designed for business applications. Java EE is often used for large-scale networks and comes with a higher level of security for corporations. </p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><em>Servers</em></h4>
+<p>Last, but not least, we have Java for servers. In addition to Java EE, Oracle offers Server JRE, which is a Java platform designed specifically for servers. JRE stands for <a class="rank-math-link" href="https://www.techopedia.com/definition/5442/java-runtime-environment-jre" target="_blank" rel="noopener external" data-wpel-link="external">“Java Runtime Environment”</a>. </p>
+<h3><strong><a class="rank-math-link" href="https://codeberryschool.com/blog/en/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How Much Do Java Programmers Make?</a></strong></h3>
+<p>According to <a href="https://www.payscale.com/research/US/Job=Java_Developer/Salary" target="_blank" rel="noopener external" data-wpel-link="external">Payscale</a>, Java programmers based in the U.S. make an average of $72,611. As you might already know, U.S. programmers are some of the best paid in the world. </p>
+<figure class="wp-block-image size-large"><img loading="lazy" width="1920" height="1357" class="wp-image-8773" src="https://i0.wp.com/codeberryschool.com/blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1.jpg?fit=1024%2C724&amp;ssl=1" alt="With Java programming you can reach an outstanding salary
+" srcset="/blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1.jpg 1920w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-300x212.jpg 300w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-1024x724.jpg 1024w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-768x543.jpg 768w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-1536x1086.jpg 1536w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-400x284.jpg 400w, /blog/wp-content/uploads/2020/07/entrepreneur-1340649_1920-1-1080x763.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+<p>Even though you may make substantially less in your own country, you’ll still gain incredible earning potential by learning to code in Java—no matter where you live in the world. Java programmers in places like Malaysia, for example, can make up to 1,200% more than the average national salary in their country). Not bad. (See the data here: <a href="https://jobbatical.com/blog/java-developer-salary-by-countries-2017-infographic/" target="_blank" rel="noopener external" data-wpel-link="external">Java Developer Salary: Local &amp; Worldwide Comparison Infographic</a>).</p>
+<h3><strong>How Do I Learn Java?</strong></h3>
+<p>Due to its huge popularity and high demand, there are plenty of online and offline java tutorials available to help you start learning. To find out more, check out our article, “<a href="https://codeberryschool.com/blog/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How to Learn to Code</a>”.</p>
+<h3><strong>How Long Does it Take to Learn Java? </strong></h3>
+<p>The amount of time <a class="rank-math-link" href="https://codeberryschool.com/blog/en/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">it takes to learn a programming language</a> depends on the methods you use, your learning retention, and how many hours you invest per week. You can’t expect to know everything about Java programming after taking a semester-long course at your local university or a 14-week program at a coding bootcamp. However, depending on your dedication, the basics you need to develop a good foundation can be learned rather quickly.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3><strong>Is Java Right for Me?</strong></h3>
+<p>One of the best things about software development is that there is a wide variety of languages out there. If you simply despise programming in Java, for example, there are plenty of alternatives to choose from. Education never really stops. </p>
+<p>For most, the basics of Java programming is a good place to start, because it allows you to program for a wide variety of devices and applications with just one single language. </p>
+<p>However, if you’re just getting started in programming and are unsure if Java programming is right for you, please check out our article, “<a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which Programming Language Is Right for Me</a>”.</p>
+<p><strong>In CodeBerry Programming School’s <a class="rank-math-link" href="https://codeberryschool.com/blog/en/category/programming-languages/" data-wpel-link="external" target="_blank" rel="external">“Programming languages”</a> </strong>series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start.</p>
+<h3>Beginner&#8217;s Guide</h3>
+<ul>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/a-brief-introduction-to-web-development/" data-wpel-link="external" target="_blank" rel="external">A Brief Introduction to Web Development</a></li>
+<li><strong>Beginner’s Guide to Java Programming Language</strong></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/en/beginners-guide-to-python-programming-language/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to Python Programming Language</a></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/en/beginners-guide-to-c/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C++ programming</a></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/en/beginners-guide-to-php-programming/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to PHP programming</a></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/en/beginners-guide-to-c-sharp-programming/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to C# programming</a></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/en/beginners-guide-to-javascript/" data-wpel-link="external" target="_blank" rel="external">Beginner’s Guide to JavaScript programming</a></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a class="rank-math-link" href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

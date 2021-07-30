@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>html table merge rows | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/html-table-merge-rows/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 10 Mar 2021 09:52:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>How to create perfect HTML tables?</title>
+		<link>/blog/en/how-to-create-perfect-html-tables/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sat, 05 Dec 2020 20:06:05 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[cellpadding and cellspacing in html table]]></category>
+		<category><![CDATA[codepen html table]]></category>
+		<category><![CDATA[codepen table]]></category>
+		<category><![CDATA[column]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[datas]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html table captions]]></category>
+		<category><![CDATA[html table cellpadding cellspacing]]></category>
+		<category><![CDATA[html table codepen]]></category>
+		<category><![CDATA[html table merge rows]]></category>
+		<category><![CDATA[html table space between cells]]></category>
+		<category><![CDATA[insert]]></category>
+		<category><![CDATA[tables]]></category>
+		<category><![CDATA[tables codepen]]></category>
+		<category><![CDATA[web development]]></category>
+		<category><![CDATA[website]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10786</guid>
+
+					<description><![CDATA[Table, TR, TD, TH – Inserting Tables Into The HTML Code If we want to put a table on a website we are building, we have to define it in the HTML code, inserting the tags needed to create the structure of the table. We can modify the look and layout of the table using [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Table, TR, TD, TH – Inserting Tables Into The HTML Code</span></h2>
+<p><span style="font-weight: 400;"><img loading="lazy" class="alignright" src="https://images.pexels.com/photos/1569076/pexels-photo-1569076.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" alt="HTML tables" width="413" height="275" />If we want to put a table on a website we are building, we have to define it in the HTML code, inserting the tags needed to create the structure of the table. We can modify the look and layout of the table using different attributes. We are going to talk about these attributes in this article, while also providing editable examples. </span></p>
+<p><span style="font-weight: 400;">Using HTML tables, we can organize texts, numbers, pictures, and links into rows, columns, and cells.</span></p>
+<p><span style="font-weight: 400;">We can create tables using the </span><b></b><span style="font-weight: 400;"> tag. To add rows, we need to use </span><b></b><span style="font-weight: 400;"> tags, while cells can be added with the </span><b><br />
+</b><span style="font-weight: 400;"> tag (the name of these tags are short for table row and table data). The content of cells—the actual data—has to be placed between </span><b><br />
+</b><span style="font-weight: 400;"> tags.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Headings are important to create readable tables. We can create them using </span><b><br />
+</b><span style="font-weight: 400;"> tags, making the content of cells as headings instead of data—the text in these cells will be bold.</span></p>
+<p><iframe style="width: 100%;" title="html table" src="https://codepen.io/le-peters/embed/wvzMdoe?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/wvzMdoe" target="_blank" rel="noopener external" data-wpel-link="external">html table</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p><span style="font-weight: 400;">By default, the content placed between </span><b><br />
+</b><span style="font-weight: 400;"> tags is aligned to the left, while headings are centered.</span></p>
+<h2><span style="font-weight: 400;">Caption – The Title of The HTML Table</span></h2>
+<p><span style="font-weight: 400;">You can create a description or title for your table using the </span><b><br />
+</b><span style="font-weight: 400;"> tag—the text will appear above the table. Captions or titles have to be placed after the </span><b></b><span style="font-weight: 400;"> tag, but before the first </span><b></b><span style="font-weight: 400;"> tag.</span></p>
+<p><iframe style="width: 100%;" title="html tables 1" src="https://codepen.io/le-peters/embed/GRjoWdK?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/GRjoWdK" target="_blank" rel="noopener external" data-wpel-link="external">html tables 1</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h2><span style="font-weight: 400;">Table Border – The Border of The Table</span></h2>
+<p><span style="font-weight: 400;">The information about the table’s border is written in the code as the </span><b>border</b><span style="font-weight: 400;"> attribute of the </span><b></b><span style="font-weight: 400;"> tag. If we want to see the border lines, we can use </span><b>border =</b> <b>“1”</b><span style="font-weight: 400;">, </span><b>“2”</b><span style="font-weight: 400;"> etc. depending on how thick we would like the lines to be.</span></p>
+<p><iframe style="width: 100%;" title="html table border" src="https://codepen.io/le-peters/embed/NWRxjJz?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/NWRxjJz" target="_blank" rel="noopener external" data-wpel-link="external">html table border</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h2><span style="font-weight: 400;">Cellpadding, Cellspacing – Spacing of Cells</span></h2>
+<p><span style="font-weight: 400;">A table’s layout doesn’t have to be the default one. We can increase the space between cells, or the space between the content and the border of the cells to make the table easier to read using the </span><b>cellpadding </b><span style="font-weight: 400;">and </span><b>cellspacing </b><span style="font-weight: 400;">attributes. These also need to be placed inside the</span></p>
+<p>tag.</p>
+<p><iframe style="width: 100%;" title="html cellpadding" src="https://codepen.io/le-peters/embed/JjRGJPX?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/JjRGJPX" target="_blank" rel="noopener external" data-wpel-link="external">html cellpadding</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe><br />
+<iframe style="width: 100%;" title="html cellspacing" src="https://codepen.io/le-peters/embed/PoGZjZR?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/PoGZjZR" target="_blank" rel="noopener external" data-wpel-link="external">html cellspacing</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h2></h2>
+<h2><span style="font-weight: 400;">Width and Height – Scaling Tables</span></h2>
+<p><span style="font-weight: 400;">We can also set the width and height of tables using the </span><b>width</b><span style="font-weight: 400;"> and </span><b>height</b><span style="font-weight: 400;"> attributes. The value can be defined in pixels or in percentages relative to the size of the whole screen.</span><span style="font-weight: 400;"> </span></p>
+<p><iframe style="width: 100%;" title="html width" src="https://codepen.io/le-peters/embed/GRjoErx?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/GRjoErx" target="_blank" rel="noopener external" data-wpel-link="external">html width</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe><br />
+<iframe style="width: 100%;" title="html height" src="https://codepen.io/le-peters/embed/bGwERWO?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/bGwERWO" target="_blank" rel="noopener external" data-wpel-link="external">html height</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h2><span style="font-weight: 400;">Colspan and Rowspan – Merging Rows or Columns</span></h2>
+<p><span style="font-weight: 400;">To merge rows or columns, you have to use the </span><b>colspan</b><span style="font-weight: 400;"> (for columns) and </span><b>rowspan</b><span style="font-weight: 400;"> (for rows) attributes inside the </span><b><br />
+</b><span style="font-weight: 400;"> tags, before the actual content of the cells. We can define how many cells we want to merge with the value that comes after that attribute.</span></p>
+<p><iframe style="width: 100%;" title="html colspan" src="https://codepen.io/le-peters/embed/gOwPRxK?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/gOwPRxK" target="_blank" rel="noopener external" data-wpel-link="external">html colspan</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe><br />
+<iframe style="width: 100%;" title="html rowspan" src="https://codepen.io/le-peters/embed/gOwPRoj?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/gOwPRoj" target="_blank" rel="noopener external" data-wpel-link="external">html rowspan</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h2><span style="font-weight: 400;">Color Settings of Tables</span></h2>
+<h3><span style="font-weight: 400;">Bordercolor – The Color of The Table’s Border</span></h3>
+<p><span style="font-weight: 400;">The color of border lines can be set using the bordercolor attribute. We can define the color we want with color names or color codes. You can read more about this in our article titled </span><a href="https://codeberryschool.com/blog/en/html-color-codes/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">HTML color codes</span></a><span style="font-weight: 400;">.</span></p>
+<p><iframe style="width: 100%;" title="html bordercolor" src="https://codepen.io/le-peters/embed/JjRGJvN?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/JjRGJvN" target="_blank" rel="noopener external" data-wpel-link="external">html bordercolor</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<h3><span style="font-weight: 400;">Bgcolor – The Background Color of Tables</span></h3>
+<p><span style="font-weight: 400;">You can define the background color of cells, or even the whole table using the </span><b>bgcolor</b><span style="font-weight: 400;"> attribute. In this case, we also use color codes or color names to define colors.</span></p>
+<p><iframe style="width: 100%;" title="html bgcolor2" src="https://codepen.io/le-peters/embed/vYXLZvr?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/vYXLZvr" target="_blank" rel="noopener external" data-wpel-link="external">html bgcolor2</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe><br />
+<iframe style="width: 100%;" title="html bgcolor1" src="https://codepen.io/le-peters/embed/VwKeWGQ?height=265&amp;theme-id=dark&amp;default-tab=html,result" height="380" frameborder="no" scrolling="no" allowfullscreen="allowfullscreen"><br />
+See the Pen <a href="https://codepen.io/le-peters/pen/VwKeWGQ" target="_blank" rel="noopener external" data-wpel-link="external">html bgcolor1</a> by Le Peters<br />
+(<a href="https://codepen.io/le-peters" target="_blank" rel="noopener external" data-wpel-link="external">@le-peters</a>) on <a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">CodePen</a>.<br />
+</iframe></p>
+<p><span style="font-weight: 400;">We hope you’ve found the information you were looking for to be able to create readable and spectacular tables. We would like to encourage you to click on the editing interface and try different settings. Define new sizes and colors, and change the table in any way you like. Try finding the codes of your favourite colors. This way, you can practice what you’ve read—it will help you strengthen your knowledge and will help you learn how to create tables.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" data-wpel-link="external" target="_blank" rel="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

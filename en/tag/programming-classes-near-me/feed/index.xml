@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programming classes near me | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/programming-classes-near-me/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 04 Mar 2021 20:48:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Things I Wish Someone Had Told Me When I Was Learning How to Code &#8211; And what I’ve learned from teaching others</title>
+		<link>/blog/en/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 10:01:04 +0000</pubDate>
+				<category><![CDATA[Tips and tricks for beginner programmers]]></category>
+		<category><![CDATA[Advices]]></category>
+		<category><![CDATA[Article]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[code berry]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[CodeBerry Programming School]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Good to read]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[programming classes near me]]></category>
+		<category><![CDATA[someone had told]]></category>
+		<category><![CDATA[things wish someone had told]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6554</guid>
+
+					<description><![CDATA[If you need more tricks or advices, check out the following articles too &#8211; in these we are writing about our own experiences and ideas that might can help you to get really good chances at a job interview or earn some more additional skills to improve your programming knowledge! Interview tips that will give [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>If you need more tricks or advices, check out the following articles too &#8211; in these we are writing about our own experiences and ideas that might can help you to get really good chances at a job interview or earn some more additional skills to improve your programming knowledge!</p>
+<ul>
+<li class="entry-title"><a href="https://codeberryschool.com/blog/en/interview-tips-that-will-give-you-confidence-and-help-you-land-a-dev-job/" data-wpel-link="external" target="_blank" rel="external">Interview tips that will give you confidence and help you land a dev job</a></li>
+<li><a href="https://codeberryschool.com/blog/en/category/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of programming</a></li>
+</ul>
+<h3><b>Before you learn to code, think about what you want to code</b></h3>
+<p><span style="font-weight: 400;">Knowing how to code is mostly about building things, and the path is a lot clearer when you have a sense of the end goal. If your goal is “learn to code,” without a clear idea of the kinds of programs you will write and how they will make your life better, you will probably find it a frustrating exercise.</span></p>
+<p><span style="font-weight: 400;">I’m a little ashamed to admit that part of my motivation for studying computer science was that I wanted to prove I was smart, and I wanted to be able to get Smart Person jobs. I also liked thinking about math and theory (</span><a href="http://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">this book</span></a><span style="font-weight: 400;"> blew my mind at an impressionable age) and the program was a good fit. It wasn’t enough to sustain me for long, though, until I found ways to connect technology to the things I really loved, like music and literature.</span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12254 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/08/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/08/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/08/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/08/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;">So, what do you want to code? Websites? Games? iPhone apps? A startup that makes you rich? Interactive art? Do you want to be able to impress your boss or automate a tedious task so you can spend more time looking at otter pictures? Perhaps you simply want to be more employable, add a buzzword to your resume, or fulfill the requirements of your educational program. All of these are worthy goals. Make sure you know which one is yours, and study accordingly.</span></p>
+<h3><b>There’s nothing mystical about it</b></h3>
+<p><span style="font-weight: 400;">Coding is a skill like any other. Like language learning, there’s grammar and vocabulary to acquire. Like math, there are processes to work through specific types of problems. Like all kinds of craftsmanship and art-making, there are techniques and tools and best practices that people have developed over time, specialized to different tasks, that you’re free to use or modify or discard.</span></p>
+<p><a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">This guy</span></a><span style="font-weight: 400;"> (a very smart guy! Whose other writings I enjoy and frequently agree with!) posits that there is a bright line between people with the True Mind of a Programmer and everyone else, who are lacking the intellectual capacity needed to succeed in the field. That bright line consists, according to him, of pointers and recursion (there are primers </span><a href="http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> and </span><a href="http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;"> for the curious).</span></p>
+<p><span style="font-weight: 400;">I learned about pointers and recursion in school, and when I understood them, it was a delightful jolt to my brain — the kind of intellectual pleasure that made me want to study computer science in the first place. But, outside of classroom exercises, the number of times I’ve had to be familiar with either concept to get things done has been relatively small. And when helping others learn, over and over again, I’ve watched people complete interesting and rewarding projects without knowing anything about either one.</span></p>
+<p><span style="font-weight: 400;">There’s no point in being intimidated or wondering if you’re Smart Enough. Sure, the more complex and esoteric your task, the higher the level of mastery you will need to complete it. But this is true in absolutely every other field. Unless you’re planning to make your living entirely by your code, chances are you don’t have to be a recursion-understanding genius to make the thing you want to make.</span></p>
+<h3><b>It never works the first time</b></h3>
+<h4><b>And probably won’t the second or third time</b></h4>
+<p><span style="font-weight: 400;">When you first start learning to code, you’ll very quickly run up against this particular experience: you think you’ve set up everything the way you’re supposed to, you’ve checked and re-checked it, and it still. doesn’t. work. You don’t have a clue where to begin trying to fix it, and the error message (if you’re lucky enough to have one at all) might as well say “fuck you.” You might be tempted to give up at this point, thinking that you’ll never figure it out, that you’re not cut out for this. I had that feeling the first time I tried to write a program in C++, ran it, and got only the words “segmentation fault” for my trouble.</span></p>
+<p><span style="font-weight: 400;">But this experience is so common for programmers of all skill levels that it says absolutely nothing about your intelligence, tech-savviness, or suitability for the coding life. It will happen to you as a beginner, but it will also happen to you as an experienced programmer. The main difference will be in how you respond to it.</span></p>
+<p><span style="font-weight: 400;">I’ve found that a big difference between new coders and experienced coders is faith: faith that things are going wrong for a logical and discoverable reason, faith that problems are fixable, faith that there is a way to accomplish the goal. The path from “not working” to “working” might not be obvious, but with patience you can usually find it.</span></p>
+<h3><b>Someone will always tell you you’re doing it wrong</b></h3>
+<p><a href="http://theprofoundprogrammer.com/page/17" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Braces should go on the next line</span></a><span style="font-weight: 400;">. </span><a href="http://programmers.stackexchange.com/a/2782" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Braces should go on the same line</span></a><span style="font-weight: 400;">. </span><a href="http://derkarl.org/why_to_tabs.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Use tabs to indent</span></a><span style="font-weight: 400;">. </span><a href="http://www.emacswiki.org/emacs/TabsAreEvil" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">But tabs are evil</span></a><span style="font-weight: 400;">. You should </span><a href="http://mysqlstoredprocedure.com/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=40" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">use stored procedures</span></a><span style="font-weight: 400;">, but actually </span><a href="http://www.tonymarston.co.uk/php-mysql/stored-procedures-are-evil.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">you shouldn’t use them</span></a><span style="font-weight: 400;">. You should </span><a href="http://www.lanoie.net/classes/DHTML/programming/lectures/lecture.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">always comment your code</span></a><span style="font-weight: 400;">. But </span><a href="http://visualstudiomagazine.com/articles/2013/06/01/roc-rocks.aspx" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">good code doesn’t need comments</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">There are almost always many different approaches to a particular problem, with no single “right way.” A lot of programmers get very good at advocating for their preferred way, but that doesn’t mean it’s the One True Path. Going head-to-head with people telling me I was Wrong, and trying to figure out if they were right, was one of the more stressful aspects of my early career.</span></p>
+<p><span style="font-weight: 400;">If you’re coding in a team with other people, someone will almost certainly take issue with something that you’re doing. Sometimes they’ll be absolutely correct, and it’s always worth investigating to see whether you are, in fact, Doing It Wrong. But sometimes they will be full of shit or re-enacting an ancient and meaningless dispute where it would be best to just follow a style guide and forget about it.</span></p>
+<p><span style="font-weight: 400;">On the other hand, if you’re the kind of person who enjoys ancient but meaningless disputes (grammar nerds, I’m looking at you), you’ve come to the right place.</span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><b>Someone will always tell you you’re not a real coder</b></h3>
+<p><a href="http://www.cs.tut.fi/~jkorpela/prog.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">HTML isn’t real coding</span></a><span style="font-weight: 400;">. </span><a href="http://the-shaolin.blogspot.ca/2007/12/why-vi-only-true-programmers-editor.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">If you don’t use vi, you’re not really serious</span></a><span style="font-weight: 400;">. </span><a href="http://www.ericsink.com/entries/c_morse_code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Real programmers know C</span></a><span style="font-weight: 400;">. </span><a href="http://www.zazzle.ca/real_coders_dont_do_windows_tees-235789605999466863" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Real coders don’t do Windows.</span></a> <a href="http://www.codinghorror.com/blog/2006/07/separating-programming-sheep-from-non-programming-goats.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Some people will never be able to learn it</span></a><span style="font-weight: 400;">. </span><a href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">You shouldn’t learn to code</span></a><span style="font-weight: 400;">. </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">You’re not a computer programmer (but I am)</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">“Coding” means a lot of different things to a lot of different people, and it looks different now from how it used to. And, funnily enough, the tools and packages and frameworks that make it faster and easier for newcomers or even trained developers to build things are most likely to be tarred with the “not for REAL coders” brush. (See: “</span><a href="http://blog.enfranchisedmind.com/2009/04/return-of-the-real-programmer/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Return of the Real Programmer</span></a><span style="font-weight: 400;">”)</span></p>
+<p><span style="font-weight: 400;">Behind all this is the fear that </span><a href="http://fullcomment.nationalpost.com/2013/08/21/chase-felker-youre-not-a-computer-programmer-and-thats-ok/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">if “anyone” can call themselves a programmer, the title will become meaningless</span></a><span style="font-weight: 400;">. But I think that this gatekeeping is destructive.</span></p>
+<p><span style="font-weight: 400;">Use the tools that make it easiest to build the things you want to build. If that means your game was made in Stencyl or GameMaker rather than written from scratch, that’s fine. If your first foray into coding is HTML or Excel macros, that’s fine. Work with something you feel you can stick with.</span></p>
+<p><span style="font-weight: 400;">As you get more comfortable, you’ll naturally start to find those tools limiting rather than helpful and look for more powerful ones. But most of the time, few people will ever even look at your code or even ask what you used — It’s what you make with it that counts.</span></p>
+<h3><b>Worrying about “geek cred” will slowly kill you</b></h3>
+<p><span style="font-weight: 400;">See above. I used to worry a lot, especially in school, about whether I was identifying myself as “not a real geek” (and therefore less worthy of inclusion in tech communities) through my clothing, my presentation, my choice of reading material and even my software customization choices. It was a terrible waste of energy and I became a lot more functional after I made the decision to let it all go.</span></p>
+<p><span style="font-weight: 400;">You need to internalize this: your ability to get good at coding has </span><i><span style="font-weight: 400;">nothing</span></i><span style="font-weight: 400;"> to do with how well you fit into the various geek subcultures. This goes double if you know deep down that you’ll never quite fit. The energy you spend proving yourself should be going into making things instead. And, if you’re an indisputable geek with cred leaking from your eye sockets, keep this in mind for when you’re evaluating someone else’s cred level. It may not mean what you think it does.</span></p>
+<p><img loading="lazy" class="aligncenter wp-image-7777 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2018/11/business-3560932_1920-3.jpg" alt="With a few advice i'ts always easier to learn, how to code" width="1920" height="1280" srcset="/blog/wp-content/uploads/2018/11/business-3560932_1920-3.jpg 1920w, /blog/wp-content/uploads/2018/11/business-3560932_1920-3-300x200.jpg 300w, /blog/wp-content/uploads/2018/11/business-3560932_1920-3-1024x683.jpg 1024w, /blog/wp-content/uploads/2018/11/business-3560932_1920-3-768x512.jpg 768w, /blog/wp-content/uploads/2018/11/business-3560932_1920-3-1536x1024.jpg 1536w, /blog/wp-content/uploads/2018/11/business-3560932_1920-3-1080x720.jpg 1080w" sizes="(max-width: 1920px) 100vw, 1920px" /></p>
+<h3><b>Sticking with it is more important than the method</b></h3>
+<p><span style="font-weight: 400;">There’s no shortage of articles about the “right” or “best” way to learn how to code, and there are lots of potential approaches. You can learn the concepts </span><a href="http://pine.fm/LearnToProgram/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">from a book</span></a><span style="font-weight: 400;"> or by </span><a href="http://www.codecademy.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">completing interactive exercises</span></a><span style="font-weight: 400;"> or by </span><a href="http://learnpythonthehardway.org/book/intro.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">debugging things that others have written</span></a><span style="font-weight: 400;">. And, of course, there are lots of languages you might choose as your first to learn, with advocates for each.</span></p>
+<p><span style="font-weight: 400;">A common complaint with “teach yourself to code” programs and workshops is that you’ll breeze happily through the beginner material and then hit a steep curve where things get more difficult very quickly. You know how to print some lines of text on a page but have no idea where to start working on a “real,” useful project. You might feel like you were just following directions without really understanding and blame the learning materials.</span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12255 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/08/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/08/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/08/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/08/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><span style="font-weight: 400;">When you get to this stage, most of the tutorials and online resources available to you are much less useful because they assume you’re already an experienced and comfortable programmer. The difficulty is further compounded by the fact that “you don’t know what you don’t know.” Even trying to figure out what to learn next is a puzzle in itself.</span></p>
+<p><span style="font-weight: 400;">You’ll hit this wall no matter what “learn to code” program you follow, and the only way to get past it is to persevere. This means you keep trying new things, learning more information, and figuring out, piece by piece, how to build your project. You’re a lot more likely to find success in the end if you have a clear idea of why you’re learning to code in the first place.</span></p>
+<p><span style="font-weight: 400;">If you keep putting bricks on top of each other, it might take a long time but eventually, you’ll have a wall. This is where that faith I mentioned earlier comes in handy. If you believe that with time and patience you can figure the whole coding thing out, in time you almost certainly will. </span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;"><br />
+</span><span style="font-weight: 400;">You can find the original English article <a href="https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank" rel="noopener external" data-wpel-link="external">here</a>.</span></p>
+<ul>
+<li>If you need more tricks or advice, check out the following articles too – in these, we are writing about our own experiences and ideas that might help you to get really good chances at a job interview or earn some more additional skills to improve your programming knowledge!
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/interview-tips-that-will-give-you-confidence-and-help-you-land-a-dev-job/" data-wpel-link="external" target="_blank" rel="external">Interview tips that will give you confidence and help you land a dev job</a></li>
+<li class="entry-title"><strong>Things I Wish Someone Had Told Me When I Was Learning How to Code</strong></li>
+<li><a href="https://codeberryschool.com/blog/en/category/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of programming</a></li>
+<li><a href="https://codeberryschool.com/blog/en/basics-of-seo-beginner/" data-wpel-link="external" target="_blank" rel="external">SEO Basics &#8211; The structure of a healthy website</a></li>
+<li><a href="https://codeberryschool.com/blog/en/software-developer-software-engineer/" data-wpel-link="external" target="_blank" rel="external">Is there a difference between programmer and developer?</a></li>
+</ul>
+</li>
+</ul>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>A Brief Introduction to Programming</title>
+		<link>/blog/en/a-brief-introduction-to-programming/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2018 10:09:00 +0000</pubDate>
+				<category><![CDATA[Basics of Programming]]></category>
+		<category><![CDATA[brief introduction]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry pareri]]></category>
+		<category><![CDATA[CodeBerry Programming School]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[codeberry school pareri]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[computer]]></category>
+		<category><![CDATA[computer programmer pros and cons]]></category>
+		<category><![CDATA[computer programming school]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[introduction]]></category>
+		<category><![CDATA[introduction to programming]]></category>
+		<category><![CDATA[introduction to programming language]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[programmer]]></category>
+		<category><![CDATA[programming]]></category>
+		<category><![CDATA[programming classes near me]]></category>
+		<category><![CDATA[programming do you speak it]]></category>
+		<category><![CDATA[programming jobs work from home]]></category>
+		<category><![CDATA[very brief introduction]]></category>
+		<category><![CDATA[websites]]></category>
+		<category><![CDATA[what language do computers speak]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6208</guid>
+
+					<description><![CDATA[In CodeBerry Programming School’s “Basics of Programming” series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding! Would you like to learn how to code, online? Come and try our [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of Programming</a></li>
+<li><strong>A Brief Introduction to Programming</strong></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How to learn to code?</a></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<h3><b>What is programming?</b></h3>
+<p><span style="font-weight: 400;">Suppose that you work for a multinational company and you have an upcoming meeting with a businessman from China. Your native language is [insert local language] and you don’t speak a word of Chinese. However, you remember that your second language is English and that the Chinese businessman speaks English as well. You then begin to use English as a common language to negotiate and communicate with each other. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12017 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><b>What language do computers speak?</b></h3>
+<p><span style="font-weight: 400;">A computer’s native language is binary: an incredibly long list of 1’s and 0’s. </span><span style="font-weight: 400;">Binary</span><span style="font-weight: 400;"> isn’t very easy for people to read or write, so we came up with programming languages to talk with computers, instead. Since computers don’t know human languages, we have to meet in the middle somewhere. </span></p>
+<p><span style="font-weight: 400;">However, unlike humans, computers aren’t able to pick up on indirect communication and always take things very literally. If you tell them something, they will do it exactly as they are told. Computers aren’t smart enough to make decisions on their own and won’t understand information that isn’t spelt out for them. For this reason, you need to make sure that you’re giving them exact instructions. </span></p>
+<p><span style="font-weight: 400;">For example, if I told you to make a</span><span style="font-weight: 400;"> sandwich</span><span style="font-weight: 400;">, you might ask me what ingredients I want on that sandwich and if I want it toasted or not. To you, that might be all you need to know to make me a delicious sandwich. However, there are many small decisions and previous knowledge involved in making a sandwich. </span></p>
+<p><span style="font-weight: 400;">If you simply tell a computer that you want a toasted ham and cheese sandwich with rye bread and mayonnaise, you might get something very different from what you ordered. A human would know that the mayonnaise goes on the slices of bread first, the ham and cheese are added second, then the sandwich is placed in the oven to be toasted. </span></p>
+<h3><b>But, how is a computer supposed to know all</b> that?</h3>
+<p><span style="font-weight: 400;">Remember that we told the computer that we want, “a toasted ham and cheese sandwich with rye bread and mayonnaise.” To a computer, it might be logical to do all of those things in order. It would toast the ham and cheese by themselves, put two slices of rye bread on top, and then spread mayonnaise on the bread. </span></p>
+<h3>Aren’t computers supposed to be smarter than that?</h3>
+<p><span style="font-weight: 400;">Well, because the computer takes things</span><span style="font-weight: 400;"> literally</span><span style="font-weight: 400;">, you have to specify the order of each step and the placement of each ingredient. Everyone knows that the ingredients go between the pieces of bread, but a computer has no previous knowledge of what a sandwich is like—it’s just following your direct instructions. </span></p>
+<p><span style="font-weight: 400;">This is another reason why we can’t communicate with computers using human languages, just yet. Our languages are simply too ambiguous and too vague for a computer to understand properly. Also, if a word or a sentence might have a double meaning, a computer wouldn’t know how to interpret it. It needs everything spelt out for it. </span></p>
+<p><span style="font-weight: 400;">The truth is that computers aren’t smart at all; they just happen to process information faster than us. </span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-6210" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/code.2-1.jpg" alt="" width="5472" height="3648" /></p>
+<h3>What is a programmer and what do they do?</h3>
+<p><span style="font-weight: 400;">Remember, you can’t just tell the computer in English what you want. You’ll need a computer programmer to translate for you. </span><span style="font-weight: 400;">A computer programmer</span><span style="font-weight: 400;"> is a person who communicates your ideas and </span><span style="font-weight: 400;">instructions</span><span style="font-weight: 400;"> to a computer, making websites, games, and other programs appear on the screen. </span></p>
+<p><span style="font-weight: 400;">A programmer could also be defined as a polyglot (one who knows many languages) that specializes in talking to computers. They know exactly what to say and how to say it so that the computer will understand them. If you’ve ever learned another language, you know that each language comes with its own vocabulary, grammar, and set of rules. Computer languages also come with their own way of saying things, called syntax. </span></p>
+<p><span style="font-weight: 400;">While a person might understand you if you </span><span style="font-weight: 400;">mispronounce</span><span style="font-weight: 400;"> a word, use the wrong conjugation, or mess up your grammar, a computer is a lot less forgiving with mistakes. As soon as you make a syntax error, the computer will stop listening to you and quit running the program. </span></p>
+<p><span style="font-weight: 400;">How rude. </span></p>
+<h3>What are you able to accomplish with coding skills?</h3>
+<p><span style="font-weight: 400;">If you’ve ever used a computer, watched videos online, or played video games, it might be hard to believe that all of that comes from just a series of letters and symbols. The ability to process thousands of lines of code per second is the strength of a computer and allows it to follow highly complex instructions and accomplish incredible tasks.</span></p>
+<p><span style="font-weight: 400;">Let’s take a look at some of the cool things you can do with code:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create &amp; Design Websites</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Build Mobile Apps</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop Desktop Programs</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Develop Video Games</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create &amp; Maintain Databases</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Automate Tasks</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Solve Complex Problems</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Create Artificial Intelligence</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Perform Statistical Analysis</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">And much more&#8230;</span></li>
+</ul>
+<p><span style="font-weight: 400;">If you’re interested in any of these activities and would like to do them for a living, learning to program is definitely an important skill to have. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>What makes coding useful and what is it good for?</h3>
+<p><span style="font-weight: 400;">As we rely more and more on computers in our daily lives, the importance of computer programming and coding continues to grow as well. </span></p>
+<p><span style="font-weight: 400;">In the coming years, nearly all fields will involve computer programming and learning to code will give you an edge in your future career. For example, you can use programming skills in the areas of writing, analysis, management, engineering, software development, and so much more. </span></p>
+<p><span style="font-weight: 400;">Advocates of programming see learning to code as a universal skill that everyone should have, such as the ability to read and write or perform simple mathematical equations. Many governments around the world believe this as well and have proposed initiatives to teach coding to kids alongside core curriculum in schools. </span></p>
+<p><span style="font-weight: 400;">Just like us, they see coding as the key to staying competitive in a global marketplace. </span></p>
+<h3>I already know it’s useful, but what is programming actually like?</h3>
+<p><span style="font-weight: 400;">The average day in the life of a programmer isn’t as glamorous as it might appear in movies or on television shows. </span></p>
+<p><span style="font-weight: 400;">Being a programmer requires a lot of concentration, patience, and a self-driven attitude. If you aren’t able to sit down and focus for hours at a time, you might want to reconsider pursuing a career in computer programming. </span></p>
+<p><span style="font-weight: 400;">Some programming jobs may require you to work on an irregular schedule and be available to fix bugs and solve problems immediately as they appear. Others may have you work from nine to five o’clock, just like a regular job. </span></p>
+<p><span style="font-weight: 400;">However, working as a computer programmer might give you more freedom than your current job allows. A good number of programming jobs are remote, meaning that you can code while at home, at a café, or while you get a tan at the beach—given that the wifi signal reaches that far. </span></p>
+<h3>Is programming really right for me?</h3>
+<p><span style="font-weight: 400;">This is where the rubber meets the road and where you’ll have to seriously weigh the computer programmer pros and cons. Perhaps, you’ve had an unrealistic idea of what programming is like and haven’t considered that coding is just like any other job out there—it’s still hard work. However, if you meet the following criteria, chances are that you’ll love every second of it. </span></p>
+<p><span style="font-weight: 400;">Signs that Programming Isn’t Right for You:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are only motivated by money and aren’t interested in computers at all</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You don’t like to sit down for long periods of time</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Your eyes glaze over when you look at a page of code</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are relatively slow at typing and often make many typos</span></li>
+</ul>
+<p><span style="font-weight: 400;">Signs that Programming IS Right For You:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You describe yourself as both analytical AND creative</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have high attention to detail</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You are comfortable working with others and working alone</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You have a good basis for understanding written English</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You love problem-solving</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You love to always learn new things</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You adapt well to change</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">You like to organize information and automate processes</span></li>
+</ul>
+<h3>What programming languages do I choose and where do I start?</h3>
+<p><span style="font-weight: 400;">Let’s go back to the example of our meeting with the Chinese businessman.</span></p>
+<p><span style="font-weight: 400;">Although English may be useful in a business setting, you might find that you need to learn other languages for different fields. For example, you might want to know French for diplomacy, Greek for philosophy, and German in the field of engineering. Depending on what field you work in, you will choose a specific language to meet your needs.</span></p>
+<p><span style="font-weight: 400;">You won’t have the time or ability to learn every programming language out there, so you’ll need to be strategic about what languages you will learn. First, you need to determine what your focus is and what languages you need to know to accomplish your personal goals. </span></p>
+<p><span style="font-weight: 400;">While technically not programming languages, HTML and CSS are great languages to start with to begin learning the fundamentals of how programming works. HTML and CSS are “text markup languages” which are actually languages that we use to format and organize the text. Without HTML or CSS, your browser wouldn’t know if these words I’m writing are a headline, a paragraph, or a footer. It also wouldn’t know if these words should be bolded, italicized, etc. </span></p>
+<p><span style="font-weight: 400;">Even as I write this article, I am using HTML and CSS to help you and your internet browser understand what I have to say. </span></p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12019 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/03/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3>TL;DR (Too Long; Didn’t Read)</h3>
+<p><span style="font-weight: 400;">In summary, programming is a high-paying career that requires patience, dedication, and extremely high attention to detail. </span></p>
+<p><span style="font-weight: 400;">If you hate sitting down at a computer and aren’t willing to put in the time to practice, you’ll likely hate programming and give up rather quickly. You also won’t do well if you are motivated by the paycheck and have no interest in the job itself. </span></p>
+<p><span style="font-weight: 400;">However, if you love learning new things, are self-motivated, and have a can-do attitude, you’ll succeed—regardless of your educational background.</span></p>
+<p><b>In CodeBerry Programming School’s “Basics of Programming” </b><span style="font-weight: 400;">series, we discuss programming-related topics and everything you need to know to get started. Stay tuned for new articles and find the answer to every “what”, “why”, and “how”, you may have had about coding!</span></p>
+<h3>Basics of Programming</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/basics-of-programming/" data-wpel-link="external" target="_blank" rel="external">Basics of Programming</a></li>
+<li><strong>A Brief Introduction to Programming</strong></li>
+<li><a href="https://codeberryschool.com/blog/why-you-should-learn-programming/" data-wpel-link="external" target="_blank" rel="external">Why You Should Learn Programming</a></li>
+<li><a href="https://codeberryschool.com/blog/how-much-can-you-make-as-a-programmer/" data-wpel-link="external" target="_blank" rel="external">How much can you make as a programmer?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How to learn to code?</a></li>
+<li><a href="https://codeberryschool.com/blog/which-programming-language-is-right-for-you/" data-wpel-link="external" target="_blank" rel="external">Which programming language is good for you?</a></li>
+<li><a href="https://codeberryschool.com/blog/how-long-it-takes-to-learn-to-code/" data-wpel-link="external" target="_blank" rel="external">How Long It Takes to Learn to Code</a></li>
+<li><a href="https://codeberryschool.com/blog/en/choosing-beginner-programming-course/" data-wpel-link="external" target="_blank" rel="external">How to find the right beginner programming course for you?</a></li>
+</ul>
+<p><span style="font-weight: 400;">Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>I&#8217;m Adam Freisinger, the founder of CodeBerry, and this is how I work</title>
+		<link>/blog/en/adam-freisinger-founder-of-codeberry/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sat, 10 Sep 2016 08:31:11 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Meet the CodeBerry team]]></category>
+		<category><![CDATA[Adam Freisinger]]></category>
+		<category><![CDATA[BASIC]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[code berry]]></category>
+		<category><![CDATA[code founder]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[coding school]]></category>
+		<category><![CDATA[founder]]></category>
+		<category><![CDATA[how to learn to code]]></category>
+		<category><![CDATA[Hungary]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Learn to code]]></category>
+		<category><![CDATA[online learning]]></category>
+		<category><![CDATA[programming classes near me]]></category>
+		<category><![CDATA[programming online]]></category>
+		<category><![CDATA[web developer]]></category>
+		<category><![CDATA[web developing]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=5215</guid>
+
+					<description><![CDATA[Adam Freisinger finished his studies as a Pharmacist and Health Care Manager, but ended up working as a web developer. Since then he has founded two IT companies. One of them being CodeBerry, a programming school that teaches web development online in english. Tune in to read more about adventure games written in BASIC, winding [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Adam Freisinger</strong> finished his studies as a Pharmacist and Health Care Manager, but ended up working as a web developer. Since then he has founded two IT companies. One of them being <a href="https://codeberryschool.com/" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a>, a programming school that teaches web development online in english.</p>
+<p>Tune in to read more about adventure games written in BASIC, winding copper wires for RAM cores and artificial intelligence. Along with that, we&#8217;ll also discuss the entrepreneur lifestyle of Adam Freisinger.</p>
+<blockquote>
+<p><strong>I live in: </strong>Budapest, Hungary.</p>
+<p><strong>I work:</strong> wherever my laptop is / CodeBerry programming school</p>
+<p><strong>I work with:</strong> my iPhone, MacBook Air and Sublime Text.</p>
+<p>I have an efficient work style.</p>
+</blockquote>
+<p><strong>What do you do for a living?</strong></p>
+<p>I help people learn to code.</p>
+<p><strong>Tell me more about what you do regarding programming?</strong></p>
+<p>I improve <a href="https://codeberryschool.com/en/" data-wpel-link="external" target="_blank" rel="external">lesson content</a> for Codeberry, so they are easier to teach and more comprehensible. This involves less coding and more creative thinking.<br />
+In my free time, I fiddle with my hobby projects, that are normally tools for things I’m interested in. Recently I built the following three things:</p>
+<ul>
+<li>A social playlist for Spotify,</li>
+<li>A Chrome extension, that quotes famous books on a new tab,</li>
+<li>Software that allows me to organize my projects as well as my CodeBerry goals.</li>
+</ul>
+<p><strong>How does your workspace look like?</strong></p>
+<p>I feel best in a minimalistic environment, so my desk only contains things I use:</p>
+<p><img loading="lazy" class="aligncenter wp-image-5810 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/09/Adam_Freisinger_pic1-2.jpeg" alt="That’s the place where the lessons of Codeberry are made" width="800" height="600" /></p>
+<p style="text-align: center;">My workstation (Credit: Adam Freisinger)</p>
+<p><strong>When, where and how did you learn to code?</strong></p>
+<p>I got a computer when I was in elementary school and my parents thought I needed to know how to use it. So, every week a friend would come over and teach me the fundamentals. I really enjoyed writing my first run-around adventure game in BASIC.</p>
+<p>I continued with things I found interesting, like writing a <a href="https://sourceforge.net/projects/dcplusplus/" target="_blank" rel="noopener external" data-wpel-link="external">DC++</a> chatbot or building a website for my father. When they published the new version of Meteor framework I couldn&#8217;t resist building a web application with it.</p>
+<p>Most of my knowledge comes from searching the internet. I would browse a larger topic, then dig deeper into puzzling details.</p>
+<p><strong>What are the job opportunities for web developers? On average, how much time did you spend looking for a job?</strong></p>
+<p>Due to the fact that I graduated as a Pharmacist and Health Care Manager, I never looked for jobs in programming. I took on some small tasks that found me and lead to bigger tasks. Now, I&#8217;m working in my own company taking on several roles, whatever&#8217;s needed.</p>
+<p>Seeing that people regularly contact me on <a href="http://linkedin.com/" target="_blank" rel="noopener external" data-wpel-link="external">LinkedIn</a> and <a href="http://upwork.com/" target="_blank" rel="noopener external" data-wpel-link="external">Upwork</a>, even with very little information available, this is a demanding job.</p>
+<p><strong>What is your schedule like?</strong></p>
+<p>I like to get up early because it&#8217;s still quiet both inside and out. I plan my day, drink some fruit juice and start working after breakfast. I also go over special events that happened on the previous day.</p>
+<p>During a business week, the first one and a half days are dedicated to strategy and Friday is for reviews. Between the two I have time to work without distractions.</p>
+<p>I like reviewing my personal life too, my partner and I write down each week things we enjoyed and others that need changing.</p>
+<p>Twice a week I try to meet somebody for lunch that I haven&#8217;t seen for a while.</p>
+<p>My weeks, months and years are similar to my days. I like to plan at the beginning of each period and look back at the end to attempt to learn from it. Every month, I collect the photos I have taken from the previous month. I also complete the <a href="http://www.yearcompass.com/" target="_blank" rel="noopener external" data-wpel-link="external">YearCompass</a> every year.</p>
+<p><strong>Is there something you know that would surprise everyday people?</strong></p>
+<p>Programming is not magic. It mostly involves internet research. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Who do you work with?</strong></p>
+<p>I work with my friends that I have worked with for eight years on projects like Codeberry.</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12254 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/08/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/08/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/08/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/08/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>What are the typical career paths in your profession?</strong></p>
+<p>As a Pharmacist, I could have walked a well-defined life path, but I left that certainty behind. Right now, my task is to do things within the company that requires me to reach beyond the limits of what is known.</p>
+<p>This gives me the opportunity to constantly learn something new and improve myself. I don&#8217;t have a certain path before me now and it makes me feel like I can become anything I want.</p>
+<p><strong>What are your plans, how do you wish to continue?</strong></p>
+<p>The expression &#8220;jack of all trades, master of none&#8221; describes my path best. I would like to experience as many things as I can and learn a little about each of them. I am much like a duck wanting to both fly and swim, however, not mastering either of them.</p>
+<p>I hope to find a winding path between &#8220;some trades&#8221; and &#8220;all trades.&#8221;</p>
+<p><strong>What other profession would you choose if you had to change? Could you change?</strong></p>
+<p>I wouldn’t want to change.</p>
+<p><strong>What skills do great developers, IT experts require? Who do you not recommend this profession to?</strong></p>
+<p>There are a few skills that don’t hurt:</p>
+<ul>
+<li>Strong analytical thinking,</li>
+<li>An experimenting spirit,</li>
+<li>Attention to details.</li>
+</ul>
+<p><strong>What’s your favourite part?</strong></p>
+<p>I enjoy seeing fast results. I can change the world by simply editing a code. I would probably be a terrible nuclear power plant designer, who plans something with all their heart then, if lucky, sees the steps of their design begin several years later.</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12018 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>What grinds your gears most? What are the difficulties and dangers of your profession?</strong></p>
+<p>You no longer need to know how to build RAM modules to browse websites. Similarly, there are plenty of pre-written programs that stop you from seeing things further.</p>
+<p>It makes me mad when I have to rewrite a login module, instead of taking advantage of pre-defined elements. There are too many different solutions for the same problem, we&#8217;re being inefficient this way.</p>
+<p><strong>How stable is your job? How much time does one spend working for the same company?</strong></p>
+<p>Right now, I’m pretty sure I would find a job.<br />
+I feel lucky because I can afford to work somewhere as long as I can focus on my tasks, improve and learn new things. If this changed, I would want to quit.</p>
+<p><strong>If you had to ask for one thing in the name of all developers, what would it be?</strong></p>
+<p>Please don’t write the same code twice. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>How much can one earn in this profession (as a newbie, experienced and veteran)?</strong></p>
+<p>Thanks to the years spent saving some money, I now have the opportunity to work for my own business. I hope we can afford some paychecks soon, as now only my enthusiasm pushes me forward.</p>
+<p><a href="https://codeberryschool.com/en/all-access-self-paced" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12255 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/08/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/08/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/08/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/08/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>What do you think is the best way to learn to code?</strong></p>
+<p>One answer doesn’t fit all, everyone has to learn the way they can do best. For me, it’s easiest via real projects. Whenever I’m stuck I just seek help.</p>
+<p><strong>What makes code worth learning?</strong></p>
+<p>Firstly, programming is like a foreign language; it helps understand other cultures and change your entire life if you want it to. Secondly, it’s a profession that surely won’t disappear in the next decades (or until artificial intelligence takes over).</p>
+<p><strong>In the “<a href="https://codeberryschool.com/blog/en/category/meet-the-codeberry-team/" data-wpel-link="external" target="_blank" rel="external">Meet the Codeberry team</a>” article series</strong> you will find interviews with our co-founders and collegues, as they are talking about what it’s like to be an IT specialist nowadays.</p>
+<p><strong><em>Would you like to learn how to code? Come and <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">try our first lessons for free at the CodeBerry Programming School.</a></em></strong></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

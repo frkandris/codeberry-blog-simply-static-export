@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Node/Bower | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/node-bower-ro/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 05 Mar 2021 12:04:37 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>De la brutar la programator front-end – Povestea lui János Farkas</title>
+		<link>/blog/ro/devenind-programator-frontend-dintr-o-brutarie-povestea-lui-janos-farkas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 28 Apr 2017 08:10:44 +0000</pubDate>
+				<category><![CDATA[Interviuri]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[brutaria cu povesti]]></category>
+		<category><![CDATA[brutărie]]></category>
+		<category><![CDATA[ce este un programator]]></category>
+		<category><![CDATA[ce face un programator]]></category>
+		<category><![CDATA[ce face un programator it]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[cum inveti programare]]></category>
+		<category><![CDATA[devenind]]></category>
+		<category><![CDATA[dintr-o]]></category>
+		<category><![CDATA[Farkas János]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[János Farkas]]></category>
+		<category><![CDATA[Javascript/jQuery]]></category>
+		<category><![CDATA[Node/Bower]]></category>
+		<category><![CDATA[Pécs]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[povestea lui o]]></category>
+		<category><![CDATA[programare php pas cu pas]]></category>
+		<category><![CDATA[programare software personalizat]]></category>
+		<category><![CDATA[programator]]></category>
+		<category><![CDATA[programator it]]></category>
+		<category><![CDATA[programator junior]]></category>
+		<category><![CDATA[programatori de mici]]></category>
+		<category><![CDATA[programotor ami]]></category>
+		<category><![CDATA[proiect brutarie]]></category>
+		<category><![CDATA[SCSS/LESS]]></category>
+		<category><![CDATA[Ungaria]]></category>
+		<category><![CDATA[Y-collective]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=5210</guid>
+
+					<description><![CDATA[János Farkas este un tehnician în construcții, un artist de grafică aplicată și brutar de profesie. Lucrează ca programator junior front-end la Y-collective (o companie maghiară) din ianuarie. În acest episod din „Poveștile studenților”, permiteți-ne să urmărim călătoria unui fost student al Școlii de Programare CodeBerry. Locuiesc aici: Pécs, Ungaria Lucrez aici: Y-collective Am studiat [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>János Farkas</strong> este un tehnician în construcții, un artist de grafică aplicată și brutar de profesie.<br />
+Lucrează ca programator junior front-end la Y-collective (o companie maghiară) din ianuarie.<br />
+În acest episod din „Poveștile studenților”, permiteți-ne să urmărim călătoria unui fost student al Școlii de Programare CodeBerry.</p>
+<blockquote>
+<p><strong>Locuiesc aici</strong>: Pécs, Ungaria</p>
+<p><strong>Lucrez aici</strong>: Y-collective</p>
+<p><strong>Am studiat la CodeBerry timp de</strong>: 2 luni</p>
+<p><strong>Folosesc</strong>: PHPStorm, Stack Overflow, CSS-tricks, W3Schools</p>
+</blockquote>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12338" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>Când te întreabă cineva despre profesia ta, ce îi răspunzi?</strong></p>
+<p>Mai întâi spun că sunt un programator, iar de obicei lumea înțelege asta.<br />
+În majoritatea situațiilor oamenii sunt interesați când le spun care este profesia mea. Așa că le dau mai multe detalii, explicând că pregătesc interfața grafică a paginilor web vizibile utilizatorilor.<br />
+Uneori, lucrez și la scripting-ul pentru server&#8230;</p>
+<p><strong>Cum ți-ai câștigat existența înainte de a trece la programarea web?</strong></p>
+<p>Este prima dată când lucrez ca dezvoltator de site-uri web, dar am început să mă familiarizez cu acest domeniu mult mai devreme.<br />
+Am fost interesat de acest domeniu în ultimii 10 ani, dar am început să îl iau în serios doar începând cu anul trecut.<br />
+Până acum, am creat doar câteva site-uri mici (și le-aș crea în feluri diferite acum <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ).<br />
+În ceea ce privește joburile mele anterioare, am lucrat în domeniul comercial în ultimii 10 ani.<br />
+Ca manager al unui departament de brutărie dintr-un magazin de 7000 de metri pătrați, sarcina mea era să urmăresc producția, procurarea, programele și altele asemenea.<br />
+Așadar, a fost o schimbare destul de mare pentru mine.</p>
+<p><strong>De ce ai hotărât să înveți programarea web?</strong></p>
+<p>Am fost întotdeauna fascinat de partea software a științei calculatoarelor.<br />
+În fiecare an, internetul și tehnologiile web joacă un rol din ce în ce mai mare în viața noastră de zi cu zi.<br />
+Acest lucru duce la nevoia de programatori din ce în ce mai profesioniști. Aș dori să îmi încerc norocul. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12216" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-2.png" alt="Învață programare web la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>Te rog să ne spui mai multe despre ce faci acum, de ce sarcini te ocupi? Ce faci într-o zi sau săptămână obișnuită?</strong></p>
+<p>Lucrez ca proiectant de site-uri la Y-collective. Biroul nostru se află în centrul orașului Pécs.<br />
+La începutul săptămânii se ține o ședință de gestionare a proiectului, în care se stabilesc și se atribuie sarcinile. Așadar e destul clar ceea ce va face fiecare în timpul săptămânii și poate săptămâna următoare.<br />
+Avem o mulțime de proiecte, așadar avem o varietate destul de mare de sarcini.<br />
+Și se poate întâmpla ca o chestiune urgentă sau un bug să apară pe moment.<br />
+Zilele mele încep de obicei la 6 dimineața cu o cafea.<br />
+În timp ce o beau, mă uit peste știri sau citesc despre ceva cu care m-am confruntat în ziua precedentă.<br />
+În general, mă duc la serviciu cu bicicleta. Orele de lucru oficiale sunt de la opt dimineața până la patru după-amiaza, iar uneori mai stau o jumătate de oră sau o oră în plus.<br />
+Pe lângă programare, noi mai implementăm schimbări, rezolvări de bug-uri, importăm module existente la alte proiecte, sarcini administrative, modificări de baze de date și altele.<br />
+Recent am început să ne concentrăm mai mult pe dezvoltări WordPress unicate.<br />
+Uneori este nevoie de puțină cercetare sau de schimbarea unui plugin, așa că nu este plictisitor.<br />
+Folosesc zilnic PHP, HTML, CSS, SCSS/LESS, JavaScript/jQuery, Node/Bower, Bootstrap și git.<br />
+Se desfășoară training-uri interne o dată sau de două ori pe săptămână și ședințe despre unele subiecte.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="size-full wp-image-5803 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2017/04/Janos_Farkas_pic1-2.jpeg" alt="" width="800" height="543" /></p>
+<p><strong>Cât timp ți-ai căutat un job? A fost greu să îți găsești un loc de muncă?</strong></p>
+<p>De fapt nu căutam un job pentru multă vreme. Sau, mai degrabă, nu mă așteptam să pot intra în lumea IT într-o perioadă atât de scurtă.<br />
+Adam Freisinger, unul dintre mentorii CodeBerry, m-a întrebat despre scopul meu profesional, pe măsură ce progresam cu materialele de studiu.<br />
+Nu am ținut secret că intenționam să lucrez în acest domeniu, așadar a organizat un interviu pentru mine, apoi am primit o sarcină de probă, iar mai târziu un job.<br />
+Așa că aș dori să le mulțumesc tuturor pentru susținere, voi face tot ce-mi stă în putință să mă revanșez. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Cum ai învățat programarea? Ce fel de cursuri, cărți etc. ai folosit?</strong></p>
+<p>La început, am căutat materiale online, am citit articole și am urmat tutoriale.<br />
+După a urmat și mai mult studiu pe cont propriu, iar următorul pas a fost CodeBerry.</p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12340 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata sa fii programator front-end la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p><strong>Ce ți-a oferit CodeBerry? Cum a fost să studiezi la școala noastră?</strong></p>
+<p>Căutam un curs online care să mă ajute să ajung la următorul nivel. Dar, din motive diverse, niciunul dintre cursuri nu părea suficient de bun.<br />
+Apoi am dat peste CodeBerry.<br />
+Chiar mi-a plăcut abordarea: nu numai că ei și-au dat seama că oamenii au nevoie de acest curs, ci și că sectorul IT are nevoie de profesioniști juniori.<br />
+Se stabilește o relație simbiotică din această abordare, care servește scopurilor fiecăruia.<br />
+Studiul este complet personalizat: fiecare poate progresa în ritmul propriu. Dacă o persoană se împotmolește, ajutorul este disponibil pe comunitatea Slack și de la Amanda.<br />
+Nu aș putea spune că am găsit informații noi în materialul de studiu, dar pentru mine a fost foarte folositor pentru revizuire, pentru umplerea lacunelor pe care le-am avut, pentru aprofundarea cunoștințelor și așa mai departe.<br />
+Din punctul meu de vedere, serviciul suplimentar pe care CodeBerry mi l-a furnizat a fost că am putut să îmi evaluez cunoștințele destul de bine, așadar am fost mai încrezător în a lua decizia de a încerca eu însumi.</p>
+<p><strong>Ai oarecare experiență, sfaturi sau trucuri de împărtășit celor care de-abia încep să studieze?</strong></p>
+<p>Începe un proiect în paralel în timp ce studiezi. Găsește o soluție pentru o problemă reală, indiferent cât de mică este.<br />
+Poți învăța multe în acest fel.<br />
+Ești liber să copiezi o soluție sau părți din aceasta, însă planifică-ți propria versiune, analizează și înțelege părțile care nu îți sunt clare.<br />
+Chiar și scopul studiului se poate baza pe aceasta.</p>
+<p><strong>Care este următorul tău pas? Ce cale vei urma?</strong></p>
+<p>Mai întâi, cu siguranță vreau să îmi aprofundez cunoștințele și să îi prind din urmă pe colegii mei.<br />
+Avem o echipă foarte bine pregătită și cu experiență. Fiecare este foarte bun la ce face și învăț multe de la ei în fiecare zi.<br />
+Apoi, vreau să îmi ating propriile limite și după&#8230; vom vedea.</p>
+<p><em><strong>În seria noastră „Povești de succes CodeBerry”, vorbim cu studenții nostri care au reușit să își găsească un job ca programator.</strong></em></p>
+<p><em><strong>Ți-ar plăcea să înveți să programezi? Vino și încearcă primele noastre lecții în mod gratuit la Școala de Programare CodeBerry!</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

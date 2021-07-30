@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>języki obiektowe | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/jezyki-obiektowe/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 07 Oct 2020 14:21:44 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Przewodnik dla początkujących po języku programowania Java</title>
+		<link>/blog/pl/przewodnik-dla-poczatkujacych-po-java/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 14 Jul 2020 06:29:01 +0000</pubDate>
+				<category><![CDATA[Języki programowania]]></category>
+		<category><![CDATA[aplikacja]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[języki obiektowe]]></category>
+		<category><![CDATA[nauka]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[programowanie]]></category>
+		<category><![CDATA[programowanie obiektowe]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=8712</guid>
+
+					<description><![CDATA[W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć. Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w Szkole Programowania CodeBerry. Języki [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego</strong>, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<h3>Języki programowania</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych &#8211; przewodnik dla początkujących</a></li>
+<li><strong>Przewodnik dla początkujących po języku programowania Java</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie &#8211; język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP &#8211; programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript – język JavaScript dla początkujących</a></li>
+</ul>
+<h2>Czym jest Java?</h2>
+<p><span style="font-weight: 400;">Java (nie należy jej mylić z JavaScript) jest językiem programowania ogólnego przeznaczenia, który został zaprojektowany do pracy na wielu różnych urządzeniach &#8211; od smartfonów i komputerów PC po inteligentne telewizory. Zgodnie z </span><a href="https://insights.stackoverflow.com/survey/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ankietą wśród programistów Stack Overflow</span></a><span style="font-weight: 400;">, Java jest 5 najbardziej popularnym językiem programistycznym, zaraz po SQL.</span></p>
+<p><span style="font-weight: 400;">Chociaż Java została stworzona w 1995 roku przez Sun Microsystems, język ten nadal jest&nbsp; popularny. Java jest jak prostsza wersja C++, która wzięła wiele rozwiązań projektowych od swojego poprzednika, języka programistycznego Oak. Z Javą związany jest pewien skrót &#8211;&nbsp; „WORA,” &#8211; oznacza on „Write Once, Run Anywhere” (w wolnym tłumaczeniu: Napisz raz, odpalaj na każdym urządzeniu). Po zapisaniu kodu w Javie może on zostać uruchomiony na dowolnym kompatybilnym urządzeniu z zainstalowaną Javą, bez konieczności rekompilacji.&nbsp;</span></p>
+</p>
+<p><b>Użyjemy klasycznego przykładu &#8222;Hello World&#8221;, aby pokazać, jak wygląda Java:</b></p>
+<pre class="wp-block-code"><code lang="java" class="language-java">class HelloWorldApp {
+
+    public static void main(String[ ] args) {
+
+        System.out.printIn(“Hello World!”); // Displays the text on the screen. 
+
+    }
+
+}</code></pre>
+<p></p>
+<h2>Jak wygląda programowanie w Javie?</h2>
+<p>Język Java jest zdolny do programowania obiektowego, co oznacza, że pozwala na organizowanie atrybutów razem w obiekty i klasy. Raz zdefiniowane w Twoim programie, mogą być użyte w późniejszym czasie, aby zaoszczędzić sobie konieczności ponownego ich zapisywania. Z drugiej strony, język proceduralny wymaga od Ciebie napisania ogromnych linii kodu, które są od siebie zależne. Bez wygody obiektów &#8211; zawsze musisz wszystko powtórzyć.&nbsp;</p>
+<p></p>
+<h2>Zastosowania dla Javy</h2>
+<p>Najlepsze w Javie jest to, że jest ona niezwykle wszechstronna i można ją zastosować w prawie każdej branży. W rzeczywistości, kiedy już nauczysz się Javy, bardzo łatwo znajdziesz dla niej nowe zastosowania, a także pomysły na napisanie nowych aplikacji. Najczęstszymi zastosowaniami Javy są aplikacje internetowe, mobilne i komputerowe.&nbsp;</p>
+<p></p>
+<p><em>Mobilne</em></p>
+<p>Aplikacje mobilne dla systemu Android mogą być tworzone w całości w języku Java &#8211; co oznacza, że możesz łatwo stać się twórcą aplikacji na Androida z dobrą znajomością Javy.&nbsp;</p>
+<p></p>
+<p><em>Internetowe</em></p>
+<p>Chociaż strony internetowe buduje się głównie w HTML, CSS i JavaScript, aplikacje internetowe składają się z różnych komponentów, które mogą być napisane w wielu językach programowania. Aplikacje internetowe opierają się na kodzie serwera &#8211; który często jest napisanym w języku Java. Java wspiera również tworzenie <a class="rank-math-link" href="https://www.javatpoint.com/java-applet" target="_blank" rel="noopener external" data-wpel-link="external">apletów</a>, które są małymi programami, takimi jak gry, które mogą być uruchamiane bezpośrednio w przeglądarce.</p>
+<p></p>
+<p><em>Komputerowe</em></p>
+<p>Zgodnie z filozofią „WORA”, Java może być używana do zasilania aplikacji dla wielu systemów operacyjnych, takich jak Windows, MacOS i Linux. Chociaż Java nie jest w pełni natywna dla żadnej platformy, istnieje wiele narzędzi, które pozwalają na uruchamianie Javy przy pomocy dowolnego systemu operacyjnego. <a class="rank-math-link" href="https://www.oracle.com/java/" target="_blank" rel="noopener external" data-wpel-link="external">Oracle</a>, firma, która wykupiła Sun Microsystems (twórca Javy), oferuje narzędzia programistyczne do łatwiejszego pisania programów na różnych platformach.</p>
+<p></p>
+<p><em>Przedsiębiorstwa</em></p>
+<p>Java jest nie tylko językiem programowania, ale również stabilną platformą. <a class="rank-math-link" href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noopener external" data-wpel-link="external">Java EE</a> (Enterprise Edition &#8211; wersja dla przedsiębiorstw), to specjalna wersja platformy przeznaczona do zastosowań biznesowych. Java EE jest często używana w dużych sieciach i zapewnia wyższy poziom bezpieczeństwa dla korporacji.</p>
+<p></p>
+<p><em>Serwery</em></p>
+<p>Wreszcie, mamy także Javę dla serwerów. Oracle oferuje serwer JRE, który jest platformą Java zaprojektowaną specjalnie dla serwerów. JRE oznacza „<a href="https://www.techopedia.com/definition/5442/java-runtime-environment-jre" target="_blank" rel="noopener external" data-wpel-link="external">Java Runtime Environment</a>”.&nbsp;</p>
+<p></p>
+<h2>Ile zarabiają programiści Java?</h2>
+<p>Przeglądając oferty pracy dla programistów Javy, łatwo zauważyć, że w tym zawodzie zarabia się średnio od 7 000 do 11 000 złotych miesięcznie. Sprawdź również szczegółowe informacje na temat, <a href="https://codeberryschool.com/blog/pl/ile-zarabia-programista/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">ile zarabia programista</a>.</p>
+<p></p>
+<h2>Programowanie w Javie &#8211; od czego zacząć?</h2>
+<p>Ze względu na ogromną popularność i wysoki popyt, istnieje wiele samouczków i kursów dostępnych online i offline, które pomogą Ci rozpocząć naukę. Aby dowiedzieć się więcej, możesz przeczytać nasz artykuł: „<a href="https://codeberryschool.com/blog/pl/jak-nauczyc-sie-programowania/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">Jak nauczyć się programowania?”</a>.&nbsp;</p>
+<p></p>
+<h2>Ile trwa nauka Javy?</h2>
+<p>Ilość czasu potrzebnego na naukę języka programowania Java zależy od metod, których używasz oraz twojego podejścia do nauki i czasu poświęconego. Nie możesz oczekiwać, że dowiesz się wszystkiego o Javie po zakończeniu semestralnego kursu na lokalnym uniwersytecie lub 14-tygodniowego programu na obozie programowania. Jednakże, w zależności od Twojego zaangażowania, podstaw można nauczyć się całkiem szybko.</p>
+<p></p>
+<h2>Czy Java jest dla mnie odpowiednia?</h2>
+<p>Jedną z najlepszych rzeczy w rozwoju oprogramowania jest to, że istnieje wiele różnych języków. Jeśli nie lubisz na przykład programowania w Java, istnieje wiele alternatyw do wyboru. Edukacja w zawodzie programisty nigdy tak naprawdę się nie kończy.</p>
+<p>Java jest dobrym miejscem do rozpoczęcia nauki programowania, ponieważ pozwala na tworzenie aplikacji dla wielu różnych urządzeń i aplikacji za pomocą tylko jednego języka.&nbsp;</p>
+<p>Jeśli jednak dopiero zaczynasz programować i nie wiesz, czy programowanie w Javie jest odpowiednie dla Ciebie &#8211; sprawdź nasz artykuł, „<a href="https://codeberryschool.com/blog/pl/jaki-jezyk-programowania-wybrac/" data-wpel-link="external" target="_blank" rel="external">Jaki język programowania wybrać?</a>”.</p>
+<p></p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego</strong>, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<h3>Języki programowania</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych &#8211; przewodnik dla początkujących</a></li>
+<li><strong>Przewodnik dla początkujących po języku programowania Java</strong></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie &#8211; język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ &#8211; przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" class="rank-math-link" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP &#8211; programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript – język JavaScript dla początkujących</a></li>
+</ul>
+<p>Chcesz nauczyć się programować, online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo w Szkole Programowania CodeBerry.</a></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>conselhos | CodeBerry Blog</title>
+	<atom:link href="/blog/ptbr/tag/conselhos/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 29 Nov 2019 09:22:40 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Coisas que eu gostaria que alguém tivesse me dito quando eu estava aprendendo a programar &#8211; E o que aprendi ao ensinar os outros</title>
+		<link>/blog/ptbr/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar-e-o-que-aprendi-ao-ensinar-os-outros/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 10:25:40 +0000</pubDate>
+				<category><![CDATA[Artigo]]></category>
+		<category><![CDATA[aprendendo a programar]]></category>
+		<category><![CDATA[artigo]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codificação]]></category>
+		<category><![CDATA[como ferrar alguem]]></category>
+		<category><![CDATA[conselhos]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[Escola de Programação CodeBerry]]></category>
+		<category><![CDATA[eu estou aprendendo portugues]]></category>
+		<category><![CDATA[eu gostaria que]]></category>
+		<category><![CDATA[eu queria que alguem tivesse me dito]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Hungría]]></category>
+		<category><![CDATA[me dito]]></category>
+		<category><![CDATA[programação]]></category>
+		<category><![CDATA[stencyl requisitos]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6565</guid>
+
+					<description><![CDATA[Antes de aprender a programar, pense no que você quer programar Saber programar é, principalmente, construir coisas e o caminho é muito mais claro quando você tem uma noção do objetivo final. Se o seu objetivo é “aprender a programar”, sem uma ideia clara dos tipos de programas que você quer escrever e como eles [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>Antes de aprender a programar, pense no que você quer programar</b></p>
+<p><span style="font-weight: 400;">Saber programar é, principalmente, construir coisas e o caminho é muito mais claro quando você tem uma noção do objetivo final. Se o seu objetivo é “aprender a programar”, sem uma ideia clara dos tipos de programas que você quer escrever e como eles vão melhorar sua vida, você provavelmente vai achar as coisas um pouco frustrantes.</span></p>
+<p><span style="font-weight: 400;">Tenho um pouco de vergonha de admitir que parte da minha motivação para estudar Ciência da Computação é que eu queria provar que era inteligente e que queria ser capaz de conseguir empregos de pessoas “inteligentes”. Eu também gostava de matemática e teoria (</span><a href="http://www.amazon.ca/Godel-Escher-Bach-Eternal-Golden/dp/0465026567" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">este livro</span></a><span style="font-weight: 400;"> me surpreendeu em uma idade em que eu era bem impressionável). Não foi o suficiente para me sustentar por muito tempo, até que encontrei maneiras de conectar a tecnologia às coisas que eu realmente amava, como música e literatura.</span></p>
+<p><span style="font-weight: 400;">Então, o que você quer programar? Websites? Jogos? Aplicativos para iPhone? Uma startup para te deixar rico? Arte interativa? Você quer ser capaz de impressionar seu chefe ou automatizar uma tarefa chata para que você possa passar mais tempo assistindo a vídeos de gatos? Talvez você queira simplesmente ser mais empregável, adicionar uma qualificação ao seu currículo ou cumprir os requisitos do seu programa educacional. Todos esses são objetivos são dignos. Certifique-se de saber qual é o seu e estude de acordo.</span></p>
+<p><b>Não tem nenhum mistério nisso</b></p>
+<p><span style="font-weight: 400;">Programar é uma habilidade como qualquer outra. Assim como aprender um idioma, há gramática e vocabulário para aprender. Como na matemática, existem processos para trabalhar com tipos específicos de problemas. Como todos os tipos de artesanato e criação de arte, há técnicas, ferramentas e práticas recomendadas, especializadas em tarefas diferentes, que você pode usar, modificar ou descartar.</span></p>
+<p><a href="http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Esse cara</span></a><span style="font-weight: 400;"> (um cara muito inteligente que tem outros textos que eu também gosto) diz que há uma linha bem nítida entre pessoas com a verdadeira mente de um programador e as outras pessoas que não possuem a capacidade intelectual necessária para ter sucesso no campo. Essa linha consiste, segundo ele, de ponteiros e recursividade (há alguns exemplos </span><a href="http://alumni.cs.ucr.edu/~pdiloren/C++_Pointers/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">aqui</span></a><span style="font-weight: 400;"> e</span><a href="http://inventwithpython.com/blog/2011/08/11/recursion-explained-with-the-flood-fill-algorithm-and-zombies-and-cats/" target="_blank" rel="noopener external" data-wpel-link="external"> <span style="font-weight: 400;">aqui</span></a><span style="font-weight: 400;"> para os curiosos).</span></p>
+<p><span style="font-weight: 400;">Eu aprendi sobre ponteiros e recursividade na escola e, quando eu compreendi estes termos, foi um prazer para o meu cérebro </span><span style="font-weight: 400;">—</span><span style="font-weight: 400;"> o tipo de prazer intelectual que me fez querer estudar Ciência da Computação. Mas, fora dos exercícios em sala de aula, o número de vezes que eu tive que estar familiarizado com qualquer conceito para fazer as coisas foi bem pequeno. E, ao ajudar os outros a aprender, observei pessoas concluindo projetos interessantes e gratificantes sem saber nada sobre ponteiros e recursividade.</span></p>
+<p><span style="font-weight: 400;">Não faz sentido ficar intimidado ou duvidar de sua capacidade. Claro, quanto mais complexa for sua tarefa, maior o nível de maestria que você vai precisar para completá-la. Mas isso também serve para todos os outros campos. A menos que você esteja planejando ganhar a vida inteiramente com seu código, é provável que você não precise ser um gênio da recursividade para fazer o que você quer.</span></p>
+<p><b>Nunca funciona de primeira</b></p>
+<p><span style="font-weight: 400;">E provavelmente não vai funcionar na segunda ou na terceira vez também</span></p>
+<p><span style="font-weight: 400;">Quando você começa a aprender a programar, você rapidamente se depara com essa experiência em particular: acha que configurou tudo como deveria, verificou e confirmou novamente, e, ainda assim, não funciona. Você não tem a menor ideia de por onde começar a tentar consertar e a mensagem de erro (se você tiver sorte de ter uma) pode dizer “vai se ferrar”. Você pode ficar tentado a desistir, pensando que você nunca vai descobrir onde está o erro, que você não foi feito para isso. Tive essa sensação na primeira vez que tentei escrever um programa em C++. Rodei o programa e tive apenas as palavras “falha de segmentação” para o meu problema.</span></p>
+<p><span style="font-weight: 400;">Essa experiência é tão comum para programadores de todos os níveis de habilidade que essa mensagem não diz absolutamente nada sobre sua inteligência, conhecimento tecnológico ou adequação para a vida de programador. Isso vai acontecer com você como um iniciante, mas também acontecerá com você sendo um programador experiente. A principal diferença está em como você lida com isso.</span></p>
+<p><span style="font-weight: 400;">Descobri que a grande diferença entre programadores iniciantes e programadores experientes é a fé: a crença de que as coisas estão dando errado por uma razão lógica e detectável, a fé de que os problemas são solucionáveis, a fé de que há uma maneira de atingir a meta. O caminho de “não trabalhar” para “trabalhar” pode não ser óbvio, mas com paciência você pode encontrá-lo normalmente.</span></p>
+<p><b>Alguém sempre vai te dizer que você está fazendo errado</b></p>
+<p><span style="font-weight: 400;">O colchete deve ir na próxima linha. A chave deve ir na mesma linha. Use o tab para indentar. Mas o tab pode ser malvado. Você deve usar procedimentos armazenados, mas, na verdade, você não deve usá-los. Você deve sempre comentar seu código. Mas um bom código não precisa de comentários.</span></p>
+<p><span style="font-weight: 400;">Quase sempre há muitas abordagens diferentes para um problema específico, sem um único &#8220;caminho certo&#8221;. Muitos programadores são bons em defender o caminho que preferem, mas isso não significa que seja o único caminho verdadeiro. Deparar-me com pessoas me dizendo que eu estava errado e tentar descobrir se eles estavam realmente certos foi um dos aspectos mais estressantes do início da minha carreira.</span></p>
+<p><span style="font-weight: 400;">Se você estiver programando em equipe, é quase certo que alguém vai encrencar com alguma coisa que você está fazendo. Às vezes, eles vão estar absolutamente certos e vale sempre a pena verificar se você está, de fato, fazendo algo errado. Mas, às vezes, eles estarão falando bobagem mesmo, ou re-encenando uma disputa antiga e sem sentido sobre se é melhor um guia de estilo ou fazer de um modo mais livre.</span></p>
+<p><span style="font-weight: 400;">Por outro lado, se você é do tipo que gosta de disputazinhas sem sentido (nerds gramaticais, estou falando de vocês), você veio ao lugar certo.</span></p>
+<p><b>Alguém sempre vai te dizer que você não é um programador “de verdade”</b></p>
+<p><span style="font-weight: 400;">HTML não é uma linguagem de programação verdadeira. Se você não usa Vi, não está fazendo direito. Programadores de verdade sabem programar em C. Programadores de verdade não usam Windows. Algumas pessoas nunca serão capazes de aprender. Você não deve aprender a programar. Você não é um programador de computador (mas eu sou).</span></p>
+<p><span style="font-weight: 400;">&#8220;Programar&#8221; significa muitas coisas diferentes para muitas pessoas diferentes e, agora, parece diferente do que era antes. E, por incrível que pareça, as ferramentas, pacotes e frameworks que tornam mais fácil, tanto para os novatos quanto para os experientes, a construção de elementos de uma página web, podem ser taxadas de muletas para quem não é programador de verdade (veja: “Retorno do Programador de verdade”).</span></p>
+<p><span style="font-weight: 400;">Por trás de tudo isso está o medo de que, se “alguém” puder se chamar de programador, o título se tornará sem sentido. Mas acho que essa mentalidade bem destrutiva.</span></p>
+<p><span style="font-weight: 400;">Use as ferramentas que facilitam a construção das coisas que você quer construir. Se isso significa que seu jogo foi feito em Stencyl ou GameMaker, em vez de ser escrito do zero, tudo bem. Se sua primeira incursão na programação for macros HTML ou Excel, tudo bem. Trabalhe com algo que você sente que pode usar sempre.</span></p>
+<p><span style="font-weight: 400;">À medida em que você se sentir mais confortável, naturalmente começará a descobrir as limitações destas ferramentas e, como resultado, você irá procurar outras mais poderosas. Mas na maioria das vezes, poucas pessoas sequer vão ver o seu código. No máximo, vão perguntar o que você usou. É o que você faz com ele o que conta.</span></p>
+<p><b>Ligar demais para sua “reputação de geek” vai acabar te matando</b></p>
+<p><span style="font-weight: 400;">Como eu disse ali em cima, eu costumava me preocupar muito, especialmente na escola, sobre se eu estava me identificando como um &#8220;não-geek&#8221; (e, portanto, menos digno de inclusão nas comunidades de tecnologia) através da minha roupa, minha apresentação, minha escolha de material de leitura e até minhas opções de personalização de software. Foi um grande desperdício de energia e me tornei muito mais funcional depois que tomei a decisão de deixar pra lá.</span></p>
+<p><span style="font-weight: 400;">Você precisa internalizar isso: sua capacidade de ser bom em programação não tem nada a ver com o quão bem você se encaixa nas várias subculturas geek. Isso vale em dobro se você sabe que no fundo você nunca vai se encaixar. A energia que você gasta provando a si mesmo deveria ser gasta fazendo outras coisas. E, se você é um geek indiscutível com credibilidade saindo pelos ouvidos, tenha isso em mente quando estiver avaliando o nível de credibilidade de outra pessoa..</span></p>
+<p><b>Manter-se constante é mais importante que o método</b></p>
+<p><span style="font-weight: 400;">Artigos sobre a maneira &#8220;certa&#8221; ou &#8220;melhor&#8221; de aprender a programar é o que não falta e há muitas abordagens em potencial. Você pode aprender os conceitos de um livro, fazer exercícios interativos ou depurar coisas que outros escreveram. E, claro, há muitas linguagens que você pode escolher como a primeira a aprender e cada uma delas tem vários defensores.</span></p>
+<p><span style="font-weight: 400;">Uma queixa comum com programas e workshops para &#8220;aprender a programar&#8221; é que você vai ficar bem feliz com o material para iniciantes e, em seguida, as coisas vão ficando difíceis bem rápido. Você sabe imprimir algumas linhas de texto em uma página, mas não sabe onde começar a trabalhar em um projeto “de verdade”, útil. Você pode sentir que estava apenas seguindo as instruções sem realmente entender o que estava fazendo.</span></p>
+<p><span style="font-weight: 400;">Quando você chega a este estágio, a maioria dos tutoriais e recursos on-line disponíveis para você será bem inútil, pois eles assumem que você já é um programador experiente. A dificuldade fica ainda maior pelo fato de que &#8220;você não sabe o que não sabe&#8221;. Até mesmo tentar descobrir o que aprender depois é um quebra-cabeça em si.</span></p>
+<p><span style="font-weight: 400;">Você vai acabar batendo nesse muro e a única maneira de superar isso é ter força de vontade. Isso significa que você tem que continuar tentando coisas novas, aprendendo mais informações e descobrindo mais, passo a passo. É muito mais provável que você tenha sucesso no final se tiver uma ideia clara do motivo pelo qual está aprendendo a programar.</span></p>
+<p><span style="font-weight: 400;">Se você continuar colocando um tijolo sobre o outro, pode levar muito tempo, mas, eventualmente, você terá uma parede. É aqui que a “fé” que eu mencionei antes se torna útil. Se você acreditar que com tempo e paciência você vai aprender a programar, você realmente vai conseguir.</span></p>
+<p><span style="font-weight: 400;">Você pode encontrar o artigo original em inglês <a href="https://medium.freecodecamp.org/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329" target="_blank" rel="noopener external" data-wpel-link="external">aqui</a>.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dicas de entrevistas para você ganhar confiança e conseguir seu primeiro emprego como desenvolvedor</title>
+		<link>/blog/ptbr/dicas-de-entrevistas-para-voce-ganhar-confianca-e-conseguir-seu-primeiro-trabalho-de-desenvolvedor/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2018 15:03:27 +0000</pubDate>
+				<category><![CDATA[Artigo]]></category>
+		<category><![CDATA[artigo]]></category>
+		<category><![CDATA[cargos para primeiro emprego]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[como conseguir seu primeiro emprego]]></category>
+		<category><![CDATA[conseguir primeiro emprego]]></category>
+		<category><![CDATA[conselhos]]></category>
+		<category><![CDATA[desenvolvedor]]></category>
+		<category><![CDATA[dicas]]></category>
+		<category><![CDATA[entrevista de emprego]]></category>
+		<category><![CDATA[entrevista do primeiro emprego]]></category>
+		<category><![CDATA[Escola de Programação CodeBerry]]></category>
+		<category><![CDATA[ganhar confiança]]></category>
+		<category><![CDATA[Hungría]]></category>
+		<category><![CDATA[primeiro emprego dicas]]></category>
+		<category><![CDATA[primeiro emprego entrevista]]></category>
+		<category><![CDATA[seu primeiro emprego]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6540</guid>
+
+					<description><![CDATA[Conseguir seu primeiro emprego como desenvolvedor pode ser difícil. Como convencer alguém a te contratar quando você não tem muita experiência? Quais são as coisas mais importantes que você precisa saber? E se fizerem uma pergunta para a qual você não tem a resposta? Você realmente precisa saber como escrever uma tag &#60;link&#62; do zero? [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Conseguir seu primeiro emprego como desenvolvedor pode ser difícil.</span></p>
+<p><span style="font-weight: 400;">Como convencer alguém a te contratar quando você não tem muita experiência? Quais são as coisas mais importantes que você precisa saber? E se fizerem uma pergunta para a qual você não tem a resposta?</span></p>
+<p><span style="font-weight: 400;">Você realmente precisa saber como escrever uma tag &lt;link&gt; do zero?</span></p>
+<p><span style="font-weight: 400;">(Spoiler: não, você não precisa)</span></p>
+<p><span style="font-weight: 400;">Estou trabalhando como desenvolvedor web há quase dez anos. Ocupei vários cargos em empresas de todos os tipos e tamanhos — de empresas globais de tecnologia a pequenas agências locais. Fui entrevistado mais vezes do que posso contar e tive mais rejeições do que sucessos. À medida que progredi para cargos mais altos, cada vez mais me vejo do outro lado da mesa.</span></p>
+<p><span style="font-weight: 400;">Vou compartilhar com você algumas coisas que procuro quando estou entrevistando novos candidatos. São coisas que me ajudam a me sentir confiante quando sou entrevistado.</span></p>
+<p><span style="font-weight: 400;">Os requisitos técnicos de qualquer função variam e por isso, não vou dar sugestões sobre como abordar esses requisitos. Existem vários artigos com títulos como &#8220;10 coisas que todo desenvolvedor web moderno deve saber&#8221;. Você pode usá-los para te guiar (ou, mais provavelmente, te deixar ainda mais perdido).</span></p>
+<p><span style="font-weight: 400;">O que eu vou sugerir, em geral, é que você não se preocupe com as coisas que você não conhece.</span></p>
+<p><b>1. Esteja confortável com sua experiência e habilidades</b></p>
+<p><span style="font-weight: 400;">Falar sobre sua experiência é geralmente o ponto de partida de uma entrevista. Também é geralmente a primeira coisa no seu currículo. Mostrar sua experiência e como você aplicou suas habilidades é uma parte fundamental de qualquer processo de entrevista de emprego.</span></p>
+<p><span style="font-weight: 400;">É normal se sentir pressionado e querer causar uma boa primeira impressão. Como tal, pode ser tentador exagerar sobre suas experiências e habilidades, ou exagerar sobre a importância de um projeto em que você trabalhou.        </span></p>
+<p><span style="font-weight: 400;">Mas você deve se lembrar: não se espera que você tenha muita experiência ou habilidade técnica ao começar. Exagerar sobre sua experiência pode não criar uma primeira impressão muito boa, mesmo que você seja bem adequado para a função. Isso é algo que é verdade em qualquer momento de sua carreira, mas é uma armadilha fácil de cair quando se está começando.</span></p>
+<p><span style="font-weight: 400;">É muito melhor ser direto sobre suas experiências e sua capacidade. Fale sobre os projetos em que você trabalhou e sua função específica nesses projetos. Destaque as habilidades que você usou e as tecnologia com as quais que teve que lidar nestes trabalhos.</span></p>
+<p><i><span style="font-weight: 400;">Não fale, mostre.</span></i></p>
+<p><span style="font-weight: 400;">Este é um princípio de </span><i><span style="font-weight: 400;">storytelling</span></i><span style="font-weight: 400;"> que eu acho que também se aplica a entrevistas de emprego.</span></p>
+<p><span style="font-weight: 400;">Não diga ao seu público o que está acontecendo, mostre com ações e permita que ele o interprete e chegue a uma conclusão.</span></p>
+<p><span style="font-weight: 400;">Por exemplo, se o entrevistador puder chegar a essa conclusão sozinho:</span></p>
+<p><span style="font-weight: 400;">&#8220;Este candidato é experiente com Y e é claramente apaixonado por X&#8221;.</span></p>
+<p><span style="font-weight: 400;">Isso é muito mais valioso do que você dizendo:</span></p>
+<p><span style="font-weight: 400;">&#8220;Eu tenho muita experiência com  Y e sou muito apaixonado por X&#8221;.</span></p>
+<p><span style="font-weight: 400;">Tão importante quanto não vender demais suas habilidades e experiência é admitir que você não sabe tudo.</span></p>
+<p><b>2. Não tenha medo de dizer &#8220;eu não sei&#8221;</b></p>
+<p><span style="font-weight: 400;">É fácil sentir-se pressionado a responder uma pergunta para a qual você não tem a resposta. Se você fizer isso, é provável que aconteça o seguinte:</span></p>
+<p><span style="font-weight: 400;">Você vai simplesmente repetir partes de informações que você escutou ou leu em algum lugar (o que vier primeiro à mente), você vai esperar ter juntado a combinação certa de palavras para responder a pergunta ou você vai gaguejar, soar incoerente e acabar se frustrando.</span></p>
+<p><span style="font-weight: 400;">Deixe-me ser o mais direto possível. Dizer &#8220;não sei&#8221; quando você não sabe a resposta para alguma coisa é sempre a melhor resposta. Não finja saber algo que você não sabe.</span></p>
+<p><span style="font-weight: 400;">Se você se sentir desconfortável por dizer &#8220;eu não sei&#8221; em uma entrevista, você deve tratar isso como um mal sinal. Geralmente, é um sinal de um local de trabalho tóxico. Você não vai querer trabalhar em uma empresa que não apoie sua vulnerabilidade.</span></p>
+<p><span style="font-weight: 400;">Se você não sabe de alguma coisa, seja honesto e admita. Você sempre pode verificar se o que você pensa que é a resposta é verdade. Melhor ainda, você sempre pode perguntar.</span></p>
+<p><span style="font-weight: 400;">Eu não sei muito sobre X, mas eu acho que está relacionado a Y. Você pode me dar mais detalhes? Você está usando o X em seus projetos?</span></p>
+<p><span style="font-weight: 400;">Muitas vezes, a resposta às suas perguntas permitirá que você dê uma resposta secundária. Mesmo que você não saiba a resposta, pode mostrar que entende o contexto.</span></p>
+<p><b>3. Faça perguntas, muitas perguntas!</b></p>
+<p><span style="font-weight: 400;">Fazer perguntas também é uma ótima maneira de fazer uma entrevista parecer menos formal e mais como uma discussão.</span></p>
+<p><span style="font-weight: 400;">Os entrevistadores geralmente ficam mais do que felizes em falar sobre sua experiência com uma determinada tecnologia ou os desafios que enfrentaram em um projeto específico. Isso também pode ajudá-lo a entender por que eles consideram que determinada habilidade ou tecnologia é importante para o cargo.</span></p>
+<p><span style="font-weight: 400;">Lembre-se de que uma entrevista também é sobre você avaliar seu potencial empregador. Você não vai poder avaliar corretamente sem fazer perguntas.</span></p>
+<p><i><span style="font-weight: 400;">Em qual projeto estarei trabalhando? Quais são alguns dos projetos em que a empresa trabalhou recentemente? Qual o tamanho da equipe em que estarei trabalhando? Quais recursos estarão disponíveis para treinamento e desenvolvimento pessoal?</span></i></p>
+<p><span style="font-weight: 400;">Isso não é apenas algo valioso para a entrevista. Fazer uma avaliação objetiva de suas opções é uma tarefa diária de um desenvolvedor. Para fazer isso, você precisa coletar as informações certas &#8211; e para fazer isso, você precisa fazer perguntas. Muitas perguntas.</span></p>
+<p><b>Nem sempre o candidato com as melhores habilidades técnicas é aquele que é contratado.</b></p>
+<p><span style="font-weight: 400;">Minha intenção aqui não é ditar regra sobre o que você deve ou não deve fazer em uma entrevista. Nem é para dizer quais habilidades técnicas não são importantes.</span></p>
+<p><span style="font-weight: 400;">Mas o que estou tentando deixar claro é que o aprendizado não é linear. Você não pode e não vai saber tudo o que é necessário para um cargo. Todos nós tomamos caminhos diferentes para chegar onde estamos e você precisa aceitar esse fato.</span></p>
+<p><span style="font-weight: 400;">Cada cargo é diferente e toda organização terá expectativas diferentes para seus candidatos. Mas, independentemente do seu nível de habilidade, ou das expectativas do cargo, você deve:</span></p>
+<ul>
+<li><span style="font-weight: 400;"> Ficar à vontade com seu nível de habilidade e experiência.</span></li>
+<li><span style="font-weight: 400;"> Saber que é aceitável dizer &#8220;não sei&#8221;.</span></li>
+<li><span style="font-weight: 400;"> Estar seguro para fazer perguntas sobre coisas que você não entende.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Acredito que estes princípios não são apenas essenciais para se dar bem nas entrevistas, mas podem te ajudar a ter sucesso em todos os cargos que você terá em todos os níveis.</span></p>
+<p><span style="font-weight: 400;">Espero que você possa tirar alguma coisa deste artigo ou que tenha obtido sucesso com estratégias diferentes. Eu adoraria ouvir sugestões nos comentários.</span></p>
+<p><span style="font-weight: 400;">Obrigado pela leitura!</span></p>
+<p><span style="font-weight: 400;">Você pode encontrar o artigo original em inglês <a href="https://medium.freecodecamp.org/interview-tips-that-will-give-you-confidence-and-help-you-land-a-dev-job-5ef43c1ae422" target="_blank" rel="noopener external" data-wpel-link="external">aqui</a>.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

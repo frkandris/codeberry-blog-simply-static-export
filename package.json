@@ -1,0 +1,22 @@
+{
+  "name": "codeberry-blog-static",
+  "private": true,
+  "description": "The static version of CodeBerry Blog",
+  "version": "0.1.0",
+  "author": "@CodeBerry",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "static",
+    "blog"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "deploy-development": "aws s3 sync ./ s3://blog-static.codeberryschool.com/blog --delete --profile codeberry-s3-deploy --exclude '.git/*'",
+    "deploy-production": "aws s3 sync ./ s3://codeberry-static-website/blog --delete --profile codeberry-s3-deploy --exclude '.git/*'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/borzos6/codeberry-blog-static/"
+  }
+}

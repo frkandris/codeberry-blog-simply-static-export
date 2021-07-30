@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scratch | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/scratch/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Wed, 03 Mar 2021 11:29:22 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Programozás gyerekeknek &#8211; mire figyeljünk, ha gyermekünk programozni tanulna?</title>
+		<link>/blog/hu/programozas-gyerekeknek/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 11 Oct 2020 12:04:46 +0000</pubDate>
+				<category><![CDATA[Programozás tanfolyamok]]></category>
+		<category><![CDATA[21. századi tudás]]></category>
+		<category><![CDATA[alapkészség]]></category>
+		<category><![CDATA[élményközpontúság]]></category>
+		<category><![CDATA[gyerek programozás]]></category>
+		<category><![CDATA[játékosság]]></category>
+		<category><![CDATA[kreativitás]]></category>
+		<category><![CDATA[Minecraft programozás]]></category>
+		<category><![CDATA[minecraft programozás gyerkeknek]]></category>
+		<category><![CDATA[online programozás gyerkekeknek]]></category>
+		<category><![CDATA[pályaválasztás]]></category>
+		<category><![CDATA[programozás gyerekeknek]]></category>
+		<category><![CDATA[programozas gyerekeknek]]></category>
+		<category><![CDATA[programozás tanulás könyvből]]></category>
+		<category><![CDATA[programozási nyelvek gyerekeknek]]></category>
+		<category><![CDATA[programozó tanfolyamok gyerekeknek]]></category>
+		<category><![CDATA[programozószakkör]]></category>
+		<category><![CDATA[Python]]></category>
+		<category><![CDATA[python gyerekeknek]]></category>
+		<category><![CDATA[python programozás gyerekeknek]]></category>
+		<category><![CDATA[robotépítés]]></category>
+		<category><![CDATA[Scratch]]></category>
+		<category><![CDATA[sikerélmény]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10256</guid>
+
+					<description><![CDATA[Írás, olvasás, számolás, társas készségek és… programozás gyerekeknek? Információs társadalmunk egyre inkább afelé halad, hogy az alapszintű programozási ismeretek nagyon fontosak lesznek, már gyerekkorban is érdemes foglalkozni velük. Ebben a  cikkben összefoglaljuk, miért hasznos a gyerekeknek programozni tanulni, mire érdemes figyelni, mikor tanulási módszert, felületet vagy tanfolyamot választunk gyermekünknek, mik a sikeres és örömteli programozástanulás [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Írás, olvasás, számolás, társas készségek és… programozás gyerekeknek? Információs társadalmunk egyre inkább afelé halad, hogy az alapszintű programozási ismeretek nagyon fontosak lesznek, már gyerekkorban is érdemes foglalkozni velük.</span></p>
+<p><span style="font-weight: 400;">Ebben a  cikkben összefoglaljuk</span><b>, miért hasznos a gyerekeknek programozni tanulni, mire érdemes figyelni, mikor tanulási módszert, felületet vagy tanfolyamot választunk</b><span style="font-weight: 400;"> gyermekünknek, mik a sikeres és örömteli programozástanulás feltételei. Összegyűjtöttünk sok hasznos </span><b>tananyagot, weboldalt, játékot</b><span style="font-weight: 400;">, amik segítségével programozni tanulhatnak a gyerekek, valamint a </span><b>magyarországi kurzusokról és táborokról</b><span style="font-weight: 400;"> is készítettünk egy listát. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Alapkészségek változó világunkban</span></h2>
+<p><span style="font-weight: 400;">Az oktatáskutatással, pedagógiai reformokkal foglalkozó szakemberek egybehangzóan állítják, hogy</span><b> a 21. század kihívásaira </b><span style="font-weight: 400;">és a későbbi munkaerőpiaci helytállásra, egyéni célok megvalósítására </span><b>másképp kell felkészíteni a gyerekeket</b><span style="font-weight: 400;">, mint néhány évvel, évtizeddel korábban. </span></p>
+<p><span style="font-weight: 400;">A </span><b>technológia születésüktől kezdve körbeveszi a kicsiket</b><span style="font-weight: 400;">, az infokommunikációs eszközök (pl. mobiltelefonok, tabletek, számítógépek) hatékony használata ma már alapkészség, az információdömping szűrése és kritikus fogyasztása pedig sokszor fontosabb, mint a lexikális ismeretek. </span></p>
+<h4><span style="font-weight: 400;">Néhány a legfontosabb 21. századi készségek közül:</span></h4>
+<p><span style="font-weight: 400;"><img loading="lazy" class=" alignleft" src="https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=650&amp;w=940" width="387" height="258" />1.   Kritikus gondolkodás, problémamegoldás, elemzés, értelmezés, az információ szintetizálása</span></p>
+<p><span style="font-weight: 400;">2.   Kreativitás, kíváncsiság, képzelőerő, innovativitás</span></p>
+<p><span style="font-weight: 400;">3.   Kitartás, önfegyelem, tervezés, adaptivitás</span></p>
+<p><span style="font-weight: 400;">4.   Csapatmunka, vezetés, együttműködés, (virtuális) munkamegosztás</span></p>
+<p><span style="font-weight: 400;">5.   IKT (infokommunikációs technológia) ismeret, média- és internethasználat, adatértelmezés és -elemzés, számítógépes programozás</span></p>
+<h6 style="text-align: right;"><em><span style="font-weight: 400;">(Forrás: <a href="https://www.edglossary.org/21st-century-skills/" target="_blank" rel="noopener external" data-wpel-link="external">Edglossary</a></span><span style="font-weight: 400;">)</span></em></h6>
+<p><span style="font-weight: 400;">Analitikusan gondolkodni, egy-egy probléma megoldását lépésekre bontani, tervezni, kreatívan és adaptívan gondolkodni és csapatban dolgozni elengedhetetlen lesz</span><b>, ezek elsajátításához pedig a számítógépes programozás tanulása hatékony és izgalmas utat kínál. </b></p>
+<h2><span style="font-weight: 400;">Mire kell figyelni, ha gyerekek programozás-oktatásáról van szó?</span></h2>
+<p><b>Élményközpontúság, játékosság, a siker megtapasztalása</b><span style="font-weight: 400;"> – sokat hallott szavak, de ha tényleg megvalósulnak, a kulcsot jelenthetik a programozás megszeretéséhez. Nagyon fontos, hogy a programozás izgalmas és színes legyen, ne pedig száraz, emellett kihívást jelentsen, de ne akkorát, amit a fiatal tanulók nem tudnak teljesíteni. </span></p>
+<p><span style="font-weight: 400;">Az</span><b> alapfogalmakat gyakorlat közben</b><span style="font-weight: 400;">, használat során kell bevezetni, az új ismereteket pedig azonnal a feladatokba ültetni és játékosan, szinte észrevétlenül elmélyíteni. </span></p>
+<p><b>Jól felépített, átgondolt, egymásra épülő rendszer</b><span style="font-weight: 400;"> nélkül aligha lehet sikeres a programozás tanulása, ami a szükséges logikai és matematikai készségeket és ismereteket is magába kell, hogy építse. A </span><b>folyamatos visszacsatolás</b><span style="font-weight: 400;"> és a </span><b>kreatív feladatmegoldásból származó sikerélmény</b><span style="font-weight: 400;"> sokkal inkább garanciát jelentenek a fejlődésre, mint a számonkérés.</span></p>
+<p><span style="font-weight: 400;">Az érthető, </span><b>életkornak megfelelő, de nem túlegyszerűsített nyelvezet</b><span style="font-weight: 400;">, </span><b>a magyarázat módja és technikái</b><span style="font-weight: 400;"> szintén kulcsfontosságúak a gyerekek tanítása során. </span></p>
+<p><span style="font-weight: 400;">Ha nem önállóan tanul a leendő programozó, akkor bizony nem szabad megfeledkeznünk az </span><b>oktató személyiségének fontosságáról</b><span style="font-weight: 400;"> sem, hiszen – ha saját élményeinkre visszagondolunk – pozitív és negatív irányba is nagyban változtathatja a hozzáállásunkat az oktató személye.</span></p>
+<p><span style="font-weight: 400;">Izgalmasak és még inkább közösségformálók azok a projektek, ahol a tanulás játékkészítésen vagy robotprogramozáson keresztül zajlik és </span><b>a program végén közösen lehet játszani a csapat munkájával</b><span style="font-weight: 400;">. Az “</span><i><span style="font-weight: 400;">Ezt mi hoztuk létre!</span></i><span style="font-weight: 400;">”-élmény nagyon fontos motiválóerő.</span></p>
+<h2><span style="font-weight: 400;">Életkornak megfelelő ismeretek – programozás gyerekeknek</span></h2>
+<h3><span style="font-weight: 400;">Óvodás- és kisiskolás kor </span></h3>
+<p><span style="font-weight: 400;">Hogyan tanulhatna programozni az a kisgyerek, aki még nem, vagy alig olvas, nincs tisztában bizonyos logikai műveletekkel és matematikai alapfogalmakkal? – kérdezhetnénk. A felvetés jogos, de </span><b>az ilyen korú gyerekek nem is programozni tanulnak még, hanem az algoritmikus gondolkodás képességét sajátítják el</b><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Számos fogalmat el lehet magyarázni mindennapi életből vett példákon keresztül. Például az öltözködés vagy a fogmosás lépései és helyes sorrendjük rávezetnek arra, mit jelent az algoritmus fogalma. </span></p>
+<p><span style="font-weight: 400;">Offline játékokkal és rávezető feladatokkal is elérhetjük, hogy fejlődjön a gyerekek programozói logikája, otthoni, vagy óvodai, iskolai környezetben is sokféle rávezető játékot játszhatunk.</span></p>
+<p><span style="font-weight: 400;">Óvodai és iskolai csoportoknak szuper lehetőség a </span><a href="https://www.youtube.com/watch?v=uULpYYE1Agc" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">BeeBot</span></a><span style="font-weight: 400;">, gombnyomásokkal előre programozható játékrobot, amivel tanulási és fejlődési lehetőségek gazdag tárháza nyílik meg. </span></p>
+<p><iframe loading="lazy" title="Bee-Bot ismertető" width="1080" height="608" src="https://www.youtube.com/embed/SpsmARxET7Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><span style="font-weight: 400;">Egyre több programozószakkör indul óvodásoknak és kisiskolásoknak, amik amellett, hogy nagyon hasznos készségek megszerzéséhez juttatják a gyerekeket, közösségi élményt is jelentenek. </span></p>
+<p><span style="font-weight: 400;">4-5 éves kortól kezdve léteznek már csoportok, fiúknak-lányoknak, robotépítőknek, olvasni tudóknak és vizuális alapon tanulóknak egyaránt. </span></p>
+<p><b>A cikk végén részletes listát találsz a Magyarországon elérhető gyerek programozó-tanfolyamokról, </b><span style="font-weight: 400;">ahol a legkisebbektől a legnagyobbakig minden gyerkőcöt és fiatalt szeretettel várnak. </span></p>
+<h4><span style="font-weight: 400;">Programozó gondolkodást fejlesztő játékok gyerekeknek magyarul</span></h4>
+<p><span style="font-weight: 400;">A </span><i><span style="font-weight: 400;">moderniskola.hu</span></i> <a href="https://moderniskola.hu/2019/10/jatszottal-mar-programozva/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">bármilyen tanórára bevihető</span></a><span style="font-weight: 400;">, valamint </span><a href="https://moderniskola.hu/2019/10/jatszottal-mar-programozva/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">otthoni játéktippeket</span></a><span style="font-weight: 400;"> gyűjtött össze, amiket minimális eszközigénnyel megvalósíthatunk. </span></p>
+<h3><span style="font-weight: 400;">Magabiztosan olvasó gyerekek</span></h3>
+<p><span style="font-weight: 400;">A nagyobbak már a </span><b>hagyományos programozási nyelvekkel is ismerkedhetnek</b><span style="font-weight: 400;">, önállóan is jól olvasnak, sőt sokan már az angol nyelvvel is megbarátkoztak valamilyen szinten. Az</span><b> élményközpontú tanulás</b><span style="font-weight: 400;"> továbbra is fontos, de egyre inkább teret nyerhet az önálló haladás.  </span></p>
+<p><span style="font-weight: 400;">Magyar nyelven is elérhető már több, gyermekek számára készült </span><b>oktatókönyv.</b><span style="font-weight: 400;"> Íme néhány, amit egyszerűen beszerezni és örömét lelheti benne a fiatal programozójelölt: </span></p>
+<h4><span style="font-weight: 400;">Programozás könyv gyerekeknek magyar nyelven</span></h4>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.konyvneked.hu/Carol-Vorderman-Programozas-gyerekeknek-A-binaris-kodtol-a-jatekkeszitesig" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Carol Vorderman &#8211;  Programozás gyerekeknek </span></a></li>
+<li style="font-weight: 400;"><a href="https://moly.hu/konyvek/david-whitney-kodolj" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">David Whitney &#8211; Kódolj! </span></a></li>
+<li style="font-weight: 400;"><a href="https://moly.hu/konyvek/steve-martin-legyel-te-is-programozo" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Sean McManus &#8211; Legyél te is programozó!</span></a></li>
+</ul>
+<p><img loading="lazy" class="aligncenter size-full wp-image-10270" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/konyvek.png" alt="" width="825" height="302" srcset="/blog/wp-content/uploads/2020/10/konyvek.png 825w, /blog/wp-content/uploads/2020/10/konyvek-300x110.png 300w, /blog/wp-content/uploads/2020/10/konyvek-768x281.png 768w" sizes="(max-width: 825px) 100vw, 825px" /></p>
+<h3><span style="font-weight: 400;">13-14 éves kor és a középiskola </span></h3>
+<p><span style="font-weight: 400;">Az igazán érdeklődők ennyi idősen már egyre komplexebb projekteket tudnak megvalósítani és </span><b>egyre mélyebb ismereteket tudnak elsajátítani a kódolás területén</b><span style="font-weight: 400;">. Ebben az életkorban a </span><b>továbbtanulás kérdései is felmerülnek</b><span style="font-weight: 400;">, a középiskola végén már a pályaválasztás szempontjait is mérlegelni kell, de egyfajta orientáció kijelölése már korábban is válaszút elé állítja a fiatalokat és szüleiket. (Magának a középiskolának a kiválasztása és a fakultációválasztás is döntés elé állítja a fiatalokat.) </span></p>
+<p><span style="font-weight: 400;">Azok előtt a középiskolások előtt, akik jól tudnak angolul, kinyílik az önálló programozástanulás lehetőségeinek végtelen tárháza, az interneten elérhető nemzetközi oktatóanyagokon keresztül. </span></p>
+<h2><span style="font-weight: 400;">Programozási nyelvek és felületek gyerekeknek</span></h2>
+<h3><a href="https://scratch.mit.edu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Scratch </span></a></h3>
+<p><span style="font-weight: 400;">Kifejezetten</span><b> gyermekek számára kifejlesztett, grafikus programozás nyelv</b><span style="font-weight: 400;">, magyarul is elérhető felülettel. A gyerekek kész modulokat mozgathatnak, nem kell kódokat beírni, csak a folyamat lépéseit megérteni, végiggondolni, és a megfelelő paneleket kiválasztani. Történeteket, animációkat, játékokat lehet létrehozni a segítségével.</span></p>
+<p><iframe loading="lazy" title="What&#039;s New in Scratch" width="1080" height="608" src="https://www.youtube.com/embed/6ofHiea__hU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><span style="font-weight: 400;"> </span></p>
+<h3><a href="https://www.scratchjr.org/about/info" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Scratch Jr</span></a></h3>
+<p><span style="font-weight: 400;">Az 5-7 éves korosztályt vonja be programozás logikai alapjaiba, egyelőre nem érhető el magyarul, de folyamatosan zajlik az adaptálás, egyre több nyelvre. </span></p>
+<p><iframe loading="lazy" title="Programozás gyerekeknek - Scratch kezdőknek 1." width="1080" height="608" src="https://www.youtube.com/embed/8rrxP_H7zL4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3><a href="https://studio.code.org/s/course1" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Code.org</span></a></h3>
+<p><span style="font-weight: 400;">Gondosan felépített oktatóanyag a programozáshoz szükséges készségek és alapfogalmak előkészítésétől egészen a komplex feladatokig. Nem minden oktatómodul érhető el magyarul, de a &#8211; már 4 éves kortól ajánlott &#8211; </span><b>alapozó fejezetek</b><span style="font-weight: 400;"> vagy a </span><b>Minecraft </b><span style="font-weight: 400;">és a </span><b>Jégvarázs </b><span style="font-weight: 400;">modul magyarra is adaptálva van. </span></p>
+<p><iframe loading="lazy" title="Code.org: Course 1 - Stage 14: Bee Loops" width="1080" height="608" src="https://www.youtube.com/embed/Yj_ECrARfiE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><span style="font-weight: 400;">Több tanfolyam és könyv ajánlja gyerekeknek </span><b>Python </b><span style="font-weight: 400;">nyelv tanulását. Ez a programozási nyelv ideális kezdőknek, könnyen olvasható, logikus, felhasználható különböző célokra &#8211; mint például a játékprogramozás &#8211; és kiváló alapot biztosít a programozási alapismeretek megtanulásához. A </span><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Python programozás alapjai</span></a><span style="font-weight: 400;"> című cikkünkben még többet tudhatsz meg erről a nyelvről.</span></p>
+<p><span style="font-weight: 400;">Természetesen az egyes tanfolyamok, oktatóvideók, játékok más-más nyelveken vezetik be a gyereket a programozás világába (például a weboldalak készítéséhez szükséges </span><b>HTML, CSS </b><span style="font-weight: 400;">és </span><b>JavaScript </b><span style="font-weight: 400;">oktatásával). A megfelelő alapokkal rendelkező, nagyobb, érdeklődő és kitartó fiataloknál már gyakorlatilag bármelyik programozási nyelv szóba jöhet. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Programozás játékok magyar nyelven</span></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Itt </span><a href="http://www.bitbazis.hu/index.php/hirmorzsak/55-15-szuper-oktatojatek-hogy-megtanulj-programozni" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">15 szuper oktatójátékot gyűjtottek össze</span></a><span style="font-weight: 400;">, amik segítségével programozni lehet tanulni. A gyűjtemény egyik előnye, hogy </span><b>haladó szintű, középiskolás korosztálynak, szóló játékokat is tartalmaz.</b><span style="font-weight: 400;"> </span></li>
+</ul>
+<h3><span style="font-weight: 400;">Programozás Youtube csatornák gyerekeknek magyar nyelven</span></h3>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A </span><a href="https://www.youtube.com/channel/UCYOfZQi1q1xlkWxUt3tgwPg/videos" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">KucKód You Tube csatornán</span></a> <b>Scratch </b><span style="font-weight: 400;">és </span><b>Scratch Jr</b><span style="font-weight: 400;"> oktatóanyagokat, valamint egyéb izgalmas programozós videókat is találunk</span></li>
+</ul>
+<p><iframe loading="lazy" title="Programozás kisebbeknek - ScratchJr  - 1. Táncmulatság" width="1080" height="608" src="https://www.youtube.com/embed/32DrvZ6e1uQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A </span><a href="https://www.youtube.com/channel/UCT34wMSQEhNS88nAAYg2DtA/videos" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">KódKurzus You Tube csatorna</span></a><span style="font-weight: 400;"> pedig a </span><b>programozás alapfogalmai</b><span style="font-weight: 400;">val ismerteti meg a fiatalokat</span></li>
+</ul>
+<p><iframe loading="lazy" title="Mi az a programozás? (#0 Programozás Tutorial)" width="1080" height="608" src="https://www.youtube.com/embed/b09clOkzbtc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><span style="font-weight: 400;">Hol és hogyan tanulhatnak gyerekek programozni? </span></h2>
+<p><span style="font-weight: 400;">Van néhány tagadhatatlan előnye a</span><b> workshopokon, táborokban, tanfolyamokon</b><span style="font-weight: 400;"> való tanulásnak. Ezek pedig: folyamatos támogatás, magyarázat, visszacsatolás, de ami talán a legfontosabb: </span><b>a közösség</b><span style="font-weight: 400;">. </span></p>
+<p><span style="font-weight: 400;">A cikkben </span><b>eddig felsorolt lehetőségek jobbára az önálló tanulásról szóltak</b><span style="font-weight: 400;">, melyekben persze a szülő is részt vehet, de otthoni környezetre korlátozódnak. </span><b>Most nézzük meg azokat a helyeket, ahol szuper közösségben, felkészült oktatókkal tanulhatnak</b><span style="font-weight: 400;"> a jövő programozói. </span></p>
+<h3><a href="https://www.codeberryschool.com/hu/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">CodeBerry Programozóiskola</span></a></h3>
+<p><img loading="lazy" class=" wp-image-10266 alignright" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/cbscreen-1024x430.png" alt="" width="580" height="244" srcset="/blog/wp-content/uploads/2020/10/cbscreen-1024x430.png 1024w, /blog/wp-content/uploads/2020/10/cbscreen-300x126.png 300w, /blog/wp-content/uploads/2020/10/cbscreen-768x323.png 768w, /blog/wp-content/uploads/2020/10/cbscreen-1080x454.png 1080w, /blog/wp-content/uploads/2020/10/cbscreen.png 1330w" sizes="(max-width: 580px) 100vw, 580px" /></p>
+<p><span style="font-weight: 400;">Magyarország egyik legnagyobb online programozóiskolája – online, saját tempóban végezhető tanfolyamok, sok-sok nyelven (HTML, CSS, JavaScript, Python, Java stb.). </span></p>
+<p><span style="font-weight: 400;">A tanulást mentorok és egy segítőkész online közösség támogatják. </span></p>
+<p><span style="font-weight: 400;">Egyszerű, érthető magyarázatok és gyakorlati feladatok, amikkel kipróbálhatóak és begyakorolhatóak a programozás alapjai.</span></p>
+<h3><a href="https://www.funside.hu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Funside</span></a></h3>
+<p><div style="width: 372px" class="wp-caption alignright"><img loading="lazy" class="" src="https://www.funside.hu/wp-content/gallery/funside_school/fs_21.jpg" width="362" height="241" /><p class="wp-caption-text">Forrás: <a href="https://www.funside.hu/school-fotoalbum/nggallery/school/funside_school" target="_blank" rel="noopener external" data-wpel-link="external">Funside</a></p></div></p>
+<p><span style="font-weight: 400;">Tanfolyamok, nyári táborok és workshopok elképesztően széles választéka várja az érdeklődőket. </span><b>LEGO robotika, programozás, tematikus napok</b><span style="font-weight: 400;"> (például Star Wars és Harry Potter témájú alkalmak), Minecraft-programozás, és még hosszan sorolhatnánk, mi mindenből választhatnak a gyerekek és szüleik. A családi workshopokon egy szülő és egy vagy két gyermek együtt vehet részt.</span></p>
+<p><span style="font-weight: 400;">Az adott program típusától függően változnak a célcsoportok,</span><b> 7-8 éves kortól</b><span style="font-weight: 400;"> várják a gyerekeket, de kifejezetten </span><b>középiskolás </b><span style="font-weight: 400;">korosztályra szabott tanfolyamot is hirdetnek. </span></p>
+<p><span style="font-weight: 400;">Az állandó foglalkozások és napközis táborok </span><b>Budapesten</b><span style="font-weight: 400;">, az ottalvós </span><b>nyári tábor a Balatonon</b><span style="font-weight: 400;"> kerül megrendezésre.</span></p>
+<h3></h3>
+<h3><a href="https://www.logiscool.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Logiscool</span></a></h3>
+<p><span style="font-weight: 400;">Nyári táborok </span><b>(játékkészítés, robotika, programozás, Minecraft és digitális tábor</b><span style="font-weight: 400;">) 6-tól egészen 18 éves korig. Programozókurzusok és nyári intenzív tanfolyamok, változatos témákban és módszerekkel. Azonnali sikerélményt nyújtó, saját fejlesztésű programnyelv és oktatási platform, a &lt;scoolcode&gt; használata.  </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Budapesten több helyszínen (összesen 11 helyszín)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A főváros vonzáskörzetében: Budaörs, Dunakeszi, Gyál, Szentendre </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Az ország sok más pontján: Baja, Békéscsaba, Debrecen, Dunaújváros, Érd, Esztergom, Győr, Jászberény/Hatvan, Kaposvár/Balatonboglár, Kecskemét, Nyíregyháza, Pécs, Sopron, Szeged, Székesfehérvár, Szigetszentmiklós, Szolnok/Szombathely, Tatabánya/Tata, Vác, Veszprém, Zalaegerszeg, Keszthely</span></li>
+</ul>
+<p><iframe loading="lazy" title="Logiscool bemutatkozó kisfilm" width="1080" height="608" src="https://www.youtube.com/embed/D--dINRJSnE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3><a href="https://skool.org.hu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SKOOL</span></a></h3>
+<p><span style="font-weight: 400;">A SKOOL közösség egyedi színfolt a gyerek programozás-oktatás palettáján, mivel kifejezetten </span><b>lányoknak </b><span style="font-weight: 400;">szól. Egy összetartó, </span><b>támogató közösség</b><span style="font-weight: 400;">, ami tudatosítja a fiatal lányokban, hogy a technológia világa nem csak a fiúk terepe. </span><b>8-tól egészen 21 éves korig</b><span style="font-weight: 400;"> várják a tanulókat, a kisebbeknek játékos programozás-oktatás, Scratch, a nagyobbaknak app-fejlesztés, játékprogramozás, weboldalak készítése. </span></p>
+<p><div id="attachment_10268" style="width: 572px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10268" loading="lazy" class="size-full wp-image-10268" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/skool.png" alt="" width="562" height="541" srcset="/blog/wp-content/uploads/2020/10/skool.png 562w, /blog/wp-content/uploads/2020/10/skool-300x289.png 300w" sizes="(max-width: 562px) 100vw, 562px" /><p id="caption-attachment-10268" class="wp-caption-text">Credit: <a href="https://skool.org.hu/programok/" target="_blank" rel="noopener external" data-wpel-link="external">Skool</a></p></div></p>
+<p><span style="font-weight: 400;">A végzősöknek </span><b>közösségi mentorálás is elérhető:</b><span style="font-weight: 400;"> továbbtanulással, gyakornoki lehetőségekkel, karrierépítéssel kapcsolatban. A foglalkozások többsége </span><b>ingyenes</b><span style="font-weight: 400;">. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><a href="http://www.etalonschool.hu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Etalon School</span></a></h3>
+<p><b>Python oktatás</b><span style="font-weight: 400;"> grafikus sémákon keresztül és </span><b>3D animáció,</b><span style="font-weight: 400;"> tantárgyi ismeretekhez kapcsolódva (ol animált sejtműködés, vulkán, lemeztektonika, stb). 9-16 éves kor közötti tanulóknak, </span><b>Budapesten</b><span style="font-weight: 400;">.</span></p>
+<p><iframe loading="lazy" title="eTalon School - 3D modellezés, animáció oktatás gyerekeknek (élmény alapú tanulás)" width="1080" height="608" src="https://www.youtube.com/embed/G7dPP6-_xsg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3><a href="https://programozzvelunk.hu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Dr.Code</span></a></h3>
+<p><span style="font-weight: 400;">Kezdő és haladó szintű </span><b>kurzusok, programozós szülinapi partyk, nyári táborok. Játék- és webfejlesztés</b><span style="font-weight: 400;">,</span><b> robotika, Scratch, hardverépítés és -programozás</b><span style="font-weight: 400;">, és még sok más izgalmas foglalkozás. Játékos ismerkedés a programozással már 5 éves kortól, változatos technológiák, egészen emelt szintű érettségire való felkészítésig. </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Helyszínek: Kecskemét, Óbuda, Debrecen, Eger, Gyöngyös, Hatvan, Miskolc</span></li>
+</ul>
+<p><iframe loading="lazy" title="Dr. Code - Nyári tábor 2019 előzetes" width="1080" height="608" src="https://www.youtube.com/embed/y0RbENp7kc8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3><a href="http://www.kockuljokosan.hu/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kockulj okosan</span></a><span style="font-weight: 400;"> </span></h3>
+<p><div id="attachment_10267" style="width: 469px" class="wp-caption alignright"><img aria-describedby="caption-attachment-10267" loading="lazy" class="wp-image-10267" src="https://codeberryschool.com/blog/wp-content/uploads/2020/10/kockuljokosan-1024x548.png" alt="" width="459" height="246" srcset="/blog/wp-content/uploads/2020/10/kockuljokosan-1024x548.png 1024w, /blog/wp-content/uploads/2020/10/kockuljokosan-300x161.png 300w, /blog/wp-content/uploads/2020/10/kockuljokosan-768x411.png 768w, /blog/wp-content/uploads/2020/10/kockuljokosan-1080x578.png 1080w, /blog/wp-content/uploads/2020/10/kockuljokosan.png 1125w" sizes="(max-width: 459px) 100vw, 459px" /><p id="caption-attachment-10267" class="wp-caption-text">Credit: <a href="http://www.kockuljokosan.hu/" target="_blank" rel="noopener external" data-wpel-link="external">Kockulj okosan</a></p></div></p>
+<p><span style="font-weight: 400;">Izgalmas </span><b>online szakkörök</b><span style="font-weight: 400;">, amikhez az ország bármely pontjáról lehet csatlakozni. Robotika, programozástanulás, gépírásoktatás. A </span><b>tantermi órák</b> <b>Pécs</b><span style="font-weight: 400;">en valósulnak meg. </span></p>
+<p>Végezetül pedig itt egy rövid videó, amiben egy programozó kisfiú beszél arról, miért fontos, hogy minél többen és minél korábban megismerkedjenek a programozás alapjaival (a videó angol nyelvű, de feliratozható):</p>
+<p><iframe loading="lazy" title="Coding: By a kid, for kids | Krish Mehra | TEDxKentState" width="1080" height="608" src="https://www.youtube.com/embed/vOsdfRbrNdk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><span style="font-weight: 400;">Ha elsőre nehéz eligazodni a lehetőségek tengerében, oldalunkon találsz egy kis segítséget azzal kapcsolatban, milyen szempontokat érdemes figyelembe venni, mikor tanulási formát választunk gyermekünkkel: </span><a href="https://codeberryschool.com/blog/hu/valassz-kezdo-programozo-tanfolyamot/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Így válassz kezdő programozó-tanfolyamot!</span></a></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>3 gyerek mellett is meg lehet tanulni a programozást &#8211; Klement Kriszta diákunk sikertörténete</title>
+		<link>/blog/hu/3-gyerek-mellett-tanulni-programozast/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 11 Feb 2019 09:12:34 +0000</pubDate>
+				<category><![CDATA[CodeBerry Programozóiskola – Diákjaink Történetei]]></category>
+		<category><![CDATA[Abacusan-GE]]></category>
+		<category><![CDATA[ArTec]]></category>
+		<category><![CDATA[artec innovator academy]]></category>
+		<category><![CDATA[gyerek mellett végezhető munka]]></category>
+		<category><![CDATA[hogyan kell programozni]]></category>
+		<category><![CDATA[hogyan kell tanulni]]></category>
+		<category><![CDATA[junior java fejlesztő]]></category>
+		<category><![CDATA[Micro:bit]]></category>
+		<category><![CDATA[microbit programozás]]></category>
+		<category><![CDATA[milyen programozási nyelvet tanuljak]]></category>
+		<category><![CDATA[oktatás]]></category>
+		<category><![CDATA[online programozás gyerekeknek]]></category>
+		<category><![CDATA[php programozó]]></category>
+		<category><![CDATA[programozás]]></category>
+		<category><![CDATA[programozás gyerekeknek]]></category>
+		<category><![CDATA[programozás oktatás gyerekeknek]]></category>
+		<category><![CDATA[robot]]></category>
+		<category><![CDATA[robot programozás]]></category>
+		<category><![CDATA[robot programozás gyerekeknek]]></category>
+		<category><![CDATA[robotika gyerekeknek]]></category>
+		<category><![CDATA[robotika története]]></category>
+		<category><![CDATA[robotika-program]]></category>
+		<category><![CDATA[Scratch]]></category>
+		<category><![CDATA[scratch programozás]]></category>
+		<category><![CDATA[Studuino]]></category>
+		<category><![CDATA[webfejlesztő]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7065</guid>
+
+					<description><![CDATA[Klement Kriszta Orosházán nőtt fel, vendéglátóipari érettségi után költözött a fővárosba, ahol felszolgálóként dolgozott éveken át. Három gyerek mellett kezdett el éjjelente programozást tanulni, jelenleg az Abacusan Stúdióban tanítja 5-18 éves gyereknek, hogy hogyan kell robotokat programozni. A “CodeBerry Programozóiskola — Diákjaink Történetei” sorozatban olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként. Itt lakom: Budapest, Kispest Itt dolgozom: [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Klement Kriszta Orosházán nőtt fel, vendéglátóipari érettségi után költözött a fővárosba, ahol felszolgálóként dolgozott éveken át. Három gyerek mellett kezdett el éjjelente programozást tanulni, jelenleg az <a href="https://abacusan.hu/" target="_blank" rel="noopener external" data-wpel-link="external">Abacusan Stúdióban</a> tanítja 5-18 éves gyereknek, hogy hogyan kell robotokat programozni.</span></p>
+<p><em><strong>A “CodeBerry Programozóiskola — Diákjaink Történetei” sorozatban olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként.</strong></em></p>
+<blockquote>
+<p><b>Itt lakom: <span style="font-weight: 400;">Budapest, Kispest</span></b></p>
+<p><b>Itt dolgozom: <span style="font-weight: 400;">Abacusan Oktatási Stúdió</span></b></p>
+<p><strong>Ennyi időt tanultam a <a href="https://codeberryschool.com/hu/" data-wpel-link="external" target="_blank" rel="external">CodeBerry-nél:</a></strong> <span style="font-weight: 400;">kb. 10 hónap</span></p>
+</blockquote>
+<h4><b>Ha megkérdezik, hogy mi a foglalkozásod most, mit válaszolsz?</b></h4>
+<p><span style="font-weight: 400;">Megismertetem a gyerekeket (5-18 éves korig) és a velük dolgozó pedagógusokat a programozással, egy csapat segítő tagjaként. A gyerekeknél a cél a programozás élvezetes oldalának bemutatása és az érdeklődésük felkeltése. Valamint szeretnénk elkezdeni felszámolni a digitális analfabetizmust. </span></p>
+<p><span style="font-weight: 400;">Itt arra gondolok, hogy terelni kell őket a felhasználói létből a digitális világ alkotói oldala felé. Pedagógusoknál pedig ez jelentheti a robotika/programozás széleskörű tantárgyi integrációját. </span></p>
+<p><span style="font-weight: 400;">A hagyományosan programozáshoz köthető tantárgyakat oktató tanárokon túl, kifejezetten figyelünk a történelmet, irodalmat oktató kollégák bevonására is.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><b>Mivel foglalkoztál korábban, mielőtt elkezdtél programozást tanulni?</b></h4>
+<p><span style="font-weight: 400;">A világ leglelkesebb felszolgálója voltam. A munkám volt a hobbim. Amit a jelenlegi munkámról is elmondhatok. Így 42 évesen azt mondom, hogy még soha nem dolgoztam, hisz mindig olyat csináltam, amit kedveltem, szerettem. </span></p>
+<p><span style="font-weight: 400;">A mostani munkámban a legjobban a tanulás, a folyamatos személyes fejlődés lehetőségét szeretem. Azért ezt, mert ha én tanulok valami újat, akkor azt sokakkal oszthatom meg szinte azonnal. </span></p>
+<p><div id="attachment_7077" style="width: 3034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-7077" loading="lazy" class="wp-image-7077 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2019/02/Asztalom-e1549875717124.jpg" alt="A robotprogramozás terepe" width="3024" height="4032" srcset="/blog/wp-content/uploads/2019/02/Asztalom-e1549875717124.jpg 3024w, /blog/wp-content/uploads/2019/02/Asztalom-e1549875717124-225x300.jpg 225w, /blog/wp-content/uploads/2019/02/Asztalom-e1549875717124-768x1024.jpg 768w, /blog/wp-content/uploads/2019/02/Asztalom-e1549875717124-1080x1440.jpg 1080w" sizes="(max-width: 3024px) 100vw, 3024px" /><p id="caption-attachment-7077" class="wp-caption-text">Kriszta asztala</p></div></p>
+<h4><b>Miért döntöttél úgy, hogy elkezdesz webfejlesztést tanulni? </b></h4>
+<p><span style="font-weight: 400;">Igazából a lányom és barátnője fordultak 9 évesen a programozás felé és ekkor kerültünk kapcsolatba a Skoollal. Kb. 1-1,5 év után rajzolódott ki előttem, hogy ezen nekem is el lehetne gondolkodnom. </span></p>
+<p><span style="font-weight: 400;">Minden benne volt, amit kerestem: új pálya, home office lehetősége, kihívás, kötetlen munkaidő (éjjel sokat lehet haladni <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ), folyamatos fejlődés/tanulás, új kapcsolatok, nyugdíjasan is végezhető tevékenység. A gyerekek mellé nekem is fel kellett zárkóznom a digitális írástudásban!</span></p>
+<h4><b>Hogyan tanultál meg programozni? Milyen tanfolyamokat, blogokat, könyveket stb. használtál? </b></h4>
+<p><span style="font-weight: 400;">Nem mondanám magam egy kiforrott programozónak. Inkább az alapokat sajátítottam el és azokat is alkalmazom nap mint nap szakmai vezetés/támogatás mellett. Első nagy találkozás ezzel a világgal Pasztuhov Dániel e-mailes Java tanfolyama volt. </span></p>
+<p><span style="font-weight: 400;">Majd <a href="https://nagygusztav.hu/web-programozas" target="_blank" rel="noopener external" data-wpel-link="external">Nagy Gusztáv &#8211; Webprogramozás</a> könyvén haladtam végig, az ő Skype-os támogatásával. Mindenképpen olyan oktatási formát kellett találnom, amit otthonról is elérhetek, mert 3 gyerekem van. </span></p>
+<p><span style="font-weight: 400;">Ezekben a lehetőségekben, valamint a CodeBerry-ben is az a legjobb, hogy éjjel is lehet tanulni, haladni és nappal foglalkozhatok a gyerekkel, a feladatokkal és az egyéb kihívásokkal. A CodeBerry-t már munka mellett csináltam és teljesen a saját tempóban. Amennyit aktuálisan tudtam vállalni, annyit haladtam. </span></p>
+<h4><b>Milyen volt a CodeBerryben tanulni? Mit adott neked a CodeBerry?</b></h4>
+<p><span style="font-weight: 400;">A személyes mentorálás nagyon tetszett. Gyorsan kaptam segítséget, ha elakadtam és mindig tudtam, hogy nem vagyok egyedül. De legtöbbször nem a konkrét választ adta meg Amanda, hanem igyekezett rávezetni a megoldásra, tippeket adott és így általában én magam jöhettem rá a helyes kódra. </span></p>
+<p><span style="font-weight: 400;">Nagyon tetszett, hogy látom mennyit haladtam és merre is mehetek tovább a leckéket követve. A virtuális tanulócsoport is aktívan működött és ott találtam rá egy másik mentoromra, aki sokat segített. </span></p>
+<p><span style="font-weight: 400;">Azt szeretem ebben a közösségben, hogy mindenki lelkesen segít a másiknak a saját szabadidejét feláldozva, valóban mindennemű haszonszerzés, nyereségvágy nélkül. Kapus Csaba is mindig válaszolt, rengeteg gyakorlati tudást adott át önzetlenül, amit ezúton is köszönök neki.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><b>Milyen tapasztalatot, tippet-trükköt osztanál meg szívesen azokkal, akik most kezdik a tanulást? </b></h4>
+<p><span style="font-weight: 400;">A legfontosabb, hogy bátran vágjon bele bárki, akiben csak felmerül az ötlet. A neten elérhetők ingyenes magyar és angol nyelvű oldalak, ahonnan néhány alapkészséget elsajátíthat az ember. </span></p>
+<p><span style="font-weight: 400;">Kipróbálhatja, hogy tényleg neki való-e a dolog. Utána, ennek az alapnak a birtokában, jöhet a rendszerezett tudás megszerzése. Akár egy ilyen online suliban. Azt élvezem a webprogramozásban, amit a felszolgálásban is szerettem: a kreativitást és a “kiszolgálás” lehetőségét.</span></p>
+<p><span style="font-weight: 400;">Ami még fontos; a megszerzett tudásunk multiplikátor hatása. Nagyon fontos ez mindaddig, amíg ennyire hiányzik az oktatásból ennek a tudásnak az átadása. </span></p>
+<p><span style="font-weight: 400;">Próbálom meggyőzni a környezetemet, hogy engedjék közel ehhez a területhez a gyerekeket. Ne csak fogyasztók legyenek a gyerekek a digitális világban, hanem a játékok/app-ok létrehozói is. </span></p>
+<p><span style="font-weight: 400;">Lányos anyaként nem győzöm hangsúlyozni, milyen fontos ez a tudás a lányoknak IS! Csak először van ez messze a ruhatervezéstől, rajzolástól, azaz bármilyen kreatív, lányok által preferált szakmától! A webprogramozás is legalább olyan kreatív dolog &#8211; személyesen meg is éltem ezt a felismerést anno!</span></p>
+<h4><b>Mesélj arról picit, hogy hol dolgozol most, mik a feladataid? Hogy telik most egy napod, egy heted?</b></h4>
+<p><span style="font-weight: 400;">Sokszor mondják, hogy a szülői szerep egy kész logisztikai kihívás (nyelv, sport, zene, versenyek, ez mind háromszor)&#8230;és tényleg! Ezt itt remekül tudom hasznosítani. </span></p>
+<p><span style="font-weight: 400;">Rendkívül szerteágazó a Stúdióban a munkám. A japán<a href="https://www.youtube.com/watch?v=jWuXSubP-mQ" target="_blank" rel="noopener external" data-wpel-link="external"> ArTec robotok</a> használatának oktatása mellett, része a munkámnak a cég webáruházának kezelése és kiszolgálása. </span></p>
+<p><span style="font-weight: 400;">Emellett a főnökeim keze alá is dolgozok és ha kell raktárt pakolok vagy takarítok. Ezen felül én vagyok felelős az Abacusan-GE országot lefedő, ingyenes robotika-program koordinálásáért és kommunikációjáért. </span></p>
+<p><span style="font-weight: 400;">Ebben a szakmában és ezen a munkahelyen rengeteg lehetőség nyílik az önkénteskedésre, ami nagyon inspiráló és sokszor ad új lendületet a csapatnak is.</span></p>
+<p><span style="font-weight: 400;">Ha hétvégi megjelenésünk van, legtöbbször vihetem és viszem is magammal a gyerekeket. Hétközben, pedig mivel főleg iskolákhoz kötött a személyes jelenlétem, napközben vagyok az irodában vagy az adott intézményben. </span></p>
+<p><span style="font-weight: 400;">Ha pedig valamelyik csemetémnek szüksége van rám (orvos, nincs suli, csak pihenne egyet), akkor megbeszéljük és otthonról is be tudok kapcsolódni akármikor.</span></p>
+<h4><b>Kikkel dolgozol együtt, kik és hogyan segítik a munkádat?</b></h4>
+<p><span style="font-weight: 400;">A cég két alapítójával, Sugár Sárával ás Büti Istvánnal, akik szakmailag képeznek, mentorálnak, személyesen pedig minden támogatást megadnak, hogy a család mellett is tudjak 100%-osan teljesíteni. </span></p>
+<p><span style="font-weight: 400;">A közvetlen kollégámmal, Szandavári Balázzsal pedig a tényleges megvalósításokon, azaz a robotokon dolgozok. Valamint a képzéseket, iskolai programokat teljesen csapatban végezzük mind a négyen.</span></p>
+<p><div id="attachment_7075" style="width: 3034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-7075" loading="lazy" class="wp-image-7075 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2019/02/Tanterem-bemutató-terem1-e1549876113567.jpg" alt="A robotprogramozás terepe" width="3024" height="4032" srcset="/blog/wp-content/uploads/2019/02/Tanterem-bemutató-terem1-e1549876113567.jpg 3024w, /blog/wp-content/uploads/2019/02/Tanterem-bemutató-terem1-e1549876113567-225x300.jpg 225w, /blog/wp-content/uploads/2019/02/Tanterem-bemutató-terem1-e1549876113567-768x1024.jpg 768w, /blog/wp-content/uploads/2019/02/Tanterem-bemutató-terem1-e1549876113567-1080x1440.jpg 1080w" sizes="(max-width: 3024px) 100vw, 3024px" /><p id="caption-attachment-7075" class="wp-caption-text">A tantermünk</p></div></p>
+<h4><b>Milyen szoftvereket, eszközöket, technológiákat használsz jelenleg a munkád során?</b></h4>
+<p><span style="font-weight: 400;">Jelenleg egy japán software-t használok, amit az amerikai <a href="https://www.mit.edu/" target="_blank" rel="noopener external" data-wpel-link="external">MIT</a> és a japán <a href="https://www.artec-kk.co.jp/en/artecrobo-movie/" target="_blank" rel="noopener external" data-wpel-link="external">ArTec</a> csapata közösen fejleszt. Teljesen Scratch-alapú, de annak a robotokra optimalizált változata. Idén pedig ez a software, a Studuino már a Micro:bit-tel is kompatibilis lesz. </span></p>
+<p><span style="font-weight: 400;">Ezek a platformok jelenleg az oktatásban nemzetközi szinten a legelfogadottabbak és leghatékonyabban használhatóak.</span></p>
+<h4><b>Mennyi ideig kerestél állást? Nehéz volt munkahelyet találni?</b></h4>
+<p><span style="font-weight: 400;">Azon kevés ember közé tartozhatom, akit felhívtak, hogy jönne-e dolgozni, ha van lehetőség! Két családi napon találkoztam az Abacusan Stúdióval, ahova elvittem a gyerekeket. Akkor megadtam a számomat, hogy értesítéseket kapjak a jövőbeli programokról és ez a munka lett a lehetőség. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h4><b>Mit tanácsolsz azoknak, akik felvételire készülnek épp? </b></h4>
+<p><span style="font-weight: 400;">Sok multi cégnél megfordulok önkéntes programok keretein belül és az a tapasztalatom, hogy angol + egy ritka európai nyelv ismerete és junior szint mellett tárt kapuk várják a tenni akarókat. Itt a ritka európai nyelven van a hangsúly. </span></p>
+<h4><b>Mi a következő lépés a számodra? Merre tovább?</b></h4>
+<p><span style="font-weight: 400;">Jelenleg, az óvodások számára készült, <a href="http://logicosan.hu/index.php?route=product/product&amp;path=89_91&amp;product_id=90" target="_blank" rel="noopener external" data-wpel-link="external">ArTec Innovator Academy</a> bevezetésében veszek részt. Így Magyarországon a programozásba szinte eddig érintetlenül hagyott korosztályt vonunk be, amihez néhány új “skillt” is meg kell tanulnom. </span></p>
+<p><span style="font-weight: 400;">Emellett, Sára vezetésével, egy japán program lokalizálásán is dolgozom a foglalkozásokon levont tapasztalatokat felhasználva.</span></p>
+<p id="7307" class="graf graf--p graf-after--figure"><em><strong>A <a href="https://codeberryschool.com/blog/hu/category/diakjaink-tortenetei/" data-wpel-link="external" target="_blank" rel="external">“CodeBerry Programozóiskola — Diákjaink Történetei” sorozatban</a> olyan diákjainkkal beszélgetünk, akik sikeresen elhelyezkedtek fejlesztőként.</strong></em></p>
+<h3><em>Ha te is szívesen lépnél fejlesztői pályára, a következő cikkekből megtudhatod, hogyan vágj bele, illetve tippekkel és trükkökkel is segítünk az indulásban:</em></h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" data-wpel-link="external" target="_blank" rel="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" data-wpel-link="external" target="_blank" rel="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" data-wpel-link="external" target="_blank" rel="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" data-wpel-link="external" target="_blank" rel="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" data-wpel-link="external" target="_blank" rel="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" data-wpel-link="external" target="_blank" rel="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" data-wpel-link="external" target="_blank" rel="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+</ul>
+<p id="df8c" class="graf graf--p graf-after--p graf--trailing"><em><strong>Szeretnél te is megtanulni programozni? Gyere és próbáld ki ingyen az első 25 leckét a<a class="markup--anchor markup--p-anchor" href="https://codeberryschool.com/hu/" target="_blank" rel="noopener noreferrer external" data-href="https://codeberryschool.com/hu/" data-="" data-wpel-link="external"> CodeBerry Programozóiskolában</a>.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

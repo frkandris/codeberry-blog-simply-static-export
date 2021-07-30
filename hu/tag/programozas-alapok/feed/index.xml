@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>programozás alapok | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/programozas-alapok/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 23 May 2021 16:02:50 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>A  programozás alapjai &#8211; 5 hasznos tipp az induláshoz</title>
+		<link>/blog/hu/programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 08:58:22 +0000</pubDate>
+				<category><![CDATA[Bevezetés a programozásba]]></category>
+		<category><![CDATA[a programozás alapjai]]></category>
+		<category><![CDATA[blog írás alapjai]]></category>
+		<category><![CDATA[code berry]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry school]]></category>
+		<category><![CDATA[codeberryschool]]></category>
+		<category><![CDATA[git oktatás]]></category>
+		<category><![CDATA[git tanfolyam]]></category>
+		<category><![CDATA[online programozás]]></category>
+		<category><![CDATA[progamozás könyv]]></category>
+		<category><![CDATA[programkódok]]></category>
+		<category><![CDATA[programozás]]></category>
+		<category><![CDATA[Programozás alapjai]]></category>
+		<category><![CDATA[programozás alapjai könyv]]></category>
+		<category><![CDATA[programozás alapok]]></category>
+		<category><![CDATA[programozás kezdőknek]]></category>
+		<category><![CDATA[programozás kezdőknek könyv]]></category>
+		<category><![CDATA[programozás könyvek]]></category>
+		<category><![CDATA[programozás tanfolyam]]></category>
+		<category><![CDATA[programozó tanfolyam online]]></category>
+		<category><![CDATA[r programozás]]></category>
+		<category><![CDATA[szoftverfejlesztés okosan pythonnal]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=8244</guid>
+
+					<description><![CDATA[A CodeBerry Programozóiskola &#8220;Bevezetés a programozásba&#8221; című cikksorozatában programozással kapcsolatos témákat feszegetünk, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a blogunkat, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz! Ebben a cikkben arra vállalkozunk, hogy végighaladjunk azokon a szempontokon, amik a programozás alapjaival való ismerkedéskor felmerülhetnek. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>A <a href="https://codeberryschool.com/hu/" data-wpel-link="external" target="_blank" rel="external">CodeBerry Programozóiskola</a> <a href="https://codeberryschool.com/blog/hu/category/bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external">&#8220;Bevezetés a programozásba&#8221;</a> című cikksorozatában programozással kapcsolatos témákat feszegetünk</b><span style="font-weight: 400;">, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a <a href="https://codeberryschool.com/blog/hu/" target="_blank" rel="noopener external" data-wpel-link="external">blogunkat</a>, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz!</span></p>
+<p><span style="font-weight: 400;">Ebben a cikkben arra vállalkozunk, hogy végighaladjunk azokon a szempontokon, amik <strong>a </strong></span><strong>programozás alapjai</strong><span style="font-weight: 400;"><strong>val való ismerkedéskor</strong> felmerülhetnek.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-11997 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/12.png" alt="Basics of programming course" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/12.png 1024w, /blog/wp-content/uploads/2020/06/12-300x100.png 300w, /blog/wp-content/uploads/2020/06/12-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3></h3>
+<h3 style="text-align: left;">1. Programozás, mint gyűjtőfogalom – Mi mindent rejt ez a kifejezés?</h3>
+<p><span style="font-weight: 400;">Ha azt halljuk valakiről, hogy programozó, már sok mindent sejthetünk arról, hogy milyen komplex, odafigyelést igénylő, érdekes munkát végez. De valójában ennyiből még nem tudjuk igazán, hogy mivel foglalkozik pontosan, milyen lehet egy napja, milyen feladatai vannak. </span></p>
+<p><span style="font-weight: 400;"><strong>A programozás</strong> annyira sokszínű, hogy ebben a formában tulajdonképp gyűjtőfogalom, ami hatalmas ernyőként <strong>számtalan területet fog át.</strong>  </span><span style="font-weight: 400;">Annyi azonban mindenképp közös ezekben a területekben, hogy kommunikálni szükséges hozzájuk a számítógépekkel. </span></p>
+<p><span style="font-weight: 400;">Ennek a módja a <strong>programkódok írása,</strong> amit a programozók végeznek. Ezen kívül t<strong>esztelnek, hibát keresnek és javítanak, dokumentálnak, ügyfelekkel kommunikálnak, tanulnak és tanítanak, csapatmunkában dolgoznak, vagy</strong> éppen egyénileg, <strong>személyes projekteket valósítanak meg.</strong></span></p>
+<p><span style="font-weight: 400;">Mit is jelent, hogy számtalan területen van jelen a programozás? Gondolj arra, mennyi különböző eszközt, alkalmazást, felületet használsz nap mint nap. <strong>Weblapok, mobil applikációk, játékok, asztali alkalmazások, beépített eszközök</strong> (például okos háztartási gépek) programjai, a sor végtelenségig folytatható.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-11435" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Untitled-design-1024x256.png" alt="" width="1024" height="256" srcset="/blog/wp-content/uploads/2020/06/Untitled-design-1024x256.png 1024w, /blog/wp-content/uploads/2020/06/Untitled-design-300x75.png 300w, /blog/wp-content/uploads/2020/06/Untitled-design-768x192.png 768w, /blog/wp-content/uploads/2020/06/Untitled-design-1080x270.png 1080w, /blog/wp-content/uploads/2020/06/Untitled-design.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Ezek létrehozása és működtetése mind-mind <strong>különböző területet</strong> és technológiát<strong> jelent a programozásban.</strong> </span></p>
+<p><span style="font-weight: 400;">Más szempontok kerülnek előtérbe és más technológiák alkalmazását jelenti annak a megtervezése és megalkotása, amit felhasználóként látunk, és annak, ami a szerver oldalán történik. <strong>A különböző technológiák más-más programozási nyelvek ismeretét igénylik.</strong></span></p>
+<p><span style="font-weight: 400;"><div class='et-box et-shadow'>
+					<div class='et-box-content'></span>Ha szeretnéd szemléletes példákon keresztül megismerni az említett kommunikációt, a <strong><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external">Rövid bevezetés a programozásba</a></strong> című cikkünket ajánljuk.</div></div></p>
+<p>&nbsp;</p>
+<h3>2. A legnépszerűbb programozási nyelvek</h3>
+<p><span style="font-weight: 400;">Több felmérés is készült arról, hogy melyek a legnépszerűbb programozási nyelvek. Mit is jelent tulajdonképpen az, hogy népszerű? </span></p>
+<p><span style="font-weight: 400;">Azok a felmérések, amik erről a témáról készülnek, nem a legjobb programozási nyelvet keresik, hiszen nincsenek legjobbak, csak adott feladatra, adott elvárásnak, célnak megfelelőbbek, vagy kevésbé megfelelőek, illetve egyes helyzetekben, egyes platformokra alkalmazható vagy alkalmatlan nyelvek.</span></p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter wp-image-11532 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877-1024x262.png" alt="" width="1024" height="262" srcset="/blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877-1024x262.png 1024w, /blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877-300x77.png 300w, /blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877-768x196.png 768w, /blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877-1080x276.png 1080w, /blog/wp-content/uploads/2020/06/most-often-used-programming-languages-e1612284778877.png 1173w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Az a </span><a href="https://www.tiobe.com/tiobe-index/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">forrás</span></a><span style="font-weight: 400;">, amit ennek a cikknek a  megírásához használtunk, azt veszi figyelembe,<strong> mely nyelveken írják a legtöbb sor kódot</strong> az adott hónapban, tehát gyakorlatilag azt méri, melyik nyelvet használják a legtöbbet. </span></p>
+<p><span style="font-weight: 400;">Ez alapján <strong>a legtöbb kódot Java nyelven</strong> <a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">(A &#8220;Java programozás alapjai&#8221; című cikkünket itt találod),</a> </span><strong>C nyelven</strong><span style="font-weight: 400;"><strong>, Pythonban, C++-ban</strong> <a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">(A C++ programozás alapjairól itt olvashatsz bővebben)</a> és<strong> C#-ban írják.</strong> Előkelő helyen szerepel még a <strong>Visual Basic</strong>, a <strong>JavaScript</strong> (<a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjairól itt olvashatsz bővebben</a>), az <strong>SQL</strong>, a <strong>PHP</strong> <a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">(A PHP programozás alapjairól itt találsz részleteket)</a> és az <strong>R</strong>.</span></p>
+<p><span style="font-weight: 400;"><strong>Több szempontot érdemes figyelembe venni,</strong> amikor döntesz egyik vagy másik nyelv megtanulása mellett, de legfőképpen azt, hogy <strong>milyen céllal használnád, mik a terveid</strong> a programozással.</span></p>
+<p><span style="font-weight: 400;"><div class='et-box et-shadow'>
+					<div class='et-box-content'>A <strong><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam</a></strong> című cikkünkben tippeket olvashatsz ahhoz, hogyan találd meg a számodra megfelelő nyelvet.</div></div> </span></p>
+<h3>3. A tanulás különböző módjai – a programozás alapjainak elsajátítása</h3>
+<p><span style="font-weight: 400;">Ha új dolgokat szeretnénk megtanulni, sokféleképpen hozzákezdhetünk, nincs ez másképp  a programozással sem. Türelemre, kitartásra és szorgalomra mindenképpen szükség lesz a programozás elsajátításához, bármilyen tanulási formát is választasz.</span></p>
+<h5>Tanulás egyénileg</h5>
+<p><div id="attachment_10026" style="width: 603px" class="wp-caption alignright"><img aria-describedby="caption-attachment-10026" loading="lazy" class="wp-image-10026" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/infograph-1024x576.jpg" alt="A különböző tanulási módok hatékonysága" width="593" height="334" srcset="/blog/wp-content/uploads/2020/06/infograph-1024x576.jpg 1024w, /blog/wp-content/uploads/2020/06/infograph-300x169.jpg 300w, /blog/wp-content/uploads/2020/06/infograph-768x432.jpg 768w, /blog/wp-content/uploads/2020/06/infograph-1080x608.jpg 1080w, /blog/wp-content/uploads/2020/06/infograph.jpg 1280w" sizes="(max-width: 593px) 100vw, 593px" /><p id="caption-attachment-10026" class="wp-caption-text">A különböző tanulási módok hatékonysága</p></div></p>
+<p><span style="font-weight: 400;">Az önálló tanulás több szempontból vonzó lehet, mindenképpen nagy előnye, hogy <strong>úgy oszthatod be az idődet,</strong> akkor és annyit haladhatsz  a tanulással, <strong>ahogy neked megfelel. </strong></span></p>
+<p><span style="font-weight: 400;">A tempót, az ismétlés és gyakorlás mennyiségét a saját igényeidre szabhatod, <strong>visszatérhetsz, újból elővehetsz bármit,</strong> amire szükség van, <strong>nem kell másokhoz alkalmazkodni. </strong></span></p>
+<p><span style="font-weight: 400;"><strong>Érdemes több forrásból meríteni a tanuláshoz,</strong> <strong>online tananyagokat, tutorialokat, <a href="https://codeberryschool.com/blog/hu/programozas-konyvek-magyarul/" target="_blank" rel="noopener external" data-wpel-link="external">könyveket</a></strong> megismerni és megkeresni a számodra legmegfelelőbb formát. Nem kell egyféle módszernél maradnod, a módszerek egymással is jól kiegészíthetők. </span></p>
+<p><span style="font-weight: 400;"><strong>Hátránya</strong> is van azonban az egyedül tanulásnak &#8211; <strong>ha elakadsz,</strong> fórumokon kívül <strong>kevés lehetőséged van kérdezni.</strong> A külső motiváció, amit a tanulótársak és a mentorok jelentenének, nagyon sokat számíthat az előrehaladásban.</span></p>
+<p><span style="font-weight: 400;"><strong>Léteznek hibrid megoldások,</strong> amik ötvözik az egyéni haladás lehetőségét és a tanulóközösség illetve a mentorok támogatását. <strong>A CodeBerry-nél is így zajlik a tanulás, virtuális közösséget és online mentorálást biztosítunk. </strong></span></p>
+<h5>Tanfolyami képzések és felsőoktatás</h5>
+<p><span style="font-weight: 400;">Ha tanfolyami keretek között tanulnál, felkészült oktatókkal, lelkes csoporttársakkal, jól felépített tananyaggal, szintén lehetőségek széles skálájából válogathatsz. </span></p>
+<p><span style="font-weight: 400;">A tanfolyamokról talán sokunknak az „offline”, <strong>tantermi oktatás</strong> jut eszébe, ami számos <strong>kiváló lehetőséget rejt magában, mint a csapatépítés, kommunikációs készségek fejlesztése, jó hangulatú közös órák. </strong></span></p>
+<p><span style="font-weight: 400;">Programozni tanulni azonban <strong>online tanfolyamok</strong> keretében is lehet, a világ bármely pontjáról. <strong>Ha településeden nincs programozásoktatás, vagy nem töltenél időt az utazással vagy nem költenél az ingázásra,</strong> akkor az online tanfolyamokat neked találták ki. </span></p>
+<p><span style="font-weight: 400;"><strong>Egyetemi szinten</strong> is lehet programozni tanulni, ami <strong>jóval nagyobb elméleti tudásanyag</strong> átadásával, viszont j<strong>elentősen kevesebb gyakorlattal jár.</strong> Komplex matematikai ismeretekre tehetsz szert, a programozás hátterében meghúzódó műveleteket ismerheted meg behatóan. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12001 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h5></h5>
+<h5><span style="font-weight: 400;">Most azonban hadd ajánljunk néhány <strong>tanfolyamon kívüli, önálló fejlődést segítő anyagot.</strong></span></h5>
+<p>A programozás<strong> elméleti hátteréről:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.tankonyvtar.hu/hu/tartalom/tamop425/0008_simon/Simon_A_progr_alapjai.pdf" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Simon Gyula: A programozás alapjai, Typotex kiadó, 2011.</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Szlávi Péter, Zsakó László: Módszeres programozás, ELTE IK, 2008.</span></li>
+</ul>
+<p><span style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai:</a></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Dr Guta Gábor: Szoftverfejlesztés okosan Pythonnal – Agilis csapatok közös nyelve, Panem Könyvkiadó 2020</span></li>
+<li style="font-weight: 400;"><a href="https://gyires.inf.unideb.hu/EFOP344/PythonHTML/index.html" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Elektronikusan</span></a><span style="font-weight: 400;">: Hogyan gondolkozz úgy, mint egy informatikus? Tanulás Python 3 segítségével</span></li>
+</ul>
+<p><span style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">C# programozás alapjai:</a></span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Koncz Balázs: Hogyan válj jól fizetett C# programozóvá?, BBS-Info Kft., 2019</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Reiter István: C# programozás lépésről lépésre, Jedlik Oktatási Stúdió Bt., 2018</span></li>
+</ul>
+<p><span style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">JavaScript programozás alapjai</a> (anyagok elektronikusan):</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://webprogramozas.inf.elte.hu/tananyag/wf2/lecke3_lap1.html#hiv11" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Bevezetés a kliens- és szerveroldali webalkalmazások készítésébe / A JavaScript nyelvi alapja</span></a><span style="font-weight: 400;"> </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sallai András: </span><span style="font-weight: 400;">A JavaScript nyelv</span></li>
+</ul>
+<p><span style="font-weight: 400;">Nem nyelvre, hanem<strong> a programozás céljára fókuszálnak</strong> Fehér Krisztián könyvei:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Androidos szoftverfejlesztés alapfokon, BBS-Info Kft., 2014</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grafikus és játékalkalmazások programozása, BBS-Info Kft., 2017</span></li>
+</ul>
+<h5 style="text-align: left;">Youtube galériánkban kezdő programozóknak szóló videókból válogathatsz:</h5>
+<p>&nbsp;</p>
+<p>
+<div class="ayg ayg-theme-classic" data-params='{"autoplay":0,"loop":0,"controls":1,"modestbranding":1,"cc_load_policy":0,"iv_load_policy":0,"hl":"","cc_lang_pref":"","autoadvance":0,"player_title":0,"player_description":0}'>
+    <!-- Player -->
+    <div class="ayg-player">
+        
+<div class="ayg-player-wrapper" style="padding-bottom: 56.25%;">
+    <iframe loading="lazy" id="ayg-player-61033a7bbe3171" class="ayg-player-iframe" width="100%" height="100%" src="https://www.youtube-nocookie.com/embed/b09clOkzbtc?modestbranding=1&#038;iv_load_policy=3&#038;rel=0&#038;playsinline=1&#038;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+            </div>
+
+    <!-- Gallery -->
+    <div class="ayg-gallery ayg-row">
+        
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail ayg-active" data-id="b09clOkzbtc" data-title="Mi az a programozás? (#0 Programozás Tutorial)">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/b09clOkzbtc/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="9OHL75ILqoI" data-title="PROGRAMOZÁS Kezdőknek #1 | Alapok alapja, eljárások algoritmus">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/9OHL75ILqoI/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="qtN7dTId7sc" data-title="10 jel, hogy soha nem lesz belőled sikeres programozó">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/qtN7dTId7sc/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="guzcGxUM2CU" data-title="Python programozás kezdőknek - 01 - bevezető">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/guzcGxUM2CU/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="DeK1kl9hV7Y" data-title="Programozás kezdőknek C nyelv #1 - Első program">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/DeK1kl9hV7Y/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="pGFPysXqgNw" data-title="Webfejlesztés alapok abszolút kezdőknek | Javascript | ALAPOK">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/pGFPysXqgNw/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="5RhBckbccZQ" data-title="#Programozás, mint karrier - avagy 14 és 41 évesen is lehet belőled #programozó">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/5RhBckbccZQ/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    <div class="ayg-col ayg-col-4">
+        
+<div class="ayg-thumbnail" data-id="UHm6aKWm7nQ" data-title="A fejlesztőkörnyezet beállítása - Java programozás kezdőknek Andrissal - 1. rész">
+    <div class="ayg-thumbnail-image-wrapper">
+        <img src="https://i.ytimg.com/vi/UHm6aKWm7nQ/mqdefault.jpg" class="ayg-thumbnail-image" />
+        <div class="ayg-thumbnail-play-icon"></div>
+        <div class="ayg-thumbnail-active" style="display: none;">active</div>
+    </div>
+
+    <div class="ayg-thumbnail-caption">
+         
+
+        
+            </div>           
+</div>
+    </div>
+    </div>
+
+    <!-- Pagination -->    
+    </div>
+</p>
+<h3>4. Technikai feltételek</h3>
+<p><span style="font-weight: 400;"><strong>Ha régóta foglalkoztat a programozás és már sok információt gyűjtöttél,</strong> vagy otthon vagy az IT közegben, csak még a kódolásba nem kezdtél bele, akkor ebben a bekezdésben ismerős kifejezéseket fogsz találni. </span></p>
+<p><span style="font-weight: 400;">Ha más területről érkezel, eddig nem foglalkoztál programozással, akkor lehet, hogy benned is kérdések merültek fel az alábbiakkal kapcsolatban. </span></p>
+<h5>Számítógép és operációs rendszer</h5>
+<p><span style="font-weight: 400;"><strong>Milyen számítógép és operációs rendszer szükséges a programozáshoz,</strong> mit kell tudnia? </span></p>
+<p><span style="font-weight: 400;">Kódolni egy <strong>egyszerű laptopon vagy asztali gépen</strong> is lehet, nem szükséges a NASA szuperszámítógépét beszerezni. A legelterjedtebb otthoni operációs rendszerek (Windows, Linux, MacOS) teljesen megfelelnek a célnak. </span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_11637" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-11637" loading="lazy" class="wp-image-11637 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/big_op-rendszerek-1024x288.png" alt="" width="1024" height="288" srcset="/blog/wp-content/uploads/2020/06/big_op-rendszerek-1024x288.png 1024w, /blog/wp-content/uploads/2020/06/big_op-rendszerek-300x84.png 300w, /blog/wp-content/uploads/2020/06/big_op-rendszerek-768x216.png 768w, /blog/wp-content/uploads/2020/06/big_op-rendszerek-1536x432.png 1536w, /blog/wp-content/uploads/2020/06/big_op-rendszerek-1080x304.png 1080w, /blog/wp-content/uploads/2020/06/big_op-rendszerek.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-11637" class="wp-caption-text">Az adatok forrása: <a href="https://www.youtube.com/watch?v=0B5uHLIB0b4" target="_blank" rel="noopener external" data-wpel-link="external">You Like Data</a></p></div></p>
+<h5></h5>
+<h5>Fejlesztői környezet</h5>
+<p><span style="font-weight: 400;"><strong>Hol írom majd a kódokat, milyen környezetet használjak?</strong> Programokat írni <strong>szövegszerkesztőkben, integrált fejlesztői környezetekben és online szerkesztőfelületeken</strong> egyaránt lehet. </span></p>
+<p><span style="font-weight: 400;">Mindnek megvannak a maga előnyei, mindenki azt választhatja, ami a munkájához, igényeihez, pénztárcájához leginkább megfelelő.</span></p>
+<p><span style="font-weight: 400;">Ha szövegszerkesztőben dolgoznánk, használhatjuk például az <strong>Atom, Notepad++, Sublime Text</strong>, stb felületeket. Ezek lehetővé teszik, hogy kényelmesen írjunk és szerkesszünk kódokat, jól olvasható megjelenést biztosítanak, és számos extra funkcióval is el lehetnek látva, pl. kódkiemelés vagy súgó. </span></p>
+<p><span style="font-weight: 400;">Az <strong>integrált fejlesztői környezetek</strong> (angol rövidítésük IDE) olyan alkalmazások, melyek <strong>ismerik a nyelv szintaxisát, segítenek kiszűrni a hibákat és tisztább kódot létrehozni. </strong></span></p>
+<p><span style="font-weight: 400;">Ezen kívül tartalmaznak sablonokat és további bővítményekkel és beállításokkal szabhatók testre. Ilyenek például az </span><strong><i>Eclipse, Visual Studio Code, Webstorm, PyCharm</i></strong><span style="font-weight: 400;"><strong>,</strong> stb. A vállalatok gyakran megszabják, miben dolgoznak a fejlesztőik és vesznek számukra hozzáférést valamelyik profi fejlesztői környezethez. </span></p>
+<p><span style="font-weight: 400;">Kezdőként elindulva viszont (illetve a programozás számos területén később is) jól használhatók az olyan egyszerű <strong>online szerkesztőfelületek,</strong> mint a </span><strong><a href="https://codepen.io/" target="_blank" rel="noopener external" data-wpel-link="external">codepen.io</a></strong><span style="font-weight: 400;"> vagy a </span><strong><a href="https://repl.it/" target="_blank" rel="noopener external" data-wpel-link="external">repl.it</a>.</strong></p>
+<p><span style="font-weight: 400;"> A CodeBerry-nél a tanulás kezdő lépéseinek egyike, hogy fejlesztői környezetet alakítasz ki magadnak és <strong>megismered a <a href="https://github.com/" target="_blank" rel="noopener external" data-wpel-link="external">GitHubot,</a> </strong>azt az ingyenes online platformot, <strong>ahol tárolhatod és megoszthatod a kódjaidat.</strong> A</span><span style="font-weight: 400;"> GitHub</span><span style="font-weight: 400;">on kívül egyéb verziókezelők is elérhetők, például a </span><strong><a href="https://bitbucket.org/" target="_blank" rel="noopener external" data-wpel-link="external">Bitbucket</a></strong><span style="font-weight: 400;"> vagy a </span><a href="https://about.gitlab.com/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>GitLab</strong><span style="font-weight: 400;">.</span></a></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/programozas-alapjai-tanfolyam" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-11999 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Basics-of-Programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Basics-of-Programming-2.png 1024w, /blog/wp-content/uploads/2020/06/Basics-of-Programming-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Basics-of-Programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3>5. Milyen készségeket érdemes fejleszteni, ha programozni szeretnénk?</h3>
+<p><div style="width: 336px" class="wp-caption alignright"><img loading="lazy" src="https://images.unsplash.com/photo-1536148935331-408321065b18?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=333&amp;q=80" alt="A programozás alapjai" width="326" height="489" /><p class="wp-caption-text"><strong>Forrás: <a href="https://unsplash.com/photos/vJP-wZ6hGBg" target="_blank" rel="noopener external" data-wpel-link="external">Unsplash</a></strong></p></div></p>
+<h5>Analitikus gondolkodás</h5>
+<p><span style="font-weight: 400;">Egyetemi szintű programozói képzésre készülve tisztában kell lenni azzal, hogy az ott nyújtott oktatás komoly matematikai készségeket és ismereteket vár el, csak erős matematikai tudással végezhető. </span></p>
+<p><span style="font-weight: 400;">A<strong> tanfolyamok, gyakorlatorientált képzések</strong> <strong>és az egyéni tanulás</strong> ezzel szemben akkor is sikeres lehet, ha jóval kevesebb vagy kevésbé mély elméleti ismeretet tartalmaz, így <strong>nem igényel magas szintű matematikát. </strong></span></p>
+<p><span style="font-weight: 400;">Egyértelműen <strong>szükség van</strong> azonban a <strong>logikus, analitikus gondolkodás képességére.</strong> Az algoritmusok megértéséhez és elsajátításhoz, ha nem is hagyományos matematikai készség, de elmélyült, elemző, következetes gondolkodás mindenképp szükséges. </span></p>
+<p><span style="font-weight: 400;">Bizonyos <strong>alapfogalmakkal</strong> is tisztában kell lenni, és <strong>programozói alapműveleteket megérteni.</strong> Ezeket érdemes sokat gyakorolni és időnként újra elővenni, hogy teljesen magabiztosan tudjuk őket használni. </span></p>
+<h5>Programozóképzés anyanyelven és az angol nyelv szerepe</h5>
+<p><span style="font-weight: 400;">Fontos kérdés az angol nyelv szerepe a programozásban. Sokakat tántoríthat el, hogy nem érzik elég biztosnak az angoltudásukat, miközben mintha az IT-világ nagy része angol nyelven működne. Hogyan kerülhet be valaki, akinek esetleg még hiányosságai vannak e téren? </span></p>
+<p><span style="font-weight: 400;"><strong>A CodeBerry</strong> erre a problémára kínál megoldást azáltal, hogy <strong>az anyanyelveden teszi lehetővé a programozástanulást.</strong> Egyre több anyag (könyv, podcast, videó, tanfolyam) érhető el magyar nyelven, melyekből ebben a cikkben ajánlót is tettünk közzé. </span></p>
+<p><span style="font-weight: 400;"><strong>A tanulás megkezdéséhez</strong> és a sikeres haladáshoz tehát <strong>nem szükséges </strong>már<strong> az erős angoltudás. </strong></span></p>
+<p><span style="font-weight: 400;">Mindezzel együtt is <strong>érdemes fejleszteni az angol nyelvi készségeket,</strong> hiszen a nemzetközi fórumok, cikkek, érdekességek, leírások olvasása, a munkaerőpiaci előnyök, a globális IT vérkeringésbe való bekapcsolódás mind amellett szólnak, hogy minél jobban ismerjük meg a nemzetközi kommunikáció nyelvét.</span></p>
+<h5>Személyiségjegyek</h5>
+<p><span style="font-weight: 400;">Programozási alapokról szóló cikkünkben mindenképp meg kell említenünk azt, amire minden kezdő, lelkes ismerkedő figyelmét fel kell hívni. Ez pedig a programozás tanulása és a programozói munka végzése során <strong>szükséges</strong> <strong>kitartás, elmélyült és koncentrált figyelem. </strong></span></p>
+<p><span style="font-weight: 400;">Bármilyen formában tanulsz is, <strong>szorgalom és kitartó gyakorlás</strong> nélkül nem lesz eredményes a folyamat. Ha ezek megvannak benned, akkor viszont <strong>kreatív és örömteli alkotótevékenységet, izgalmas és kihívásokkal teli problémamegoldó folyamatot végezhetsz</strong> és a munkaerőpiaci esélyeid is nagyon kedvezően alakulnak majd. </span></p>
+<h5>Csapatmunkához szükséges készségek</h5>
+<p><span style="font-weight: 400;">Ha nem csak hobbiként szeretnél programozni, hanem ebben a szakmában képzeled el magad, akkor nagy valószínűséggel <strong>csapatban vagy ügyfelekkel együttműködve kell dolgoznod,</strong> ez pedig <strong>jó kommunikációs és együttműködő képességet igényel. </strong></span></p>
+<p><span style="font-weight: 400;">Az is fontos, hogy érthetően, tömören és <strong>hatékonyan tudd prezentálni,</strong> épp mivel foglalkozol, milyen kérdések merültek föl, mire jutottál. Ezek mind fejleszthető készségek, a hatékony programozói csapatmunkához pedig elengedhetetlenek</span></p>
+<p><span style="font-weight: 400;">Lehetetlen egy cikkben mindent érinteni, ami a programozás alapjaihoz tartozik, de reméljük, sok hasznos információval szolgált ez a betekintés.</span></p>
+<p><div class='et-box et-shadow'>
+					<div class='et-box-content'>Ha azzal a céllal olvasol bennünket, hogy tájékozódj, mielőtt belevágsz a tanulásba,<strong> érdemes megnézned a <a href="https://codeberryschool.com/blog/hu/bar-elmondta-volna-nekem-ezeket-valaki-amikor-programozni-tanultam/" target="_blank" rel="noopener external" data-wpel-link="external">programozás tanulásának kezdeteiről,</a></strong> kihívásairól és szépségeiről szóló személyes beszámolót, és <a href="https://codeberryschool.com/blog/hu/10-dolog-ami-megvaltozott-az-eletemben/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>10 dolog, ami megváltozott az életemben, amikor megtanultam kódolni</strong></a> című bejegyzésünket.</div></div></p>
+<p><b>A CodeBerry Programozóiskola A programozás alapjai című cikksorozatában programozással kapcsolatos témákat feszegetünk</b><span style="font-weight: 400;">, és mindenről szót ejtünk, amire a kezdetekben szükséged lehet. Kövesd a <a href="https://codeberryschool.com/blog/hu/" data-wpel-link="external" target="_blank" rel="external">blogunkat</a>, ha még több olyan cikket szeretnél olvasni, amiben minden programozással kapcsolatos kérdésedre választ találhatsz!</span></p>
+<h3>A programozás alapjai</h3>
+<ul>
+<li><strong>Hasznos információk az induláshoz – a programozás alapjai</strong></li>
+<li style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/rovid-bevezetes-a-programozasba/" target="_blank" rel="noopener external" data-wpel-link="external">Rövid bevezetés a programozásba</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/miert-erdemes-programozast-tanulni/" target="_blank" rel="noopener external" data-wpel-link="external">6 kiváló ok, amiért érdemes programozást tanulni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2020-ra/" target="_blank" rel="noopener external" data-wpel-link="external">Informatikus fizetési kalauz 2020-ra</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/hogyan-tanuljunk-meg-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan tanuljunk meg programozni</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/mennyi-ido-alatt-lehet-megtanulni-programozni/" target="_blank" rel="noopener external" data-wpel-link="external">Mennyi idő alatt lehet megtanulni programozni?</a></li>
+<li style="font-weight: 400;"><a href="https://codeberryschool.com/blog/hu/hogyan-valasszunk-a-szamtalan-kezdo-programozo-tanfolyam-kozul/" target="_blank" rel="noopener external" data-wpel-link="external">Hogyan válasszunk a számtalan kezdő programozó tanfolyam közül?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">Gyere, és próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="/blog/xmlrpc.php"> <!--[if lt IE 9]> <script src="/wp-content/themes/Extra/scripts/ext/html5.js" type="text/javascript"></script> <![endif]--> <script type="text/javascript">document.documentElement.className = 'js';</script> <script>var et_site_url='';var et_post_id='13335';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}</script> <link media="all" href="/blog/wp-content/cache/autoptimize/css/autoptimize_c960fe40c214caae13301c21dcf179ee.css" rel="stylesheet">
+<title>Best Way of Using Python RegEx - CodeBerry Blog</title>
+<meta name="description" content="RegEx is a sequence of characters that can be used as a tool for checking out patterns in strings. In this article, we&#039;ll show how to use Python RegEx.">
+<meta name="robots" content="nofollow, noindex">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Best Way of Using Python RegEx - CodeBerry Blog">
+<meta property="og:description" content="RegEx is a sequence of characters that can be used as a tool for checking out patterns in strings. In this article, we&#039;ll show how to use Python RegEx.">
+<meta property="og:url" content="/en/python-regex/">
+<meta property="og:site_name" content="CodeBerry Blog">
+<meta property="article:publisher" content="https://facebook.com/codeberryschool">
+<meta property="article:tag" content="python re">
+<meta property="article:tag" content="python regex match">
+<meta property="article:tag" content="python regex search">
+<meta property="article:tag" content="python replace">
+<meta property="article:tag" content="python string replace regex">
+<meta property="article:tag" content="regex in python">
+<meta property="article:tag" content="regex match">
+<meta property="article:tag" content="regex replace">
+<meta property="article:tag" content="regex replace python">
+<meta property="article:tag" content="regex tester python">
+<meta property="article:section" content="Programming tutorials">
+<meta property="og:image" content="/wp-content/uploads/2021/06/en-US-python-split.png">
+<meta property="og:image:secure_url" content="/wp-content/uploads/2021/06/en-US-python-split.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="720">
+<meta property="og:image:alt" content="Best Way of Using Python RegEx">
+<meta property="og:image:type" content="image/png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Best Way of Using Python RegEx - CodeBerry Blog">
+<meta name="twitter:description" content="RegEx is a sequence of characters that can be used as a tool for checking out patterns in strings. In this article, we&#039;ll show how to use Python RegEx.">
+<meta name="twitter:image" content="/wp-content/uploads/2021/06/en-US-python-split.png"> <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["EducationalOrganization","Organization"],"@id":"/#organization","name":"CodeBerry Programming School","url":""},{"@type":"WebSite","@id":"/#website","url":"","name":"CodeBerry Programming School","publisher":{"@id":"/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"/wp-content/uploads/2021/06/en-US-python-split.png","url":"/wp-content/uploads/2021/06/en-US-python-split.png","width":"1280","height":"720","inLanguage":"en-US"},{"@type":"Person","@id":"/en/author/blog-admin/","name":"blog-admin","url":"/en/author/blog-admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/56711a9391df5deca1c1227efe163003?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/56711a9391df5deca1c1227efe163003?s=96&amp;d=mm&amp;r=g","caption":"blog-admin","inLanguage":"en-US"},"worksFor":{"@id":"/#organization"}},{"@type":"WebPage","@id":"/en/python-regex/#webpage","url":"/en/python-regex/","name":"Best Way of Using Python RegEx - CodeBerry Blog","datePublished":"2021-06-05T13:52:20+00:00","dateModified":"2021-06-05T13:52:20+00:00","author":{"@id":"/en/author/blog-admin/"},"isPartOf":{"@id":"/#website"},"primaryImageOfPage":{"@id":"/wp-content/uploads/2021/06/en-US-python-split.png"},"inLanguage":"en-US"},{"@type":"BlogPosting","headline":"Best Way of Using Python RegEx - CodeBerry Blog","datePublished":"2021-06-05T13:52:20+00:00","dateModified":"2021-06-05T13:52:20+00:00","author":{"@type":"Person","name":"blog-admin"},"publisher":{"@id":"/#organization"},"description":"RegEx is a sequence of characters that can be used as a tool for checking out patterns in strings. In this article, we&#039;ll show how to use Python RegEx.","name":"Best Way of Using Python RegEx - CodeBerry Blog","@id":"/en/python-regex/#richSnippet","isPartOf":{"@id":"/en/python-regex/#webpage"},"image":{"@id":"/wp-content/uploads/2021/06/en-US-python-split.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"/en/python-regex/#webpage"}}]}</script> <link rel="amphtml" href="/blog/en/python-regex/amp/">
+<meta name="generator" content="AMP for WP 1.0.77.16">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="CodeBerry Blog &raquo; Feed" href="/blog/en/feed/">
+<link rel="alternate" type="application/rss+xml" title="CodeBerry Blog &raquo; Comments Feed" href="/blog/en/comments/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);</script> <meta content="Extra Child Theme v.0.0.1" name="generator">
+<link rel="stylesheet" id="extra-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext" type="text/css" media="all"> <script type="text/javascript" src="/blog/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script> <script type="text/javascript" src="/blog/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script> <script type="text/javascript" id="say-what-js-js-extra">var say_what_data = {"replacements":{"extra|Share:|":"Share"}};</script> <link rel="https://api.w.org/" href="/blog/wp-json/">
+<link rel="alternate" type="application/json" href="/blog/wp-json/wp/v2/posts/13335">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/blog/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/blog/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.8">
+<link rel="shortlink" href="/blog/?p=13335">
+<link rel="alternate" type="application/json+oembed" href="/blog/wp-json/oembed/1.0/embed?url=%2Fen%2Fpython-regex%2F">
+<link rel="alternate" type="text/xml+oembed" href="/blog/wp-json/oembed/1.0/embed?url=%2Fen%2Fpython-regex%2F&#038;format=xml">
+<meta name="generator" content="Site Kit by Google 1.37.0"> <script src="//a.mailmunch.co/app/v1/site.js" id="mailmunch-script" data-mailmunch-site-id="189169" async="async"></script>  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1589324797954727'); // Insert your pixel ID here.
+    fbq('track', 'PageView');</script> <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1589324797954727&ev=PageView&noscript=1"></noscript>  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-1069862890"></script> <script>window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'AW-1069862890');</script> <link rel="preload" href="/blog/wp-content/themes/Extra/core/admin/fonts/modules.ttf" as="font" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+<link rel="shortcut icon" href="/blog/wp-content/uploads/2016/08/logo.png">
+<meta name="google-site-verification" content="8YuGEFmtq5Gg0gV45ZTZxw5TRk6DgrTmnSW6r-STh2U">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700" rel="stylesheet">
+</head>
+<body class="post-template-default single single-post postid-13335 single-format-standard et-tb-has-template et-tb-has-header et-tb-has-footer et_monarch et_extra et_fullwidth_nav et_fullwidth_secondary_nav et_non_fixed_nav et_pb_gutters3 et_primary_nav_dropdown_animation_Default et_secondary_nav_dropdown_animation_Default with_sidebar with_sidebar_right et_includes_sidebar et-db">
+<div id="page-container" class="page-container"><div id="et-boc" class="et-boc">
+<header class="et-l et-l--header"><div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_header et_section_regular">
+<div class="et_pb_row et_pb_row_0_tb_header et_pb_equal_columns et_pb_gutters1 et_pb_row--with-menu">
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough"><div class="et_pb_module et_pb_image et_pb_image_0_tb_header et_pb_image_sticky"> <a href="https://codeberryschool.com/blog" data-wpel-link="external" target="_blank" rel="external"><span class="et_pb_image_wrap "><img loading="lazy" width="564" height="89" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green.png" alt="" title="" srcset="/blog/wp-content/uploads/2021/02/logo_green.png 564w, /blog/wp-content/uploads/2021/02/logo_green-300x47.png 300w" sizes="(max-width: 564px) 100vw, 564px" class="wp-image-11931"></span></a>
+</div></div>
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough"><div class="et_pb_module et_pb_search et_pb_search_0_tb_header  et_pb_text_align_left et_pb_bg_layout_light"><form role="search" method="get" class="et_pb_searchform" action="/blog/en/"><div> <label class="screen-reader-text" for="s">Search for:</label> <input type="text" name="s" placeholder="" class="et_pb_s"> <input type="hidden" name="et_pb_searchform_submit" value="et_search_proccess"> <input type="hidden" name="et_pb_include_posts" value="yes"> <input type="hidden" name="et_pb_include_pages" value="yes"> <input type="submit" value="Search" class="et_pb_searchsubmit">
+</div></form></div></div>
+<div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu"><div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-centered"><div class="et_pb_menu_inner_container clearfix"><div class="et_pb_menu__wrap">
+<div class="et_pb_menu__menu"><nav class="et-menu-nav"><ul id="menu-english-head-menu" class="et-menu nav downwards">
+<li class="et_pb_menu_page_id-5665 menu-item menu-item-type-custom menu-item-object-custom menu-item-5665"><a href="https://codeberryschool.com/" data-wpel-link="external" target="_blank" rel="external">Home</a></li>
+<li class="et_pb_menu_page_id-6095 menu-item menu-item-type-custom menu-item-object-custom menu-item-6095"><a href="/blog/en" data-wpel-link="internal">Blog</a></li>
+<li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-5664">
+<a href="#pll_switcher"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></a><ul class="sub-menu">
+<li class="lang-item lang-item-3 lang-item-en current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-en"><a href="/blog/en/python-regex/" hreflang="en-US" lang="en-US" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAmVBMVEViZsViZMJiYrf9gnL8eWrlYkjgYkjZYkj8/PujwPybvPz4+PetraBEgfo+fvo3efkydfkqcvj8Y2T8UlL8Q0P8MzP9k4Hz8/Lu7u4DdPj9/VrKysI9fPoDc/EAZ7z7IiLHYkjp6ekCcOTk5OIASbfY/v21takAJrT5Dg6sYkjc3Nn94t2RkYD+y8KeYkjs/v7l5fz0dF22YkjWvcOLAAAAgElEQVR4AR2KNULFQBgGZ5J13KGGKvc/Cw1uPe62eb9+Jr1EUBFHSgxxjP2Eca6AfUSfVlUfBvm1Ui1bqafctqMndNkXpb01h5TLx4b6TIXgwOCHfjv+/Pz+5vPRw7txGWT2h6yO0/GaYltIp5PT1dEpLNPL/SdWjYjAAZtvRPgHJX4Xio+DSrkAAAAASUVORK5CYII=" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></a></li>
+<li class="lang-item lang-item-6 lang-item-hu no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-hu"><a href="/blog/hu/" hreflang="hu-HU" lang="hu-HU" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAAm0lEQVR4AWM4x4AFHUZF2xAILP2yogINPcvIgKCnUVEQ9MjPD4hWwjUgS0DQPXsHCLqppQVBQDZCA0HVCA1/McAvJPAVFTx79oyBsGpMDQilmKoxNTA4MiStT3aY5wBBJtNMgEh7grZKr4pst6x4u7hAswAQcddyAwUZGBmgGgiqRtcARAFLAuAIrh9uBMQUqAYGTRgSgSFGnAgA0U0GZhH1QEwAAAAASUVORK5CYII=" alt="Magyar" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Magyar</span></a></li>
+<li class="lang-item lang-item-10 lang-item-ro no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-ro"><a href="/blog/ro/" hreflang="ro-RO" lang="ro-RO" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAbFBMVEUAJsgAFMT13wDyAgLqAAB4muX8/G3581z5Vlb3RkZagt78/Ef5+T/08Tn1NTX1KSlQe9709Ez5+TX36S71GxvkAABHdNv4+CvzDw8AA7lqjuFBcNn29h/05Rg6adnfAAAAAK3nvQDrwgDkqgALguDCAAAAX0lEQVR4ARXHtWEDQBAEwNmn4BMz9V+eIzsTS8c7EWqR2mQgkJDTYHIZ5cRRg7XJWjG9tLIypqmVV7k0aN8f1vTw3OXaNft5mwyyG7NTxi/5+WPFSdYpPA+fSG60/4074PMLPA8bHzoAAAAASUVORK5CYII=" alt="Română" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Română</span></a></li>
+<li class="lang-item lang-item-14 lang-item-pl no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-pl"><a href="/blog/pl/" hreflang="pl-PL" lang="pl-PL" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAPFBMVEX/8fH67Ozz5ubt4OD+/v77+/v39/fo2Nj5AAD+jo79bW36X1/4T0/5QUHhAAD3MzP0Kir2ICDzERHtAACO5h0ZAAAAQUlEQVR4AQXBsRHDMAwAMTzNwvuvm5MVIECIZIEQZ4EQ7AAIGBABegsR+Z7VxChx7hCjhIwYJcTydcgQ1gv8Lhd/58kJTU6WtnIAAAAASUVORK5CYII=" alt="Polski" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Polski</span></a></li>
+<li class="lang-item lang-item-749 lang-item-esmx no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-esmx"><a href="/blog/esmx/" hreflang="es-MX" lang="es-MX" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEUAXgnp6ejj49zOAADGAACBvZl+u5Z2t4/9/f36+vrnZ2tmrYNdqXv29vbjR03fQkjjWFy4AABVpHba0LzfOD5PoXHg1sXHsIyDXjzSxq8AUQCrtaONfWn08fHbLTPgTVBInWudrZk7lmHYIymvAAAAQwAANwAAJQDU1NTKxMQZpDQjAAAAaklEQVR4ATXItUEEUAAFsLxvuDc4+2+Fu0ODnFSXMgGBRIguWQS/0YdMZqJFkiIyWFttkk4jqs1kfHcohzG059YetlndUhh1zYF+ZnUVhbpW3A4X6O97be1jDevP1nRoPGUAz9ByFAJZgjmA3Q34KhcIQAAAAABJRU5ErkJggg==" alt="Español" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Español</span></a></li>
+<li class="lang-item lang-item-949 lang-item-ptbr no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-ptbr"><a href="/blog/ptbr/" hreflang="pt-BR" lang="pt-BR" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAn1BMVEUAYQAAWwAAUgAARwAAOgAALgAAIwB/voB4uni242pttG1kr2Rdq11RpFEAGAD9/Uv8/VT690U/mz83lTguki4ADQCp2lJ3d+Q+dfpkaun47zii1B9IoEhgslHOy6fZ5virw/Iubfhsc6v29iMfih+Wy3Nbg+lzm/m61vd+oNr08hZ2uDcAAQCPlLSuraIzmA8yjzKw3z8nXvcTgxM1pTDYD/UeAAAAfUlEQVR4AUWIA3oFMBCE/4mT2nbvf6biQ91n27tjAaDNi7gaFuLAIexiUDc6QKUfhKaVva5Dh/Xu3rwrqYPTzfeYVNvrRvUiUUbvO5hIVR0f8f7TYCo797+6POgOqtm9n8nGQ1qP/395v7cHw4FsQohnXhE3DOSQSETOmN8EHiUfBxs2q7sAAAAASUVORK5CYII=" alt="Português" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Português</span></a></li>
+<li class="lang-item lang-item-1101 lang-item-id no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-id"><a href="/blog/id/" hreflang="id-ID" lang="id-ID" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAARVBMVEXfAgDPAADskYrvh4Dsd27qa2PoYVi9AADmV03kTULiQzfeMyf2vrryq6ftoJvMGA/8/Pz5+fn39/fz8/Pm5ubg4ODt7u3lScs2AAAAR0lEQVR4AQXBsRGDQBAAMe39e0gcuP86CTEgBSAgIwipzYiMdBmJjITNMJJYd58jhBPf+kEiaCARaFIiWEyA58Gf3bJwI3gBwHkHZeHbupcAAAAASUVORK5CYII=" alt="Bahasa Indonesia" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Bahasa Indonesia</span></a></li>
+<li class="lang-item lang-item-1105 lang-item-vi no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-vi"><a href="/blog/vi/" hreflang="vi" lang="vi" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAATlBMVEX+AAD2AADvAQH/eXn+cXL9amr8YmL9Wlr8UlL7TkvoAAD8d0f6Pz/3ODf2Ly/0KSf6R0f6wTv60T31IBz6+jr4+Cv3QybzEhL4bizhAADgATv8AAAAW0lEQVR4AQXBgU3DQBRAMb+7jwKVUPefkQEQTYJqByBENpKUGoZslXoN5LPONH8G9WWZ7pGlOn6XZmaGRce1J/seei4dl+7dPWDqkk7+58e3+igdlySPcYbwBG+lPhCjrtt9EgAAAABJRU5ErkJggg==" alt="Tiếng Việt" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Tiếng Việt</span></a></li>
+<li class="lang-item lang-item-7849 lang-item-fi no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-5664-fi"><a href="/blog/fi/" hreflang="fi-FI" lang="fi-FI" data-wpel-link="internal"><img loading="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAPFBMVEXm6/Pl6/UAKb7b4OvS2OTEzNr9/f6DpeX5+fn09PRjjN1VgtlLetVActEyaM0AAIm9xNW4wM8AAJ2ossIJ2VMtAAAATUlEQVR4AQXBQQrCQBRAsbzfURDB+19UXFinJqEIpNyJi0HfBQfnQFcLMIg0twOR9FsLJIkMJACrtiNnwBqbFPhoGbau4EGHvNjvJzF/+bYNXW6C7PcAAAAASUVORK5CYII=" alt="Suomi" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Suomi</span></a></li>
+</ul>
+</li>
+</ul></nav></div>
+<div class="et_mobile_nav_menu"><div class="mobile_nav closed"> <span class="mobile_menu_bar"></span>
+</div></div>
+</div></div></div></div>
+</div>
+<div class="et_pb_row et_pb_row_1_tb_header"><div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child"><div class="et_pb_module et_pb_sidebar_0_tb_header et_pb_widget_area clearfix et_pb_widget_area_left  et_pb_text_align_center et_pb_bg_layout_light et_pb_sidebar_no_border"><div id="categories-2" class="et_pb_widget widget_categories">
+<h4 class="widgettitle">Categories</h4>
+<ul>
+<li class="cat-item cat-item-5881"><a href="/blog/en/category/basics-of-programming/" data-wpel-link="internal">Basics of Programming</a></li>
+<li class="cat-item cat-item-7653"><a href="/blog/en/category/codeberry-magazine/" title="If you are interested in history of programming or like funfacts and curiosities about coding, you&#039;ll definitely love our magazine with specialized articles about the IT world." data-wpel-link="internal">CodeBerry Magazine</a></li>
+<li class="cat-item cat-item-5907"><a href="/blog/en/category/codeberry-ships-logbook/" data-wpel-link="internal">CodeBerry ship’s logbook</a></li>
+<li class="cat-item cat-item-5909"><a href="/blog/en/category/codeberry-student-stories/" data-wpel-link="internal">CodeBerry Student Stories</a></li>
+<li class="cat-item cat-item-18"><a href="/blog/en/category/interviews/" data-wpel-link="internal">Interviews</a></li>
+<li class="cat-item cat-item-5905"><a href="/blog/en/category/meet-the-codeberry-team/" title="A short introduction-series where we are talking a bit about ourselves - who we are, about our career, and about our roles inside and outside of the Codeberry." data-wpel-link="internal">Meet the CodeBerry team</a></li>
+<li class="cat-item cat-item-5687"><a href="/blog/en/category/other/" data-wpel-link="internal">Other</a></li>
+<li class="cat-item cat-item-8184"><a href="/blog/en/category/programmer-salaries/" data-wpel-link="internal">Programmer Salaries</a></li>
+<li class="cat-item cat-item-5911"><a href="/blog/en/category/programming-courses/" data-wpel-link="internal">Programming courses</a></li>
+<li class="cat-item cat-item-5887"><a href="/blog/en/category/programming-languages/" title="In CodeBerry Programming School’s “Beginner’s Guide” series, we’ll be answering questions you may have regarding what programming language to choose, how much money you’ll be making, what you can do as a web programmer, and where to start." data-wpel-link="internal">Programming languages</a></li>
+<li class="cat-item cat-item-7408"><a href="/blog/en/category/programming-tutorials/" data-wpel-link="internal">Programming tutorials</a></li>
+<li class="cat-item cat-item-743"><a href="/blog/en/category/articles/" data-wpel-link="internal">Tips and tricks for beginner programmers</a></li>
+</ul>
+</div></div></div></div>
+</div></div></header><div id="main-content"><div class="container"><div id="content-area" class="clearfix">
+<div class="et_pb_extra_column_main">
+<article id="post-13335" class="module single-post-module post-13335 post type-post status-publish format-standard has-post-thumbnail hentry category-programming-tutorials tag-python-re tag-python-regex-match tag-python-regex-search tag-python-replace tag-python-string-replace-regex tag-regex-in-python tag-regex-match tag-regex-replace tag-regex-replace-python tag-regex-tester-python et-has-post-format-content et_post_format-et-post-format-standard"><div class="post-header">
+<h1 class="entry-title">Best Way of Using Python RegEx</h1>
+<div class="post-meta vcard"><p></p></div>
+</div>
+<div class="post-thumbnail header"> <img src="/blog/wp-content/uploads/2021/06/en-US-python-split-1280x640.png" alt="Best Way of Using Python RegEx">
+</div>
+<div class="post-wrap"><div class="post-content entry-content">
+<div class="et_pb_widget widget_tag_cloud"><div class="tagcloud"> <span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/python-re/" rel="tag" data-wpel-link="internal">python re</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/python-regex-match/" rel="tag" data-wpel-link="internal">python regex match</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/python-regex-search/" rel="tag" data-wpel-link="internal">python regex search</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/python-replace/" rel="tag" data-wpel-link="internal">python replace</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/python-string-replace-regex/" rel="tag" data-wpel-link="internal">python string replace regex</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/regex-in-python/" rel="tag" data-wpel-link="internal">regex in python</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/regex-match/" rel="tag" data-wpel-link="internal">regex match</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/regex-replace/" rel="tag" data-wpel-link="internal">regex replace</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/regex-replace-python/" rel="tag" data-wpel-link="internal">regex replace python</a> </span><span class="et_pb_widget.widget_tag_cloud"> <a href="/blog/en/tag/regex-tester-python/" rel="tag" data-wpel-link="internal">regex tester python</a> </span>
+</div></div>
+<h3>What is Python Regex?</h3>
+<p><span style="font-weight: 400;">Python RegEx is a sequence of characters that form a specific pattern and can be used as a tool for checking out patterns in strings.</span></p>
+<p><span style="font-weight: 400;">Now we can set up the pattern to what we want and then we can use python to go through the string of text and match the words or whatever in that pattern that we&#8217;re after. Python RegEx is quite a vast subject and it is very useful in the world of programming and its basics as well.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python regex – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/CyXSZR2sq3s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In this article, we are going to use the search method, although there are a few other ones, but we will be using re.search(). Now since &#8220;re&#8221; is inbuilt into the standard <a href="https://www.edureka.co/blog/python-libraries/" target="_blank" rel="noopener external" data-wpel-link="external">Python library</a> we need to import it into our workspace.</span></p>
+<h3>Import the Python RegEx module</h3>
+<p><span style="font-weight: 400;">Importing </span><span style="font-weight: 400;">re</span><span style="font-weight: 400;"> allows us to access the search command as well as other methods in the library.</span></p>
+<p><span style="font-weight: 400;">In this example, we are going to create a string object</span><span style="font-weight: 400;"> “here’s my phone number 555-555-555”. </span><span style="font-weight: 400;">We are now going to use the re module, give it a pattern and then do a search and let it return a search object.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-11995 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1.png" alt="Python" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<h3>How to use Python RegEx?</h3>
+<p><span style="font-weight: 400;">Generally speaking, you might have more complicated patterns than this.  We just need to give an r&#8221; &#8221; and then we need to open our brackets and we are going to search in this text for the word </span><span style="font-weight: 400;">“phone”</span><span style="font-weight: 400;">.Now, there would be easy ways to do this in python as well, but it&#8217;s important to know that this is just the basics, then we do a comma and then we give it the string to search in. And finally, we can now print out the match object if it finds the pattern as shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/2900288a2e?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The output displays the match object which is the string </span><span style="font-weight: 400;">“phone”</span><span style="font-weight: 400;"> states the span in which one can locate them in the string. Now, what these 10 and 15 is it&#8217;s actually the index of where the item</span><span style="font-weight: 400;"> “phone”</span><span style="font-weight: 400;"> was found in that text.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="Learn Python RegEx online" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If we instead index and print out the elements in the string between [10:15] we’re actually going to see the word phone printed out as shown below.</span></p>
+<p><span style="font-weight: 400;"> </span></p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/6b472f17b5?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">So that&#8217;s where it found what it matched we can now go back to printing out our match.</span></p>
+<p><span style="font-weight: 400;">Suppose that we wanted to match a phone number, we could type &#8220;555-555-555&#8221;.But then we&#8217;re only ever going to match this specific string so that&#8217;s not that useful. But what Python RegEx allows us to do is it allows us to provide a pattern that will match all or any of these whatever we give it. </span></p>
+<p><span style="font-weight: 400;">We are going to use “\d” before specifying the pattern. This is going to tell python that we’re going to match a digit. Now If we know how many digits we have we can just type them in several times but that&#8217;s not that useful or not that handy.</span></p>
+<p><span style="font-weight: 400;">However, we can give it a plus sign so that&#8217;s going to match any amount of digits in a row. </span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px"></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">So if we run this now, you might think that we get the whole of this string. But we don&#8217;t; we only return the very 1st 555-555-555 because it goes along the string but stops at the hyphen. </span></p>
+<p><span style="font-weight: 400;">What we can do is we can actually use</span><span style="font-weight: 400;"> &#8220;\d+-\d+-\d+</span><span style="font-weight: 400;">&#8221; </span><span style="font-weight: 400;">which is a</span><span style="font-weight: 400;"> specific Python RegEx string that is built to match any numbers that are in this format. Now if we run this code we will obtain the match as shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/8e0c30fc19?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If we make small alterations to the number we should still be able to match the existing pattern in the number as shown below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/f7f370896c?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">This is just a demo on numbers, but we can go onward and match whole pieces, match case letters, and everything else. It is quite a vast subject.</span></p>
+<p>&nbsp;</p>
+<p>In our <a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener external" data-wpel-link="external">Programming Tutorials</a> series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener external" data-wpel-link="external">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener external" data-wpel-link="external">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener external" data-wpel-link="external">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener external" data-wpel-link="external">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener external" data-wpel-link="external">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Java Arrays and ArrayLists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-sets/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Sets</a></li>
+<li><strong>Best way of using Python RegEx</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a> at the CodeBerry Programming School.</p>
+<div class="wp-block-columns"><div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;"><div class="wp-block-columns"><div class="wp-block-column" style="flex-basis: 100%;"><div class="wp-block-columns are-vertically-aligned-center"><div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;"><div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200"></figure></div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200"></figure></div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div></div>
+<div class="wp-block-column" style="flex-basis: 50%;"><div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200"></figure></div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200"></figure></div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div></div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter"><div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div></div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45"></figure></div>
+</div></div></div></div></div></div>
+</div></div>
+<div class="post-footer"><div class="social-icons ed-social-share-icons">
+<p class="share-title">Share</p> <a href="http://www.facebook.com/sharer.php?u=/en/python-regex/&#038;t=Best%20Way%20of%20Using%20Python%20RegEx" class="social-share-link" title="Share &quot;Best Way of Using Python RegEx&quot; via Facebook" data-network-name="facebook" data-share-title="Best Way of Using Python RegEx" data-share-url="/en/python-regex/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-facebook et-extra-icon-background-hover"></span> </a><a href="http://twitter.com/intent/tweet?text=Best%20Way%20of%20Using%20Python%20RegEx%20/en/python-regex/" class="social-share-link" title="Share &quot;Best Way of Using Python RegEx&quot; via Twitter" data-network-name="twitter" data-share-title="Best Way of Using Python RegEx" data-share-url="/en/python-regex/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-twitter et-extra-icon-background-hover"></span> </a><a href="http://www.linkedin.com/shareArticle?mini=true&#038;url=/en/python-regex/&#038;title=Best%20Way%20of%20Using%20Python%20RegEx" class="social-share-link" title="Share &quot;Best Way of Using Python RegEx&quot; via LinkedIn" data-network-name="linkedin" data-share-title="Best Way of Using Python RegEx" data-share-url="/en/python-regex/" data-wpel-link="external" target="_blank" rel="external"> <span class="et-extra-icon et-extra-icon-linkedin et-extra-icon-background-hover"></span> </a><a href="#" class="social-share-link" title="Share &quot;Best Way of Using Python RegEx&quot; via Email" data-network-name="basic_email" data-share-title="Best Way of Using Python RegEx" data-share-url="/en/python-regex/"> <span class="et-extra-icon et-extra-icon-basic_email et-extra-icon-background-hover"></span> </a><a href="#" class="social-share-link" title="Share &quot;Best Way of Using Python RegEx&quot; via Print" data-network-name="basic_print" data-share-title="Best Way of Using Python RegEx" data-share-url="/en/python-regex/"> <span class="et-extra-icon et-extra-icon-basic_print et-extra-icon-background-hover"></span> </a>
+</div></div></article><nav class="post-nav"><div class="nav-links clearfix">
+<div class="nav-link nav-link-prev"> <a href="/blog/en/python-sets/" rel="prev" data-wpel-link="internal"><span class="button">Previous</span><span class="title">Best Way of Using Python Sets</span></a>
+</div>
+<div class="nav-link nav-link-next"> <a href="/blog/en/python-list/" rel="next" data-wpel-link="internal"><span class="button">Next</span><span class="title">Best way of using Python Lists</span></a>
+</div>
+</div></nav><div class="et_extra_other_module related-posts">
+<div class="related-posts-header"><h3>Related Posts</h3></div>
+<div class="related-posts-content clearfix">
+<div class="related-post">
+<div class="featured-image"><a href="/blog/en/javascript-foreach-loop/" title="Best way of using JavaScript forEach method" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2021/05/en-US-javascript-foreach-440x264.png" alt="Best way of using JavaScript forEach method"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/en/javascript-foreach-loop/" data-wpel-link="internal">Best way of using JavaScript forEach method</a></h4>
+<p class="date"><span class="updated">May 29, 2021</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/en/how-to-create-perfect-html-tables/" title="How to create perfect HTML tables?" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2020/12/html5-386614_1920-440x264.jpg" alt="How to create perfect HTML tables?"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/en/how-to-create-perfect-html-tables/" data-wpel-link="internal">How to create perfect HTML tables?</a></h4>
+<p class="date"><span class="updated">December 5, 2020</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/en/best-way-of-using-python-split/" title="Best way of using Python Split" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2021/07/en-US-python-split-440x264.png" alt="Best way of using Python Split"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/en/best-way-of-using-python-split/" data-wpel-link="internal">Best way of using Python Split</a></h4>
+<p class="date"><span class="updated">July 25, 2021</span></p>
+</div>
+<div class="related-post">
+<div class="featured-image"><a href="/blog/en/python-tuples/" title="Best way of using Python Tuples" class="post-thumbnail" data-wpel-link="internal"> <img src="/blog/wp-content/uploads/2021/07/en-US-python-tuple-440x264.png" alt="Best way of using Python Tuples"><span class="et_pb_extra_overlay"></span> </a></div>
+<h4 class="title"><a href="/blog/en/python-tuples/" data-wpel-link="internal">Best way of using Python Tuples</a></h4>
+<p class="date"><span class="updated">July 29, 2021</span></p>
+</div>
+</div>
+</div>
+</div>
+<div class="et_pb_extra_column_sidebar">
+<div id="custom_html-2" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">CodeBerry</h4>
+<div class="textwidget custom-html-widget"><p>2020 © CodeBerry Inc.</p></div>
+</div>
+<div id="custom_html-3" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">Contact Us</h4>
+<div class="textwidget custom-html-widget">
+<p>CodeBerry School Kft.
+1119 Fehérvári út 149. II/8. Budapest, Hungary</p>
+<p>English speaking customer service:<br> <a href="mailto:hello@codeberryschool.com;">hello@codeberryschool.com</a></p>
+</div>
+</div>
+<div id="custom_html-4" class="widget_text et_pb_widget widget_custom_html">
+<h4 class="widgettitle">Legal</h4>
+<div class="textwidget custom-html-widget"><p><a href="https://codeberryschool.com/en/privacy-policy/" data-wpel-link="external" target="_blank" rel="external">Privacy Policy (GDPR Compliant)</a><br> <a href="https://codeberryschool.com/en/refund-policy/" data-wpel-link="external" target="_blank" rel="external">Terms of Service</a><br> <a href="https://codeberryschool.com/en/terms-of-service/" data-wpel-link="external" target="_blank" rel="external">Returns and Refunds Policy</a></p></div>
+</div>
+</div>
+</div></div></div>
+<footer class="et-l et-l--footer"><div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular"><div class="et_pb_row et_pb_row_0_tb_footer"><div class="et_pb_column et_pb_column_4_4 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child"><div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light"><div class="et_pb_text_inner"><p style="text-align: center;">Made with ❤️ in a remote company, all around the world</p></div></div></div></div></div></div></footer>
+</div></div> <span title="Back To Top" id="back_to_top"></span> <script type="text/javascript" id="et-builder-modules-global-functions-script-js-extra">var et_builder_utils_params = {"condition":{"diviTheme":false,"extraTheme":true},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};</script> <script type="text/javascript" id="toc-front-js-extra">var tocplus = {"smooth_scroll":"1"};</script> <script type="text/javascript" id="et_monarch-custom-js-js-extra">var monarchSettings = {"ajaxurl":"\/wp-admin\/admin-ajax.php","pageurl":"\/en\/python-regex\/","stats_nonce":"808ea31a31","share_counts":"af03738567","follow_counts":"44a9bc5681","total_counts":"49358df176","media_single":"a69e4d9294","media_total":"a95193e9e7","generate_all_window_nonce":"fc8adc2aaf","no_img_message":"No images available for sharing on this page"};</script> <script type="text/javascript" id="extra-scripts-js-extra">var EXTRA = {"images_uri":"\/wp-content\/themes\/Extra\/images\/","ajaxurl":"\/wp-admin\/admin-ajax.php","your_rating":"Your Rating:","item_in_cart_count":"%d Item in Cart","items_in_cart_count":"%d Items in Cart","item_count":"%d Item","items_count":"%d Items","rating_nonce":"80ad3ed6df","timeline_nonce":"0bf84edbbe","blog_feed_nonce":"da8237994d","error":"There was a problem, please try again.","contact_error_name_required":"Name field cannot be empty.","contact_error_email_required":"Email field cannot be empty.","contact_error_email_invalid":"Please enter a valid email address.","is_ab_testing_active":"","is_cache_plugin_active":"yes"};</script> <script type="text/javascript" id="et-builder-modules-script-js-extra">var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"\/wp-admin\/admin-ajax.php","images_uri":"\/wp-content\/themes\/Extra\/images","builder_images_uri":"\/wp-content\/themes\/Extra\/includes\/builder\/images","et_frontend_nonce":"7cf888f4d7","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"ce34ffe804","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"13335","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+var et_pb_sticky_elements = [];</script> <script type="text/javascript">(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/blog/; secure; SameSite=Lax";
+			}());</script> <script defer src="/blog/wp-content/cache/autoptimize/js/autoptimize_87e58001c867e6e1ea4c93336b7d7a33.js"></script>
+</body>
+</html>

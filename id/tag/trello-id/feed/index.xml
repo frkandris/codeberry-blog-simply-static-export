@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trello | CodeBerry Blog</title>
+	<atom:link href="/blog/id/tag/trello-id/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 07 Nov 2019 08:10:52 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Kami memberikan salah satu papan rahasia Trello kepada pengguna kami. Inilah yang terjadi.</title>
+		<link>/blog/id/kami-memberikan-salah-satu-papan-rahasia-trello-kepada-pengguna-kami-inilah-yang-terjadi/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 11:55:13 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[apa itu trello]]></category>
+		<category><![CDATA[cara menggunakan trello]]></category>
+		<category><![CDATA[inilah yang]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[kami memberikan]]></category>
+		<category><![CDATA[papan in english]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[trello adalah]]></category>
+		<category><![CDATA[trello kritik]]></category>
+		<category><![CDATA[trello la gi]]></category>
+		<category><![CDATA[trello na komputer]]></category>
+		<category><![CDATA[umpan balik]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6516</guid>
+
+					<description><![CDATA[Bagaimana kami membuat sistem umpan balik yang benar-benar transparan Kami mendapatkan sebuah ide beberapa waktu yang lalu: Mengapa tidak mengatur papan Trello yang kami gunakan untuk melacak dan menyelesaikan umpan balik pelanggan kepada publik? Jadi kami melakukannya. Pada kenyataannya, kami kemudian membagikan tautannya dengan siswa kami dan meminta mereka untuk menggunakannya. Inilah alasannya. Di-setting untuk [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Bagaimana kami membuat sistem umpan balik yang benar-benar transparan</strong></p>
+<p>Kami mendapatkan sebuah ide beberapa waktu yang lalu: Mengapa tidak mengatur papan Trello yang kami gunakan untuk melacak dan menyelesaikan umpan balik pelanggan kepada publik? Jadi kami melakukannya. Pada kenyataannya, kami kemudian membagikan tautannya dengan siswa kami dan meminta mereka untuk menggunakannya. Inilah alasannya.</p>
+<p><strong>Di-setting untuk umpan balik</strong></p>
+<p>Salah satu prinsip utama kami saat membuat <a href="https://codeberryschool.com/id" data-wpel-link="external" target="_blank" rel="external">Sekolah Pemrograman CodeBerry</a> adalah selalu memperhatikan umpan balik pelanggan karena dua alasan:</p>
+<ol>
+<li>Pertama, semua orang membuat kesalahan &#8211; kami juga &#8211; dan kami ingin memperbaikinya dengan cepat;</li>
+<li>Kedua, kami bertujuan untuk menciptakan produk yang benar-benar ingin digunakan oleh pelanggan kami.</li>
+</ol>
+<p>Cara tercepat menuju kedua tujuan kami adalah melalui umpan balik. Kami bekerja keras agar pelanggan dapat menyampaikan kritik &amp; sarannya. Itu sebabnya:</p>
+<ul>
+<li>Kami mengirim survei ke mereka;</li>
+<li>Mendorong mereka untuk mengirim umpan balik kepada mentor mereka; dan yang terakhir</li>
+<li>Kami membuat saluran #meta di Slack CodeBerry di mana siapa saja dapat melaporkan kesalahan mereka atau mengirim ide pengembangan mereka mengenai sekolah.</li>
+</ul>
+<p><div id="attachment_5824" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5824" loading="lazy" class="size-full wp-image-5824" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/Slack-3.png" alt="" width="800" height="477" /><p id="caption-attachment-5824" class="wp-caption-text">Saluran #meta pada Slack CodeBerry</p></div></p>
+<p><strong>Tautan yang hilang</strong></p>
+<p>Ternyata kesempatan untuk mengirim umpan balik tidak cukup. Kami memperhatikan bahwa orang-orang ingin tahu apa yang terjadi pada pikiran mereka setelah mereka membagikannya. Solusi termudah adalah mengatur papan yang digunakan pengembang kami untuk melacak laporan kesalahan dan saran ke publik.</p>
+<p><div id="attachment_5825" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5825" loading="lazy" class="size-full wp-image-5825" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/trello-3.png" alt="" width="800" height="391" /><p id="caption-attachment-5825" class="wp-caption-text">Papan publik Trello kami (akhirnya)</p></div></p>
+<p>Sebelumnya, umpan balik adalah seperti sebuah black box, tempat orang-orang membuka ide mereka tetapi tidak tahu apa yang terjadi pada mereka. Sekarang, seluruh prosesnya transparan bagi semua orang.</p>
+<p>Siswa kami masih menulis kepada mentor mereka atau mengirim pesan ke saluran #meta, tetapi belum berakhir sampai di situ. Kartu yang dibuat dari umpan balik mereka disematkan ke papan pengumuman publik tempat siswa dapat melihat apa yang terjadi pada pesan mereka dan melacak proses pemecahan masalah atau mengintegrasikan ide mereka.</p>
+<p>Kita sudah tidak lagi menggunakan black box. Sudah tidak ada lagi kata yang tidak terdengar.</p>
+<p><strong>Kami membangunnya bersama</strong></p>
+<p>Umpan balik adalah salah satu hal terbaik yang dapat diterima oleh bisnis muda (seperti milik kita) dari pelanggan mereka. Dengan sistem baru ini, kami ingin menekankan hal ini lebih lanjut.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

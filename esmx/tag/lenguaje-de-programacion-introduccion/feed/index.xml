@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lenguaje de programacion introduccion | CodeBerry Blog</title>
+	<atom:link href="/blog/esmx/tag/lenguaje-de-programacion-introduccion/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 24 Jan 2020 08:22:20 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Una breve introducción a la programación</title>
+		<link>/blog/esmx/una-breve-introduccion-a-la-programacion/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Mon, 03 Sep 2018 10:26:58 +0000</pubDate>
+				<category><![CDATA[Artículos]]></category>
+		<category><![CDATA[a que llamamos introduccion a la programacion]]></category>
+		<category><![CDATA[blog de programacion]]></category>
+		<category><![CDATA[blog programacion]]></category>
+		<category><![CDATA[breve introducción]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[conclusion de lenguaje de programacion]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[introduccion a la programacion]]></category>
+		<category><![CDATA[introduccion a los lenguajes de programacion]]></category>
+		<category><![CDATA[introduccion al lenguaje de programacion]]></category>
+		<category><![CDATA[introduccion ala programacion]]></category>
+		<category><![CDATA[introduccion de la computadora]]></category>
+		<category><![CDATA[introduccion de programacion]]></category>
+		<category><![CDATA[introduccion sobre la programacion]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[lenguaje de programacion en español]]></category>
+		<category><![CDATA[lenguaje de programacion introduccion]]></category>
+		<category><![CDATA[programacion de computadoras]]></category>
+		<category><![CDATA[programador]]></category>
+		<category><![CDATA[que es la programacion]]></category>
+		<category><![CDATA[una breve introducción]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6216</guid>
+
+					<description><![CDATA[¿Qué es la programación? Supongamos que trabajas para una empresa multinacional y tienes una reunión programada con un empresario de China. Tu idioma materno es el español y no sabes nada de chino. Aún así, recuerdas que tienes por segundo idioma el inglés y que el empresario chino también habla inglés. Gracias a eso, empiezan [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><b>¿Qué es la programación?</b></p>
+<p><span style="font-weight: 400;">Supongamos que trabajas para una empresa multinacional y tienes una reunión programada con un empresario de China. Tu idioma materno es el español y no sabes nada de chino. Aún así, recuerdas que tienes por segundo idioma el inglés y que el empresario chino también habla inglés. Gracias a eso, empiezan a usar el inglés como su idioma en común para negociar y comunicarse.</span></p>
+<p>&nbsp;</p>
+<p><b>De la misma manera, utilizamos lenguajes como HTML, CSS, JavaScript, Java, etc., para comunicarnos con la computadora con el fin de entendernos mutuamente.</b></p>
+<p><span style="font-weight: 400;">El idioma nativo de una computadora es el binario: una larguísima lista de unos y ceros. Para las personas, no es nada fácil leer o escribir </span><span style="font-weight: 400;">binario</span><span style="font-weight: 400;">, y por eso se nos ocurrieron los lenguajes de programación para hablar con las computadoras. Como las computadoras no entienden los idiomas humanos, tenemos que hallar el punto medio en algún lado.</span></p>
+<p><span style="font-weight: 400;">Sin embargo, a diferencia de los humanos, las computadoras no captan la comunicación indirecta y siempre se toman las cosas literalmente. Si les dices algo, lo harán exactamente como se los dijiste. Las computadoras no son lo suficientemente inteligentes como para tomar decisiones por sí mismas y no comprenden la información que no les fue explicada a detalle. Por esta razón, tienes que asegurarte de darles las instrucciones exactas.</span></p>
+<p><span style="font-weight: 400;">Por ejemplo, si te pidiera que me hicieras un </span><span style="font-weight: 400;">sándwich</span><span style="font-weight: 400;">, me podrías preguntar cuáles son los ingredientes que quiero en ese sándwich, y si lo quiero tostado o no. Para ti, esto podría ser todo lo que necesitas saber para hacerme un sándwich delicioso. Sin embargo, existen muchas decisiones pequeñas y conocimientos previos involucrados en la preparación de un sándwich.</span></p>
+<p><span style="font-weight: 400;">Si sólo le dijeras a una computadora que quieres un sándwich tostado de jamón y queso con pan de centeno y mayonesa, muy probablemente recibirás algo distinto a lo que pediste. Una persona sabe que se pone primero la mayonesa en las rebanadas de pan, luego se agrega el jamón y el queso, y después se coloca el sándwich en el horno para que se tueste.</span></p>
+<p>&nbsp;</p>
+<p><b>Pero, ¿cómo se supone que una computadora sepa todo eso?</b></p>
+<p><span style="font-weight: 400;">Recuerda que le dijimos a la computadora lo que queríamos: &#8220;un sándwich tostado de jamón y queso con pan de centeno y mayonesa&#8221;. Para una computadora, sería lógico hacerlo en ese orden dado. Tostaría el jamón y el queso juntos, pondría dos rebanadas de pan de centeno en la parte de arriba y luego extendería la mayonesa sobre el pan.</span></p>
+<p>&nbsp;</p>
+<p><b>¿No se supone que las computadoras son más listas que eso?</b></p>
+<p><span style="font-weight: 400;">Bueno, como la computadora hace las cosas </span><span style="font-weight: 400;">literalmente</span><span style="font-weight: 400;">, debes especificar el orden de cada paso y la ubicación de cada ingrediente. Todo mundo sabe que los ingredientes van entre las rebanadas de pan, pero una computadora no tiene un conocimiento previo sobre cómo es un sándwich—sólo está siguiendo tus instrucciones directas.</span></p>
+<p><span style="font-weight: 400;">Esta es otra de las razones por las cuales aún no podemos comunicarnos con las computadoras por medio de idiomas humanos. Nuestros lenguajes son demasiado ambiguos y vagos como para que una computadora los entienda correctamente. Además, si una palabra u oración tiene un significado doble, una computadora no sabría cómo interpretarla. Necesita que le expliques todo a detalle.</span></p>
+<p><span style="font-weight: 400;">La verdad es que las computadoras no son nada inteligentes; sólo procesan la información mucho más rápido que nosotros.</span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-6210" src="https://codeberryschool.com/blog/wp-content/uploads/2018/09/code.2-1.jpg" alt="" width="5472" height="3648" /></p>
+<p><b>¿Qué es un programador y qué es lo que hace?</b></p>
+<p><span style="font-weight: 400;">Recuerda: no puedes decirle así como si nada a la computadora qué es lo que quieres en español. Necesitarás un programador informático para que te traduzca. Un programador informático es aquella persona que comunica sus ideas e </span><span style="font-weight: 400;">instrucciones</span><span style="font-weight: 400;"> a una computadora, haciendo que los sitios web, juegos y otros programas aparezcan en la pantalla.</span></p>
+<p><span style="font-weight: 400;">También se podría definir al programador como un políglota (es decir, alguien que conoce muchos idiomas) que se especializa en hablar con computadoras. Saben exactamente qué decir y cómo decirlo para que la computadora los entienda. Si alguna vez estudiaste un idioma extranjero, sabrás que cada idioma posee un vocabulario, una gramática y un conjunto de reglas propios. Los lenguajes de computadora también tienen su propia manera de decir cosas, la cual se llama sintaxis.</span></p>
+<p><span style="font-weight: 400;">Si bien, una persona puede entenderte aún si </span><span style="font-weight: 400;">pronunciaras mal</span><span style="font-weight: 400;"> una palabra, si usaras la conjugación incorrecta o incluso si arruinaras tu gramática, una computadora sería mucho menos tolerante con los errores. Tan pronto cometas un error de sintaxis, la computadora dejará de escucharte y dejará de ejecutar el programa.</span></p>
+<p><span style="font-weight: 400;">Qué grosera.</span></p>
+<p>&nbsp;</p>
+<p><b>¿Qué podrías lograr con las habilidades para la programación?</b></p>
+<p><span style="font-weight: 400;">Si has usado una computadora antes, visto vídeos en línea o jugado videojuegos, podría resultarte difícil de creer que todo esto sólo proviene de una serie de letras y símbolos. La capacidad para procesar miles de líneas de código por segundo es la fuerza de una computadora y le permite seguir instrucciones sumamente complejas y realizar tareas increíbles.</span></p>
+<p><span style="font-weight: 400;">Veamos algunas de las increíbles cosas que puedes hacer con la programación::</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crear y diseñar sitios web</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Construir aplicaciones móviles</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Desarrollar programas de escritorio</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Desarrollar videojuegos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crear y mantener bases de datos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Automatizar tareas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Resolver problemas complejos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Crear inteligencia artificial</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Realizar análisis estadísticos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Y mucho más…</span></li>
+</ul>
+<p><span style="font-weight: 400;">Si te interesa alguna de estas actividades y te gustaría ganarte la vida haciéndolas, aprender a programar es definitivamente una habilidad importantísima que debes desarrollar.</span></p>
+<p>&nbsp;</p>
+<p><b>¿Qué es lo que hace que la programación sea útil, y para qué es buena?</b></p>
+<p><span style="font-weight: 400;">A medida que crece más nuestra dependencia hacia las computadoras dentro de nuestra vida diaria, la importancia de la programación informática también continúa en ascenso.</span></p>
+<p><span style="font-weight: 400;">En los próximos años, casi todos los campos incluirán la programación informática dentro de sus actividades, y aprender a programar te dará mucha ventaja en tu carrera futura. Por ejemplo, puedes utilizar tus habilidades de programación dentro de las áreas de escritura, análisis, administración, ingeniería, desarrollo de software y mucho más.</span></p>
+<p><span style="font-weight: 400;">Los partidarios de la programación la ven como una habilidad universal que todos deben poseer, junto a la capacidad para leer y escribir o realizar ecuaciones matemáticas simples. Muchos gobiernos del mundo también lo creen así y han propuesto iniciativas para enseñar programación a los niños dentro del plan de estudios básico de las escuelas.</span></p>
+<p><span style="font-weight: 400;">Al igual que nosotros, ven a la programación como la clave para permanecer competitivos dentro del mercado global.</span></p>
+<p>&nbsp;</p>
+<p><b>Ya sé qué es útil, pero ¿cómo es en sí la programación?</b></p>
+<p><span style="font-weight: 400;">Un día normal en la vida de un programador no es tan glamoroso como las películas o series de TV lo hacen parecer.</span></p>
+<p><span style="font-weight: 400;">Ser un programador requiere mucha concentración, paciencia y una motivación propia. Si no puedes sentarte y permanecer concentrado por varias horas, lo mejor será que reconsideres si entrar a una carrera de programación informática o no.</span></p>
+<p><span style="font-weight: 400;">Algunos trabajos de programación pueden pedirte que trabajes en un horario irregular y que estés disponible para corregir errores y resolver problemas de manera inmediata en la medida en que aparezcan. Otros pueden hacer que trabajes de nueve a cinco, como un trabajo regular.</span></p>
+<p><span style="font-weight: 400;">Sin embargo, trabajar como un programador informático podría brindarte más libertad que la que te da tu trabajo actual. Una buena cantidad de trabajos de programación son remotos, lo cual significa que puedes programar en tu casa, en un café o mientras te bronceas en la playa —eso si la señal de wifi llega hasta allí—.</span></p>
+<p>&nbsp;</p>
+<p><b>¿Es la programación lo indicado para mí?</b></p>
+<p><span style="font-weight: 400;">Aquí está el detalle: tienes que medir con seriedad las ventajas y desventajas de un trabajo como programador. A lo mejor tuviste una idea poco realista sobre cómo es la programación y no has considerado que es como cualquier otro trabajo en el planeta: también es un trabajo duro. Pero, si cumples con los siguientes criterios, es probable que adores cada segundo de él.</span></p>
+<p><span style="font-weight: 400;">Señales que la programación no es para ti:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sólo te motiva el dinero y no te interesan para nada las computadoras</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">No te gusta estar sentado por largos periodos de tiempo</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te quedas anonadado cuando miras una página entera en código</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Escribes lento y sueles cometer errores tipográficos</span></li>
+</ul>
+<p><span style="font-weight: 400;">Señales que la programación SÍ es para ti:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te describes a ti mismo como una persona analítica Y creativa</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Le das mucha atención a los detalles</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te sientes cómodo trabajando tanto con otros como en solitario</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tienes entendimiento básico del inglés escrito</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te gusta resolver problemas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te encanta aprender cosas nuevas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te adaptas bien al cambio</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Te gusta organizar la información y automatizar procesos</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><b>¿Cuáles son los lenguajes de programación que debo escoger y por dónde empiezo?</b></p>
+<p><span style="font-weight: 400;">Volvamos al ejemplo de nuestra reunión con el empresario chino.</span></p>
+<p><span style="font-weight: 400;">Aunque el inglés puede resultar útil en un entorno empresarial, es probable que debas aprender otros idiomas para otros campos. Por ejemplo, tal vez quieras saber francés para la diplomacia, griego para la filosofía y alemán para ingeniería. Según el campo en el que trabajes, elegirás un idioma específico para satisfacer tus necesidades.</span></p>
+<p><span style="font-weight: 400;">No tendrás el tiempo ni la capacidad para aprender todos los lenguajes de programación, por lo que tienes que ser estratégico con respecto a los idiomas que vas a aprender. En primer lugar, tienes que determinar cuál es tu enfoque y cuáles idiomas necesitas conocer para lograr tus objetivos personales.</span></p>
+<p><span style="font-weight: 400;">Aunque técnicamente no son lenguajes de programación, HTML y CSS son excelentes idiomas para comenzar a aprender los fundamentos de la programación. HTML y CSS son &#8220;lenguajes de marcado textual&#8221; que en realidad son los idiomas que utilizamos para formatear y organizar el texto. Sin HTML o CSS, tu navegador no sabría si estas palabras que estoy escribiendo son un título, un párrafo o un pie de página. Tampoco sabría si estas palabras deben estar en negritas, cursivas, etc.</span></p>
+<p><span style="font-weight: 400;">Incluso mientras escribo este artículo, estoy utilizando HTML y CSS para ayudarte a ti y a tu navegador web a entender qué es lo que tengo que decir.</span></p>
+<p>&nbsp;</p>
+<p><b>Para no hacer el cuento largo…</b></p>
+<p><span style="font-weight: 400;">En resumen, la programación es una carrera muy bien pagada que requiere paciencia, dedicación y mucha atención al detalle.</span></p>
+<p><span style="font-weight: 400;">Si no te gusta sentarte frente a una computadora y si no te sientes dispuesto a dedicarle tiempo a la práctica, es probable que termines odiando la programación y que te rindas rápidamente. Tampoco te irá bien si sólo te motiva el sueldo y si no sientes ningún interés en el trabajo en sí.</span></p>
+<p><span style="font-weight: 400;">Sin embargo, si te encanta aprender cosas nuevas, te gusta motivarte y tienes una actitud positiva, tendrás éxito —independientemente de tu formación académica—.<br />
+</span></p>
+<p><span style="font-weight: 400;"><br />
+<b><i>¿Te gustaría aprender a programar? Ven y prueba nuestras primeras 25 lecciones sin costo en la </i></b><a href="http://codeberryschool.com/esmx" data-wpel-link="external" target="_blank" rel="external"><b><i>Escuela de Programación CodeBerry</i></b></a><b><i>.</i></b><br />
+</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

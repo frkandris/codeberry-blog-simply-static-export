@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>php programozás alapjai | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/php-programozas-alapjai/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 22 May 2021 16:26:21 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>A PHP programozás alapjai &#8211; PHP programozás kezdőknek</title>
+		<link>/blog/hu/a-php-programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2020 10:09:35 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[adatbázis programozás]]></category>
+		<category><![CDATA[archívum]]></category>
+		<category><![CDATA[junior php]]></category>
+		<category><![CDATA[mi a php]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[php fejlesztő]]></category>
+		<category><![CDATA[php kezdőknek]]></category>
+		<category><![CDATA[php nyelv]]></category>
+		<category><![CDATA[php programozás]]></category>
+		<category><![CDATA[php programozás alapjai]]></category>
+		<category><![CDATA[php programozás kezdőknek]]></category>
+		<category><![CDATA[PHP programozás könyv]]></category>
+		<category><![CDATA[php programozás tananyag]]></category>
+		<category><![CDATA[programozás kezdőknek]]></category>
+		<category><![CDATA[wordpress használata kezdőknek]]></category>
+		<category><![CDATA[wordpress kezdőknek]]></category>
+		<category><![CDATA[wordpress tanulás]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=7990</guid>
+
+					<description><![CDATA[A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket. Szeretnél online megtanulni programozni? Gyere, és próbáld ki az első 25 leckénket ingyen a CodeBerry Programozóiskolában! Bevezetés a programozásba A webprogramozás alapjai – Webfejlesztés kezdőknek A Java programozás alapjai – Java programozás kezdőknek Python [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>A CodeBerry Programozóiskola “<a href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelvek” című cikksorozatából</a> megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><strong>A PHP programozás alapjai – PHP programozás kezdőknek</strong></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<h3>Mire jó a PHP programozás?</h3>
+<p><span style="font-weight: 400;">Ha érdekel a webfejlesztés vagy az adatbázis kezelés, akkor már biztosan hallottál a PHP programozásról.</span></p>
+<p><span style="font-weight: 400;">A PHP az egyik leghasznosabb programnyelv, amit egy webfejlesztői karrier elején elsajátíthat az ember, hiszen viszonylag könnyű megtanulni, és már a kezdetektől rengeteg szuper álláslehetőségnek nyit utat. Ráadásul webfejlesztőként elég jó eséllyel lesz szükséged rá az első projektjeid vagy alkalmi megbízásaid során, ahol általában ezzel a parancsnyelvvel kell majd dolgoznod.</span></p>
+<p><span style="font-weight: 400;">A PHP-fejlesztők részben azért ilyen keresettek, mert a </span><a href="https://wordpress.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">WordPress</span></a><span style="font-weight: 400;"> is PHP</span> <span style="font-weight: 400;">nyelven fut, ami pedig a világ egyik legnépszerűbb weboldalkészítő alkalmazása. Az interneten található weboldalak közül több mint 60 millió használ WordPresst, beleértve a felső 10 millió honlap 30%-át. </span></p>
+<p><span style="font-weight: 400;">Még akkor is többszörösen megtérülne a befektetésed, ha kizárólag a WordPress kedvéért tanulnád meg a PHP programozást. PHP-fejlesztőként WordPresses témákat és bővítményeket készíthetsz és adhatsz el, ami nagyszerű módja a pénzkeresésnek a karriered elején. </span></p>
+<p><span style="font-weight: 400;">A PHP persze sokkal messzebb mutat a WordPressnél – rengeteg internetes vállalkozás használja. 2018-ban a weboldalak 83,5% választotta a PHP-t szerveroldali programnyelvének, köztük olyan óriások is mint a Facebook, a Tumblr és a Slack. Tehát a <a href="https://codeberryschool.com/blog/hu/programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">PHP programozás alapjainak</a> ismerete kétségtelenül sok kaput megnyithat előtted webfejlesztőként. </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"> <a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></span></p>
+<h3>Mi a PHP?</h3>
+<p><span style="font-weight: 400;">Egy szerveroldali parancsnyelv, amit előszeretettel használnak például olyan backend feladatokhoz, mint a szervereken lévő adatok kezelése.</span> <span style="font-weight: 400;">Segítségével dinamikus weblapokat tudsz készíteni, ami azt jelenti, hogy nem ugyanazt a tartalmat fogja a keresett oldal minden esetben megjeleníteni a felhasználóknak, hanem bizonyos körülmények között mindig mást és mást. </span></p>
+<p><span style="font-weight: 400;">A PHP-t 1994-ben alkotta meg Rasmus Lerdorf, és az elnevezése eredetileg annak a rövidítése volt, hogy „Personal Főoldal Page”, azaz személyes honlap. Ma már viszont a rövidítés a „Hypertext Preprocessor” kifejezésre utal, ami magyarul annyit tesz: hiperszöveg előfeldolgozó.</span></p>
+<p><span style="font-weight: 400;">A PHP-t be lehet ágyazni egy HTML-kódba, és eredetileg azért született, hogy Lerdorf a személyes weboldalát tudja vele kezelni. Igazából a PHP-t egyáltalán nem arra fejlesztették, nem arra találták ki, hogy programnyelv legyen. Magától fejlődött azzá. Ezért viszont pár kevésbé következetes jelenség is kialakult benne. </span></p>
+<p><span style="font-weight: 400;">A programozói közösség persze nagy erőkkel igyekszik kitisztogatni és következetesebbé tenni ezt a nyelvet, és nem is sikertelenül! </span></p>
+<p><span style="font-weight: 400;">Amellett, hogy hatalmas közösség épült köré és könnyen el lehet vele helyezkedni, a PHP-t kifejezetten könnyű megtanulni is, és nem is kell nulláról kezdened ahhoz, hogy használni tudd. Elég ha kiválasztasz egyet a már létező számtalan WordPressre készített téma, bővítmény vagy weboldal közül, és kicsit átszerkeszted a kódját a saját igényeidnek megfelelően. </span></p>
+<p><span style="font-weight: 400;">A PHP-t nagyon gyorsan be lehet üzemelni a számítógépen, a megfelelő környezet felállítása nem tart napokig mint néhány másik programnyelv esetében. Sőt, a legtöbb webhosting, azaz webhelyek tárolásával foglalkozó oldalnál már eleve telepítve van a szerverre a PHP, így neked szinte a kisujjadat sem kell mozdítani. Ha pedig bármilyen problémába ütköznél a későbbiekben, egy hatalmas, aktív online közösség és rengeteg írásos anyag áll rendelkezésedre az interneten, ami segíthet megoldást találni.</span></p>
+<p>&nbsp;</p>
+<p><div id="attachment_8723" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-8723" loading="lazy" class="wp-image-8723 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/wordpress-5243255_1920-1024x683.jpg" alt="a WordPress mögött álló PHP programozás ma az egyik legkeresettebb készség" width="1024" height="683" srcset="/blog/wp-content/uploads/2020/06/wordpress-5243255_1920-1024x683.jpg 1024w, /blog/wp-content/uploads/2020/06/wordpress-5243255_1920-300x200.jpg 300w, /blog/wp-content/uploads/2020/06/wordpress-5243255_1920-768x512.jpg 768w, /blog/wp-content/uploads/2020/06/wordpress-5243255_1920-1536x1024.jpg 1536w, /blog/wp-content/uploads/2020/06/wordpress-5243255_1920-1080x720.jpg 1080w, /blog/wp-content/uploads/2020/06/wordpress-5243255_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-8723" class="wp-caption-text">a WordPress mögött álló PHP programozás ma az egyik legkeresettebb készség</p></div></p>
+<h3>Milyen PHP-ben programozni?</h3>
+<p><span style="font-weight: 400;">A klasszikus „Helló, világ!” példa így néz ki PHP-ben:</span></p>
+<pre class="wp-block-code"><code class="language-php" lang="php">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;PHP Test&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;?php echo '&lt;p&gt;Helló, világ!&lt;/p&gt;'; ?&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</code></pre>
+<p>&nbsp;</p>
+<p>Ahogy látható, a PHP-kód egy HTML-dokumentumba van beágyazva. A PHP-t nem feltétlenül kell HTML-ben használni, de úgy alakult, hogy nagyon jól működik ebben a formában. </p>
+<p>Mivel a PHP kódok úgy működnek, hogy nem szükséges őket HTML-be ágyazni, egyszerűen így is leírhatnánk az állítást:</p>
+<pre class="wp-block-code"><code class="language-php" lang="php">&lt;?='Helló, világ!'; ?&gt;</code></pre>
+<p>&nbsp;</p>
+<h3>Mennyit kereshetek PHP programozással?</h3>
+<p>Az <a href="https://www.indeed.com/" target="_blank" rel="noopener external" data-wpel-link="external">indeed.com</a> adatai alapján az Egyesült Államokban az olyan programozók, akik még kevesebb mint egy éve dolgoznak PHP-fejlesztőként, átlagosan évi bruttó 87 686 dollárt (tehát havi bruttó 2,2 millió forintot) keresnek. Ebbe a kalkulációba persze beleszámítanak olyan drága környékek is, mint San Francisco és New York, ahol a fizetések a magas megélhetési költségeknek megfelelően alakulnak.</p>
+<p>A jó keresethez itthon sem kizárólag alacsony szintű programnyelvek mesterének kell lenni &#8211; PHP programozással az alábbi fizetéseket érheted el kezdőként, mediorként és seniorként:</p>
+<figure class="wp-block-table">
+<table>
+<tbody>
+<tr>
+<td>Junior PHP fejlesztő:</td>
+<td>Bruttó 320.000 Ft-tól</td>
+</tr>
+<tr>
+<td>Medior PHP fejlesztő:</td>
+<td>Bruttó 470.000 Ft</td>
+</tr>
+<tr>
+<td>Senior PHP fejlesztő</td>
+<td>Bruttó 820.000 Ft</td>
+</tr>
+</tbody>
+</table>
+</figure>
+<h6><em>Az adatokért köszönet az </em><a href="https://hu.indeed.com/salaries/php-fejleszt%C5%91-Salaries" target="_blank" rel="noopener external" data-wpel-link="external"><em>indeed.com</em></a><em> illetve a </em><a href="https://www.fizetesek.hu/fizetesek/informacios-technologiak/php-programozo" target="_blank" rel="noopener external" data-wpel-link="external"><em>fizetesek.hu</em></a><em> oldalaknak</em></h6>
+<p>A hazai fizetések rangsorában egyébként a PHP fejlesztő most jelenleg a 112. helyet foglalja el. Szomorú tény, hogy a hölgyek egyelőre csupán 5%-os arányban képviseltetik magukat; nekik kiemelten ajánljuk figyelmükbe a <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">Codeberry első 25 ingyenes leckéjét</a>, hátha javítani tudunk ezen a statisztikán. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Ha pedig részletesebben is érdekel, mennyit kereshetsz napjainkban programozóként, <a href="https://codeberryschool.com/blog/hu/informatikus-fizetesi-kalauz-2021/" target="_blank" rel="noopener external" data-wpel-link="external"><strong>Fizetési kalauzunkban</strong> </a>összegyűjtöttük a jelenlegi nemzetközi és hazai IT-s fizetéseket.</p>
+<h3>Hogyan tanulhatom meg a PHP programozást?</h3>
+<p>A PHP a kezdők számára is könnyen megtanulható nyelvek közé tartozik. Ezért aztán a <a href="https://codeberryschool.com/hu/weboldal-keszites-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external">HTML, a CSS vagy JavaScript elsajátítása</a> után sok programozó rögtön ezzel folytatja a tanulást. Így belevághatnak a backend fejlesztésbe is, miközben a frontend fejlesztéssel már elkezdenek pénzt keresni és szakmai tapasztalatot gyűjteni. </p>
+<p>Ha szeretnéd megtanulni a PHP programozást, érdemes az alábbi lépéseket követned:</p>
+<p>Első lépésként iratkozz be egy jó online, illetve intenzív tanfolyamra, ahol megtanulhatod a PHP programozást. Mivel más programnyelvekhez képest a PHP elég jól olvasható és könnyen érthető, gond nélkül el lehet sajátítani mindenféle formális oktatás nélkül is.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12012 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>Második lépésként olyan nyomtatott vagy digitális anyagokra lesz szükséged, amiből szabadidődben magad is meg tudod tanulni a PHP-t. Rengeteg olyan könyv és <a href="https://infojegyzet.hu/webszerkesztes/php/alapok/" target="_blank" rel="noopener external" data-wpel-link="external">útmutató</a>, <a href="https://www.youtube.com/playlist?list=PLuYHIg_0xQJs2UQcGMoM-PZ9zMsdL6Amq" target="_blank" rel="noopener external" data-wpel-link="external">online videó</a> és tananyag érhető el, ami bevezet a PHP-programozás rejtelmeibe. A PHP ráadásul olyan régi nyelv, hogy jó eséllyel még a helyi könyvtárban is találhatunk hasznos könyveket, melyek bemutatják PHP programunknak minden csínját-bínját.</p>
+<p>Harmadik lépésként pedig keress olyan <a href="https://phpmuhely.hu/muhely/letoltesek?kategoria=forumok" target="_blank" rel="noopener external" data-wpel-link="external">online közösségeket, fórumokat</a> és üzenőfalakat, ahol tapasztalt PHP-programozóktól kérhetsz segítséget. Gyakorolj kitartóan, és ha elakadsz, vagy nem találsz egyedül megoldást egy problémára, fordulj tanácsért a közösséghez. Például a Slacken és a <a href="https://www.reddit.com/r/PHPhelp/" target="_blank" rel="noopener external" data-wpel-link="external">Redditen</a> is vannak olyan közösségek, ahol PHP-programozók aktív beszélgetéseket folytatnak és megválaszolják a témához kapcsolódó kérdéseket.</p>
+<h3>Mennyi idő alatt lehet megtanulni a PHP-t?</h3>
+<p>Az, hogy <a href="https://codeberryschool.com/blog/hu/mennyi-ido-megtanulni-programozni/" data-wpel-link="external" target="_blank" rel="external">mennyi idő alatt tudsz megtanulni egy programozási nyelvet,</a> attól függ, hogy milyen módszerrel tanulsz, mennyire hatékonyan tudsz maradandó tudásra szert tenni, és hogy hetente hány órát fordítasz a tanulásra. Természetesen az sem mindegy, hogy mit jelent számodra az, hogy „megtanultál programozni”. Mindettől függetlenül a PHP annyira egyszerű, hogy a lényege meglepően rövid idő alatt elsajátítható.</p>
+<p>Még ha nincs is korábbi tapasztalatod a programozásban, valószínűleg pár nap vagy pár hét alatt már használható tudásra tehetsz szert a PHP területén. Ahhoz, hogy a PHP kiegészítőfunkcióit is megtanuld, és elég magabiztos tudásra és gyakorlatra tegyél szert ahhoz, hogy hivatásos fejlesztőként dolgozhass, valószínűleg nagyjából 3 hónapra lesz szükséged.</p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<h3>Honnan tudhatom, hogy nekem való-e a PHP?</h3>
+<p>Ahhoz, hogy eldöntsd neked való-e egy programnyelv, először azt kell megnézned, hogy mennyire van összhangban a hosszú távú céljaiddal. </p>
+<p>Kezdőként remek választás lehet a PHP. Segítségével a lehető leggyorsabban vághatsz bele a backend fejlesztésbe és keresheted vissza a befektetett pénzedet. </p>
+<p>De az is igaz, hogy mostanában a PHP oldalak leginkább a WordPressre korlátozódnak, ezért ahhoz, hogy a lehető legkönnyebben tudj elhelyezkedni, érdemes népszerűbb nyelvekkel kezdeni – például HTML-lel, CSS-szel vagy JavaScripttel. Ezzel a három nyelvvel igazán sokoldalú programozó válhat belőled.</p>
+<p>Ha segítségre van szükséged annak eldöntéséhez, hogy neked való-e a PHP, olvasd el a „<a href="https://codeberryschool.com/blog/hu/melyik-programozasi-nyelvet-valasszam/" target="_blank" rel="noopener external" data-wpel-link="external">Melyik programozási nyelvet válasszam?</a>”  című cikkünket! Itt sorra veszünk különböző programnyelveket, és megnézzük, hogy melyik mire jó.</p>
+<p>&nbsp;</p>
+<p><strong>A CodeBerry Programozóiskola <a class="rank-math-link" href="https://codeberryschool.com/blog/hu/category/programozasi-nyelvek/" target="_blank" rel="noopener external" data-wpel-link="external">“Programozási nyelvek” című cikksorozatából </a>megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><strong>A PHP programozás alapjai – PHP programozás kezdőknek</strong></li>
+<li><a class="rank-math-link" href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" target="_blank" rel="noopener external" data-wpel-link="external">Az Android programozás alapjai – Java vagy Kotlin?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/plc-programozas-alapjai/" target="_blank" rel="noopener external" data-wpel-link="external">A PLC programozás alapjai</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-css/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a CSS?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-html/" target="_blank" rel="noopener external" data-wpel-link="external">Progamozási nyelv-e a HTML?</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/programozasi-nyelv-e-a-javascript/" target="_blank" rel="noopener external" data-wpel-link="external">Programozási nyelv-e a JavaScript?</a></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

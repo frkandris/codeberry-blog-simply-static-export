@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podstawy JavaScript | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/podstawy-javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 04 Feb 2021 12:29:23 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Podstawy JavaScript &#8211; język JavaScript dla początkujących</title>
+		<link>/blog/pl/podstawy-javascript/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2020 12:02:01 +0000</pubDate>
+				<category><![CDATA[Języki programowania]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[język javascript]]></category>
+		<category><![CDATA[nauka]]></category>
+		<category><![CDATA[podstawy JavaScript]]></category>
+		<category><![CDATA[programowanie]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9919</guid>
+
+					<description><![CDATA[W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć. Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w Szkole Programowania CodeBerry. Języki programowania Tworzenie stron [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><div id="attachment_9794" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-9794" loading="lazy" class="wp-image-9794 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/javascript-4523100_1920-1024x576.jpg" alt="W artykule przedstawiamy najlepsze kursy JavaScript dostępne w Polsce. Dowiesz także się jaką role odgrywa JavaScript w tworzeniu stron www." width="1024" height="576" srcset="/blog/wp-content/uploads/2020/09/javascript-4523100_1920-1024x576.jpg 1024w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-300x169.jpg 300w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-768x432.jpg 768w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-1536x864.jpg 1536w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920-1080x608.jpg 1080w, /blog/wp-content/uploads/2020/09/javascript-4523100_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-9794" class="wp-caption-text">Image by <a href="https://mangomattermedia.com/" target="_blank" rel="noopener external" data-wpel-link="external">https://mangomattermedia.com/</a></p></div></p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry</strong> będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<h2><span id="Jezyki_programowania">Języki programowania</span></h2>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych – przewodnik dla początkujących</a>,</li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie – język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP – programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript &#8211; język JavaScript dla początkujących</a></li>
+</ul>
+<h3><b>Wstęp do</b><b> języka JavaScript</b></h3>
+<p><span style="font-weight: 400;">JavaScript jest językiem sieciowym. Prawie każda strona, którą odwiedzasz w swojej przeglądarce internetowej, będzie używać go w ten czy inny sposób, aby zapewnić odpowiednie doznania i komfort z użytkowania. Dlatego właśnie znajomość JavaScript jest tak pożądana wśród nowoczesnych programistów. Trudno jest znaleźć dobre zastępstwo dla tak elastycznego języka programowania, jeśli chce się stworzyć niezapomniane doświadczenia użytkowania, oparte na przeglądarce internetowej, zdolne do zaciekawienia klientów czy potencjalnych pracodawców. </span></p>
+<p><span style="font-weight: 400;">Chcesz stworzyć stronę internetową dla swojego szybko rozwijającego się biznesu tworzącego zabawne skarpetki dla psów? A co powiesz na doświadczenie VR w przeglądarce &#8211; zobaczyć, jak to jest odwiedzić dom swojej teściowej na Boże Narodzenie? Musisz nauczyć się JavaScript, jeśli chcesz zrealizować ambitne marzenia związane z przeglądarkami, a także wiele więcej.</span></p>
+<p><span style="font-weight: 400;">Jeśli coś z tego cię ciekawi (lub po prostu się nudzisz) &#8211; czytaj dalej, aby dowiedzieć się więcej o podstawach JavaScriptu i rozpocznij swoją podróż w kierunku zostania programistycznym ninja.</span></p>
+<h3><b>Zmienne w</b><b> JavaScript</b></h3>
+<p><span style="font-weight: 400;">Najlepszym miejscem na początek są zmienne. Zmienne są typem danych, w których programiści przechowują informacje &#8211; zwłaszcza takie, których program będzie potrzebować podczas pracy. Są one jak pudełka, do których można wkładać rzeczy. Programista może stworzyć zmienną w kodzie, wypełnić ją czymś (zadeklarować), a następnie uzyskać do niej dostęp w prosty sposób. W ten sposób informacja jest dostępna zawsze wtedy, gdy jest potrzebna.</span></p>
+<p><i><span style="font-weight: 400;">Więc, jak mogę stworzyć zmienną w kodzie?</span></i></p>
+<p><span style="font-weight: 400;">W ten sposób:</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable;</span></p>
+<p><i><span style="font-weight: 400;">A co to niby znaczy?!</span></i></p>
+<p><span style="font-weight: 400;">Cieszę się, że pytasz! Powyższy wiersz składa się z dwóch części, które łączą się, aby utworzyć zmienną. Podzielmy ją i dokonajmy jej analizy.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">W języku JavaScript jest to słowo zastrzeżone. W tym języku jest ich całkiem sporo i wszystkie mają swoje dedykowane zadania. Ten mówi programowi, że masz zamiar utworzyć zmienną.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">myCoolVariable</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to identyfikator zmiennej, jej nazwa. Może to być wszystko, od &#8222;kota&#8221; do &#8222;mojaSuperZmienna3&#8221; (ale lepiej nie nazywać ich w ten sposób!). Identyfikator zmiennej jest używany do odnoszenia się do niej w przyszłości, gdy jest ona potrzebna. Dobrą praktyką jest nadawanie swoim zmiennym nazw, które opisują ich działanie, więc jeśli masz zmienną, która zawiera twój wiek, to prawdopodobnie powinieneś ją nazwać myAge. Rób to konsekwentnie, a twoi koledzy programiści będą Cię szanować i kupować za to różne prezenty! </span></li>
+</ul>
+</li>
+</ul>
+<p><i><span style="font-weight: 400;">Dobra, fajnie, ale co dalej?</span></i></p>
+<p><span style="font-weight: 400;">Pamiętasz, że zmienne są jak pudełka? Powyższy kod tworzy pudełko, ale jeszcze niczego w nim nie włożyliśmy &#8211; to jest następny krok. Jednak zanim to zrobimy, słowo o typach danych.</span></p>
+<p><i><span style="font-weight: 400;">Jakich danych?</span></i></p>
+<p><span style="font-weight: 400;">Typy danych są różnymi rodzajami zmiennych, które można wytworzyć, w większości przypadków wszystkie języki programowania je posiadają. Niektóre języki są bardzo ścisłe, praktycznie nakazują Ci określić dokładnie jaki typ zmiennej tworzysz, a następnie musisz trzymać się tego przez cały czas! Na szczęście, JavaScript taki nie jest. Możesz stworzyć zmienną określonego typu w JavaScript, a następnie zmienić ją później w zależności od potrzeb czy własnej chęci, ponieważ wartości i typy zmiennych mogą być zmieniane w dowolnym momencie. Woohoo! Możesz sobie poszaleć.</span></p>
+<p><span style="font-weight: 400;">Oto niektóre z typów danych dostępnych dla programistów JavaScript.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Number</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Number (Liczba) określa zmienną o wartości liczbowej. Ten typ zmiennej może teoretycznie przechowywać wartości od -nieskończoności do +nieskończoności. Może również przechowywać specjalną wartość, NaN, która oznacza 'Not a Number' (Nie Liczba) i zdarza się, że kiedy popełnisz błąd w kodzie, to właśnie taką wartość otrzymasz. Biedny JavaScript.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">String</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">String (Ciąg) definiuje zmienną, która zawiera tekst, jak 'Witaj', 'Żegnaj' lub 'Pokaż mi swoje towary'.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boolean</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Boolean definiuje zmienną, która może być prawdziwa lub fałszywa. Ten typ zmiennej jest często używany do podejmowania decyzji w kodzie. Czy powinienem stać, czy iść naprzód? Boolean ma dla Ciebie odpowiedź.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Dostępne są również inne typy danych i jeśli chcesz się im przyjrzeć, możesz </span><a href="https://www.w3schools.com/js/js_datatypes.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">kliknąć tutaj</span></a><span style="font-weight: 400;">. </span></p>
+<p><i><span style="font-weight: 400;">Nadawanie wartości zmiennym</span></i></p>
+<p><span style="font-weight: 400;">Zobaczmy, jak możesz włożyć dane do zmiennych. Poniżej znajduje się jakiś kod, który to robi.</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = ‘hello’;</span></p>
+<p><span style="font-weight: 400;">myCoolVariable = true;</span></p>
+<p><span style="font-weight: 400;">Powyższy kod ustawia myCoolVariable trzy razy: raz na typ Number (10), raz na wartość Stringa (&#8222;hello&#8221;), a następnie na wartość boolean (true).</span></p>
+<p><i><span style="font-weight: 400;">Tworzenie i ustawianie zmiennej w tym samym czasie</span></i></p>
+<p><span style="font-weight: 400;">Możliwe jest również tworzenie i ustawienie wszystkich zmiennych naraz. Robisz to w ten sposób:</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">Tutaj stworzyliśmy myCoolVariable i nadaliśmy mu wartość 10 w jednej i tej samej linii. </span></p>
+<p><i><span style="font-weight: 400;">Odnoszenie się do zmiennej w przyszłości</span></i></p>
+<p><span style="font-weight: 400;">Tworzenie i ustawianie zmiennych jest świetne, ale prawdziwa moc przychodzi później &#8211; kiedy rzeczywiście ich używasz. Jak to wygląda? To proste! Użyj identyfikatora.</span></p>
+<p><span style="font-weight: 400;">var myCoolVariable = 10;</span></p>
+<p><span style="font-weight: 400;">var myCoolVariableDouble = myCoolVariable + myCoolVariable;</span></p>
+<p><span style="font-weight: 400;">Tutaj tworzymy myCoolVariable i nadajemy mu wartość 10. Następnie tworzymy kolejną zmienną, myCoolVariableDouble i ustawiamy ją na wynik dodawania myCoolVariable do siebie. Tak więc teraz myCoolVariableDouble równa się 20 i mamy dwie zmienne w programie. Dwie! Lepiej biegnij po aparat!</span></p>
+<p><i><span style="font-weight: 400;">Dość już o zmiennych</span></i></p>
+<p><span style="font-weight: 400;">Zajęliśmy się podstawami zmiennych: ich tworzeniem, ustawianiem i odwoływaniem się do nich. Jednak w JavaScripcie jest o wiele więcej do zaprogramowania i odkrycia. Teraz gdy już znasz podstawy, możemy przejść do większych i lepszych rzeczy. Takich jak instrukcje if.</span></p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-9920" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1024x683.jpg" alt="Tak wygląda kod języka JavaScript" width="1024" height="683" srcset="/blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1024x683.jpg 1024w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-300x200.jpg 300w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-768x512.jpg 768w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1536x1024.jpg 1536w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920-1080x720.jpg 1080w, /blog/wp-content/uploads/2020/09/cyber-glasses-1938449_1920.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h3><b>Instrukcja If</b></h3>
+<p><span style="font-weight: 400;">Więc mamy opanowane zmienne, ale jak ich użyć do robienia fajnych i niesamowitych rzeczy? Cóż, jednym ze sposobów jest użycie instrukcji if.</span></p>
+<p><span style="font-weight: 400;">Instrukcja if jest sposobem, w jaki programista może wbudować w swój kod logikę decyzyjną. Oznacza to, że możemy powiedzieć naszym programom, aby zrobiły coś w oparciu o pewien warunek. Spójrzmy na przykład.</span></p>
+<p><span style="font-weight: 400;">If (10 &gt; 20) {</span></p>
+<p><span style="font-weight: 400;">  // Run this code</span></p>
+<p><span style="font-weight: 400;">} else {</span></p>
+<p><span style="font-weight: 400;">  // Run this code</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">{} definiują blok kodu. Niektóre narzędzia JavaScript, takie jak instrukcje if, wymagają ich w celu oddzielenia różnych bitów kodu.</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Rozbijmy to na części pierwsze.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">if</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To kolejne zastrzeżone słowo. Wskazuje ono programowi, że następujący kod będzie instrukcją if.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(10 &gt; 20)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ta część jest warunkiem. Program oceni warunek, a następnie na podstawie wyniku wybierze, co należy zrobić. Warunek zawsze podaje wartość typu boolean, tzn. prawdziwą lub fałszywą. Jeśli wyjście warunku jest prawdziwe, to instrukcja if uruchomi blok kodu bezpośrednio za zamykającym się nawiasem warunku. Jeśli oszacuje na wartość false, to zamiast tego zostanie uruchomiony kod w drugim bloku &#8211; co dokładnie stanie się tutaj, ponieważ 10 nie wynosi więcej od 20.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">else</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to kolejne słowo kluczowe JavaScript. Określa ono po prostu kod, który powinien zostać uruchomiony, jeśli warunek zostanie oceniony jako fałszywy. Blok else nie jest wymagany &#8211; jeśli go dodasz, to technicznie tworzysz instrukcję if else.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Miejmy nadzieję, że teraz jest jasne, dlaczego należy tutaj używać {}. Bez zdefiniowania bloku kodu, nie byłoby jasne dla programu, który kod powinien zostać uruchomiony, jeśli warunek zostanie oceniony jako prawdziwy lub fałszywy.</span></p>
+<p><span style="font-weight: 400;">Instrukcje if są jednym z podstawowych elementów składowych złożonych programów. Opanowanie ich jest niezbędne, aby stać się kompetentnym programistą JavaScript.</span></p>
+<h3></h3>
+<h3><b>Pętle</b></h3>
+<p><span style="font-weight: 400;">Kolejnym ważnym narzędziem są pętle. Jak sama nazwa wskazuje, te bity kodu uruchamiają się w kółko, aż do momentu spełnienia określonego warunku. Istnieje kilka różnych rodzajów pętli, ale przyjrzymy się tylko dwóm z nich. Podam linki do dalszej nauki, jeśli będziecie zainteresowani.</span></p>
+<p><i><span style="font-weight: 400;">Pętla For</span></i></p>
+<p><span style="font-weight: 400;">Najpierw zajmiemy się pętlą for. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">var numberOfIterations = 10;</span></p>
+<p><span style="font-weight: 400;">for (var i = 0; i &lt; numberOfIterations; i++) {</span></p>
+<p><span style="font-weight: 400;">  // do something 10 times</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Może to wyglądać trochę dziwnie w porównaniu z innymi rzeczami z tego tekstu, ale staje się naprawdę proste, gdy pozna się podstawy działania pętli. Dlatego teraz przejrzę każdą część kodu z osobna.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var numberOfIterations = 10</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to tylko kod do tworzenia i ustawiania zmiennej za jednym razem.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for (var i = 0; i &lt; numberOfIterations; i++)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">for</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kolejne zastrzeżone słowo. To mówi programowi, że masz zamiar napisać pętlę.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">var i = 0</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tworzenie i ustawianie zmiennej ponownie. Jest to szczególny przypadek, ponieważ tworzymy ją w ramach pętli, dla tej pętli. Oznacza to, że zmienna i będzie istniała tylko przez czas trwania pętli. Gdy tylko zakończy się jej wykonywanie, zostanie ona odrzucona. Na zawsze. Żegnaj, zmienno i.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i &lt; numberOfIterations</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ta linia mówi, że pętla ma być wykonana tylko wtedy, gdy zmienna i jest mniejsza od wartości numberOfIterations (10).</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">i++</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wreszcie, linia ta mówi pętli, że po wykonaniu pojedynczej iteracji, powinna ona zwiększyć wartość i o 1.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Mam nadzieję, że teraz całkiem łatwo jest zobaczyć, jak działa pętla for. Tworzy ona tymczasową zmienną do śledzenia ilości pętli, które zostały wykonane: (i), następnie definiuje warunek wykonania (tylko gdy i &lt; jakaś wartość), a następnie definiuje, jak ma się ona zwiększać z każdą pętlą (w tym przypadku +1, ale może to być naprawdę wszystko, co chcesz).</span></p>
+<p><span style="font-weight: 400;">Najwyraźniej, pętla for jest dobra, gdy wiesz, ile razy chcesz coś uruchomić. Jednak co w przypadku, gdy nie wiesz? Oto nadchodzi czas na pętlę while.</span></p>
+<p><i><span style="font-weight: 400;">Pętla While</span></i></p>
+<p><span style="font-weight: 400;">Pętla while jest prostsza niż pętla for. Po prostu bierze warunek i wykonuje go, dopóki warunek ten nie jest fałszywy. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">var shouldKeepRunning = true;</span></p>
+<p><span style="font-weight: 400;">while (shouldKeepRunning) {</span></p>
+<p><span style="font-weight: 400;">  // Do some code</span></p>
+<p><span style="font-weight: 400;">  shouldKeepRunning = false;</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">while</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mówimy programowi, że mamy zamiar napisać pętlę while.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(shouldKeepRunning)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">To jest warunek. Pętla będzie działać, gdy wartość parametru shouldKeepRunning jest prawdziwa. To jest to samo co napisanie shouldKeepRunning == true, ale możemy to napisać w ten sposób, jako skrót.</span></li>
+</ul>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">JavaScript używa == do porównania dwóch wartości, dlatego bo = jest używany do ustawiania wartości. Więc jeśli piszesz if (10 == 20), to naprawdę mówisz &#8222;jeśli 10 jest równe 20, to[&#8230;]&#8221;.</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">Ta pętla uruchomi się tylko raz, ponieważ natychmiast ustawiliśmy shouldKeepRunning na fałszywy przy pierwszej iteracji. Prawdopodobnie nigdy czegoś takiego nie zobaczysz w </span></p>
+<p><span style="font-weight: 400;"> swoim kodzie, ale ważne jest, aby upewnić się, że pętla w pewnym momencie się zatrzyma. Nie chcemy powodować globalnej katastrofy przy pomocy nigdy niezatrzymującej się pętli obliczeń!</span></p>
+<p><span style="font-weight: 400;">To są jedyne dwie pętle, które tutaj omówimy, ale jeśli chcesz dowiedzieć się więcej &#8211; możesz sprawdzić </span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">ten link</span></a><span style="font-weight: 400;">. </span></p>
+<h3><b>Funkcje</b></h3>
+<p><span style="font-weight: 400;">Wszystkie narzędzia, jakie do tej pory poznaliśmy, są świetne do pisania małych i sekwencyjnych skryptów &#8211; ale co jeśli chcemy pisać większe programy, które w kółko korzystają z tych samych bitów kodu? Nie chcemy ciągle kopiować i wklejać fragmentów kodu, tylko po to, aby ponownie go wykorzystać. Tu właśnie pojawiają się funkcje.</span></p>
+<p><span style="font-weight: 400;">Funkcje są kawałkami kodu wielokrotnego użytku. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">function doSomething(argumentOne, argumentTwo) {</span></p>
+<p><span style="font-weight: 400;">  // do something here</span></p>
+<p><span style="font-weight: 400;">}</span></p>
+<p><span style="font-weight: 400;">Przeanalizujmy ten kod:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">function</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jeszcze jedno słowo kluczowe JavaScript. Określa ono powstanie funkcji.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">doSomething</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jest to identyfikator funkcji. Tak jak identyfikator zmiennej, pozwala nam na odwołanie się do tej funkcji później, w kodzie.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">(argumentOne, argumentTwo)</span>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kod w nawiasach jest listą argumentów. Dwie wartości argumentOne i argumentTwo zachowują się jako zmienne wewnątrz funkcji i dlatego mogą być jako takie używane. Za sekundę zobaczymy, jak te zmienne zostaną ustawione.</span></li>
+</ul>
+</li>
+</ul>
+<p><span style="font-weight: 400;">Każdy kod zdefiniowany w bloku funkcji może być uruchamiany tyle razy, ile chcesz, po prostu wywołując funkcję. Oto przykład.</span></p>
+<p><span style="font-weight: 400;">doSomething(10, 20);</span></p>
+<p><span style="font-weight: 400;">Używamy identyfikatora funkcji doSomething, a następnie podajemy dwa argumenty, 10 i 20. Wypełnią one następnie argumenty na liście argumentów funkcji, to jest argumentOne i argumentTwo. Kolejność ma znaczenie, więc argumentOne otrzyma wartość 10, a argumentTwo wartość 20.</span></p>
+<p><span style="font-weight: 400;">Funkcje działają tak samo, jak zmienne w tym sensie, że można odnieść się tylko do funkcji w obrębie danego bloku i wszystkich bloków dziecięcych, w których została ona zdefiniowana. Jeśli masz funkcję, która została utworzona np. wewnątrz bloku instrukcji if, to nie możesz jej używać poza tym blokiem.</span></p>
+<p><span style="font-weight: 400;">Funkcje są niezwykle ważnymi narzędziami, jeśli chcesz tworzyć złożone i dynamiczne programy &#8211; dlatego ważne jest, aby je ćwiczyć. Więcej informacji można znaleźć </span><a href="https://www.w3schools.com/js/js_functions.asp" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">tutaj</span></a><span style="font-weight: 400;">.  </span></p>
+<h3><b>Podsumowanie</b></h3>
+<p><span style="font-weight: 400;">W tym artykule omówione zostały tylko niektóre z podstaw programowania w języku JavaScript &#8211; pozostało jeszcze sporo do poznania. Programowanie JavaScript jest umiejętnością praktyczną i można się go nauczyć tylko w praktyce. Istnieje wiele usług, które pomogą Ci to zrobić, takich jak CodeAcademy, CodeBerry, CodeSchool, Pluralsight i wiele innych. Mam nadzieję, że te informacje będą dla Was przydatne jako podręczny przewodnik na przyszłość. Powodzenia w karierze programistycznej!</span></p>
+<p><strong>W serii „Przewodnik dla początkujących” Szkoły Programowania CodeBerry</strong> będziemy odpowiadać na pytania, które możesz mieć odnośnie tego, jaki język programowania wybrać, ile pieniędzy będziesz zarabiać, co możesz zrobić jako programista stron internetowych oraz od czego zacząć.</p>
+<p>Języki programowania</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/pl/tworzenie-stron-internetowych-poradnik/" data-wpel-link="external" target="_blank" rel="external">Tworzenie stron internetowych – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-dla-poczatkujacych-po-java/" data-wpel-link="external" target="_blank" rel="external">Przewodnik dla początkujących po języku programowania Java</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-w-pythonie-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie w Pythonie – język Python dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/programowanie-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Programowanie C++ – przewodnik dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/przewodnik-c-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Przewodnik C# dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/jezyk-php-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Język PHP – programowanie PHP dla początkujących</a></li>
+<li><a href="https://codeberryschool.com/blog/pl/?p=9919&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Podstawy JavaScript &#8211; język JavaScript dla początkujących</a></li>
+</ul>
+<p>Chcesz nauczyć się programować, online? Przyjdź i wypróbuj nasze pierwsze <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">25 lekcji za darmo</a> w Szkole Programowania CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kursy JavaScript dla początkujących</title>
+		<link>/blog/pl/kursy-javascript-dla-poczatkujacych/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2020 09:43:09 +0000</pubDate>
+				<category><![CDATA[Kursy programowania]]></category>
+		<category><![CDATA[doświadczenia użytkownika]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[kurs JavaScript]]></category>
+		<category><![CDATA[podstawy JavaScript]]></category>
+		<category><![CDATA[programowanie stron internetowych]]></category>
+		<category><![CDATA[strona klienta]]></category>
+		<category><![CDATA[strona serwera]]></category>
+		<category><![CDATA[tworzenie stron internetowych]]></category>
+		<category><![CDATA[user exeperience]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=9793</guid>
+
+					<description><![CDATA[W naszej serii artykułów „Kursy programowania” zebraliśmy informacje na temat możliwości, jakie czekają na osoby, które chcą uczyć się programowania w większych miastach w Polsce, a także ciekawostki, które mogą pomóc w wyborze odpowiedniego szkolenia. Chcesz nauczyć się programowania online? Przyjdź i wypróbuj nasze pierwsze 25 lekcji za darmo w CodeBerry Programming School! Kursy programowania Kursy programowania w Warszawie Kursy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>W naszej serii artykułów „<a href="https://codeberryschool.com/blog/pl/category/kursy-programowania/" data-wpel-link="external" target="_blank" rel="external">Kursy programowania</a>” zebraliśmy informacje na temat możliwości, jakie czekają na osoby, które chcą uczyć się programowania w większych miastach w Polsce,</strong> a także ciekawostki, które mogą pomóc w wyborze odpowiedniego szkolenia.</p>
+<p>Chcesz nauczyć się programowania online? Przyjdź i <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">wypróbuj nasze pierwsze 25 lekcji za darmo</a> w CodeBerry <span class="hiddenSpellError">Programming</span> <span class="hiddenSpellError">School</span>!</p>
+<h2><span id="Kursy_programowania">Kursy programowania</span></h2>
+<ul>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/?p=9694&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Kursy programowania w Warszawie</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/przeglad-kursow-programowania-w-warszawie/" data-wpel-link="external" target="_blank" rel="external">Kursy programowania w Krakowie</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/top-4-kursy-programowania-w-lodzi/" data-wpel-link="external" target="_blank" rel="external">Kursy programowania w Łodzi</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/?p=9761&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Kursy programowania we Wrocławiu</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/?p=9838&amp;preview=true" rel="nofollow external" data-wpel-link="external" target="_blank">Kursy programowania w Poznaniu</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/top-kursow-programowania-w-trojmiescie/" data-wpel-link="external" target="_blank" rel="external">Kursy programowania w Trójmieście</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/?p=9828&amp;preview=true" data-wpel-link="external" target="_blank" rel="external">Kursy programowania w Katowicach</a></h6>
+</li>
+<li>
+<h6 class="entry-title"><a href="https://codeberryschool.com/blog/pl/kursy-javy-w-polsce/" data-wpel-link="external" target="_blank" rel="external">Kursy Javy – top 8 najlepszych szkoleń w Polsce</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/kursy-javascript-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external">Kursy JavaScript dla początkujących</a></h6>
+</li>
+<li>
+<h6><a href="https://codeberryschool.com/blog/pl/kurs-pythona-10-top-opcji/" data-wpel-link="external" target="_blank" rel="external">Kurs Pythona &#8211; 10 top opcji w języku polskim</a></h6>
+</li>
+</ul>
+<h1><span style="font-weight: 400;">JavaScript w skrócie</span></h1>
+<p><span style="font-weight: 400;">Struktura i forma strony internetowej jest zbudowana za pomocą HTML; jej styl i prezentacja jest tworzona za pomocą CSS. A trzecim członkiem złotej triady tworzenia stron internetowych jest JavaScript (w skrócie JS).</span></p>
+<p><span style="font-weight: 400;">Po stronie klienta, JavaScript obsługuje funkcjonalne części stron internetowych i jest odpowiedzialny za wrażenia użytkownika – praktycznie ożywia serwis. (Więcej informacji na ten temat można znaleźć tutaj).</span></p>
+<p><span style="font-weight: 400;">Znajomość tych trzech systemów może otworzyć przed Tobą wiele nowych możliwości: mogą one być wykorzystane do tworzenia ekscytujących, zaawansowanych i znaczących treści internetowych.</span></p>
+<p><span style="font-weight: 400;">Oprócz front-endu, JavaScript jest również używany po stronie serwera poprzez platformę Node.js. Ten język programowania jest stale rozszerzany i rozwijany, dzięki czemu zakres jego stosowania stale rośnie. </span></p>
+<p><span style="font-weight: 400;">Zostanie programistą JavaScript, może stać się niezbędnym dodatkiem do Twoich umiejętności w poszukiwaniu wymarzonej pracy.</span></p>
+<p>&nbsp;</p>
+<h1><span style="font-weight: 400;">Ten artykuł zawiera listę kursów oferujących naukę podstaw języka JavaScript</span></h1>
+<p><span style="font-weight: 400;">(A </span><a href="https://codeberryschool.com/blog/pl/kurs-programowania-dla-poczatkujacych/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">ten artykuł </span></a><span style="font-weight: 400;">pomoże Ci wybrać odpowiedni kurs programowania dla początkujących, prezentując w jednym miejscu wszystkie istotne czynniki, które należy wziąć pod uwagę). </span></p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-9795" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/code-3625646_960_720.jpg" alt="Znajomość języka JavaScript pozwala tworzyć interaktywne strony" width="960" height="561" srcset="/blog/wp-content/uploads/2020/09/code-3625646_960_720.jpg 960w, /blog/wp-content/uploads/2020/09/code-3625646_960_720-300x175.jpg 300w, /blog/wp-content/uploads/2020/09/code-3625646_960_720-768x449.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></p>
+<h3><span style="font-weight: 400;">Kursy JavaScript w </span><a href="https://codeberryschool.com/pl/kurs-podstawy-programowania" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">CodeBerry</span></a></h3>
+<p><span style="font-weight: 400;">W szkole programowania  CodeBerry możesz wziąć udział w kursie programowania dla początkujących, podczas którego w ciągu dwóch miesięcy poznasz podstawy języka JavaScript.</span></p>
+<p><span style="font-weight: 400;">Kurs ten poprowadzi Cię od samych podstaw do stabilnej wiedzy, która umożliwi Ci stworzenie pierwszego projektu, opartego na JavaScript, a także kontynuowanie nauki na kursie średniozaawansowanym.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">W szkole CodeBerry będziesz się uczyć:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 miesiące, 3-5 godzin/tydzień.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Zajęcia rozpoczynają się w określonych terminach, należy się zarejestrować przed ich rozpoczęciem</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Możesz uczyć się we własnym tempie, ale mentor pomoże ci w pracy podczas kursu.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">W razie potrzeby możesz poprosić o pomoc i radę</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kurs odbywa się online, więc możesz uczyć się z każdego miejsca na świecie</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Aby wziąć udział w kursie, musisz zapisać się przed rozpoczęciem kolejnego bootcampu. Całkowity koszt kursu to 498 złotych, do zapłacenia w 2 ratach. W ramach opłaty otrzymasz dostęp do wszystkich materiałów kursu “Podstawy programowania”, a także jednego z mentorów CodeBerry, który będzie Ci przez cały czas pomagał.</span></p>
+<p><span style="font-weight: 400;">Jeśli nie chcesz od razu płacić, możesz spróbować pierwszych 10 lekcji za darmo, aby zdecydować, czy kurs Ci odpowiada.</span></p>
+<p><span style="font-weight: 400;">Po subskrypcji nadal masz szansę na zwrot pieniędzy &#8211; jeśli nie jesteś zadowolony z programu, CodeBerry zwróci Ci wszystkie Twoje pieniądze.</span></p>
+<h6><i><span style="font-weight: 400;">Podobają mi się krótkie i łatwe do zrozumienia wyjaśnienia oraz sympatyczna atmosfera.</span></i></h6>
+<h6><i><span style="font-weight: 400;">Grzegorz Stolarczyk, student CodeBerry</span></i></h6>
+<p>&nbsp;</p>
+<h3><a href="https://przeprogramowani.pl/kurs-javascript/?utm_source=landing" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Przeprogramowani</span></a></h3>
+<p><span style="font-weight: 400;">Nauka JavaScriptu w szkole Przeprogramowani opiera się na realizacji projektów, interaktywnych ćwiczeniach oraz quizach. Kursy przeznaczone są dla osób rozpoczynających naukę programowania JavaScript, a także młodszych programistów JavaScript, którzy chcą utrwalić i poszerzyć swoją wiedzę.</span></p>
+<p><span style="font-weight: 400;">Szkolenie dostępne jest w trzech pakietach, w ramach których kursant otrzymuje dostęp do platformy edukacyjnej:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pakiet Basic, w cenie 497 złotych.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pakiet Premium za 597 złotych.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pakiet VIP, w cenie 997 złotych, w ramach którego kursanci otrzymują trzy sesje mentoringu live.</span></li>
+</ul>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Kursy JavaScript w <a href="https://strefakursow.pl/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">Strefa kursów</a></span></h3>
+<p><span style="font-weight: 400;">Strefa kursów to </span><a href="https://strefakursow.pl/javascript.html?sort_by=created_desc&amp;direction=desc&amp;limit=20&amp;filter%5Bdisplay_mode%5D=list" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">platforma edukacyjna</span></a><span style="font-weight: 400;">, oferująca kursy z różnych dziedzin w korzystnych cenach. Zaletą szkoleń jest możliwość nauki w dowolnym miejscu, czasie, a także z dowolnego urządzenia. Ceny kursów z dziedziny JavaScript rozpoczynają się od 59 złotych. W ramach tego, kursanci otrzymują dożywotni dostęp do szkoleniowych materiałów video.</span></p>
+<p><span style="font-weight: 400;">Początkujący mogą zapoznać się z językiem JavaScript na m.in kursach:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://strefakursow.pl/kursy/programowanie/ekosystem_javascript_-_wprowadzenie.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Ekosystem JavaScript &#8211; wprowadzenie</span></a><span style="font-weight: 400;"> (99 zł)</span></li>
+<li style="font-weight: 400;"><a href="https://strefakursow.pl/kursy/programowanie/wprowadzenie_do_tworzenia_aplikacji_mobilnych.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Wprowadzenie do tworzenia aplikacji mobilnych</span></a><span style="font-weight: 400;"> (89 zł), </span></li>
+</ul>
+<ul>
+<li style="font-weight: 400;"><a href="https://strefakursow.pl/kursy/programowanie/wprowadzenie_do_tworzenia_stron_internetowych.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Wprowadzenie do tworzenia stron internetowych</span></a><span style="font-weight: 400;"> (99 zł),</span></li>
+<li style="font-weight: 400;"><a href="https://strefakursow.pl/kursy/programowanie/fundamenty_programowania.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Fundamenty programowania </span></a><span style="font-weight: 400;">(79 zł)</span></li>
+</ul>
+<p><span style="font-weight: 400;">Programowania na poziomie zaawansowanym nauczyć można się z np. </span><a href="https://strefakursow.pl/kursy/programowanie/kurs_javascript_-_zaawansowany.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Kursie Javascript &#8211; zaawansowany</span></a><span style="font-weight: 400;"> (69 zł).</span></p>
+<p><span style="font-weight: 400;">JavaScript uczyć można się również w ramach wielu </span><a href="https://strefakursow.pl/sciezki_kariery/javascript_front-end_developer.html" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">specjalizacji</span></a><span style="font-weight: 400;">, czyli ścieżek kariery, przygotowujących krok po kroku do zdobycia pracy w wybranym zawodzie.</span></p>
+<p><span style="font-weight: 400;">Po zakończeniu kursów uczestnicy mają możliwość przystąpienia do egzaminu i uzyskania certyfikatu potwierdzającego umiejętności.</span></p>
+<h6><i><span style="font-weight: 400;">Świetne teoretyczne wprowadzenie do JS. Można zapoznać się z całym ekosystemem, aby mieć świadomość ile pracy jeszcze przed nami <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></span></i></h6>
+<h6><i><span style="font-weight: 400;">Katarzyna Cieplińska, użytkowniczka Strefy Kursów</span></i></h6>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Kursy JavaScript w <a href="https://www.udemy.com/pl/topic/javascript/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">Udemy</a></span></h3>
+<p><span style="font-weight: 400;">W Udemy możesz wybierać spośród różnych kursów w zależności od własnych preferencji i wcześniejszej wiedzy. Na platformie znajdują się szkolenia online, w formie materiałów video, dzięki czemu można uczyć się we własnym tempie. Ceny szkoleń rozpoczynają się już od 34,99 złotych.</span></p>
+<p><span style="font-weight: 400;">Do najczęściej wybieranych przez osoby początkujące kursów należą:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">[2020] JavaScript &#8211; Jedyny Kurs, Którego Potrzebujesz!</a><span style="font-weight: 400;"> W ramach kursu otrzymasz 19 godzin materiałów edukacyjnych online na życzenie, od poziomu początkującego do tworzenia zaawansowanych aplikacji. Oznacza to, że niezależnie od czasu i miejsca, zgłębiać można tajniki języka JavaScript.</span></li>
+</ul>
+<h6><i><span style="font-weight: 400;">Świetny kurs, dobrze wyłożona teoria &#8211; do bezpośredniego wykorzystania w następnej lekcji. Autor zachęca do samodzielnego rozwiązywania zadań, przy wykorzystaniu przed chwilą zdobytej wiedzy, a następnie przedstawia swoje rozwiązanie.</span></i></h6>
+<h6><i><span style="font-weight: 400;">Ten sposób bardzo ułatwia przyswajanie wiedzy &#8211; serdecznie polecam.</span></i></h6>
+<h6><i><span style="font-weight: 400;">Michał Poniewierski, student Udemy</span></i></h6>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kurs </span><a href="https://www.udemy.com/course/javascript-od-podstaw-do-eksperta/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">JavaScript od Podstaw do Eksperta</a><span style="font-weight: 400;"> przeznaczony jest dla osób jest dla osób bez wcześniejszej wiedzy o JavaScript, które chcą rozpocząć przygodę z programowaniem. Kurs trwa 12,5 godzin i dostępny jest formie materiałów video na życzenie.</span></li>
+</ul>
+<h6><i><span style="font-weight: 400;">Kurs jak najbardziej mnie zainteresował, dał mi mnóstwo wiedzy z zakresu języka JavaScript. Tytułowym ekspertem jeszcze nie mogę się nazwać, ale kurs bardzo dobrze przedstawił mi podstawy języka, co chciałem osiągnąć kupując ten kurs.</span></i></h6>
+<h6><i><span style="font-weight: 400;">Jakub Maślanka, student Udemy</span></i></h6>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kurs </span><a href="https://www.udemy.com/course/kurs-programowanie-w-javascript/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Programowania JavaScript</span></a><span style="font-weight: 400;"> to propozycja dla początkujących, którzy od podstaw chcą przejść do programowania obiektowego. W ramach kursu otrzymasz dostęp do 37 godzin treści wideo na życzenie</span></li>
+</ul>
+<h6><i><span style="font-weight: 400;">Świetny kurs ! Nauczyłem się tu bardzo wiele rzeczy, więcej nawet niż na pewnym kursie stacjonarnym. Polecam każdemu kto chce zacząć przygodę z programowaniem. Szkoda tylko, że tak mało zadań dla siebie, one najbardziej rozwijały mnie podczas kursu.</span></i></h6>
+<h6><i><span style="font-weight: 400;">Łukasz K., student Udemy</span></i></h6>
+<p><span style="font-weight: 400;">Jeśli masz już za sobą naukę podstaw języka JavaScript, w Udemy znajdziesz również dodatkowe kursy, na przykład na temat programowania obiektowego, struktur danych, algorytmów i frameworków.</span></p>
+<p>&nbsp;</p>
+<h3><span style="font-weight: 400;">Kursy JavaScript w <a href="https://eduweb.pl/" rel="nofollow noopener external" target="_blank" data-wpel-link="external">Eduweb</a></span></h3>
+<p><span style="font-weight: 400;">Platforma Eduweb oferuje szereg kursów w formie video, które realizować można w dowolnym miejscu i czasie.</span></p>
+<p><span style="font-weight: 400;">Z językiem programowania JavaScript zapoznać można się w trakcie realizacji ścieżek edukacyjnych, takich jak </span><a href="https://eduweb.pl/sciezki/podstawy-javascript" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Podstawy JavaScript</span></a><span style="font-weight: 400;">, gdzie w ramach 29 godzin nauki nauczyć można się od podstaw tworzyć strony www z użyciem JS i biblioteki </span><span style="font-weight: 400;">jQuery.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">JavaScriptu nauczyć można się również na pojedynczych szkoleniach, np.</span></p>
+<p><a href="https://eduweb.pl/programowanie-i-www/javascript/javascript-podstawy" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Kursie JavaScript &#8211; Wprowadzenie</span></a><span style="font-weight: 400;"> (99 zł), trwającym 10 godzin 55 minut.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Uzyskać można również dostęp do wielu kursów w ramach miesięcznego abonamentu, w cenie od 79 złotych. Przed rozpoczęciem płatnej subskrypcji materiały dostępne na Eduweb przetestować można za darmo przez 7 dni.</span></p>
+<p>&nbsp;</p>
+<h3><a href="https://kursjs.pl/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Kurs JavaScript dla Superbohaterów</span></a></h3>
+<p><span style="font-weight: 400;">Kurs JavaScript dla Superbohaterów to darmowa propozycja dla osób, które programowania uczyć chcą się samodzielnie i w domowym zaciszu. Na stronie znajdziemy przystępnie opisane podstawy JS, a także inne zagadnienia związane z programowaniem w tym języku.</span></p>
+<p>&nbsp;</p>
+<h3><a href="https://coderslab.pl/pl/kurs/javascript-developer-react/o-kursie" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Coders Lab</span></a></h3>
+<p><span style="font-weight: 400;">W szkole programowania Coders Lab języka JavaScript nauczyć można się na kursie</span><span style="font-weight: 400;"> JavaScript Developer. Kurs dostępny jest w kilku trybach:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"> Stacjonarnym &#8211; kurs odbywa się od poniedziałku do piątku od godziny 9-17. Szkolenie trwa 2 miesiące.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wieczorowym &#8211; zajęcia odbywają się wieczorami oraz w weekendy w godzinach 18.30-21.30. Cały kurs trwa 5 miesięcy.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Weekendowym &#8211; kurs odbywa się</span> <span style="font-weight: 400;">co drugi tydzień, w soboty i niedziele w godzinach 9-17.</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Szkolenia w Coders Lab odbywają się w kilku miastach w Polsce, a także w wirtualnej klasie. Do dyspozycji studentów są wykładowcy oraz mentorzy. Ceny kursów rozpoczynają się od 9900 złotych. Szczegółowe informacje na temat terminów rozpoczęcia szkoleń oraz sposobów ich finansowania znaleźć można na stronie internetowej szkoły.</span></p>
+<p>&nbsp;</p>
+<h3><a href="https://kodilla.com/pl/kurs-javascript" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">Kodilla</span></a></h3>
+<p><span style="font-weight: 400;">W szkole programowania Kodilla Javascriptu można nauczyć się na dwóch bootcampach online: </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kursie Web Developer, trwającym 9 miesięcy szkoleniu z mentorem, w ramach którego obok JavaScriptu, nauczyć można się</span><span style="font-weight: 400;"> HTML i CSS, a także używania narzędzi Boostrap, Git i SaaS oraz platformy Node.js i frameworka React.js.</span></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kursie Front End:React, czyli 4-miesięcznym szkoleniu z mentorem dla osób, które posiadają podstawową wiedzę na temat HTML i CSS i chcą nauczyć się języka JavaScript oraz frameworku React.</span></li>
+</ul>
+<p><span style="font-weight: 400;">Wybrane szkolenie opłacić można w całości z góry, w formie miesięcznego abonamentu lub ratalnie. </span></p>
+<p>&nbsp;</p>
+<h1><span style="font-weight: 400;">Nauka programowania w języku JavaScript to bez wątpienia najbardziej opłacalna inwestycja.</span></h1>
+<p><span style="font-weight: 400;">Wiele firm poszukuje front-endowych programistów, a znajomość języka JavaScript jest niezbędna na drodze do tego zawodu. Umiejętności programowania w sieci mogą być również przydatne w innych dziedzinach, takich jak prowadzenie własnej firmy czy UX (User Experience). </span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Pomyśl o tym, który kurs będzie najbardziej odpowiedni dla Twoich celów, stylu nauki i harmonogramu; czytaj o tym, zadawaj pytania i zabieraj się do pracy!</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Więcej wskazówek, jak wybrać odpowiedni dla siebie kurs oraz pomoc w stawianiu pierwszych kroków, znajdziesz w artykułach publikowanych w serii </span><a href="https://codeberryschool.com/blog/pl/category/podstawy-programowania/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">Podstawy programowania</span></a><span style="font-weight: 400;">. Jeśli nie jesteś jeszcze przekonany do JavaScript, zajrzyj na naszą <a href="https://codeberryschool.com/blog/pl/kursy-javy-w-polsce/" data-wpel-link="external" target="_blank" rel="external">listę kursów Java</a>.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Javascript/jQuery | CodeBerry Blog</title>
+	<atom:link href="/blog/pl/tag/javascript-jquery/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 31 Oct 2019 07:28:45 +0000</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Od piekarza do dewelopera front endu &#8211; Historia János Farkas</title>
+		<link>/blog/pl/od-piekarza-do-dewelopera-front-endu-historia-janos-farkas/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 28 Apr 2017 08:06:55 +0000</pubDate>
+				<category><![CDATA[Wywiady]]></category>
+		<category><![CDATA[blog historia]]></category>
+		<category><![CDATA[blog o historii]]></category>
+		<category><![CDATA[blog piekary]]></category>
+		<category><![CDATA[Bootstrap]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[czym zajmuje się front end developer]]></category>
+		<category><![CDATA[czym zajmuje się programista]]></category>
+		<category><![CDATA[deweloper]]></category>
+		<category><![CDATA[deweloper piekary]]></category>
+		<category><![CDATA[dewelopera]]></category>
+		<category><![CDATA[endu]]></category>
+		<category><![CDATA[farkas]]></category>
+		<category><![CDATA[Farkas János]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[frontendu]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[historia programowania]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[János Farkas]]></category>
+		<category><![CDATA[Javascript/jQuery]]></category>
+		<category><![CDATA[Node/Bower]]></category>
+		<category><![CDATA[overflow css tricks]]></category>
+		<category><![CDATA[Pécs]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[piekarska blog]]></category>
+		<category><![CDATA[piekarski blog]]></category>
+		<category><![CDATA[piekary blog]]></category>
+		<category><![CDATA[polski piekarz]]></category>
+		<category><![CDATA[praca u dewelopera]]></category>
+		<category><![CDATA[SCSS/LESS]]></category>
+		<category><![CDATA[Y-collective]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/?p=5207</guid>
+
+					<description><![CDATA[János Farkas jest technikiem budowlanym, artystą grafikiem i z zawodu piekarzem. W styczniu zaczął pracować dla Y-collective (węgierskiej firmy) jako deweloper front endu. W tym odcinku Historii Uczniów, pozanmy kolejną historię ucznia Szkoły Programowania CodeBerry. Mieszkam w: Pécs na Węgrzech Pracuję w: Y-collective Studiowałem w CodeBerry: 2 miesiące Używam: PHPStorm, Stack Overflow, CSS-tricks, W3Schools Gdy [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>János Farkas</strong> jest technikiem budowlanym, artystą grafikiem i z zawodu piekarzem.<br />
+W styczniu zaczął pracować dla Y-collective (węgierskiej firmy) jako deweloper front endu.<br />
+W tym odcinku Historii Uczniów, pozanmy kolejną historię ucznia Szkoły Programowania CodeBerry.</p>
+<blockquote>
+<p><strong>Mieszkam w</strong>: Pécs na Węgrzech</p>
+<p><strong>Pracuję w</strong>: Y-collective</p>
+<p><strong>Studiowałem w CodeBerry</strong>: 2 miesiące</p>
+<p><strong>Używam:</strong> PHPStorm, Stack Overflow, CSS-tricks, W3Schools</p>
+</blockquote>
+<p><strong>Gdy ktoś cię pyta kim jesteś z zawodu, co odpowiadasz?</strong></p>
+<p>Najpierw zawsze mówię, że jestem programistą, zazwyczaj większość ludzi rozumie, o czym mówię.<br />
+W większości przypadków ludzie są zaciekawieni moim zawodem. Wtedy opowiadam im o szczegółach, o tym, że zajmuję się przygotowywaniem interfejsu użytkownika na stronach internetowych.<br />
+Czasem zajmuję się też skryptami po stronie serwera…</p>
+<p><strong>Czym zajmowałeś się zanim zająłeś się tworzeniem stron internetowych?</strong></p>
+<p>Po raz pierwszy pracuję jako twórca stron internetowych. Jednak już wcześniej mnie to interesowało.<br />
+Ta dziedzina interesowała mnie przez ostatnie 10 lat, ale dopiero w zeszłym rozku zająłem się tym na poważnie.<br />
+Do tej pory robiłem tylko mniejsze strony (i teraz zrobiłbym je zupełnie inaczej <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ).<br />
+Moim poprzednim zajęciem była praca w sektorze handlowym przez 10 lat. Byłem menadżerem piekarni w supermarkecie, nadzorowałem produkcję, zaopatrzenie, terminy i wszystko, co z tym związane. Dlatego była to dla mnie spora zmiana.</p>
+<p><strong>Czemu zdecydowałeś się na naukę tworzenia stron internetowych?</strong></p>
+<p>Zawsze fascynowała mnie programistyczna część informatyki.<br />
+Co roku internet i technologie sieciowe zajmują coraz większą część naszego codziennego życia.<br />
+Co za tym idzie, wzrasta zapotrzebowanie na profesjonalnych deweloperów. Chciałbym wykorzystać tę szansę. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Opowiedz, proszę, gdzie teraz pracujesz, jakie są twoje zadania. Co robisz w ciągu typowego dnia lub tygodnia?</strong></p>
+<p>Pracjuję jako młodszy twórca stron internetowych w Y-collective. Nasze biuro znajduje się na przedmieściach Pécs.<br />
+Na początku tygodnia mamy spotkanie dotyczące projektu, na którym zadania są ustalane i rozdzielane. Tak, żeby każdy mniej więcej wiedział, nad czym ma pracować w ciągu tygodnia i może jeszcze w następnym.<br />
+Mamy wiele projektów, dzięki czemu zadania są zróżnicowane.<br />
+Czasem zdarzy się, że pojawi się coś ważnego lub jakiś bug i trzeba go natychmiast naprawić.<br />
+Zazwyczaj dzień zaczynam kawą o 6 rano.<br />
+Podczas picia przeglądam wiadomości lub czytam o czymś, czym zajmowałem się poprzedniego dnia.<br />
+Do pracy jeżdzę rowerem. Oficjalne godziny pracy to 8-16, czasmi zostanję pół godziny lub godzinę dłużej.<br />
+Poza tworzeniem zajmujemy się również zmianami już gotowych stron, naprawą błędów, importowaniem istniejących modułów do innych projektów, administracją, modyfikacją baz danych…<br />
+Niedawno skupiliśmy się na unikalnych rozwiązaniach dla WordPress.<br />
+Wymaga to researchu lub zmiany plug-inów, więc się nie nudzimy.<br />
+Na codzień używam PHP, HTML, CSS, SCSS/LESS, Javascript/jQuery, Node/Bower, Bootstrap, i git.<br />
+Mamy tygodniowe/dwutygodniowe wewnętrzne szkolenia z różnych tematów.</p>
+<p><img loading="lazy" class="size-full wp-image-5760 aligncenter" src="https://codeberryschool.com/blog/wp-content/uploads/2017/04/Janos_Farkas_pic1-1.jpeg" alt="" width="800" height="543" /></p>
+<p><strong>Jak długo szukałeś pracy? Czy ciężko było ją znaleźć?</strong></p>
+<p>Szukanie pracy w IT nie zajęło długo. Dokładnie rzecz ujmując, nie spodziewałem się, że uda mi się wejść w świat IT w tak krótkim czasie.<br />
+Adam Freisinger, jeden z mentorów w CodeBerry, zapytał mnie o moje cele związane z karierą, bo robiłem duże postępy w nauce.<br />
+Nie ukrywałem, że chce pracować w tej dziedzinie, dlatego zorganizował dla mnie rozmowę o pracę, następnie dostałem zadanie próbne, a później pracę.<br />
+Niniejszym chciałbym podziękować wszystkim za pomoc, zrobię co w mojej mocy by się odwdzięczyć. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Jak nauczyłeś się programowania? Z jakich kursów, książek, itp. korzystałeś?</strong></p>
+<p>Na początku szukałem materiałów do nauki w sieci, czytałem artykuły i robiłem tutoriale.<br />
+Potem przyszło jeszcze więcej samodzielnej nauki, a następnym krokiem było CodeBerry.</p>
+<p><strong>Co dało ci CodeBerry? Jak ci się u nas uczyło?</strong></p>
+<p>Szukałem kursu online, który pomógłby mi wejść na następny poziom. Ale z zróżnych powodów, żaden nie wyglądał interesująco dla mnie.<br />
+I wtedy wpadłem na CodeBerry.<br />
+Bardzo spodobało mi się podejście. Nie tylko rozumieli, że ten kurs przyda się ludziom, ale również, że firmy IT potrzebują młodszych profesjonalistów.<br />
+I tak powstał ten symbiotyczny związek, służący obu stronom.<br />
+Nauka jest w pełni spersonalizowana: każdy może się uczyć we własnym tempie. Jeśli ktoś utknie, może poprosić o pomoc na Slacku lub Amandę.<br />
+Nie powiem, żebym dowiedział się wiele nowego z materiału do nauki. Jednak było to powtórzenie, którego potrzebowałem, żeby wypełnić dziury, które miałem i pogłebić moją wiedzę…<br />
+Największą korzyścią z CodeBerry dla mnie była możliwość oceny mojej wiedzy, dzięki czemu mogłem podjąć bardziej świadomie decyzję, żeby spróbować swoich sił.</p>
+<p><strong>Czy masz jakieś doświadczenia lub wskazówki, którymi chciałbyś podzielić się z początkującymi uczniami?</strong></p>
+<p style="text-align: left;">Zacznij dodatkowy projekt podczas nauki. Znajdź rozwiązanie prawdziwego problemu, nie ważne jak mały by był.<br />
+Możesz się w ten sposób wiele nauczyć.<br />
+Nie wahaj się skopiować rozwiązanie lub jego części, ale zaplanuj swoją wersję i postaraj się zrozumieć te części, które nie są dla ciebie jasne.<br />
+Nawet zakres twojej nauki może na tym bazować.</p>
+<p><strong>Co jest twoim następnym krokiem? W jakim kierunku planujesz iść?</strong></p>
+<p>Po pierwsze na pewno chce pogłębić swoją wiedzę i wejść na poziom moich kolegów.<br />
+Mamy bardzo dobrze dobrany zespół. Każdy jest świetny, w tym czym się zajmuje i codziennie wiele się od nich uczę.<br />
+Potem chciałbym osiągnąć swoją granicę możliwości, a później… się zobaczy.</p>
+<p><em><strong>W &#8222;Historiach Uczniów CodeBerry&#8221; prowadzimy rozmowy z naszymi absolwentami, którym udało się znaleźć pracę dewelopera.</strong></em></p>
+<p><em><strong>Chciałbyś nauczyć się programować? Odwiedź naszą stronę i spróbuj naszej pierwszej lekcji za darmo w Szkole Programowania CodeBerry.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

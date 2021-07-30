@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IT | CodeBerry Blog</title>
+	<atom:link href="/blog/id/tag/it-id/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 07 Nov 2019 08:33:19 +0000</lastBuildDate>
+	<language>id-ID</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Kami memberikan salah satu papan rahasia Trello kepada pengguna kami. Inilah yang terjadi.</title>
+		<link>/blog/id/kami-memberikan-salah-satu-papan-rahasia-trello-kepada-pengguna-kami-inilah-yang-terjadi/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 11:55:13 +0000</pubDate>
+				<category><![CDATA[Artikel]]></category>
+		<category><![CDATA[apa itu trello]]></category>
+		<category><![CDATA[cara menggunakan trello]]></category>
+		<category><![CDATA[inilah yang]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[kami memberikan]]></category>
+		<category><![CDATA[papan in english]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[trello]]></category>
+		<category><![CDATA[trello adalah]]></category>
+		<category><![CDATA[trello kritik]]></category>
+		<category><![CDATA[trello la gi]]></category>
+		<category><![CDATA[trello na komputer]]></category>
+		<category><![CDATA[umpan balik]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6516</guid>
+
+					<description><![CDATA[Bagaimana kami membuat sistem umpan balik yang benar-benar transparan Kami mendapatkan sebuah ide beberapa waktu yang lalu: Mengapa tidak mengatur papan Trello yang kami gunakan untuk melacak dan menyelesaikan umpan balik pelanggan kepada publik? Jadi kami melakukannya. Pada kenyataannya, kami kemudian membagikan tautannya dengan siswa kami dan meminta mereka untuk menggunakannya. Inilah alasannya. Di-setting untuk [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Bagaimana kami membuat sistem umpan balik yang benar-benar transparan</strong></p>
+<p>Kami mendapatkan sebuah ide beberapa waktu yang lalu: Mengapa tidak mengatur papan Trello yang kami gunakan untuk melacak dan menyelesaikan umpan balik pelanggan kepada publik? Jadi kami melakukannya. Pada kenyataannya, kami kemudian membagikan tautannya dengan siswa kami dan meminta mereka untuk menggunakannya. Inilah alasannya.</p>
+<p><strong>Di-setting untuk umpan balik</strong></p>
+<p>Salah satu prinsip utama kami saat membuat <a href="https://codeberryschool.com/id" data-wpel-link="external" target="_blank" rel="external">Sekolah Pemrograman CodeBerry</a> adalah selalu memperhatikan umpan balik pelanggan karena dua alasan:</p>
+<ol>
+<li>Pertama, semua orang membuat kesalahan &#8211; kami juga &#8211; dan kami ingin memperbaikinya dengan cepat;</li>
+<li>Kedua, kami bertujuan untuk menciptakan produk yang benar-benar ingin digunakan oleh pelanggan kami.</li>
+</ol>
+<p>Cara tercepat menuju kedua tujuan kami adalah melalui umpan balik. Kami bekerja keras agar pelanggan dapat menyampaikan kritik &amp; sarannya. Itu sebabnya:</p>
+<ul>
+<li>Kami mengirim survei ke mereka;</li>
+<li>Mendorong mereka untuk mengirim umpan balik kepada mentor mereka; dan yang terakhir</li>
+<li>Kami membuat saluran #meta di Slack CodeBerry di mana siapa saja dapat melaporkan kesalahan mereka atau mengirim ide pengembangan mereka mengenai sekolah.</li>
+</ul>
+<p><div id="attachment_5824" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5824" loading="lazy" class="size-full wp-image-5824" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/Slack-3.png" alt="" width="800" height="477" /><p id="caption-attachment-5824" class="wp-caption-text">Saluran #meta pada Slack CodeBerry</p></div></p>
+<p><strong>Tautan yang hilang</strong></p>
+<p>Ternyata kesempatan untuk mengirim umpan balik tidak cukup. Kami memperhatikan bahwa orang-orang ingin tahu apa yang terjadi pada pikiran mereka setelah mereka membagikannya. Solusi termudah adalah mengatur papan yang digunakan pengembang kami untuk melacak laporan kesalahan dan saran ke publik.</p>
+<p><div id="attachment_5825" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5825" loading="lazy" class="size-full wp-image-5825" src="https://codeberryschool.com/blog/wp-content/uploads/2016/10/trello-3.png" alt="" width="800" height="391" /><p id="caption-attachment-5825" class="wp-caption-text">Papan publik Trello kami (akhirnya)</p></div></p>
+<p>Sebelumnya, umpan balik adalah seperti sebuah black box, tempat orang-orang membuka ide mereka tetapi tidak tahu apa yang terjadi pada mereka. Sekarang, seluruh prosesnya transparan bagi semua orang.</p>
+<p>Siswa kami masih menulis kepada mentor mereka atau mengirim pesan ke saluran #meta, tetapi belum berakhir sampai di situ. Kartu yang dibuat dari umpan balik mereka disematkan ke papan pengumuman publik tempat siswa dapat melihat apa yang terjadi pada pesan mereka dan melacak proses pemecahan masalah atau mengintegrasikan ide mereka.</p>
+<p>Kita sudah tidak lagi menggunakan black box. Sudah tidak ada lagi kata yang tidak terdengar.</p>
+<p><strong>Kami membangunnya bersama</strong></p>
+<p>Umpan balik adalah salah satu hal terbaik yang dapat diterima oleh bisnis muda (seperti milik kita) dari pelanggan mereka. Dengan sistem baru ini, kami ingin menekankan hal ini lebih lanjut.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Saya Péter Varga, pengembang freelance dan mentor kode CodeBerry, dan inilah cara saya bekerja</title>
+		<link>/blog/id/saya-peter-varga-pengembang-freelance-dan-mentor-kode-codeberry-dan-inilah-cara-saya-bekerja/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 11:35:53 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[aplikasi peter menjawab]]></category>
+		<category><![CDATA[bahasa indonesia freelance]]></category>
+		<category><![CDATA[cara bekerja di freelancer]]></category>
+		<category><![CDATA[cara kerja freelance]]></category>
+		<category><![CDATA[code saya]]></category>
+		<category><![CDATA[codeberry indonesia]]></category>
+		<category><![CDATA[freelance]]></category>
+		<category><![CDATA[freelance bahasa indonesia]]></category>
+		<category><![CDATA[freelance indonesia]]></category>
+		<category><![CDATA[freelance mentor]]></category>
+		<category><![CDATA[freelance programmer indonesia]]></category>
+		<category><![CDATA[freelancer]]></category>
+		<category><![CDATA[Hungaria]]></category>
+		<category><![CDATA[Ilmuwan Komputer]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[kode saya]]></category>
+		<category><![CDATA[loránd eötvös]]></category>
+		<category><![CDATA[Pengembang]]></category>
+		<category><![CDATA[programer freelance]]></category>
+		<category><![CDATA[saya bekerja]]></category>
+		<category><![CDATA[saya tidak bekerja]]></category>
+		<category><![CDATA[situs freelance indonesia terbaik]]></category>
+		<category><![CDATA[tugas seorang mentor]]></category>
+		<category><![CDATA[Universitas Eötvös Loránd di Budapest]]></category>
+		<category><![CDATA[website untuk freelancer]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6512</guid>
+
+					<description><![CDATA[Péter Varga lulus sebagai seorang IT dari Eötvös Loránd University di Budapest. Dia telah menjadi seorang freelancer sejak tahun terakhirnya di universitas. Saat ini, dia juga membantu siswa CodeBerry ketika mereka kesulitan dengan tugas atau memiliki pertanyaan terkait dengan pemrograman. Saya tinggal di Budaörs, Hungaria Saya juga bekerja di CodeBerry Saya menggunakan OnePlus 3, komputer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Péter Varga</strong> lulus sebagai seorang IT dari Eötvös Loránd University di Budapest. Dia telah menjadi seorang freelancer sejak tahun terakhirnya di universitas. Saat ini, dia juga membantu siswa CodeBerry ketika mereka kesulitan dengan tugas atau memiliki pertanyaan terkait dengan pemrograman.</p>
+<blockquote>
+<p><strong>Saya tinggal di Budaörs, Hungaria</strong><br />
+<strong>Saya juga bekerja di CodeBerry</strong><br />
+<strong>Saya menggunakan OnePlus 3, komputer desktop, Lenovo Flex 2 (laptop), Windows, Linux, WebStorm, Notepad ++, dan Chrome.</strong></p>
+</blockquote>
+<p><strong>Ketika Anda ditanya tentang profesi Anda, bagaimana Anda menjawabnya?</strong></p>
+<p>Tergantung siapa yang bertanya. Ketika berbicara dengan seseorang yang sudah tua dan/atau tidak terbiasa dengan komputer, saya hanya mengatakan spesialis IT. Jika saya pikir orang itu mungkin tahu sesuatu tentang komputer, saya katakan saya adalah seorang pengembang. Jika itu kolega, saya mengatakan bahwa saya biasanya mengembangkan aplikasi web 3D.</p>
+<p><strong>Ceritakan lebih banyak tentang program apa yang sedang Anda kembangkan saat ini?</strong></p>
+<p>Selama enam bulan terakhir, saya telah bekerja untuk produsen bangunan Amerika yang membangun rumah baja ringan. Mereka memiliki aplikasi 3D di situs web mereka yang membantu pengunjung mendesain rumah masa depan mereka sendiri. Mereka dapat mengatur dimensi dinding, jendela, pintu, dll. Ada pratinjau langsung di browser yang memiliki kamera yang dapat disesuaikan dengan tampilan dalam dan luar. Jika pengunjung puas dengan rancangan tersebut, pengunjung dapat meminta penawaran dengan mengklik satu tombol.<br />
+Saya melakukan banyak hal yang berbeda, tetapi pengembangan dan pemeliharaan aplikasi ini menghabiskan sebagian besar waktu saya.<br />
+Sementara itu, ketika saya punya waktu, saya bekerja sama dengan saudara saya pada program pengeditan foto online, tetapi itu masih sangat belum sempurna.<br />
+Saya juga menghabiskan beberapa jam untuk membantu siswa-siswa CodeBerry setiap hari ketika mereka kesulitan dengan tugas atau memiliki pertanyaan terkait dengan pemrograman.</p>
+<p><strong>Bagaimana Anda bergabung dengan tim CodeBerry?</strong></p>
+<p>Saya sedang melihat-lihat feed Facebook saya di mana saya melihat ada tawaran pekerjaan. Saya suka jika saya dapat melakukannya dari rumah, dan itu adalah pengembangan dan pengajaran yang berkaitan dengan web. Ini juga cocok dengan jadwal saya, jadi saya mendaftar.</p>
+<p><strong>Kapan, di mana, dan bagaimana Anda belajar koding?</strong></p>
+<p>Saya panik pada pelajaran pertama saya selama semester pertama di universitas ketika saya mengetahui bahwa hampir semua orang telah melakukan pemrograman sebelum di sekolah menengah. Saat itu, bagian IT ini benar-benar baru bagi saya. Saya menulis program pertama saya di sini selama kelas. Sebelum itu, saya bahkan tidak akan sampai pada titik &#8220;halo, dunia!&#8221;.<br />
+Selama sekolah menengah, di Sekolah Tinggi Mihály Fazekas yang terkenal di Budapest, saya mengambil beberapa keterampilan matematika yang kuat yang dapat saya pelajari selama universitas dan bahkan hingga hari ini.<br />
+Setelah mempelajari dasar-dasar di kelas pemrograman pertama, saya sering menulis program di rumah untuk membantu saya dengan pelajaran matematika. Saya mulai dengan hal-hal seperti teorema Pythagoras atau penyelesaian persamaan kuadrat. Kemudian, saya juga menulis kode untuk algoritma Euclidean yang sudah dikembangkan.<br />
+Pada satu titik, saya menyadari saya tahu cara membuat kode. Melihat kembali sekarang, sungguh menakjubkan betapa cepatnya semua ini terjadi. Dalam beberapa minggu, saya dari nol hingga saya dapat menulis program, yang,paling tidak, berguna bagi saya. Itu adalah perasaan yang luar biasa.<br />
+Tentu saja, saya memiliki jalan panjang untuk mendapatkan gelar dan belajar 3D, tetapi bagian itu datang dengan sendirinya.</p>
+<p><div id="attachment_5838" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5838" loading="lazy" class="size-full wp-image-5838" src="https://codeberryschool.com/blog/wp-content/uploads/2017/07/Peter_Varga_pic1-3.jpeg" alt="" width="800" height="600" /><p id="caption-attachment-5838" class="wp-caption-text">Saya bekerja di sini.</p></div></p>
+<p><strong>Apa peluang kerja untuk pengembang web? Rata-rata, berapa banyak waktu yang Anda habiskan untuk mencari pekerjaan?</strong></p>
+<p>Saya tidak pernah mencari pekerjaan kecuali untuk magang wajib saya. Jika saya kehilangan pekerjaan saya saat ini, saya yakin saya akan segera menemukan yang lain. Saya melihat banyak sekali lowongan kerja programmer setiap hari — dengan kebutuhan besar untuk pengembang web.</p>
+<p><strong>Seperti apa jadwalmu?</strong></p>
+<p>Jika saya mampu, saya suka tidur bahkan sampai jam 10-11 kecuali di musim panas ketika saya bangun pada jam 8-9 paling lambat karena panas. Saya sarapan dan mencuci, kemudian saya duduk di depan komputer saya dan melihat daftar pekerjaan harian saya. Saya biasanya mulai dengan tugas-tugas rutin, diikuti dengan tujuan yang lebih besar, berpikir &#8220;Saya akan menyelesaikan ini hari ini&#8221;. Sayangnya, kesalahan sering terjadi atau saya hanya salah menghitung waktu yang diperlukan untuk suatu tugas. Ini berakibat pada malam yang larut karena saya tidak suka membiarkan hal-hal setengah jadi.<br />
+Saya pikir saya beruntung karena, sebagai pekerja lepas, saya memiliki kesempatan untuk mengatur jadwal saya seperti yang saya inginkan. Ini berarti saya bisa mendapatkan hari libur, tetapi juga akhir pekan di mana saya harus bekerja.</p>
+<p><strong>Apa yang mengejutkan Anda tentang pemrograman yang tidak pernah terpikirkan oleh Anda sebelum mempelajarinya?</strong></p>
+<p>Saya tidak berpikir orang dapat mempelajari dasar-dasarnya dengan sangat cepat. Seperti yang saya sebutkan sebelumnya, saya memulai universitas tanpa pengetahuan koding. Namun, bukan saya yang gagal pada akhir semester, tetapi banyak siswa lain yang sudah memiliki sedikit pengetahuan untuk memulai juga gagal. Kurasa mereka mengira mereka sudah tahu segalanya, jadi mereka tidak tertarik. Pada saat mereka menyadari apa yang sedang terjadi, sudah terlambat dan mereka tidak dapat menyusul. Saya pikir kunci untuk belajar yang sukses adalah motivasi.</p>
+<p><strong>Dengan siapa Anda bekerja?</strong></p>
+<p>Dengan kakak saya di rumah. Ini nyaman dan praktis karena kami selalu dapat saling membantu jika diperlukan.</p>
+<p><strong>Profesi apa lagi yang akan Anda pilih jika Anda harus berubah? Bisakah Anda berubah?</strong></p>
+<p>Saya selalu tertarik dengan musik sebagai hobi. Belum lama ini, saya bahkan punya grup rock. Tapi saya tidak ingin membodohi diri sendiri, saya tahu saya tidak akan pernah bisa mencari nafkah sebagai seorang musisi. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Jujur, saya tidak tahu apa yang akan saya lakukan jika saya harus memilih yang lain. Tapi satu hal yang saya tahu adalah profesi ini tidak terancam. Saya belum pernah mendengar ada teknisi perangkat lunak yang dipecat sebelumnya. Lebih umum bahwa pengembang beralih ke perusahaan lain setelah menerima tawaran yang lebih baik.</p>
+<p><strong>Keterampilan apa yang dilakukan pengembang hebat, yang dibutuhkan pakar IT? Siapa yang tidak Anda rekomendasikan untuk profesi ini?</strong></p>
+<p>Saya pikir semua pengembang terbaik memiliki rasa ingin tahu dan sedikit kutu buku sejak dahulu.<br />
+Seperti anak-anak yang membongkar kado Natal mereka untuk melihat apa yang membuat mobil mainan berjalan sangat cepat atau mereka yang membuka radio orang tua mereka dengan obeng untuk melihat bagaimana cara membuat suara itu. Anak-anak yang tidak dapat bermain di luar, mereka sangat terikat dengan komputer mereka atau mereka membangun PC mereka sendiri dengan menggunakan bagian terpisah yang mereka temukan di sana-sini. Anak-anak yang memiliki rasa penasaran yang tinggi adalah &#8220;calon programmer&#8221; yang hebat. Saya juga telah melihat beberapa kasus lain, di mana orang-orang mulai tertarik pada IT di usia dua puluhan tetapi tetap menjadi profesional hebat. Dengan kata lain, intinya adalah minat dan motivasi. Saya tidak merekomendasikan profesi ini kepada mereka yang tidak merasakan sifat-sifat ini dalam diri mereka.<br />
+Selanjutnya, menemukan dan memperbaiki bug dalam perangkat lunak membutuhkan banyak kesabaran dan ketabahan. Sebagai contoh, ketika saya sedang menulis program ribuan baris untuk thesis saya, saya menghabiskan berhari-hari mencari satu kesalahan yang ternyata merupakan simbol matematika yang buruk. Saya harus mengganti nilai plus dengan minus.<br />
+Proyek-proyek besar dapat terdiri dari ratusan ribu atau bahkan lebih dari satu juta baris; menemukan kesalahan membutuhkan waktu lebih lama. Penting untuk mempersempit tempat kesalahan sebanyak mungkin. Tetapi itu berarti kita harus memahami struktur proyek yang mungkin memerlukan waktu berhari-hari untuk memeriksanya.<br />
+Hampir tidak dapat dihindari untuk memiliki beberapa situasi menegangkan dalam kehidupan pengembang, jadi saya sarankan Anda tidak memilih profesi ini jika Anda tidak sabar atau cepat marah karena Anda dapat dengan mudah &#8220;melukai&#8221; lingkungan Anda selama waktu ini.</p>
+<p><strong>Apa bagian favoritmu?</strong></p>
+<p>Saya suka ketika ada hasil nyata dari pekerjaan saya. Menulis program yang berfungsi adalah perasaan yang luar biasa.</p>
+<p><strong>Apa yang paling memotivasi Anda? Apa kesulitan dan bahaya dari profesi Anda?</strong></p>
+<p>Saya tidak suka meninggalkan hal-hal yang belum selesai di akhir hari, tetapi terkadang butuh waktu lama untuk menemukan kesalahan. Saya biasanya tidak tidur dengan baik jika ini terjadi karena saya terus memikirkan solusinya. Di sisi lain, sangat bagus untuk akhirnya menemukan kesalahan itu dan melihat keseluruhannya.<br />
+Freelancing dapat berbahaya karena Anda dapat dengan mudah menerima terlalu banyak atau terlalu sedikit pekerjaan dan menjadi bentrok dengan rutinitas harian Anda. Saya tidak pandai dalam hal ini karena saya sering tidak merasakan ritme yang cocok untuk saya.<br />
+Juga penting untuk cukup berolahraga, terutama pekerjaan ini tidak banyak bergerak. Saya tidak akan mengatakan saya banyak bergerak, tetapi saya melakukan latihan setidaknya dua kali seminggu selama 1-2 jam (biasanya bermain sepak bola atau basket). Saya berencana untuk lebih sering lagi menjadi 3-4 kali seminggu.</p>
+<p><strong>Seberapa stabil pekerjaan Anda?</strong></p>
+<p>Saya merasa semua pelanggan tetap saya cukup stabil. Saat ini, saya merasa saya menerima lebih banyak tugas, dan saya tidak pernah kehabisan hal untuk dilakukan.</p>
+<p><strong>Jika Anda harus menanyakan satu hal atas nama semua pengembang, apakah itu?</strong></p>
+<p>Silakan gunakan Google!</p>
+<p><strong>Berapa banyak yang dapat diperoleh seseorang dalam profesi ini (sebagai seorang pemula, berpengalaman dan veteran)?</strong></p>
+<p>Di [AS] rata-rata [tahunan] adalah [$70k], tetapi kemudian Anda dapat dengan mudah mengalikan angka tersebut. Itu memang membutuhkan keterampilan manajemen diri yang baik. Tidak cukup menjadi pengembang yang baik.</p>
+<p><strong>Menurut Anda apa cara terbaik untuk belajar koding?</strong></p>
+<p>Dengan banyak latihan. Ada baiknya untuk mengikuti kursus online untuk dasar-dasarnya. Setelah itu, jika Anda memiliki ide hebat (game, toko online, apa saja), cobalah untuk melakukannya sendiri. Jelajahi internet dan saksikan tutorial YouTube. Jika Anda cukup berlatih, Anda pasti bisa melakukannya. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Bagaimana cara untuk selalu memperbaharui pengetahuan Anda? Buku atau blog apa yang Anda baca, acara apa yang Anda hadiri, dll?</strong></p>
+<p>Terkadang saya menonton Google I/O dan video serupa lainnya di mana mereka berbicara tentang teknologi terbaru. Jika saya menyukai sesuatu berdasarkan presentasinya, saya akan mencari secara online untuk melihat cara kerjanya.</p>
+<p><strong>Mengapa belajar kode itu penting untuk dipelajari?</strong></p>
+<p>Ini adalah salah satu profesi yang paling diminati dan digaji tinggi saat ini, dan pemikiran algoritmik juga merupakan hal yang luar biasa. Saya menyarankan semua orang harus mencobanya. Anda tidak akan rugi.</p>
+<blockquote>
+<p><strong>Kesukaan&#8230;</strong><br />
+<strong>&#8211; minuman: air putih</strong><br />
+<strong>&#8211; makanan: escalope</strong><br />
+<strong>&#8211; Serial TV: Game of Thrones</strong><br />
+<strong>&#8211; film: Matrix</strong><br />
+<strong>&#8211; buku: Ender&#8217;s Game</strong><br />
+<strong>&#8211; sistem operasi: Windows, Linux</strong><br />
+<strong>&#8211; editor teks/IDE: Notepad++, WebStorm, Visual Studio</strong><br />
+<strong>&#8211; bahasa pemrograman: C++, TypeScript, JavaScript, PHP</strong><br />
+<strong>&#8211; buah: pisang</strong><br />
+<strong>&#8211; musik: System of a Down — Chop Suey</strong><br />
+<strong>&#8211; warna: hitam</strong><br />
+<strong>&#8211; binatang: kucing</strong></p>
+</blockquote>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dari oven microwave hingga pengembangan web — Kisah Árpád Binecz</title>
+		<link>/blog/id/dari-oven-microwave-hingga-pengembangan-web-kisah-arpad-binecz/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 09:28:02 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[insinyur perangkat lunak]]></category>
+		<category><![CDATA[insinyur teknik elektro]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[mobil arpad]]></category>
+		<category><![CDATA[oven microwave]]></category>
+		<category><![CDATA[Pengembang]]></category>
+		<category><![CDATA[pengembangan web]]></category>
+		<category><![CDATA[pengembangan website]]></category>
+		<category><![CDATA[startup]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6490</guid>
+
+					<description><![CDATA[Árpád Binecz (Bini) mulai bekerja sebagai insinyur perangkat lunak, bekerja di perusahaan startup, mendirikan perusahaannya sendiri dan sekarang, dengan sebuah perubahan, ia membuat situs web sebagai pembuat situs junior. Selamat menikmati wawancara kami dengan salah satu mantan siswa kami di episode kedua &#8220;Kisah Sukses CodeBerry&#8221;. Apa pekerjaanmu sebelum kamu beralih ke pengembangan web? Saya memiliki [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Árpád Binecz</strong> (Bini) mulai bekerja sebagai insinyur perangkat lunak, bekerja di perusahaan startup, mendirikan perusahaannya sendiri dan sekarang, dengan sebuah perubahan, ia membuat situs web sebagai pembuat situs junior. Selamat menikmati wawancara kami dengan salah satu mantan siswa kami di episode kedua &#8220;Kisah Sukses CodeBerry&#8221;.</p>
+<p><strong>Apa pekerjaanmu sebelum kamu beralih ke pengembangan web?</strong></p>
+<p>Saya memiliki gelar di bidang teknik elektro. Saya bekerja sebagai insinyur perangkat lunak di sebuah perusahaan otomotif selama empat tahun. Saya juga bekerja di startup dan mengelola perusahaan saya di waktu senggang.</p>
+<p><strong>Apa yang dilakukan oleh insinyur perangkat lunak?</strong></p>
+<p>Seorang insinyur perangkat lunak mengembangkan sirkuit, bukan untuk komputer, tetapi untuk gelombang mikro atau mobil. Sirkuit-sirkuit ini membuat segalanya berjalan dengan menekan sebuah tombol.</p>
+<p><strong>Apakah profesi aslimu membuat belajar pemrograman menjadi lebih mudah?</strong></p>
+<p>Sedikit lebih mudah, misalnya dalam pemikiran algoritmik.</p>
+<p><strong>Mengapa kamu memutuskan untuk beralih ke pengembangan web?</strong></p>
+<p>Pertama-tama, saya benar-benar tertarik pada IoT (Internet of Things &#8211; ed.) Saya tahu alat-alatnya dengan baik karena profesi asli saya, tetapi saya tidak tahu bagaimana caranya mereka muncul di browser. Saya menjadi penasaran. Setelah semua itu, saya belajar untuk menjadi insinyur karena saya suka memahami hal-hal tersebut. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Kedua, saya ingin melanjutkan kewirausahaan dan topik ini tampaknya tepat untuk itu: dengan memulai dari beberapa situs web yang unik kemudian membuat agensi digital kecil. Banyak orang melakukan hal yang sama di lingkungan saya dan itu merupakan sebuah jalur yang bisa dicapai.</p>
+<p><strong>Ketika kamu ditanya tentang profesimu, bagaimana kamu menjawabnya?</strong></p>
+<p>Tergantung dari siapa yang bertanya &#8211; seseorang yang awam atau teman saya dari sekolah teknologi. Dalam kasus pertama, saya adalah seorang pemula IT. Jika tidak, seorang pembangun situs junior.</p>
+<p><strong>Apa artinya? Bagaimana biasanya hari-harimu?</strong></p>
+<p>Kami mengembangkan sistem IT yang besar di Apertus Kft.; saya bertanggung jawab atas sebagian kecil dari itu. Prosesnya sederhana: saya menerima desain dan mengubahnya menjadi situs web. Saya mengerjakan tampilannya, tetapi misalnya untuk tombol yang dapat diklik, ini bukanlah pekerjaan saya. Untuk sedikit lebih metamorfik, inilah cara saya akan menggambarkan profesi pembuat situs: ini merupakan langkah awal yang besar, dengan jenis pengetahuan yang dengan cepat dipahami dan memungkinkan untuk berdiri dengan dua kaki di tanah teknologi web serta pasar tenaga kerja IT.</p>
+<p><strong>Bahasa apa yang kamu gunakan setiap hari?</strong></p>
+<p>HTML5, CSS3, SCSS, dan Bootstrap. Saya juga pernah menggunakan JQuery sekali. Sebagai pembuat situs, saya membuat potongan-potongan yang digunakan pengembang utama untuk melengkapi situs web.</p>
+<p><strong>Apakah kamu menyukai pekerjaanmu? <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></p>
+<p>Iya. Rekan-rekanku sangat menyenangkan. Saya hanya sedikit tidak puas dengan diri sendiri karena saya merasa saya bisa melakukan lebih baik dan belajar lebih cepat.</p>
+<p><strong>Berapa lama kamu menghabiskan waktu mencari pekerjaan?</strong></p>
+<p>Saya meninggalkan pekerjaan saya sebelumnya pada bulan Juni, mulai belajar pada bulan Juli, dan mulai bekerja pada awal September. Saya mendapat tawaran melalui teman-teman saya.</p>
+<p><strong>Apakah kamu menggunakan hal lain selain CodeBerry untuk studimu?</strong></p>
+<p>Tidak, hanya Codeberry saja.</p>
+<p><strong>Bisakah kamu memberi saran kepada para pemula sebagai seorang mantan siswa di Codeberry?</strong></p>
+<p>Saya rasa penting untuk mengetahui gambaran umum dari seluruh bidang sebelum memilih sebuah teknologi dan menyelam jauh ke dalam. Cukup tahu unit terkecil yang dapat dijual secara menyeluruh daripada mengetahui sedikit dari semuanya. Misalnya, HTML5, CSS3, SCSS, dan Bootstrap adalah paket yang bagus. Kamu dapat dengan mudah menjadi pengembang junior dengannya.</p>
+<p><em><strong>Dalam serial &#8220;Kisah Sukses Codeberry&#8221; kami, kami mengobrol dengan mantan siswa kami yang berhasil menemukan pekerjaan sebagai pengembang. Jika kamu ingin tahu caranya, topik ini untukmu. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></strong></em></p>
+<p><em><strong>Apakah kamu ingin belajar coding? Datang dan coba pelajaran pertama kami secara gratis di <a href="https://codeberryschool.com/id" data-wpel-link="external" target="_blank" rel="external">Sekolah Pemrograman CodeBerry</a>.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nama saya adalah Adam Freisinger, pendiri dari CodeBerry</title>
+		<link>/blog/id/nama-saya-adalah-adam-freisinger-pendiri-dari-codeberry/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 08:45:47 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[adalah]]></category>
+		<category><![CDATA[Apoteker]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[codberry]]></category>
+		<category><![CDATA[code saya]]></category>
+		<category><![CDATA[CodeBerry]]></category>
+		<category><![CDATA[codeberry indonesia]]></category>
+		<category><![CDATA[codebery]]></category>
+		<category><![CDATA[Hungaria]]></category>
+		<category><![CDATA[ini blog saya]]></category>
+		<category><![CDATA[insinyur orang lain juga menelusuri]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Manajer Layanan Kesehatan]]></category>
+		<category><![CDATA[nama nama blog]]></category>
+		<category><![CDATA[nama saya adalah]]></category>
+		<category><![CDATA[nama saya ialah]]></category>
+		<category><![CDATA[nama saya siapa]]></category>
+		<category><![CDATA[pendar adalah]]></category>
+		<category><![CDATA[pendiri]]></category>
+		<category><![CDATA[pendiri dari]]></category>
+		<category><![CDATA[pengembang web]]></category>
+		<category><![CDATA[siapa nama saya]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6481</guid>
+
+					<description><![CDATA[Adam Freisinger menyelesaikan studinya sebagai Apoteker dan Manajer Perawatan Kesehatan, tetapi akhirnya bekerja sebagai seorang pengembang web. Sejak itu, ia telah mendirikan dua perusahaan IT. Salah satunya adalah CodeBerry, sekolah pemrograman yang mengajarkan pengembangan web online dalam bahasa Inggris. Bacalah lebih lanjut untuk mengetahui tentang game petualangan yang ditulisnya dalam BASIC, kabel tembaga untuk core [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Adam Freisinger</strong> menyelesaikan studinya sebagai Apoteker dan Manajer Perawatan Kesehatan, tetapi akhirnya bekerja sebagai seorang pengembang web. Sejak itu, ia telah mendirikan dua perusahaan IT. Salah satunya adalah <a href="https://codeberryschool.com/id" data-wpel-link="external" target="_blank" rel="external">CodeBerry</a>, sekolah pemrograman yang mengajarkan pengembangan web online dalam bahasa Inggris.</p>
+<p>Bacalah lebih lanjut untuk mengetahui tentang game petualangan yang ditulisnya dalam BASIC, kabel tembaga untuk core RAM dan kecerdasan buatan (AI). Bersamaan dengan itu, kita juga akan membahas gaya hidup pengusaha Adam Freisinger.</p>
+<blockquote>
+<p><strong>Saya tinggal di Budapest, Hungaria.</strong><br />
+<strong>Saya bekerja di mana saja laptop saya berada.</strong><br />
+<strong>Saya bekerja dengan iPhone, MacBook Air dan Sublime Text.</strong><br />
+<strong>Saya memiliki gaya kerja yang efisien.</strong></p>
+</blockquote>
+<p><strong>Apa pekerjaanmu?</strong></p>
+<p>Saya membantu orang belajar coding.</p>
+<p><strong>Ceritakan lebih banyak tentang apa yang kamu lakukan mengenai pemrograman?</strong></p>
+<p>Saya meningkatkan konten pelajaran sehingga lebih mudah untuk diajarkan dan dipahami. Ini meliputi coding yang lebih sedikit dan pemikiran yang lebih kreatif.</p>
+<p>Di waktu luang saya, saya senang mengerjakan proyek-proyek yang menjadi hobi saya, biasanya hal-hal yang saya minati. Baru-baru ini, saya membuat tiga hal berikut:</p>
+<ul>
+<li>Playlist sosial untuk Spotify,</li>
+<li>Ekstensi Chrome, yang mengutip tulisan-tulisan buku terkenal pada tab baru.</li>
+<li>Perangkat lunak yang membantu saya untuk mengatur proyek-proyek saya serta target-target CodeBerry saya.</li>
+</ul>
+<p><strong>Seperti apa ruang kerjamu?</strong></p>
+<p>Saya merasa nyaman dengan lingkungan yang minimalis, jadi meja saya hanya berisi hal-hal yang saya gunakan:</p>
+<p><div id="attachment_5810" style="width: 810px" class="wp-caption alignnone"><img aria-describedby="caption-attachment-5810" loading="lazy" class="wp-image-5810 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2016/09/Adam_Freisinger_pic1-2.jpeg" alt="" width="800" height="600" /><p id="caption-attachment-5810" class="wp-caption-text">Tempat kerja saya (Credit: Adam Freisinger)</p></div></p>
+<p><strong>Kapan, di mana dan bagaimana kamu belajar coding?</strong></p>
+<p>Saya mendapatkan sebuah komputer ketika saya masih di bangku sekolah dasar dan orang tua saya berpikir bahwa saya perlu tahu cara menggunakannya. Jadi, setiap minggu teman saya datang ke rumah dan mengajarkan saya dasar-dasarnya. Saya sangat menikmati menulis game petualangan pertama saya di BASIC.</p>
+<p>Saya melanjutkan dengan hal-hal yang menurut saya menarik, seperti menulis DC++ chatbot atau membuat sebuah situs web untuk ayah saya. Saat mereka meluncurkan versi terbaru dari Meteor framework, saya tidak bisa menahan diri untuk membuat sebuah aplikasi web dengannya.</p>
+<p>Sebagian besar dari pengetahuan saya didapatkan dari melakukan pencarian di internet. Saya mencari topik secara umum, lalu kemudian menggali lebih dalam detailnya.</p>
+<p><strong>Apa peluang kerja untuk pengembang web? Rata-rata, berapa banyak waktu yang kamu habiskan untuk mencari pekerjaan?</strong></p>
+<p>Karena saya menyelesaikan pendidikan saya di bidang Apoteker dan Manajer Perawatan Kesehatan, saya tidak pernah mencari pekerjaan di bidang pemrograman. Saya mengambil pekerjaan kecil yang berujung pada pekerjaan yang besar. Sekarang, saya bekerja di perusahaan saya sendiri dengan beberapa peran, apa pun yang sedang dibutuhkan.</p>
+<p>Melihat bahwa orang-orang sering menghubungi saya di LinkedIn dan Upwork, bahkan dengan sedikit informasi yang tersedia, ini adalah pekerjaan yang menuntut.</p>
+<p><strong>Seperti apa jadwalmu?</strong></p>
+<p>Saya suka bangun pagi karena suasananya yang masih sepi. Saya akan merencanakan hari saya, minum jus buah dan langsung bekerja setelah makan pagi. Saya juga membahas acara khusus yang terjadi pada hari sebelumnya.</p>
+<p>Selama hari kerja dalam seminggu, satu setengah hari pertama akan saya dedikasikan untuk strategi dan hari Jumat adalah untuk ulasan. Di antara keduanya, saya punya waktu untuk bekerja tanpa gangguan.</p>
+<p>Saya juga suka meninjau kehidupan pribadiku, partner saya dan saya akan menulis hal-hal yang kita suka dan apa yang perlu diubah setiap minggunya.</p>
+<p>Dua kali seminggu, saya mencoba untuk bertemu seseorang yang jarang saya temui untuk makan siang.</p>
+<p>Jadwal mingguan, bulanan, dan tahunan saya mirip dengan hari-hari saya. Saya suka merencanakan pada awal setiap periode dan melihat ke belakang dan di akhir mencoba belajar darinya. Setiap bulan, saya mengumpulkan foto yang saya ambil dari bulan sebelumnya. Saya juga menyelesaikan <a href="http://yearcompass.com/" target="_blank" rel="noopener external" data-wpel-link="external">YearCompass</a> setiap tahunnya.</p>
+<p><strong>Adakah sesuatu yang kamu tahu yang akan mengejutkan orang-orang?</strong></p>
+<p>Pemrograman bukan sihir. Sebagian besar melibatkan pencarian di internet. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Dengan siapa kamu bekerja?</strong></p>
+<p>Saya bekerja dengan teman yang sudah bekerja bersama saya selama 8 tahun.</p>
+<p><strong>Apa jalur karir dalam profesimu?</strong></p>
+<p>Sebagai seorang Apoteker, saya bisa menjalani jalan hidup yang pasti, tetapi saya meninggalkan kepastian itu. Saat ini, tugas saya adalah melakukan hal-hal di perusahaan yang mengharuskan saya untuk melampaui batas-batas yang ada. Ini memberi saya kesempatan untuk terus belajar sesuatu yang baru dan memperbaiki diri. Saya tidak memiliki jalur hidup yang pasti dan itu membuat saya merasa seperti saya bisa menjadi apa pun yang saya inginkan.</p>
+<p><strong>Apa rencanamu, bagaimana kamu ingin melanjutkan?</strong></p>
+<p>Peribahasa dari &#8220;Jack of all trades, master of none&#8221; yang mengibaratkan orang yang bisa melakukan berbagai jenis pekerjaan biasanya tidak benar-benar menguasai semua pekerjaan itu sangat cocok untuk mendeskripsikan jalan hidup saya. Saya ingin melakukan banyak hal yang saya bisa dan belajar sedikit tentang masing-masing dari mereka. Saya seperti bebek yang ingin terbang dan berenang, namun tidak menguasai keduanya. Saya berharap menemukan jalur berliku antara keduanya.</p>
+<p><strong>Profesi apa lagi yang akan kamu pilih jika kamu harus berubah? Bisakah kamu berubah?</strong></p>
+<p>Saya tidak akan mau berubah.</p>
+<p><strong>Keterampilan apa yang dilakukan pengembang hebat, yang dibutuhkan pakar IT? Siapa yang tidak kamu rekomendasikan untuk profesi ini?</strong></p>
+<p>Ada beberapa keterampilan yang berguna:</p>
+<ul>
+<li>Pemikiran analitis yang kuat,</li>
+<li>Semangat untuk bereksperimen,</li>
+<li>Memperhatikan detail.</li>
+</ul>
+<p><strong>Apa bagian favoritmu?</strong></p>
+<p>Saya senang melihat hasil yang cepat. Saya dapat mengubah dunia hanya dengan mengedit sebuah kode. Saya mungkin akan menjadi perancang pembangkit tenaga nuklir yang buruk yang merencanakan sesuatu dengan segenap hati, kemudian jika beruntung, melihat langkah-langkah desainnya mulai dari beberapa tahun ke depan.</p>
+<p><strong>Apa yang paling memotivasimu? Apa kesulitan dan bahaya dari profesimu?</strong></p>
+<p>Kamu tidak lagi perlu tahu cara membuat modul RAM untuk menelusuri situs web. Demikian pula, ada banyak program yang sudah ditulis seblumnya yang dapat menghentikanmu untuk melihat lebih jauh.</p>
+<p>Itu membuat saya marah ketika saya harus menulis ulang modul login, daripada menggunakan keuntungan dari elemen yang telah ditentukan. Ada terlalu banyak solusi berbeda untuk masalah yang sama, sehingga hal ini menjadi tidak efisien.</p>
+<p><strong>Seberapa stabil pekerjaanmu? Berapa lama waktu yang dihabiskan untuk bekerja di perusahaan yang sama?</strong></p>
+<p>Sekarang, saya cukup yakin saya akan mendapatkan pekerjaan.</p>
+<p>Saya merasa beruntung karena saya mampu bekerja di suatu tempat di mana saya dapat fokus pada tugas-tugas saya, berkembang dan mempelajari hal-hal baru. Jika ini berubah, saya akan berhenti.</p>
+<p><strong>Jika kamu harus menanyakan satu hal atas nama semua pengembang, apakah itu?</strong></p>
+<p>Tolong jangan menulis kode yang sama dua kali. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Berapa banyak yang dapat diperoleh seseorang dalam profesi ini (sebagai seorang pemula, berpengalaman dan veteran)?</strong></p>
+<p>Berkat menabung selama bertahun-tahun, sekarang saya memiliki kesempatan untuk bekerja mengembangkan bisnis saya sendiri. Saya berharap kami dapat memperkerjakan banyak orang segera, karena sekarang hanya antusiasme saya yang mendorong saya untuk maju.</p>
+<p><strong>Menurut kamu apa cara terbaik untuk belajar coding?</strong></p>
+<p>Satu jawaban tidak akan cocok untuk semua, semua orang harus belajar cara mereka dapat melakukan yang terbaik. Bagi saya, paling mudah melalui proyek nyata. Setiap kali saya mengalami kesulitan, saya akan mencari bantuan.</p>
+<p><strong>Apa yang membuat pemrograman layak dipelajari?</strong></p>
+<p>Pertama, pemrograman itu seperti bahasa asing; ia akan membantumu dalam memahami budaya lain dan mengubah seluruh hidupmu jika kamu menginginkannya. Kedua, pemrograman adalah profesi yang pasti tidak akan hilang dalam beberapa dekade mendatang (atau hingga kecerdasan buatan mengambil alih).</p>
+<p><em><strong>Catatan: Blog CodeBerry diterbitkan oleh Sekolah Pemrograman CodeBerry, yang didirikan oleh Adam.</strong></em></p>
+<p><em><strong>Apakah kamu menyukai cerita ini? Berlangganan ke buletin kami dan kami akan memberikanmu kiriman terbaik kami setiap minggunya. Tidak ada spam, tidak ada omong kosong. kamu selalu dapat memilih untuk tidak berlangganan lagi.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Saya András P. Tóth, seorang entreprenuer serial, dan inilah cara saya bekerja</title>
+		<link>/blog/id/saya-andras-p-toth-seorang-entreprenuer-serial-dan-inilah-cara-saya-bekerja/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 31 Oct 2018 08:03:28 +0000</pubDate>
+				<category><![CDATA[Wawancara]]></category>
+		<category><![CDATA[Budapest]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Hongaria]]></category>
+		<category><![CDATA[IT]]></category>
+		<category><![CDATA[Mailchimp]]></category>
+		<category><![CDATA[Node.js]]></category>
+		<category><![CDATA[pengusaha]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[saya bekerja]]></category>
+		<category><![CDATA[saya seorang]]></category>
+		<category><![CDATA[Sekolah Pemrograman CodeBerry]]></category>
+		<category><![CDATA[teknik ilmu komputer]]></category>
+		<category><![CDATA[Universitas Teknologi Budapest]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=6477</guid>
+
+					<description><![CDATA[András P. Tóth mempelajari teknik ilmu komputer di Universitas Teknologi Budapest dan sekarang bekerja sebagai pengusaha serial di sektor IT. Saat ini, ia sedang membangun Sekolah Programming CodeBerry bersama teman-temannya. Mereka berharap dapat mengurangi kekurangan para profesional IT di Hungaria. Selama wawancara, Andris memberi tahu kami cerita tentang gaji pertamanya [Rp1.578.370] dan penjualan perusahaan pertamanya [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>András P. Tóth</strong> mempelajari teknik ilmu komputer di Universitas Teknologi Budapest dan sekarang bekerja sebagai pengusaha serial di sektor IT. Saat ini, ia sedang membangun Sekolah Programming CodeBerry bersama teman-temannya. Mereka berharap dapat mengurangi kekurangan para profesional IT di Hungaria.<br />
+Selama wawancara, Andris memberi tahu kami cerita tentang gaji pertamanya [Rp1.578.370] dan penjualan perusahaan pertamanya seperti halnya kucing-kucingnya yang ada di Instagram dan jalur yang ada untuk pengembang Hungaria.</p>
+<blockquote>
+<p><strong>Saya tinggal di Budapest, Hungaria.</strong><br />
+<strong>Saya bekerja kebanyakan di rumah, terkadang di kafe internet.</strong><br />
+<strong>Saya menggunakan iPhone | MacBook Air | Sublime Text | bash | PHP | Node.js | Mailchimp | Google</strong><br />
+<strong>Gaya bekerja saya secara singkat yaitu langkah kecil setiap hari.</strong></p>
+</blockquote>
+<p><strong>Ketika kamu ditanya tentang profesimu, bagaimana kamu menjawabnya?</strong></p>
+<p>Saya biasanya mengatakan bahwa saya membangun perusahaan. Jika saya melihat adanya kebingungan, saya menambahkan bahwa saya membuat perusahaan di sektor IT. Pekerjaan saya adalah memberi pekerjaan kepada orang lain.</p>
+<p><strong>Ceritakan lebih banyak tentang apa yang kamu lakukan mengenai pemrograman?</strong></p>
+<p>Biasanya saya mengerjakan beberapa proyek yang berbeda sekaligus &#8211; beberapa di antaranya adalah untuk mencari keuntungan (seperti <a href="https://codeberryschool.com/id" data-wpel-link="external" target="_blank" rel="external">Sekolah Pemrograman CodeBerry</a>), beberapa di antaranya adalah nirlaba (misalnya, <a href="http://lathatatlanegyetem.hu/" target="_blank" rel="noopener external" data-wpel-link="external">Universitas Invisible</a>, <a href="http://yearcompass.com/" target="_blank" rel="noopener external" data-wpel-link="external">YearCompass</a>). Terkadang, saya hanya melakukan koding untuk bersantai.</p>
+<p>Kami memulai Sekolah Pemrograman CodeBerry pada tahun 2016 dengan beberapa teman. Kami mengajarkan pemrograman kepada orang-orang yang belum pernah melakukannya sebelumnya dan membantu mereka menemukan pekerjaan. Di antara berbagai tugas lainnya, saya punya banyak hal yang harus dilakukan sebagai pengembang di perusahaan ini:</p>
+<ul>
+<li>Saya adalah salah satu mentor kode yang membantu para siswa dengan hal-hal teknis.</li>
+<li>Saya menulis banyak kode untuk situs web kami seperti menempatkan di mana tautan tersebut terhubung ke perangkat lunak lain, seperti survei, analisis, dan solusi pembayaran.</li>
+<li>Saya membuat modul untuk sistem yang menangani pekerjaan rumah pemrograman, seperti statistik admin, badge, indikator perkembangan.</li>
+</ul>
+<p>Saya bersantai dengan membuat program berbagai hal kecil yang saya temukan menarik pada saat itu. Beberapa proyek saya baru-baru ini adalah:</p>
+<ul>
+<li>Skrip Instagram yang mendapatkan follower untuk <a href="https://www.instagram.com/safranektheordinarycat/" target="_blank" rel="noopener external" data-wpel-link="external">Instagram kucing kami</a>.</li>
+<li>Slack bot yang membuat foto dari setiap rekan satu tim.</li>
+<li>Grafik suhu (dengan data yang dikumpulkan oleh sensor).</li>
+<li>Plugin Chrome yang dapat berbagi layar webcam dengan komputer lain.</li>
+</ul>
+<p><strong>Seperti apa ruang kerjamu?</strong></p>
+<p><div id="attachment_5817" style="width: 810px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-5817" loading="lazy" class="size-full wp-image-5817" src="https://codeberryschool.com/blog/wp-content/uploads/2016/09/Andras_P_Toth_pic1-3.jpeg" alt="" width="800" height="600" /><p id="caption-attachment-5817" class="wp-caption-text">Meja Andris (Kredit: András P. Tóth)</p></div></p>
+<p><strong>Kapan, di mana dan bagaimana kamu belajar coding?</strong></p>
+<p>Saya berumur 10 tahun ketika kami mendapat C64 saat hari Natal. Saya belajar pemrograman dengan bantuan buku dan teman. Kami memiliki tim kecil yang tertarik oleh subkultur demoscene, kami semua ingin menciptakan seni. Kami menggambar, menulis musik, membuat program dan tentu saja, bersaing satu sama lain.</p>
+<p>Pekerjaan berbayar pertama saya adalah menciptakan sebuah toko web untuk sebuah perusahaan Italia ketika saya berusia enam belas tahun. Dengan bantuan koneksi internet dial-up, saya akan online setiap malam dan berusaha menyusun situs web yang berfungsi dari cuplikan kode yang saya temukan di internet. Ketika saya berumur 18 tahun , saya mendaftar ke universitas tempat saya belajar ilmu komputer.</p>
+<p>Pada tahun ketiga saya, saya mulai bekerja sebagai pengembang dan manajer proyek. Setahun kemudian, saya menciptakan perusahaan pertama saya.</p>
+<p><strong>Apa peluang kerja untuk pengembang web? Rata-rata, berapa banyak waktu yang kamu habiskan untuk mencari pekerjaan?</strong></p>
+<p>Saya belum pernah mencari pekerjaan sebelumnya. Hingga pertengahan studi saya di universitas, orang-orang selalu menawarkan saya pekerjaan pengembang dan, setelah itu, saya selalu bekerja untuk perusahaan saya sendiri. Saya masih menerima email melalui LinkedIn setiap minggu, menanyakan apakah saya tertarik dengan pekerjaan pengembang, jadi saya pikir pasar pengembangan web cukup terbuka untuk kami.</p>
+<p><strong>Seperti apa jadwal harian, mingguan, tahunanmu?</strong></p>
+<p>Biasanya, saya bangun antara 6:30 dan 7:30 di pagi hari, tergantung dengan meeting yang ada pada hari itu. Saya berolahraga, mandi, sarapan, dan bekerja sampai tengah hari. Saya makan siang dengan seseorang, lalu bekerja lagi sampai jam lima, dan kemudian saya bersantai. Sebagian besar, saya bekerja dari rumah, jadi kadang-kadang saya tertidur di sore hari, tetapi itu menghasilkan kerja larut malam. Dan itu tidak baik untuk siapa pun.</p>
+<p>Sering kali saya menerapkan teknik Pomodoro pada pekerjaan saya — 25 menit kerja diikuti dengan istirahat selama 5 menit yang diisi dengan beberapa tugas.</p>
+<p>Kami mengadakan diskusi operasi pada hari Senin dan diskusi strategis setiap hari Selasa pagi. Hari Selasa hingga Kamis, kami semua bekerja dari kantor rumah kami, dan pada hari Jumat, kami mengatur pertemuan langsung atau online untuk meringkas apa yang kami lakukan pada minggu itu.</p>
+<p>Pekerjaan saya cukup beragam — antara lain komunikasi (diskusi dengan orang dalam, pertemuan dengan orang luar, dan mentoring kode), pemasaran (mengelola iklan, menulis salinan, dan membuat sistem pemasaran bekerja), dan beberapa hal teknis (semua jenis tugas pemrograman).</p>
+<p>Empat kali dalam setahun, saya libur seminggu. Saya juga memiliki beberapa hari perjalanan dengan rekan kerja dua kali setahun.</p>
+<p>Jadwal The Invisible University agak padat pada dua minggu setiap enam bulan (pada awal dan akhir setiap semester), dan jadwal YearCompass pada bulan Desember dan Januari lebih intensif. Ini membuat saya menerima lebih sedikit pekerjaan lain dalam periode ini.</p>
+<p><strong>Apa yang mengejutkanmu tentang pekerjaan ini yang tidak pernah kamu pikirkan sebelumnya?</strong></p>
+<p>Waktu cepat berlalu ketika kamu membuat program. Saya mulai memecahkan masalah dan tiba-tiba sudah malam. Hal ini benar-benar mengejutkan saya pada awalnya.</p>
+<p>Hal lainnya adalah kecepatan perkembangan seluruh pengetahuan pemrograman. Saya sibuk dengan pemasaran selama beberapa tahun dan ketika saya kembali melakukan pemrograman, saya hampir tidak bisa mengerti apa yang sedang dibicarakan rekan-rekan saya. Itu pasti perasaan yang sama dengan apa yang dialami orang tua ketika anak-anak mereka mencoba menjelaskan hal-hal yang tidak dapat mereka pahami.</p>
+<p><strong>Apakah kamu memiliki keterampilan yang dapat mengejutkan orang?</strong></p>
+<p>Ketika seseorang meminta bantuan dari kami (misal, &#8220;Internet sedang mati&#8221; atau &#8220;printer tidak berfungsi&#8221;), biasanya kami juga tidak langsung tahu solusinya. Yang kami lakukan adalah dengan sabar membaca pesan kesalahan dan menemukan jawabannya di internet.</p>
+<p><strong>Dengan siapa kamu bekerja?</strong></p>
+<p>Saya sering bekerja sendiri. Kami mengadakan pertemuan mingguan, dan mengobrol setiap hari dengan rekan kerja, jika kami mengerjakan tugas bersama. Saya juga bertukar email dengan para pemasok, mitra, konsultan, dan pers secara berkala.</p>
+<p><strong>Apa jalur karir dalam profesimu?</strong></p>
+<p>Saya pikir ada beberapa jalur yang jelas bagi para profesional IT:</p>
+<ul>
+<li>Kamu dapat memilih ukuran dan gaya perusahaan: freelancer, startup, usaha kecil, bisnis menengah, perusahaan multinasional dan pemerintah.</li>
+<li>Kamu dapat memilih topik: operasi, pengembangan, perencanaan, pengujian atau bahkan manajemen, penjualan, dukungan, pertumbuhan, data, dll.</li>
+<li>Kamu akan dibedakan menurut pengalamanmu: tingkat pemula, junior, senior, dll. Dan dalam setiap jalur, ada banyak persimpangan spesifik (misalnya pengembang bisa menjadi pengembang web front-end spesialis Angular)</li>
+</ul>
+<p>Kamu dapat memilih untuk melakukan navigasi melalui jalur ini sepanjang hidupmu.</p>
+<p>Saya melihat banyak contoh di antara teman-teman saya juga:</p>
+<ul>
+<li>Sangat populer untuk memulai dari nol hingga tak terbatas di jalur pemrograman.</li>
+<li>Ada banyak situasi yang seperti ini “Saya mulai sebagai spesialis IT tetapi saya dapat berkomunikasi dengan orang, jadi saya menjadi seorang manajer”.</li>
+<li>Ada juga beberapa situasi seperti “Saya mulai dengan bekerja di perusahaan multinasional, tetapi saya mencoba membangun bisnis saya sendiri”.</li>
+<li>Dan beberapa teman saya memulai dengan menjalankan perusahaan mereka sendiri dari awal.</li>
+</ul>
+<p><strong>Apa rencanamu, bagaimana kamu ingin melanjutkan?</strong></p>
+<p>Saya gagal dari penjualan perusahaan pertama saya (“Gyümölcstárhely”, layanan hosting web perusahaan pertama saya, yang dibeli oleh salah satu perusahaan hosting terbesar di Eropa) dan banyak proyek gagal juga. Sejauh ini, saya sangat menikmati kombinasi pengembang-pengusaha ini, jadi mungkin ini apa yang akan saya tekuni.</p>
+<p><strong>Profesi apa lagi yang akan kamu pilih jika kamu harus berubah? Bisakah kam berubah?</strong></p>
+<p>Saya tidak akan berubah. Saya sangat suka mengajar, jadi saya bisa membayangkan melakukan semacam hal seperti konsultan-pelatih. Saya mungkin bisa berubah ke pekerjaan IT normal dan mungkin pemasaran karena pengalaman kewirausahaan saya.</p>
+<p><strong>Keterampilan apa yang dilakukan pengembang hebat, yang dibutuhkan pakar IT? Siapa yang tidak kamu rekomendasikan untuk profesi ini?</strong></p>
+<p>Saya percaya keterampilan berikut ini penting:</p>
+<ul>
+<li>Memperhatikan hal rinci &#8211; sangat sulit untuk koding dengan gaya yang superfisial. Kamu harus memperhatikan detailnya.</li>
+<li>Kemampuan konsentrasi &#8211; menemukan satu kesalahan terkadang membutuhkan waktu berjam-jam.</li>
+<li>Keahlian bahasa Inggris &#8211; jika saya kesulitan, saya hanya dapat menemukan bantuan di internet dalam bahasa Inggris.</li>
+</ul>
+<p>Saya tidak merekomendasikan profesi ini jika kamu tidak memiliki keterampilan ini.</p>
+<p><strong>Apa bagian favoritmu?</strong></p>
+<p>Saya suka program yang dapat ditinggal berjalan berjam-jam, berhari-hari atau berminggu-minggu, melakukan sesuatu yang bermanfaat. Menciptakan sesuatu yang berhasil juga merupakan perasaan yang luar biasa menyenangkan.</p>
+<p><strong>Apa yang paling memotivasimu? Apa kesulitan dan bahaya dari profesimu?</strong></p>
+<p>&#8220;Perperangan profesional&#8221; sama-sama menjengkelkan dan menghibur. Melihat orang memperdebatkan teks editor dan apakah harus memformat kode dengan tab atau spasi&#8230;</p>
+<p>Tidak mudah untuk mengikuti teknologi yang terus berubah — memutuskan bahasa program mana yang akan digunakan atau alat baru mana yang cukup bagus untuk dipelajari.</p>
+<p>Ditambah lagi, adanya bahaya dalam profesi ini:</p>
+<ul>
+<li>Duduk seharian &#8211; kamu perlu usaha ekstra jika kamu tidak ingin menjadi si kutu buku yang gemuk.</li>
+<li>Lingkup pertemanan &#8211; mudah untuk berpikir bahwa perusahaan yang penuh dengan profesional IT semuanya adalah pria berusia 20-50 tahun dengan bayaran bagus yang memahami lelucon pemrograman.</li>
+</ul>
+<p><strong>Seberapa stabil pekerjaanmu? Berapa lama waktu yang dihabiskan untuk bekerja di perusahaan yang sama?</strong></p>
+<p>Saya bekerja di startup. Ada proyek yang cepat berubah, proses yang belum berkembang, dan ketidakpastian lebih besar dibandingkan dengan perusahaan yang lebih besar dan berfungsi dengan baik. Saya bekerja selama 5-6 tahun di perusahaan saya sebelumnya; kami selalu memulai yang baru setelah itu.</p>
+<p>Saya belum pernah mendengar seorang profesional IT dipecat di antara teman-teman saya. Beberapa lebih setia dan bekerja puluhan tahun di perusahaan yang sama, sementara yang lain berubah setiap beberapa tahun, termotivasi oleh upah yang lebih tinggi dan peran yang lebih menarik.</p>
+<p><strong>Jika kamu harus menanyakan satu hal atas nama semua pengembang, apakah itu?</strong></p>
+<p>Sebagai spesialis IT, saya akan memberikan saran, silakan baca pesan kesalahan dan cari di Google sebelum kamu menghubungi kami.</p>
+<p>Sebagai seorang wirausahawan, saya mengharapkan email yang jelas dan mudah dipahami ketika mencari bantuan setelah terjadi kesalahan — apa yang telah mereka coba, apa yang mereka harapkan dan apa yang terjadi — dan kita akan memikirkan solusi bersama.</p>
+<p><strong>Berapa banyak yang dapat diperoleh seseorang dalam profesi ini (sebagai seorang pemula, berpengalaman dan veteran)?</strong></p>
+<p>Dari pengalaman saya sebagai seorang pengusaha:</p>
+<ul>
+<li>Saya tidak menghasilkan uang di tahun pertama. Saya hanya membuat proyek dengan uang saya sendiri.</li>
+<li>Bulan pertama setelah titik kritis, saya mendapat gaji $110. Kemudian gaji saya perlahan naik menjadi $15,000.</li>
+<li>Saya mendapatkan jumlah yang lebih besar dengan menjual perusahaan saya. Cukup untuk menutup semua biaya dalam 4-5 tahun ke depan, membiarkan saya fokus pada proyek saya berikutnya.</li>
+</ul>
+<p>Teman-teman pengembang saya biasanya menghasilkan lebih dari itu. Sebagian besar waktu, mereka memiliki perjanjian rahasia, jadi kita hanya bisa berbicara tentang perkiraan: mereka menghasilkan $15.000-30.000 di Hungaria, lebih banyak jika mereka adalah pemimpinnya, dan lebih dari $ 70.000 di bagian Barat. Ada baiknya juga untuk melihat-lihat Glassdoor; mereka punya banyak info tentang gaji.</p>
+<p><strong>Menurutmu apa cara terbaik untuk belajar coding?</strong></p>
+<p>Ada banyak kursus online dan offline yang bagus. Kami mengumpulkan ini di situs web: <a href="http://programozastanfolyam.com/" target="_blank" rel="noopener external" data-wpel-link="external">http://programozastanfolyam.com/</a>.</p>
+<p>Hal-hal berikut ini sangat membantu saya:</p>
+<ul>
+<li>Sebenarnya harus menulis solusi dari tugas yang diberikan (daripada membacanya di buku atau menonton video tentang itu)</li>
+<li>Proyek khusus yang dapat saya selesaikan (misal, saya akan membuat situs untuk seorang teman atau sebuah proyek)</li>
+<li>Seorang teman atau mentor yang sudah tahu cara membuat kode dan dapat membantu saya ketika saya memiliki masalah.</li>
+</ul>
+<p><strong>Apa yang membuat pemrograman layak dipelajari?</strong></p>
+<p>Bagi saya, pemrograman adalah:</p>
+<ul>
+<li>Membuat saya merasakan menciptakan sesuatu.</li>
+<li>Menawarkan peluang kerja dan keuangan yang stabil.</li>
+<li>Membuat saya menjadi relax.</li>
+</ul>
+<p>&nbsp;</p>
+<p><em><strong>Disclaimer: Blog CodeBerry diterbitkan oleh Sekolah Pemrograman CodeBerry yang didirikan oleh András.</strong></em></p>
+<p><em><strong>Apakah kamu menyukai cerita ini? Berlangganan ke buletin kami dan kami akan memberikanmu kiriman terbaik kami setiap minggunya. Tidak ada spam, tidak ada omong kosong. Kamu selalu dapat memilih untuk tidak berlangganan lagi.</strong></em></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

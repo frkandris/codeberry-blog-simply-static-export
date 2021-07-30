@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PLC | CodeBerry Blog</title>
+	<atom:link href="/blog/hu/tag/plc/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 22 Apr 2021 15:22:26 +0000</lastBuildDate>
+	<language>hu</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>A PLC programozás alapjai</title>
+		<link>/blog/hu/plc-programozas-alapjai/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2021 15:22:26 +0000</pubDate>
+				<category><![CDATA[Programozási nyelvek]]></category>
+		<category><![CDATA[ipar 4.0]]></category>
+		<category><![CDATA[ipari automatizálás]]></category>
+		<category><![CDATA[ipari IOT]]></category>
+		<category><![CDATA[PLC]]></category>
+		<category><![CDATA[plc programozási nyelvek]]></category>
+		<category><![CDATA[PLC programozó fizetés]]></category>
+		<category><![CDATA[PLC tanfolyam]]></category>
+		<category><![CDATA[Programmable Logic Controller]]></category>
+		<category><![CDATA[programozható vezérlőegység]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=12971</guid>
+
+					<description><![CDATA[Mi az a PLC? A PLC a Programmable Logic Controller rövidítése, amit programozható logikai vezérlőnek fordíthatnánk. PLC készülékeket ipari szabályozástechnikában és folyamatirányításban használnak, gyártósorokat, gépeket, ipari berendezéseket irányítanak vele. A PLC programozók a vezérlőberendezésekhez programot terveznek, megírják, tesztelik és szükség esetén módosítják.  Hogy néz ki a PLC programozás? A PLC vezérlőegységeket speciális, grafikus vagy szöveges [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2><span style="font-weight: 400;">Mi az a PLC?</span></h2>
+<p><span style="font-weight: 400;">A PLC a Programmable Logic Controller rövidítése, amit <strong>programozható logikai vezérlőnek</strong> fordíthatnánk. PLC készülékeket ipari szabályozástechnikában és folyamatirányításban használnak, gyártósorokat, gépeket, ipari berendezéseket irányítanak vele.</span></p>
+<p><span style="font-weight: 400;">A PLC programozók a vezérlőberendezésekhez <strong>programot terveznek,</strong> <strong>megírják,</strong> <strong>tesztelik</strong> és szükség esetén <strong>módosítják</strong>. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12010 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-1.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-1.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Hogy néz ki a PLC programozás?</span></h2>
+<p><span style="font-weight: 400;">A PLC vezérlőegységeket speciális, grafikus vagy szöveges programozási nyelveken lehet programozni. A PLC készülékek általában a hagyományos értelemben vett beviteli és megjelenítési funkciókkal nem rendelkeznek, grafikus megjelenítő felületük nincs, vagy csak egy apró kijelzőre korlátozódik. <strong>A programokat</strong> általában egy külön számítógépre telepített <strong>fejlesztőkörnyezetben lehet megírni és a PLC készülékre fel kell tölteni.</strong></span></p>
+<h3><span style="font-weight: 400;">PLC programozási nyelvek </span></h3>
+<h4><span style="font-weight: 400;">Grafikus rendszerű nyelvek: </span></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Létradiagram (Ladder Diagram &#8211; LD), e</span>z jelenleg a legelterjedtebb utasítási forma:</li>
+</ul>
+<p><div style="width: 420px" class="wp-caption aligncenter"><img loading="lazy" src="https://www.plcacademy.com/wp-content/uploads/2019/02/motor-control-interlocking-ladder-logic.png?ezimgfmt=ng:webp/ngcb59" alt="A PLC programozás alapjai" width="410" height="410" /><p class="wp-caption-text">Forrás: <a href="http://plcacademy.com/" target="_blank" rel="noopener external" data-wpel-link="external">PLC Academy</a></p></div></p>
+<ul>
+<li><span style="font-weight: 400;">Funkcióblokk diagram (Functional Block Diagram  – FBD):</span></li>
+</ul>
+<p><div style="width: 310px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://www.plcacademy.com/wp-content/uploads/2018/02/basic-function-block-diagram-300x280.png?ezimgfmt=ng:webp/ngcb59" width="300" height="280" /><p class="wp-caption-text">Forrás: <a href="http://plcacademy.com/" target="_blank" rel="noopener external" data-wpel-link="external">PLC Academy</a></p></div></p>
+<ul>
+<li><span style="font-weight: 400;">Sorrendi folyamatábra (Sequential Function Chart – SFC):</span></li>
+</ul>
+<p><div style="width: 473px" class="wp-caption aligncenter"><img loading="lazy" class="size-large" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Basic_Batch_SFC.jpg/463px-Basic_Batch_SFC.jpg" width="463" height="599" /><p class="wp-caption-text">Forrás: <span style="font-weight: 400;">Tom Meadowcroft &#8211; Own work, CC BY-SA 4.0, </span><a href="https://commons.wikimedia.org/w/index.php?curid=67232022" target="_blank" rel="noopener external" data-wpel-link="external">Wikimedia</a></p></div></p>
+<h4><span style="font-weight: 400;">Szöveges rendszerű nyelvek </span></h4>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Strukturált szöveg (Structured Text Programming – ST):</span></li>
+</ul>
+<p><div style="width: 348px" class="wp-caption aligncenter"><img loading="lazy" src="https://isd-soft.com/wp-content/uploads/2019/07/PLC-programming-languages.-EBa-2.png" alt="" width="338" height="187" /><p class="wp-caption-text">Forrás: <a href="http://isd-soft.com/" target="_blank" rel="noopener external" data-wpel-link="external">isd-soft.com</a></p></div></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Utasításlista (Instruction List – IL):</span></li>
+</ul>
+<p><div id="attachment_12973" style="width: 181px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-12973" loading="lazy" class="wp-image-12973 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Kepernyokep-2021-04-22-160107.png" alt="" width="171" height="422" srcset="/blog/wp-content/uploads/2021/04/Kepernyokep-2021-04-22-160107.png 171w, /blog/wp-content/uploads/2021/04/Kepernyokep-2021-04-22-160107-122x300.png 122w" sizes="(max-width: 171px) 100vw, 171px" /><p id="caption-attachment-12973" class="wp-caption-text">Forrás: <a href="http://motioncontorloltips.com/" target="_blank" rel="noopener external" data-wpel-link="external">Motioncontroltips.com</a></p></div></p>
+<h2><span style="font-weight: 400;">A PLC programozás felhasználási területei </span></h2>
+<p><span style="font-weight: 400;">A PLC eszközei megtalálhatók az <strong>ipari automatizálás</strong> szinte <strong>minden területén,</strong> de a gyárakon kívül a közlekedési eszközökben, orvostechnikai berendezésekben, automatizált otthonokban, reptéri csomagkezelésnél, vidámparkokban, nagy épületek szellőzési és légkondicionálási rendszerében is jelen van, csak hogy néhány példát említsünk. </span></p>
+<p><span style="font-weight: 400;">A PLC-vel leggyakrabban együtt említett gyártástechnikai felhasználás tehát csak az egyik lehetséges terület, de emellett még számtalan más területen is megjelenik, mint például az <strong>épületgépészet</strong> vagy <strong>logisztika</strong>.</span></p>
+<h2><span style="font-weight: 400;">Mennyit keresnek a PLC programozók? </span></h2>
+<p><span style="font-weight: 400;">Kb. <strong>394 000 &#8211; 443 000 Ft</strong> körül kezdődnek a PLC programozói fizetések, a Glassdoor szerint <strong>az átlag 451 000 Ft</strong> körül alakul. Ennél magasabb fizetési sávba eső bérek is vannak, de azok már inkább mérnöki pozíciók, egyebek mellett PLC szaktudással. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12001 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/06/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Hogyan lehet megtanulni a PLC programozást? </span></h2>
+<p><span style="font-weight: 400;">A PLC programozás <strong>tanfolyami formában</strong> tanulható szakma, <strong>iskolarendszerű felnőttképzésben</strong> is választható. A 2021-től bevezetett szakmajegyzékben az elektrotechnikai ágazatban szereplő automatikai technikus szakma az, ami tartalmaz PLC programozásra vonatkozó ismereteket. </span></p>
+<p><span style="font-weight: 400;">A hagyományos felnőttképzésen kívül nagyvállalatok is szerveznek PLC tanfolyamokat, a Siemensnél például külön blokkokban lehet tanulni a PLC programozás különböző szegmenseit, néhány napos továbbképzéseken. </span></p>
+<h3><span style="font-weight: 400;">PLC programozás tanfolyamok magyarul</span></h3>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.soterline.hu/szakmai-kepzesek/plc-programozo-kepzes/?gclid=Cj0KCQjwyN-DBhCDARIsAFOELTkCj3o6HRtQiIcAc5AzUlCRbOkznOnNQPz08v3v4jIm-qy-GslywPwaAhaCEALw_wcB" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">SOTER</span></a><span style="font-weight: 400;"> </span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">12 hónap</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Heti egyszer nappali vagy heti kétszer esti formában </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">600.000 Ft </span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.apave.hu/Akademia/Szakmai-trening/PLC-programozasi-alapismeretek.html?i=4150" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Apave</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">4 nap</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Esti képzés</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">49 410 Ft</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://focusoktatas.hu/tanfolyamok/elektronika/plc-programozo" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Focus Oktatóközpont</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">8 hónap</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Kéthetente szombat-vasárnap </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">299.000 Ft, kedvezményesen 259.000 Ft</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.kvalix.hu/kozosseg/rendezvenyek/plc-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Kvalix</span></a>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">2 nap</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Egész napos képzés</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">30 000 Ft</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="http://itacademy.hu/plc-halado-tanfolyam/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">IT Academy</span></a><span style="font-weight: 400;"> &#8211; haladó tanfolyam</span>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">2 hét </span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">Heti kétszer, esti képzés (összesen 24 óra)</span></li>
+<li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">160 000 Ft </span></li>
+</ul>
+</li>
+</ul>
+<h2><span style="font-weight: 400;">Mennyi ideig tart megtanulni a PLC programozást? </span></h2>
+<p><span style="font-weight: 400;">A képzések időtartam változik attól függően, hogy mennyi gyakorlati órát tartalmaznak, illetve van-e szakmai gyakorlat külső gyártási helyszínen, cégeknél. Találunk <strong>5 hónapos 10 hónapos</strong> és <strong>egy éves</strong> és <strong>két éves képzések</strong>et is.</span></p>
+<p><span style="font-weight: 400;">Az elméleti alapokat néhány napos továbbképzéseken is meg lehet ismerni, de ahhoz, hogy önállóan tudjunk gépeket vezérelni PLC-ken keresztül, és <strong>megértsük</strong> azt <strong>a komplexitást,</strong> amivel a tanulókörnyezten kívül fogunk találkozni, ennél <strong>hosszabb tanulás és sok-sok gyakorlás szükséges. </strong></span></p>
+<p><iframe loading="lazy" title="PLC, egyszerűbb mint gondolnád! ◆ Az alapok" width="1080" height="608" src="https://www.youtube.com/embed/4YTTEaAXpYI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h2><span style="font-weight: 400;">Honnan tudhatom, hogy nekem való-e a PLC programozás? </span></h2>
+<h3><span style="font-weight: 400;">Ha érdekel az ipar 4.0 és az automatizálás </span></h3>
+<p><span style="font-weight: 400;">PLC programozóként könnyen lehet, hogy <strong>ipari környezetben fogsz dolgozni,</strong> ezért fontos a műszaki érdeklődés. Ha izgalmasnak találod a <strong>gyártási folyamatokat, ipari robotokat és az egymással kommunikálni képes gépeket,</strong> ez egy jó terep lehet számodra. </span></p>
+<p><span style="font-weight: 400;">A PLC-k számtalan területen jelen vannak, ne csak hatalmas gyártósorokat képzelj magad elé, hanem szinte bármit, ahol elektronika és automatika van jelen. A színházak emelkedő-süllyedő, forgó színpadainál vagy a zene ritmusára táncoló szökőkutaknál is felbukkannak ezek a programozható vezérlők. </span></p>
+<p><a href="https://codeberryschool.com/hu/teljes-hozzaferes" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12013 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/06/Self-paced-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/06/Self-paced-2.png 1024w, /blog/wp-content/uploads/2020/06/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2020/06/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Precizitás, logikus gondolkodás</span></h3>
+<p><span style="font-weight: 400;">Ha ezen a területen szeretnéd képezni magad, <strong>fontos, hogy logikusan tudj gondolkodni</strong> és elemeire tudd bontani az összetett feladatokat. A precíz és megbízható munkavégzés szintén elengedhetetlen. Ha érdeklődsz a fizika és a műszaki területek iránt, ez a pálya ideális lehet számodra, és attól sem kell tartanod, hogy nagyon erős matematikai tudást vár el a terület, mert sokkal inkább logikai műveletekkel fogsz dolgozni, mint matematikával. </span></p>
+<p><strong>A CodeBerry Programozóiskola “Programozási nyelvek” című cikksorozatából megtudhatjátok</strong>, hogy milyen alapvető jellemzői vannak az egyes programozási nyelveknek, mire alkalmasak, kinek érdemes választani őket.</p>
+<h3>Bevezetés a programozásba</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/hu/a-webprogramozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A webprogramozás alapjai – Webfejlesztés kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/java-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A Java programozás alapjai – Java programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/python-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">Python programozás alapjai – Python programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C++ programozás alapjai – a C++ programozásról kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-php-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A PHP programozás alapjai – PHP programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-c-sharp-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A C# programozás alapjai – C# programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/a-javascript-programozas-alapjai/" data-wpel-link="external" target="_blank" rel="external">A JavaScript programozás alapjai – JavaScript programozás kezdőknek</a></li>
+<li><a href="https://codeberryschool.com/blog/hu/android-programozas/" data-wpel-link="external" target="_blank" rel="external">Android programozás</a></li>
+<li><strong>A PLC programozás alapjai</strong></li>
+</ul>
+<p>Szeretnél online megtanulni programozni? Gyere, és <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">próbáld ki az első 25 leckénket ingyen</a> a CodeBerry Programozóiskolában!</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

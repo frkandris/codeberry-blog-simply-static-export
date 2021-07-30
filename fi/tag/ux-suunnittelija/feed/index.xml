@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UX-suunnittelija | CodeBerry Blog</title>
+	<atom:link href="/blog/fi/tag/ux-suunnittelija/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Thu, 10 Jun 2021 17:12:48 +0000</lastBuildDate>
+	<language>fi-FI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Mitä eroa on ohjelmoijalla ja ohjelmistokehittäjällä?</title>
+		<link>/blog/fi/ohjelmoija-vs-ohjelmistokehittaja/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 17:11:35 +0000</pubDate>
+				<category><![CDATA[Ohjelmoinnin perusteet]]></category>
+		<category><![CDATA[back-end-kehittäjä]]></category>
+		<category><![CDATA[data-analyytikko]]></category>
+		<category><![CDATA[datanomi]]></category>
+		<category><![CDATA[datatieteilijä]]></category>
+		<category><![CDATA[devops]]></category>
+		<category><![CDATA[front-end-kehittäjä]]></category>
+		<category><![CDATA[full-stack-kehittäjä]]></category>
+		<category><![CDATA[järjestelmänvalvoja]]></category>
+		<category><![CDATA[ohjelmistoarkkitehti]]></category>
+		<category><![CDATA[ohjelmistoinsinööri]]></category>
+		<category><![CDATA[ohjelmistokehittäjä]]></category>
+		<category><![CDATA[ohjelmistokehittäjä palkka]]></category>
+		<category><![CDATA[ohjelmistotestaaja]]></category>
+		<category><![CDATA[ohjelmoija]]></category>
+		<category><![CDATA[ohjelmoija palkka]]></category>
+		<category><![CDATA[pelitestaaja]]></category>
+		<category><![CDATA[pelitestaus]]></category>
+		<category><![CDATA[UI-suunnittelija]]></category>
+		<category><![CDATA[UX-suunnittelija]]></category>
+		<category><![CDATA[verkkokehittäjä]]></category>
+		<category><![CDATA[verkkokehitys]]></category>
+		<category><![CDATA[web developer]]></category>
+		<category><![CDATA[web-designer]]></category>
+		<category><![CDATA[web-kehittäjä]]></category>
+		<category><![CDATA[web-suunnittelija]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13359</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen! Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmointikoulu CodeBerryssä. Tämän artikkelin tarkoitus on auttaa [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa </strong><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<p>Tämän artikkelin tarkoitus on auttaa sinua ymmärtämään mitä erilaiset IT-alan spesialistit tekevät – minkälaisia työtehtäviä heillä on, sekä mitä eroavaisuuksia ja samankaltaisuuksia heidän välillään on. Haluamme tarjota sinulle kattavan yhteenvedon, joka ehkä selkeyttää erilaisia alan ilmaisuja niille, jotka eivät ehkä vielä tunne alaa.</p>
+<p>On tärkeää korostaa, että usein yksilöllisten työroolien välillä ei ole täysin selkeää “viivaa” ja roolin tarkempi määritelmä saattaa vaihdella yhtiöittäin, asiantuntevuuden tai työprojektin mukaan.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13361" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-1024x683.jpg" alt="Mitä eroa on ohjelmoijalla ja ohjelmistokehittäjällä" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/headway-jfR5wu2hMI0-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h2>Mitä eroa on <i>ohjelmoijalla</i> ja <i>ohjelmistokehittäjällä?</i></h2>
+<p>Päivittäiskäytössä nämä kaksi termiä vaihtelevat ja saatamme jopa lisätä sanan “<i>koodaaminen</i>” <i>ohjelmoinnin, </i>ja <i>kehittämisen </i>eli <i>devaamisen</i> rinnalle. Myös nämä sanat ovat keskenään vaihtokelpoiset useissa eri asiayhteyksissä. Ne kaikki kuvaavat samaa tietoutta ja roolia – henkilöä, joka käyttää ohjelmointikieliä luodakseen komentoja tietokoneille ohjelmistojen kautta, joita he voivat myös itse tehdä.</p>
+<p>Vaikka puhekielessä nämä tarkoittavat samaa asiaa, osa työnantajista saattaa tarkentaa mitä he tarkoittavat <i>ohjelmistokehittäjällä</i> tai <i>ohjelmoijalla. </i>Osa luulee ohjelmistokehityksen olevan vain monimutkaisia suunnittelutehtäviä, sisältäen korkeamman tason päätöksentekoa (esim. Ohjelmistokehittäjä suunnittelee tietokannan tai kuinka data liikkuu erilaisten osien välillä), kun taas ohjelmoinnilla usein he tarkoittavat koodirivien kirjoittamista suunnittelijoiden luomien ohjeiden perusteella (esim. Korjaa valikko, joka näkyi virheellisesti tai kirjoita funktio, jolla on tietynlainen lopputulos).</p>
+<p>Ohjelmistokehittäjän koulutus (ent. Datanomin tutkinto) on tarjolla monissa ammattikouluissa ja aikuiskoulutuskeskuksissa. Myös jotkin AMK-instituutit tarjoavat syventäviä tieto- ja viestintätekniikan opintoja ohjelmistokehittäjän ammatista haaveileville. Ei ole kuitenkaan suinkaan mahdottomuus opiskella ohjelmistokehittäjäksi myöskään nettikurssilla, joita on runsaasti saatavilla. Tutustu oman alueesi tarjontaan netissä ja valitse itsellesi sopivin toteutusmuoto.</p>
+<p>Molempien, sekä ohjelmistokehittäjän palkka, että ohjelmoijan palkka riippuvat luonnollisesti työtehtävistä, ohjelmointikielistä ja muista tekijöistä, mutta Suomessa ohjelmistokehittäjä tienaa noin 3400€ kuussa palkkavertailu.comin mukaan (junior ohjelmistokehittäjän palkka ei myöskään ole hassumpi, noin 3000€ kuussa), kun taas hyvin joustavan “ohjelmoija”-työnimikkeen omaava tienaa Oikotien palkkavertailun mukaan 3100€ kuussa. Ei huono, vai mitä?</p>
+<p><i>Psst… tsekkaa </i><a href="https://codeberryschool.com/blog/fi/it-alan-palkat-2021/" data-wpel-link="external" target="_blank" rel="external"><i>tästä artikkelistamme</i></a><i> tarkemmin, paljonko on koodaajan palkka eri asemissa!</i></p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12988" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2>Mitä eroa on <i>ohjelmistoinsinöörillä</i> ja <i>ohjelmoijalla</i>?</h2>
+<p><i>Ohjelmistoinsinöörillä</i> on usein yliopisto- tai AMK-pohjainen insinöörin tutkinto, esimerkiksi vähintään tietotekniikan kandidaatin tutkinto. Heidän tehtävänsä ja roolinsa vaihtelevat yhtiöittäin, mutta usein yliopisto- tai korkeakoulutason ammattitutkinto on vaadittu tässä roolissa kaikissa tapauksissa.</p>
+<p>Yliopistossa <i>tietojenkäsittelytieteen</i> teoreettisia ja matemaattisia perusopintoja opetetaan huomattavasti vähemmällä ohjelmointifokuksella. Ohjelmistoinsinöörinä sinulla tulee olla vankka ote kehityksen teoreettisesta puolesta (esim. Datarakenteiden suunnittelusta, tehokkaista algoritmeista) ja ohjelmistoprojektien käytännöllisestä toteutuksesta.</p>
+<p>Jos yhtiö ei hae nimenomaisesti <i>ohjelmistoinsinöörejä</i>, mutta <i>ohjelmoijia</i> tai <i>ohjelmistokehittäjiä</i>, tutkinto ei välttämättä ole välttämätön. Tässä tapauksessa voi olla mahdollista, että sinulla on hallussasi jo riittävät koodarin opinnot, jotka olet saavuttanut kurssien ja itsenäisen opiskelun kautta. Tietysti kyky oppia nopeasti ja avoimuus uuden opettelua kohtaan ovat välttämättömiä piirteitä tällä alalla.</p>
+<h2>Mitä eroa on <i>web-suunnittelijalla</i> ja <i>web-kehittäjällä</i>?</h2>
+<p>Luodaksemme hienot, hyvin toimivat verkkosivut, useita erilaisia eksperttejä tarvitaan niiden toteuttamiseksi. <i>Suunnittelijat</i> ovat vastuussa verkkosivun visuaalisesta ulkonäöstä ja tuntumasta, kun taas <i>web-kehittäjät</i> (web developer) ovat vastuussa miltä se näyttää. <i>Web-suunnittelijat</i>, eli <i>verkkosuunnittelijat</i>, käyttävät graafisen alan ohjelmistoa (esim. PhotoShop, Illustrator, Sketch).</p>
+<p>Heidän tulee ymmärtää väriteoriaa, typografiaa ja muiden graafisten kykyjen omaaminen saattaa olla hyödyksi, esim. Vektorigrafiikoiden luominen tai perustypografian tietämys (sillä verkkosivut ja printtimateriaalit usein näyttävät samalta, on hyvä tietää miltä nämä näyttävät sekä ruudulla, että paperilla).</p>
+<p>On tärkeää tietää verkkosivujen perusrakenne, ja voi olla hyödyllistä myös <i>web-suunnittelijalle</i> tuntea HTML:n ja CSS:n perusteet, jotta verkkosivujen rakentamiskielet eivät vaikuta täysin heprealta. <i>Web-suunnittelijat</i>, taas (useimmiten) eivät ole ohjelmoijia, he ovat vastuussa vain sivuston visuaalisesta puolesta.</p>
+<p><i>Web-kehittäjät</i>, eli <i>verkkokehittäjät</i>, luovat ja ylläpitävät web-sivustoa käyttäen verkko-ohjelmoinnin kieliä (esim. HTML, CSS, JavaScript tai riippuen tehtävistä, Javaa, Pythonia, PHP:ia tai SQL:ta jne.). Toisin kuin <i>suunnittelijat</i>, <i>web-kehittäjät</i> ovat ohjelmoijia, jotka kirjoittavat koodia, jota tarvitaan verkkosivun toimimiseksi.</p>
+<p>Web developer-koulutus on Suomessa saavutettavissa sekä ammattikoulu- että AMK-väylän kautta, mutta monipuolisen ja laadukkaan verkkokurssin avulla voi myös saavuttaa riittävän osaamistason sekä Suomessa, että kansainvälisesti. Lisätietoa muun muassa aloittelevan koodarin palkkaa, sekä web-kehittäjän palkkaa koskien löydät <a href="https://codeberryschool.com/blog/fi/it-alan-palkat-2021/" data-wpel-link="external" target="_blank" rel="external">täältä</a>.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13362" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-1024x768.jpg" alt="Mitä eroa on UX-suunnittelijalla ja UI-suunnittelijalla" width="1024" height="768" srcset="/blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-1024x768.jpg 1024w, /blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-300x225.jpg 300w, /blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-768x576.jpg 768w, /blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-1536x1152.jpg 1536w, /blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-2048x1536.jpg 2048w, /blog/wp-content/uploads/2021/06/amelie-mourichon-wusOJ-2uY6w-unsplash-1080x810.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h2>Mitä eroa on <i>UI</i>&#8211; ja <i>UX-suunnittelijoilla</i>?</h2>
+<p>Suunnitellessa UI:ta (käyttöliittymää, <i>user interface</i>), suunnittelijan täytyy ottaa samanaikaisesti huomioon, sekä brändi, että käyttäjien tarpeet. <i>UI-suunnittelija</i> luo käyttöliittymän visuaalisen puolen, kuten värit, kuvituksen, painikkeet jne. käyttäen graafista ohjelmistoa.</p>
+<p>Suunnitellessa UX:ää (käyttäjäkokemus, user experience), UX-suunnittelijoiden tulee havaita käyttäjien tarpeet tarkemmin, joten he järjestävät haastatteluita ja pyytävät siten myös palautetta käyttäjiltä. Tähän tietoon perustuen UX-suunnittelijat luovat sitten rakenteen, valikot, navigoinnin ja muut verkkosivun osat. He käyttävät ohjelmistoa, joka on luotu suunnittelemaan ja optimoimaan käyttäjäkokemusta.</p>
+<h2>Mitä eroa on <i>front-end</i>-, <i>back-end</i>-, ja <i>full-stack-kehittäjillä</i>?</h2>
+<p><i>Front-end</i>, eli <i>asiakaspuoli</i> on osa verkkosivun näkyvä puoli: painikkeet, kuvat, tekstit ja vuorovaikutus – jokainen ohjelma toimii asiakassovelluksen avulla (selaimella). Verkkosivujen tai mobiili/verkkosovelluksien käyttöliittymän luojaa (eli front-end) kutsutaan <i>front-end-kehittäjiksi</i> (<i>front-end-developer</i> tai lyhyesti “frontiksi”). Verkkoprojektien aikana he usein työskentelevät HTML:n, CSS:n ja JavaScriptin kanssa, mutta joskus he käyttävät myös JavaScriptin frameworkeja (esim. React, AngularJS, Vue.js).</p>
+<p><i>Back-end</i>, joka tunnetaan myös <i>serveripuolena</i> on osa verkkosivua, jota emme näe: se tallentaa ja lataa dataa tietokannoista, suorittaa laskelmia, palvelee käyttäjän pyyntöjä, tarjoaa API-päätepisteitä – eli lyhyesti kehittää jokaista ohjelmaa joka toimii serverillä. Back-end-kehittäjät, myös nimeltään serveripuolen ohjelmoijat työskentelevät taustapuolella, eli back-endissä, “bäkissä” tai “bäkkärillä”. Useimmiten käytetyt serveripuolen ohjelmointikielet ovat Python, Node.js, PHP ja Java.</p>
+<p><i>Full-stack-kehittäjät</i> ovat taas kehittäjitä, jotka osaavat ohjelmoida sekä asiakaspuolta, että serveripuolta. Tämän tyyppisen ohjelmoijan työllisyys on aina lähestulkoon taattu.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12720" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2>Mitä eroa on <i>järjestelmänvalvojalla</i> ja <i>DevOps-insinöörillä</i>?</h2>
+<p><i>Järjestelmänvalvojat</i>, eli <i>sysadmin</i>it (joskus myös kapitalisoituna <i>SysAdmin</i>it) ovat vastuussa serverien huollosta ja toiminnasta. Heidän vastuualueisiin kuuluu ohjelmistojärjestelmien asentaminen ja niiden tukeminen, seisokkiajan hallinta ja muiden vastaavien ongelmatilanteiden ratkaiseminen. Usein tähän rooliin kuuluu myös kevyt ohjelmointi: he kirjoittavat ohjelmia (scriptejä), jotka automatisoivat toistuvia tehtäviä.</p>
+<p><i>DevOps-insinöörit</i> (joskus kirjoitetaan myös pienellä: <i>devops</i>) toimivat rajapintana admin-puolen laitteistotehtäville ja kehittäjien ohjelmistotehtäville. He voivat toimia kehittäjinä, jotka ottavat osaa asennustehtäviin, testaamiseen ja rakenteiden toiminnan ylläpitämiseen tai he voivat toimia myös järjestelmänvalvojina, jotka omaavat vankemman otteen ohjelmointitaidoista ja osaavat luoda tai päivittää koodia.</p>
+<p>Yksi DevOps-insinöörien tarkemmista tehtävistä on suojata käytettävät järjestelmät ja suojella niitä hakkerointiyrityksiä vastaan. Yksi tärkemmistä roolin työtehtävistä on pitää yhteyttä kehittäjätiimiin, käyttäjiin, sekä järjestelmänvalvojaan, joten heidän tulee omata loistavat kommunikointitaidot ja heidän on kyettävä työskentelemään erilaisissa ryhmätöissä.</p>
+<h2>Mitä <i>ohjelmistoarkkitehti</i> tekee?</h2>
+<p>Ohjelmistoarkkitehdin rooli vaatii paljon kokemusta ja laajasti erilaisia taitoja, tietoa, sekä vastuunottokykyä.</p>
+<p>Ohjelmistoarkkitehti tekee korkeamman tason ulkoasuun ja toteutukseen liittyviä päätöksiä. He tuntevat laajasti erilaisten teknologioiden käyttämät työkalut ja niiden mahdollisuudet ohjelmistokehityksessä, sekä myös ohjelmistosuunnittelussa. Tämän lisäksi ohjelmistoarkkitehdit usein edustavat yritystä erilaisissa yritys- ja asiakastapaamisissa.</p>
+<h2>Mitä <i>valkohattuhakkeri</i> tekee?</h2>
+<p>Puhekielessä käytämme usein sanaa “hakkeri” kuvaamaan henkilöä, joka käyttää IT-tietoutta vahingoittamaan tietokoneita ilman lupaa saadakseen haltuunsa dataa tai aiheuttaakseen muuta vahinkoa.</p>
+<p>Kontrastina tälle <i>eettisellä hakkerilla</i> eli <i>valkohattuhakkereilla</i> on lupa arvioida IT-järjestelmien turvallisuutta yrittämällä saada pääsy järjestelmään tai haalia dataa sopimuksen alaisena. He käyttävät kokemustaan ja tietoaan testatakseen järjestelmiä ja paljastaakseen haavoittuvaisuuksia. He dokumentoivat prosessin yksityiskohtaisesti ja raportoivat tietoturvassa olevista aukoista sitten operaattorille.</p>
+<p><img loading="lazy" class="aligncenter wp-image-13363 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-1024x685.jpg" alt="Mitä ohjelmistotestaaja tai valkohattuhakkeri tekee" width="1024" height="685" srcset="/blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-1024x685.jpg 1024w, /blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-300x201.jpg 300w, /blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-768x514.jpg 768w, /blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-1536x1028.jpg 1536w, /blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-2048x1371.jpg 2048w, /blog/wp-content/uploads/2021/06/hello-i-m-nik-73_kRzs9sqo-unsplash-1080x723.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h2>Mitä <i>ohjelmistotestaaja </i>tekee?</h2>
+<p>Ennen kuin tuote voi päästä markkinoille tai se voidaan luovuttaa asiakkaalle, vaaditaan paljon testaamista, jotta voidaan olla varmoja tuotteen toimimisesta. Testaustyyppejä on kaksi erilaista, manuaalinen ja automatisoitu testaaminen.</p>
+<p><b>Manuaaliset testaajat</b> ottavat käyttäjän roolin ja testaavat ohjelmiston toimintoja (verkkosivu, sovellus jne.) ja raportoivat ongelmakohdat. He myös mallintavat yksittäisiä tapauksia, kuten mitä tapahtuu jos käyttäjä vahingossa koskettaa ruutua tai minkä virheviestin käyttäjä saa jos hän yrittää kirjautua sisään väärällä käyttäjätunnuksella. Manuaaliset testaajat suorittavat testejä perustuen tarkkoihin skenaarioihin ja dokumentoivat prosessin aina perusteellisesti antaen palautetta bugeista kehittäjille. Toimenpiteet, protokollat, sekä muut tarpeelliset käsitteet voi oppia muutamassa kuukaudessa ja kerättyäsi hieman kokemusta voit helposti saada työn testaajana.</p>
+<p><b>Automatisoidussa testauksessa</b> testaaja käyttää tai luo työkaluja, jotka erikoistuvat testaamiseen ongelmalistan läpikäymisen sijaan. Testin automatisoijat ovat ohjelmoijia ja automatisoijaekspertit tai -tiimit kehittävät testausprosessit.</p>
+<h2>Mitä eroa on <i>data-analyytikolla</i> ja <i>datatieteilijällä</i>?</h2>
+<p><i>Data-analyytikko</i> selkeyttää ja muuttaa dataa, sekä auttaa tiimiä tulkkaamaan ja visualisoimaan sitä. Heidän päätyökalunsa ovat Excel, SQL, R ja datan visualisointityökalut kuten Tableau ja Data Studio.</p>
+<p><i>Datatieteilijät</i> johtavat monimutkaisia projekteja, identifioivat trendejä ja malleja analysoimalla dataa, luovat analyyseja ja ennusteita, sekä antavat tietoa tukemaan erilaisten päätösten tekoa. Heillä on usein loistavat matemaattiset ja tilastolliset taidot, sekä he ovat hyviä ohjelmoija. Datatieteilijöiden päätyökaluihin kuuluu SASS, Python, R, Tensorflow, Hadoop ja Spark. Tämä rooli on erittäin haluttu työmarkkinoilla, sillä myös palkat ovat usein korkealuokkaisia, mutta roolin saaminen edellyttää monimuotoista tietoutta ja kokemusta.</p>
+<p>&nbsp;</p>
+<p><strong>Ohjelmointikoulu CodeBerryn &#8220;Ohjelmoinnin perusteet&#8221; -sarjassa </strong><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">keskustelemme ohjelmointiin liittyvistä aiheista ja kaikesta mitä sinun täytyy tietää päästäksesi alkuun. Pysy kuulolla uusista artikkeleista, ja löydä vastaukset jokaiseen &#8220;mitä&#8221;, &#8220;miksi&#8221; ja &#8220;miten&#8221; -kysymykseesi, joita sinulla on saattanut tulla mieleen koodaukseen liittyen!</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

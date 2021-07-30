@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>else if in python | CodeBerry Blog</title>
+	<atom:link href="/blog/en/tag/else-if-in-python/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sat, 26 Jun 2021 20:19:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Best way of using Python if else statements</title>
+		<link>/blog/en/python-if-else-statements/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2021 22:01:18 +0000</pubDate>
+				<category><![CDATA[Programming tutorials]]></category>
+		<category><![CDATA[else if in python]]></category>
+		<category><![CDATA[if else statement]]></category>
+		<category><![CDATA[if else statements python]]></category>
+		<category><![CDATA[one line if else python]]></category>
+		<category><![CDATA[python for loop]]></category>
+		<category><![CDATA[python function]]></category>
+		<category><![CDATA[python if elif else]]></category>
+		<category><![CDATA[python if statement]]></category>
+		<category><![CDATA[python if then else]]></category>
+		<category><![CDATA[python list comprehension if else]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13482</guid>
+
+					<description><![CDATA[What is a Python if else statement?&#160; An if and else is a conditional statement that executes a block of code when certain conditions have been met. &#160; Creating a Python if else statement To create a Python if else statement we begin by writing the word if and then we give it a condition [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h3><span style="font-weight: 400;">What is a Python if else statement?&nbsp;</span></h3>
+<p><span style="font-weight: 400;">An if and else is a<a href="https://www.earthdatascience.org/courses/intro-to-earth-data-science/write-efficient-python-code/conditional-statements/" target="_blank" rel="noopener external" data-wpel-link="external"> conditional statement</a> that executes a block of code when certain conditions have been met.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="Python if else statements  – Python tutorial for beginners – CodeBerry Programming School" width="1080" height="608" src="https://www.youtube.com/embed/cJbcCdhM8iI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3><span style="font-weight: 400;">Creating a Python if else statement</span></h3>
+<p><span style="font-weight: 400;">To create a Python if else statement we begin by writing the word if and then we give it a condition and if that condition is true it moves on to the next line and runs that piece of code.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12196 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-1-1.png" alt="Python if else statement" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-1-1.png 1024w, /blog/wp-content/uploads/2020/03/Python-1-1-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-1-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">So a basic if statement will have the word if followed by a condition and then a colon after which when we hit enter there will be an indentation. In this example, we will say that x = 20 and y =15 and then we will state the condition that says </span><span style="font-weight: 400;">if x is greater than y, print x.&nbsp;</span></p>
+<p><span style="font-weight: 400;">So what we&#8217;re saying here is that if the value for x is greater than the value for y, and these are both integers, it&#8217;s going to run the piece of code that prints out the number 20. As shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/b2952f2f0a?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Suppose we change the value of y to 25 the code above will no longer run.&nbsp; This is because the condition above will no longer be met. However, if we change the condition to read if x was less than y we would then print x out again. As shown in the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/fb3f5180de?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<h3>Using the else condition in Python if else statement</h3>
+<p><span style="font-weight: 400;">What if we want to do something else when the condition is not met. This is where the &#8220;</span><span style="font-weight: 400;">else&#8221;</span><span style="font-weight: 400;"> comes in. If x is less than y, we are going to run a different piece of code. But if it is not met then we place another condition outside the indentation statement we are going to run this piece of code instead.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/fbb5342656?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">As you can see in the code above the condition </span><span style="font-weight: 400;">x&gt;y</span><span style="font-weight: 400;"> is not met therefore the program opts to run the piece of code after the else statement which then prints out the string </span><span style="font-weight: 400;">“this is our else”</span><span style="font-weight: 400;">.It is important to note that it is all about true and false in if statements.&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12028 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Testimonial-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Testimonial-2.png 1024w, /blog/wp-content/uploads/2020/03/Testimonial-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Testimonial-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">We can also do the same with text or strings as well as shown in the example below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/6486f91fe4?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If we change the name to ‘Fred’, then the statement is going to skip the first part and run the code after the else statement. As shown here.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/0def0c59ff?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Another useful thing that we can do is we can use an if statement to check if something is present in a list. This is quite a common concept and quite handy to know.</span></p>
+<p><span style="font-weight: 400;">To begin this let&#8217;s create a list of names. Then write an if statement to check if any of the names are in the list or otherwise.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/8173d39d03?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">If we change the condition and check if Jessica is on the list we are going to get a different output as illustrated by the code below.</span></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" src="https://trinket.io/embed/python/fe49f6a60f?start=result" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Always remember that you need the colon at the end and you need to indent the code after the colon and your else comes in the same line as your if.</span></p>
+<p>&nbsp;</p>
+<p><a href="https://codeberryschool.com/en/python-programming-course-for-beginners" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter wp-image-12197 size-full" src="https://codeberryschool.com/blog/wp-content/uploads/2020/03/Python-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/03/Python-2.png 1024w, /blog/wp-content/uploads/2020/03/Python-2-300x100.png 300w, /blog/wp-content/uploads/2020/03/Python-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>&nbsp;</p>
+<p>In our&nbsp;<a href="https://codeberryschool.com/blog/en/category/programming-tutorials/" target="_blank" rel="noopener" data-wpel-link="internal">Programming Tutorials</a>&nbsp;series, you’ll find useful materials which will help you improve your programming skills and speed up the learning process.</p>
+<ul>
+<li><a href="https://codeberryschool.com/blog/en/how-to-create-perfect-html-tables/" target="_blank" rel="noopener" data-wpel-link="internal">How to create perfect HTML tables?</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-color-codes/" target="_blank" rel="noopener" data-wpel-link="internal">HTML color codes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/css-background-images-2/" target="_blank" rel="noopener" data-wpel-link="internal">CSS background images</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-programming-books/" target="_blank" rel="noopener" data-wpel-link="internal">Best Programming Books You Must Read in 2021</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-for-loop/" target="_blank" rel="noopener" data-wpel-link="internal">Python for loop</a></li>
+<li><a href="https://codeberryschool.com/blog/en/html-table/" target="_blank" rel="noopener" data-wpel-link="internal">Creating a table using HTML and CSS</a></li>
+<li><a href="https://codeberryschool.com/blog/en/javascript-foreach-loop/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using JavaScript forEach method</a></li>
+<li><a href="https://codeberryschool.com/blog/en/java-arrays-and-arraylists/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Java Arrays and ArrayLists</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-sets/" target="_blank" rel="noopener" data-wpel-link="internal">Best way of using Python Sets</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-dictionary/" target="_blank" rel="noopener" data-wpel-link="internal">Best ways of using a Python Dictionary</a></li>
+<li><a href="https://codeberryschool.com/blog/en/python-classes/" data-wpel-link="internal">Best way of using Python Classes</a></li>
+<li><a href="https://codeberryschool.com/blog/en/best-way-of-using-python-range/" target="_blank" rel="noopener external" data-wpel-link="external">Best way of using Python Range</a></li>
+<li><strong>Best way of using Python if-else</strong></li>
+</ul>
+<p>Would you like to learn how to code, online? Come and&nbsp;<a href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noopener external" data-wpel-link="external">try our first 25 lessons for free</a>&nbsp;at the CodeBerry Programming School.</p>
+<p>&nbsp;</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

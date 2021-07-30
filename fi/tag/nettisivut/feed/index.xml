@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nettisivut | CodeBerry Blog</title>
+	<atom:link href="/blog/fi/tag/nettisivut/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Sun, 13 Jun 2021 18:15:11 +0000</lastBuildDate>
+	<language>fi-FI</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Aloittelijan opas web-ohjelmointiin</title>
+		<link>/blog/fi/web-ohjelmointi-aloittelijoille/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2021 18:15:11 +0000</pubDate>
+				<category><![CDATA[Ohjelmointikielet]]></category>
+		<category><![CDATA[back end ohjelmoija]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[css kurssi]]></category>
+		<category><![CDATA[front end ohjelmoija]]></category>
+		<category><![CDATA[full stack ohjelmoija]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[html kurssi]]></category>
+		<category><![CDATA[Javascript]]></category>
+		<category><![CDATA[junior web developer]]></category>
+		<category><![CDATA[koodaa verkkosivut]]></category>
+		<category><![CDATA[koodarikoulutus]]></category>
+		<category><![CDATA[koodauskoulu]]></category>
+		<category><![CDATA[luo verkkosivut]]></category>
+		<category><![CDATA[nettisivut]]></category>
+		<category><![CDATA[opi web-ohjelmointia]]></category>
+		<category><![CDATA[opiskele web-kehittäjäksi]]></category>
+		<category><![CDATA[opiskele web-ohjelmoijaksi]]></category>
+		<category><![CDATA[verkko-ohjelmoija]]></category>
+		<category><![CDATA[verkkodevaaja]]></category>
+		<category><![CDATA[verkkosivujen koodaaminen]]></category>
+		<category><![CDATA[verkkosuunnittelija]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web developer]]></category>
+		<category><![CDATA[web developer kurssi]]></category>
+		<category><![CDATA[web-designer]]></category>
+		<category><![CDATA[web-devaaja]]></category>
+		<category><![CDATA[web-kehittäjä]]></category>
+		<category><![CDATA[web-kehitys]]></category>
+		<category><![CDATA[web-ohjelmoija]]></category>
+		<category><![CDATA[web-ohjelmoija kurssi]]></category>
+		<category><![CDATA[web-ohjelmointi]]></category>
+		<category><![CDATA[web-suunnittelija]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=13394</guid>
+
+					<description><![CDATA[Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa. Haluaisitko oppia koodaamaan verkossa? Tule ja kokeile ensimmäisiä oppituntejamme maksutta Ohjelmointikoulu CodeBerryssä. Lyhyt johdatus web-ohjelmointiin Onnittelut ensiaskeleistasi web-ohjelmoijan uralla! Matkasi kohti web developmentin tai näin suomalaisimmin web-ohjelmoinnin, verkkodevauksen, web-devauksen tai vaikkapa web-kehityksen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<h1>Lyhyt johdatus web-ohjelmointiin</h1>
+<p>Onnittelut ensiaskeleistasi web-ohjelmoijan uralla! Matkasi kohti web developmentin tai näin suomalaisimmin web-ohjelmoinnin, verkkodevauksen, web-devauksen tai vaikkapa web-kehityksen (rakkaalla lapsella on monta nimeä!) mielenkiintoiseen maailmaan on juuri alkamassa ja emme voisi olla innoissamme toivottaessamme sinut tervetulleeksi mukaan! Tämä fiksu päätös opetella web-ohjelmointia tulee parantamaan elämääsi monilla uusilla ja jännittävillä tavoilla.</p>
+<p>Web-ohjelmoijan uralla tulet oppimaan taitoja, jotka avaavat sinulle ovia nykyisellä urapolullasi, mutta sen lisäksi ne auttavat sinua saavuttamaan henkilökohtaisia ja taloudellisia tavoitteitasi, joiden luulit aiemmin olevan liian kaukana.</p>
+<p>Tavoitellessasi tätä uutta ammattia, tulet kysymään itseltäsi monia kysymyksiä ja etsimään tietoa, joka ohjaa sinut oikealle tielle.</p>
+<p>Sen vuoksi olemme luoneet tämän oppaan, joka auttaa sinua löytämään unelma-ammattiasi varten tarvitsemasi tiedot mahdollisimman lyhyessä ajassa.</p>
+<p>Ennen kuin päätät lopullisesti omistautua tämän arvokkaan alan opiskelulle, meidän mielestämme sinun tulisi tietää web-kehityksestä niin paljon kuin mahdollista. Sen jälkeen voit kysyä itseltäsi vielä kerran, sopiiko tämä ala todella sinulle.</p>
+<p><b>Tässä CodeBerryn artikkelissa “Aloittelijan opas web-kehitykseen” vastaamme polttavimpiin kysymyksiisi, kuten esimerkiksi mitä ohjelmointikieltä kannattaa opiskella mikäli haaveilet työstä web-ohjelmoinnin parissa, paljonko web developer tienaa ja mitä web-ohjelmoija tekee oikeastaan tienaa, sekä mistä koko verkkodevaamisen opiskelu kannatta aloittaa.</b></p>
+<p>Teemme parhaamme vastataksemme myös muihin mahdollisiin kysymyksiisi.</p>
+<p>Tässä artikkelissa tutustumme web-kehityksen perusteisiin ja kurkistamme web-ohjelmoijan työpäivään.</p>
+<p>Aloitetaan.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13396" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-1024x683.jpg" alt="Web-ohjelmoinnin perusteet voi oppia vaikka netissä" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/fotis-fotopoulos-DuHKoV44prg-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>&nbsp;</p>
+<h1>Mitä on web-ohjelmointi? (Front-end ja Back-end)</h1>
+<p><b>Web-kehitys tai web-ohjelmointi (web development) on yleinen termi prosesseille ja taidoille, jotka liittyvät verkkosivujen ja verkkosovellusten (web applications tai web apps) luomiseen.</b></p>
+<p>Esimerkkejä web-sovelluksista ovat muun muassa pelit, viestintäsovellukset, sähköposti ja nettikaupat. Yksinkertaisesti sanottuna mikä tahansa world wide webin maailmassa selainpohjaisesti (tai sen taustalla) toimiva sovellus on web-devaajien luomaa.</p>
+<p>Riippuen siitä, onko luomasi sisältö näkyvissä vai näkymättömissä, sinut voidaan luokitella front-end- tai back-end-devaajaksi.</p>
+<p><b>Jos työssäsi tarvitaan sekä front-end- että back-end-kehityksen taitoja, sinua voidaan kutsua full-stack-devaajaksi.</b></p>
+<p>Tarkastellaan näiden kahden tittelin välisiä eroja.</p>
+<h2>Front-end-devaus</h2>
+<p><b>Front-end-kehitykseen kuuluvat kaikki asiat, joita käyttäjä näkee vieraillessaan verkkosivullasi tai web-sovelluksessasi. Tätä puolta kutsutaan yleisesti myös nimellä “client side”, eli “asiakkaan näkemä puoli”.</b></p>
+<p>Front-end-devaaja käyttää web-suunnittelijan valitsemia ja luomia kuvia, tekstiä, animaatioita ja värejä luodakseen verkkosivuston. “Fronttaajat” tai “Frontit” varmistavat, että kaikki sisältö on missä sen kuuluukin olla, ja että back-endistä tulevat tiedot näytetään oikein käyttäjän selaimessa. He varmistavat myös, että kaikki asiakkaan puoleinen logiikka toimii halutusti.</p>
+<p>Heidän tärkeimmät työkalunsa ovat HTML (HyperText Markup Language), CSS (Cascading Style Sheets) ja JavaScript. Jokainen näistä kielistä hallitsee yhtä kolmesta tärkeimmästä verkkosivuston palasesta jotka ovat: sisältö, web design ja toiminnallisuus. Myös monia muita kieliä voi hyödyntää, mutta nämä kolme kieltä ovat kolme tärkeintä työkalua, jotka fronttaajan on ehdottomasti tunnettava. Tänä päivänä odotetaan myös, että fronttajat tuntevat muutaman ohjelmistokehyksen (framework), kuten Angular.js, React, Vue.js ja Bootstrap.</p>
+<p>Sivustonrakentaja (site builder) on taas front-end-devauksen lähtötason työtehtävä, jossa saadusta designista luodaan todellista sisältöä HTML:n, CSS:n ja JavaScriptin avulla. Sivustonrakentajat eivät koske back-endiin tai palvelinpuolen kieliin, vaan he keskittyvät muuttamaan taiteellisia näkemyksiä koodiksi. Sivustonrakentajana aloittaminen vaatii minimitason koodaustietämystä (verrattuna muihin tehtäviin), joten se tarjoaa hyvän lähtöpisteen web-ohjelmoijan uralle tai jopa junior web developer-työnimikkeestä haikaileville!</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12988" src="https://codeberryschool.com/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2.png 1024w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-300x100.png 300w, /blog/wp-content/uploads/2021/04/Blog_CTAbanner_mid_1_ver2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2>Back-end-devaus</h2>
+<p>Web-kehittäjä saattaa työskennellä myös palvelimien, tietokantojen ja muiden “kulissien takana tapahtuvien” asioiden kanssa. Tätä web-kehityksen osaa kutsutaan back-end-kehitykseksi.</p>
+<p><b>Front-end-devaaja työskentelee näkyvän sisällön kanssa, mutta back-end-devaaja puolestaan hoitaa näkymättömät prosessit, jotka luovat, tallentavat ja siirtävät tietoa palvelimelta selaimeesi. Tätä web-ohjelmoinnin puolta kutsutaan nimellä “server side”, eli “serveripuoli”.</b></p>
+<p>Tulet käyttämään myös joitakin front-end-puolen taitoja, mutta sinun on opeteltava täysin erilaiset työkalut hoitaaksesi “bäkkärin” tehtäviä. Se tarkoittaa, että sinun täytyy myös opetella eri ohjelmointikieliä. Back-endin suosituimpia kieliä ovat muun muassa Java, Ruby, Python ja PHP.</p>
+<p>Jos sinulla on kokemusta bäkkärin tehtävistä, voit myös siirtää tietotaitosi muihin IT-alan töihin, joissa vaaditaan tietokantojen ja järjestelmien hallintaa. Vaikka nämä työt eivät välttämättä sisällä ohjelmointia, niihin tarvitaan paljon tietoa palvelinpuolen prosesseista.</p>
+<h2>Tietokantojen hallinta (database management)</h2>
+<p><b>Tietokantojen hallinnoija on henkilö, joka on vastuussa palvelimien hoitamisesta ja niiden oikeasta toiminnasta.</b></p>
+<p>He käyttävät myös merkittävän osan työajastaan datan organisointiin ja järjestelmien päivittämiseen, jotta verkkosivustot toimivat sulavasti.</p>
+<p>Tietokantojen hallinnan laatu voi vaikuttaa latausaikoihin, käyttäjäkokemukseen (user experience tai UX) verkkosivullasi ja jopa sivustosi sijoitukseen Googlen hakutuloksissa. Hyvä tietokantojen hallinta voi myös estää sivustoasi kaatumasta tai palauttamasta virheitä käyttäjille. Kaikki nämä asiat ovat äärimmäisen tärkeitä ja ne voivat jopa kaataa verkkosivustoon perustuvan bisneksen.</p>
+<p>Tietokantojen hallintaprosessiin kuuluu myös omat ohjelmointikielensä. Kaikkein laajimmalle levinneisiin tietokantojen hallinnan työkaluihin kuuluvat esimerkiksi Oracle, SQL ja Apache.</p>
+<h2>Järjestelmien ylläpito</h2>
+<p>Tietokantojen hallinnoijien tavoin järjestelmien ylläpitäjän painopisteisiin kuuluvat ohjelmistojen ja laitteistojen oikea toiminta ja ajan tasalla pitäminen. Järjestelmän ylläpitäjän työ koostuu yleensä järjestelmään liittyvistä asennuksista, päivityksistä ja järjestelmän suorituskyvyn seuraamisesta, yleensä korporaatioiden maailmassa.</p>
+<p>Lähes jokainen suuri yritys tarvitsee järjestelmänvalvojia ylläpitämään IT-rakenteiden turvallisuutta ja ratkaisemaan ilmaantuvia ongelmia. Järjestelmänvalvoja hoitaa yritysten sähköposteja, sovelluksia ja sisäisiä viestintäjärjestelmiä. Ilman näitä tärkeitä toimintoja liiketoiminta tulee todennäköisesti kaatumaan nykypäivän markkinoilla.</p>
+<p>Järjestelmän ylläpitäjän työ saattaa vaikuttaa tylsältä tai maalliselta, mutta heidän työtehtävänsä ovat äärimmäisen tärkeitä ja voivat vaikuttaa radikaalisti koko IT-järjestelmäsi toimintaan.</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13395" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-1024x683.jpg" alt="Mitä eroa on web-ohjelmoijalla ja web designerilla" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/ux-indonesia-pqzRfBhd9r0-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h1>Mikä on web-ohjelmoijan (web developer) ja web-suunnittelijan (web designer) ero?</h1>
+<p>Olet saattanut kuulla termit web-ohjelmoija ja web-suunnittelija samoissa yhteyksissä. Ne eivät kuitenkaan ole sama asia.</p>
+<p><b>Web-ohjelmoija keskittää ponnistelunsa ohjelmointiin ja koodin kanssa toimimiseen, kun taas web-suunnittelija käyttää graafisia työkaluja, kuten esimerkiksi Photoshop, Illustrator, Sketch ja InDesign, luodakseen verkkosivustolle ilmettä ja grafiikkaa.</b></p>
+<p>Web-ohjelmoija ottaa web-suunnittelijan konseptit vastaan ja muuttaa ne koodin avulla toimivaksi verkkosivuksi. Web-suunnittelijaa voisi verrata arkkitehtiin, joka luo rakennuksen pohjapiirustukset ja luonnostelee sitä, miltä rakennus tulee näyttämään. Rakennustyöläisen tavoin web-ohjelmoija ottaa suunnitelmat, ja ryhtyy rakentamaan rakennusta pala palalta.</p>
+<p>Vaikka nämä ovat kaksi eri työnkuvaa, niissä voi olla myös päällekkäisyyttä. Jos olet verkkodevaaja, mutta pidät myös graafisista yksityiskohdista, saatat käyttää esimerkiksi Photoshopia luodaksesi kuvia, logoja ja ulkoasuja työstämillesi verkkosivuille.</p>
+<h1>Millaista web-ohjelmointi on?</h1>
+<p>Web-ohjelmointi on hauskaa ja palkitsevaa työtä. Se voi tarjota paljon tilaa luovuudelle ja taiteelliselle ilmaisulle.</p>
+<p>Kuten mikä tahansa muukin koodarin työ, web-kehittäjän työhön saattaa sisältyä kummallisia aikatauluja ja päivystämistä kellon ympäri, jotta voit korjata bugeja ja ongelmia niiden ilmaantuessa. Monissa web-kehittäjän töissä noudatetaan kuitenkin tavanomaista yhdeksästä viiteen -aikataulua.</p>
+<p><b>Yksi web-ohjelmoinnin eduista on tarjolla olevat etätyömahdollisuudet. Etätöiden ansiosta voit saada vapautta ja joustavuutta, jota et välttämättä löydä muilta aloilta.</b></p>
+<p>Tyypillinen web-devaajan työpäivä koostuu tietokoneen edessä istumisesta (mikä ei välttämättä ole mitenkään yllättävää). Päivän aikana sinulla on todennäköisesti lyhyitä kokouksia kollegoiden ja asiakkaiden kanssa, joissa keskustelette projektien työstämisestä. Sen jälkeen jatkat taas koodausta saamiesi suuntaviivojen mukaan. Kun kohtaat uusia ongelmia ja haasteita, tulet käyttämään runsaasti aikaa etsiessäsi vastauksia koodareille suunnatuilta foorumeilta kuten Stackoverflow.com tai Koodiklinikalta.</p>
+<p>Selaimessasi on myös avoinna melkoinen määrä välilehtiä, kun tasapainottelet projektien, viestinnän ja tiedonhaun välillä. Työskennellessäsi tulet käyttämään eniten aikaa kirjoittaessasi koodia tekstieditoriin. Nämä ohjelmat tekevät koodin kirjoittamisesta helpompaa ja tarjoavat monia työkaluja, jotka auttavat sinua pysymään järjestelmällisenä. Koodarit käyttävät myös komentorivejä keskustellakseen suoraan palvelimen tai muiden ohjelmistojen kanssa ja hallitakseen tietokantoja, ohjelmistoversioita ja niin edelleen.</p>
+<p>Yksi web-kehityksen parhaista puolista on suora palaute. Verkkoselain renderöi koodin, joten voit nähdä työsi tulokset lähestulkoon millä tahansa laitteella. Pystyt myös testaamaan koodiasi ja korjaamaan ongelmia nopeammin kuin muissa ohjelmointitehtävissä.</p>
+<h1>Miten oppia web-ohjelmointia?</h1>
+<p>Syyhyävätkö sormesi päästä aloittamaan web-ohjelmoinnin perusteet nyt heti välittömästi? Mutta et ehkä tiedä mistä web-ohjelmoinnin opiskelu kannattaa aloittaa?</p>
+<p><b>Yksi web-kehityksen opiskelun eduista on se, että kaikki opiskelu voi tapahtua verkossa. Verkkodevaajat käyttävät suurimman osan ajastaan tietokoneiden edessä, joten tutoriaaleja, dokumentaatiota ja kursseja voi löytää kaikkialta netistä.</b></p>
+<p>Jos suosit muodollisempaa koulutusta, saatat haluta tarkistaa paikallisen yliopiston kurssit tai ilmoittautua intensiivikurssille.</p>
+<p>Tässä joitakin suomalaisia web-ohjelmoinnin koulutusta tarjoavia kouluja ja opistoja:</p>
+<ul>
+<li aria-level="1"><a href="https://fitech.io/fi/web-ohjelmointi/" target="_blank" rel="noopener external" data-wpel-link="external">Fitech yhteistyössä Aalto Yliopiston kanssa</a></li>
+<li aria-level="1"><a href="https://www.jamk.fi/fi/Koulutus/Avoin-AMK/Koko-opintotarjonta/ICT/web-ja-ohjelmistotekniikka/" target="_blank" rel="noopener external" data-wpel-link="external">JAMK</a></li>
+<li aria-level="1"><a href="https://www.taitotalo.fi/koulutus/ict/2064/tieto-ja-viestintatekniikan-perustutkinto-ohjelmistokehittaja-front-end-uudet-perusteet-2020#intro" target="_blank" rel="noopener external" data-wpel-link="external">Taitotalo</a></li>
+<li aria-level="1"><a href="https://www.seamk.fi/hakijalle/avoin-amk/osaamiskokonaisuudet/web-ohjelmointi-26-46-op/" target="_blank" rel="noopener external" data-wpel-link="external">SeAMK</a></li>
+<li aria-level="1"><a href="https://www.hamk.fi/amk-tutkinto/tietojenkasittely-tradenomi-amk/" target="_blank" rel="noopener external" data-wpel-link="external">HAMK</a></li>
+</ul>
+<p>Jos opiskelet nopeaan tahtiin, sinun kannattaa harkita koodauskurssia, joka on lyhyt ja tiivis opinto-ohjelma, joka toimii armeijan leirien eli “bootcampien” tavoin. Punnertamisen sijasta tulet kirjoittamaan koodia, kunnes sormesi putoavat.</p>
+<p>Seuraavat kurssintarjoajat järjestävät web-ohjelmoinnin intensiivikursseja suomeksi:</p>
+<ul>
+<li aria-level="1"><a href="https://mixtum.com/velhon-kurssit/kurssikalenteri/" target="_blank" rel="noopener external" data-wpel-link="external">Mixtum</a></li>
+<li aria-level="1"><a href="https://www.tieturi.fi/koulutus/html-ja-css-peruskurssi/" target="_blank" rel="noopener external" data-wpel-link="external">Tieturi</a></li>
+<li aria-level="1"><a href="https://corellia.fi/kurssit/web-tekniikat/" target="_blank" rel="noopener external" data-wpel-link="external">Corellia</a></li>
+<li aria-level="1"><a href="https://www.piuha.fi/sem-kurssit/html-css-kurssi" target="_blank" rel="noopener external" data-wpel-link="external">Piuha</a></li>
+<li aria-level="1"><a href="https://wistec.fi/koulutukset/html-ja-css-perusteet-web-selainohjelmointi-1/" target="_blank" rel="noopener external" data-wpel-link="external">Wistec</a></li>
+</ul>
+<p>Artikkelistamme “Miten oppia koodaamaan?” voit tutustua parhaisiin tapoihin oppia ohjelmoinnin perusteet ja kuinka harjoitella niitä.</p>
+<p><a href="https://codeberryschool.com/fi/ohjelmoinnin-peruskurssi" data-wpel-link="external" target="_blank" rel="external"><img loading="lazy" class="aligncenter size-full wp-image-12720" src="https://codeberryschool.com/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png" alt="" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/03/Basics-of-programming-2.png 1024w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-300x100.png 300w, /blog/wp-content/uploads/2021/03/Basics-of-programming-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h1>Kuinka kauan web-ohjelmoinnin oppimisessa kestää?</h1>
+<p><b>Web-kehitys vaatii aikaa ja harjoitusta minkä tahansa muun taidon tavoin.</b></p>
+<p>Jos haluat oppia soittamaan kitaraa tai pianoa, sinun täytyy varata tietty määrä tunteja viikosta harjoittelulle ja todella investoida aikaa taitojesi kehittämiseen.</p>
+<p>Samaan tapaan web-ohjelmoinnin oppimiseen tarvittava aika on parasta mitata tunneissa. Web-kehityksen opetteluun kuluvaa kokonaisaikaa määrittelee sille uhraamiesi tuntien määrä viikossa.</p>
+<p>Sanotaan, että front-end-devaajan perustaitojen oppimiseen uppoaa noin 200 tuntia. Jos käytät opintoihisi tunnin päivässä, jolloin opit web-ohjelmoinnin perusteet 200:ssa päivässä. Toisaalta, jos uhraat opinnoillesi viisi tuntia päivässä, voit oppia taidot 40 päivän aikana! Kaikki riippuu opiskelutahdistasi.</p>
+<p>Aivomme ovat myös rajoittava tekijä, eikä kukaan voi opiskella 24 tuntia päivässä. Useimmille opiskelijoille suositeltava yläraja on 6-8 tuntia päivässä, mutta tämä on yksilöllistä.</p>
+<p>Todellisen tavoitteesi tulisi olla laadukas opiskeluaika ja asioiden sisäistäminen. Jos opiskelet web-ohjelmointia 12 tuntia päivässä ja sinusta tuntuu, ettet muista mitään seuraavana päivänä, sinun kannattaa todennäköisesti vähentää päivittäisen opiskelun määrää.</p>
+<p>Jos jonkin asian oppimiseen kuluu tietty määrä tunteja, meidän pitäisi varmaankin muotoilla kysymys paremmin: “Kuinka kauan koulutuksessasi kestää?”.</p>
+<p>Se riippuu valitsemastasi tiestä!</p>
+<p>Perinteisellä reitillä tietotekniikan yliopistotutkinnossa kestää vähintään neljä vuotta. Tulet kuitenkin käyttämään vapaa-aikaasi myös valmistumisen jälkeen ohjelmointikielien opiskeluun ja työharjoitteluihin, jotta saat hankittua työelämässä tarvitsemasi taidot. Tietotekniikan opiskeluohjelmissa opetetaan myös siihen liittyviä aiheita, kuten matematiikkaa, elektroniikkaa, telekommunikaatiota ja niin edelleen.</p>
+<p><b>Hyvät uutiset ovat, että useimmat web-ohjelmoijan työtehtävät eivät vaadi tietotekniikan korkeakoulututkintoa. Toisin sanoen on järkevämpää investoida aikaa ja rahaa suoraan koodauksen opettelemiseen.</b></p>
+<p>Tämä antaa sinulle kaksi seuraavaa vaihtoehtoa: koodauskurssit ja verkkokurssit.</p>
+<p>Koodauskurssi on tiivistetty ohjelma, joka yleensä kestää muutamasta päivästä kuukauteen tai yhden lukukauden. Web-koodauskursseja suomeksi Suomessa tarjoavat useimmiten erilaiset yksityiset kouluttajat. Aivan kuten yliopistokursseilla, sinun täytyy asua lähellä kurssin toteutuspaikkaa osallistuaksesi sille.</p>
+<p><b>Verkkokurssit yhdistävät joustavuuden ja intensiivikurssien tiiviyden, jolloin voit opiskella web-ohjelmointia omaan tahtiisi mistä tahansa maailman kolkasta.</b></p>
+<p>Uskomattoman käytännöllisyyden lisäksi monet verkkokurssit tarjoavat sinulle korkealaatuisen koulutuksen, mutta säästät paljon aikaa ja rahaa, sillä sinun ei tarvitse matkustaa kotisi ja kurssin toteutuspaikan välillä.</p>
+<p>Verkkokurssit taas eivät vaadi matkustamista ja kalliiden oppimateriaalien ostamista. Ne vaativat vain tietokoneen ja stabiilin internet-yhteyden!</p>
+<p><img loading="lazy" class="aligncenter size-large wp-image-13397" src="https://codeberryschool.com/blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-1024x683.jpg" alt="Web-ohjelmoijana riittää töitä niin isoissa firmoissa kuin freelancerinakin" width="1024" height="683" srcset="/blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-1024x683.jpg 1024w, /blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-300x200.jpg 300w, /blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-768x512.jpg 768w, /blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-1536x1024.jpg 1536w, /blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-2048x1365.jpg 2048w, /blog/wp-content/uploads/2021/06/cowomen-cKQkMFzXHAI-unsplash-1080x720.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<h1>Onko web-kehitys minua varten?</h1>
+<p>Jos luit aiemmat artikkelimme ohjelmoinnista, tunnet jo web-kehittäjän tarvitsemat ominaisuudet.</p>
+<p><b>Näihin ominaisuuksiin kuuluvat: silmää yksityiskohdille, ongelmanratkaisutaidot, kärsivällisyys, hyvä englannin kielen osaaminen, halu oppia ja rakkaus teknologiaan.</b></p>
+<p>Jos sinulle on hankalaa istua tunteja aloillasi, sinulla on keskittymisvaikeuksia tai et pidä tietokoneista, kannattaa harkita tämän alan valintaa uudelleen.</p>
+<p>Kirjoittamisvaikeudet ja hidas kirjoitusnopeus saattavat myös estää sinua nauttimasta koodauksesta ja saamasta tehtäviäsi ajoissa valmiiksi.</p>
+<p>Jos kuitenkin täytät kaikki yllä mainitut vaatimukset ja tunnet intohimoa alaa kohtaan, sinulla on mitä web-kehittäjän uralla tarvitaan!</p>
+<p>Seuraava askeleesi on päättää, mitkä ohjelmointikielet sopivat sinulle ja mistä aloittaa. Suosittelemme tähän avuksi artikkeliamme “<a href="https://codeberryschool.com/blog/fi/parhaimmat-ohjelmointikielet/" data-wpel-link="external" target="_blank" rel="external">Parhaimmat ohjelmointikielet ja mikä niistä kannattaa valita</a>”.</p>
+<p>Nähdään seuraavassa artikkelissamme, “Aloittelijan opas Java-ohjelmointiin”.</p>
+<p>&nbsp;</p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;"><strong>Ohjelmointikoulu CodeBerryn &#8220;Aloittelijan opas&#8221; -sarjassa</strong> vastaamme kysymyksiiisi siitä, mikä ohjelmointikieli kannattaa valita, kuinka paljon tulet tienaamaan, mitä voit tehdä verkko-ohjelmoijana ja mistä aloittaa.</span></p>
+<p><span data-sheets-formula-bar-text-style="font-size:11px;color:#000000;font-weight:normal;text-decoration:none;font-family:'Arial';font-style:normal;text-decoration-skip-ink:none;">Haluaisitko oppia koodaamaan verkossa? Tule ja <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">kokeile ensimmäisiä oppituntejamme maksutta</a> Ohjelmointikoulu CodeBerryssä.</span></p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

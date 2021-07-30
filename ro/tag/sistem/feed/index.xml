@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sistem | CodeBerry Blog</title>
+	<atom:link href="/blog/ro/tag/sistem/feed/" rel="self" type="application/rss+xml" />
+	<link>/blog</link>
+	<description>Learn programming online</description>
+	<lastBuildDate>Fri, 21 May 2021 17:39:45 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Bazele programării în C++ &#8211; Programare C++ pentru începători</title>
+		<link>/blog/ro/programare-c-pentru-incepatori/</link>
+		
+		<dc:creator><![CDATA[blog-admin]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2020 19:40:28 +0000</pubDate>
+				<category><![CDATA[Limbaje de programare]]></category>
+		<category><![CDATA[aplicație desktop]]></category>
+		<category><![CDATA[aplicație mobilă]]></category>
+		<category><![CDATA[back-end]]></category>
+		<category><![CDATA[bjarne stroustrup]]></category>
+		<category><![CDATA[C++]]></category>
+		<category><![CDATA[codare]]></category>
+		<category><![CDATA[dezvoltator]]></category>
+		<category><![CDATA[in programare]]></category>
+		<category><![CDATA[int main]]></category>
+		<category><![CDATA[jocuri video]]></category>
+		<category><![CDATA[limbaj]]></category>
+		<category><![CDATA[limbajul C++]]></category>
+		<category><![CDATA[limbajul de programare]]></category>
+		<category><![CDATA[Limbajul de programare C++]]></category>
+		<category><![CDATA[programare]]></category>
+		<category><![CDATA[programare c]]></category>
+		<category><![CDATA[programare orientata pe obiect]]></category>
+		<category><![CDATA[Programarea in C++]]></category>
+		<category><![CDATA[programezi in c]]></category>
+		<category><![CDATA[sistem]]></category>
+		<guid isPermaLink="false">https://codeberryschool.com/blog/?p=10159</guid>
+
+					<description><![CDATA[În seria „Ghidul începătorului” de la Școala de Programare CodeBerry, vom răspunde la întrebările pe care le poți avea despre limbajul de programare pe care trebuie să-l alegi, cât vei câștiga, ce poți face în calitate de programator și de unde să începi. În acest articol, vom vorbi despre limbajul de programare C++. Ți-ar plăcea să înveți [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi. În acest articol, vom vorbi despre limbajul de programare C++.</p>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><strong>Bazele programării în C++ &#8211; Programare C++ pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# – Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+</ul>
+<h2><span style="font-weight: 400;">Pentru ce poți folosi limbajul de programare C++</span></h2>
+<p><span style="font-weight: 400;">Cu C++ poți crea tot felul de lucruri uimitoare, precum </span><a href="https://www.howtogeek.com/659948/what-are-aaa-triple-a-video-games/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">jocuri video AAA</span></a><span style="font-weight: 400;">, aplicații puternice pentru desktop puternice și aplicații mobile. Fiind un limbaj de programare low-level, C++ este mai greu de înțeles, dar îți oferă mai mult control asupra hardware-ului. Unii spun chiar că limbajul C++ te ajută „să fii mai aproape de metal”. De aceea este alegerea perfectă pentru </span><a href="https://www.youtube.com/watch?v=lBRXOZSUw54" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">dezvoltarea jocurilor video</span></a><span style="font-weight: 400;"> pentru console. </span> <span style="font-weight: 400;">Poți folosi C++ și în programarea sistemelor, sisteme încorporate și dezvoltare web back-end. C++ este grozav pentru crearea și optimizarea sistemelor de operare și a driverelor pentru dispozitive</span><span style="font-weight: 400;">lor</span><span style="font-weight: 400;">. </span>  </p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12338" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-1.png" alt="Programare la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-1.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-1-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Ce este C++?</span></h2>
+<p><span style="font-weight: 400;">C++ este un limbaj de programare cu scop general, care construiește pe noțiunile de bază din C, unul dintre cele mai </span><span style="font-weight: 400;">larg</span><span style="font-weight: 400;"> utilizate limbaje de programare din toate timpurile. De-a lungul anilor, C a fost înlocuit treptat cu îmbunătățirile moderne ale limbajului, precum C++ și C#.</span></p>
+<p><span style="font-weight: 400;">C++ a fost inventat inițial în 1985 de către Bjarne Stroustrup, care și-a dorit o versiune mai rapidă și mai puternică a limbajului de programare C (creat în 1972). Deși conține multă sintaxă din limbajul C, C++ a adăugat funcții noi, precum clasele, care îl fac capabil de programare orientată pe obiect.</span> <span style="font-weight: 400;">În limbajul de programare C, „++” crește valoarea unei variabile numerice (adică 1 ar deveni 2). </span></p>
+<p><span style="font-weight: 400;">Bjarne a adăugat asta la numele lui C++ pentru a comunica că noul limbaj e o versiune mai avansată și mai evoluată a lui C.</span> <span style="font-weight: 400;">În prezent, C++ ține locul predecesorului său, fiind cel mai popular limbaj de programare de astăzi. </span>  </p>
+<h3><span style="font-weight: 400;">Cum arată programarea în C++? </span></h3>
+<p><span style="font-weight: 400;">Iată </span><a href="https://www.tutorialspoint.com/cplusplus/index.htm" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">cum arată codul C++</span></a><span style="font-weight: 400;">, folosind exemplul „Hello World”:</span></p>
+<pre class="wp-block-code"><code class="language-cpp" lang="cpp">#include &lt;iostream&gt;
+int main()
+{
+  std::cout &lt;&lt; "Hello, world!\n";
+}</code></pre>
+<p>&nbsp;</p>
+<h2><span style="font-weight: 400;">Cât câștigă programatorii de C++?</span></h2>
+<p><span style="font-weight: 400;">Pe baza informațiilor de pe indeed.com, dezvoltatorii C++ din Statele Unite, care au lucrat în pozițiile lor timp de 1-3 ani, câștigă în medie 116,115 de dolari pe an (561,357 de lei/an), echivalentul a 9,676.25 de dolari pe lună (46,778 de lei/lună) brut. Desigur, asta include multe salarii din zone scumpe precum San Francisco și New York, unde salariile sunt mari din cauza costului de trai ridicat. </span> <span style="font-weight: 400;">În România, salariile profesioniștilor C ++ sunt în prezent următoarele:</span></p>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator C++ junior</span></td>
+<td><span style="font-weight: 400;">5700 RON net*</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator C++ middle</span></td>
+<td><span style="font-weight: 400;">6973 RON net**</span></td>
+</tr>
+<tr>
+<td><span style="font-weight: 400;">Dezvoltator C++ senior</span></td>
+<td><span style="font-weight: 400;">30000 RON net***</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">*</span><a href="https://www.undelucram.ro/salarii-telenav-totul-despre-mediul-de-lucru-3546" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">sursa</span></a><b>; *</b><span style="font-weight: 400;">*</span><a href="https://codecool.com/ro/blog/top-salarii-it/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">sursa</span></a><b>;</b> ***<a href="https://www.payscale.com/research/RO/Job=Senior_Software_Engineer/Salary/da5e8f32/C%2B%2B-Programming-Language" target="_blank" rel="noopener external" data-wpel-link="external">sursa</a></p>
+<p><div id="attachment_10161" style="width: 1034px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-10161" loading="lazy" class="wp-image-10161 size-large" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/c2-1024x724.jpg" alt="Limbajul de programare C++ „te apropie de metal”" width="1024" height="724" srcset="/blog/wp-content/uploads/2020/09/c2-1024x724.jpg 1024w, /blog/wp-content/uploads/2020/09/c2-300x212.jpg 300w, /blog/wp-content/uploads/2020/09/c2-768x543.jpg 768w, /blog/wp-content/uploads/2020/09/c2-1536x1086.jpg 1536w, /blog/wp-content/uploads/2020/09/c2-400x284.jpg 400w, /blog/wp-content/uploads/2020/09/c2-1080x763.jpg 1080w, /blog/wp-content/uploads/2020/09/c2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><p id="caption-attachment-10161" class="wp-caption-text">Programarea C ++ „te apropie de metal”</p></div></p>
+<h2><span style="font-weight: 400;">Cum învăț programare C++?</span></h2>
+<p><span style="font-weight: 400;">Limbajul de programare C++ este cunoscut ca fiind relativ complex și dificil de învățat. Din acest motiv, mulți programatori aleg să înceapă să învețe HTML, CSS și un limbaj de programare precum JavaScript. În acest fel, ei pot să-și înceapă propria carieră în programare cu dezvoltarea web și să învețe C++ pe parcurs, în timp ce fac deja bani și câștigă experiență în programare. </span>  </p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12147" src="https://codeberryschool.com/blog/wp-content/uploads/2020/09/Testimonial-1.png" alt="Înscrie-te la cursul pentru bazele programării de la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2020/09/Testimonial-1.png 1024w, /blog/wp-content/uploads/2020/09/Testimonial-1-300x100.png 300w, /blog/wp-content/uploads/2020/09/Testimonial-1-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h3><span style="font-weight: 400;">Dacă ți-ar plăcea să-ți asumi provocarea de a învăța C++, iată câțiva pași pe care va trebui să-i urmezi:</span></h3>
+<p><span style="font-weight: 400;">Primul pas este să te înscrii la un program de științe informatice la o universitate locală. Fiind un limbaj de programare low-level, îți vei dori să cunoști cele mai importante concepte ale programării calculatorului înainte de a începe cu C++. </span> <span style="font-weight: 400;">Totuși, va trebui și să-ți petreci mult timp studiind în afara cursurilor, din moment ce programul de științe informatice se concentrează mai mult pe învățarea conceptelor decât a abilităților. </span></p>
+<p><span style="font-weight: 400;">Prin urmare, al doilea pas pentru învățarea lui C++ este să găsești resurse tipărite și </span><a href="https://www.learncpp.com/" rel="nofollow noopener external" target="_blank" data-wpel-link="external"><span style="font-weight: 400;">digitale</span></a><span style="font-weight: 400;"> de calitate, pe care să le poți studia în timpul tău liber. Există o mulțime de cărți și manuale disponible, care te pot învăța cum să programezi în C++, precum și cursuri online și tutoriale. Deoarece C++ există de atât de mult timp, ai putea chiar să găsești niște cărți de programare C++ bune la biblioteca din localitatea ta.</span></p>
+<p><span style="font-weight: 400;">Al treilea pas este căutarea comunităților online,</span> <span style="font-weight: 400;">respectiv a forumurilor, unde poți obține ajutor de la programatori cu experiență în C++. Continuă să practici și întreabă comunitatea de fiecare dată când te încurci și nu-ți poți da seama de o soluție de unul singur. Site-urile web precum </span><a href="http://cplusplus.com/" target="_blank" rel="noopener external" data-wpel-link="external"><span style="font-weight: 400;">Cplusplus.com</span></a><span style="font-weight: 400;"> au forumuri unde utilizatorii discută în mod activ și răspund la întrebări. </span>  </p>
+<h3><span style="font-weight: 400;">Cât durează să învăț C++? </span></h3>
+<p><span style="font-weight: 400;">Durata necesară pentru învățarea unui limbaj de programare depinde de metodele folosite, de retenția învățării și de cât de multe ore aloci pe săptămână. Nu te poți aștepta să știi totul despre C++ după urmarea unui curs de un semestru la o universitate locală sau după un program de 14 săptămâni la un bootcamp de  codare. </span></p>
+<p><span style="font-weight: 400;">Dacă ai deja experiență cu programarea în C, probabil te poți aștepta să-ți petreci 3-4 luni învățând funcțiile suplimentare ale C++. Totuși, dacă începi cu acest limbaj de programare de la zero, probabil îți vei petrece mai bine de 6 luni pentru a-l învăța la cel mai de bază nivel.  </span></p>
+<p><span style="font-weight: 400;">Pentru a învăța C++ la un nivel suficient de avansat pentru a obține un job de programator C++, probabil îți va lua 3-4 ani. Din nefericire, chiar și programatorii de C++ cu zeci de ani de experiență tot îl consideră cel mai dificil limbaj de scris.</span>  </p>
+<p><a href="https://codeberryschool.com/ro/acces-la-toate-materialele" target="_blank" rel="noopener external" data-wpel-link="external"><img loading="lazy" class="aligncenter size-full wp-image-12340" src="https://codeberryschool.com/blog/wp-content/uploads/2021/01/Self-paced-2.png" alt="Invata programare online la CodeBerry" width="1024" height="340" srcset="/blog/wp-content/uploads/2021/01/Self-paced-2.png 1024w, /blog/wp-content/uploads/2021/01/Self-paced-2-300x100.png 300w, /blog/wp-content/uploads/2021/01/Self-paced-2-768x255.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<h2><span style="font-weight: 400;">Oare C++ mi se potrivește?</span></h2>
+<p><span style="font-weight: 400;">Pentru a vedea dacă un limbaj de programare ți se potrivește, mai întâi trebuie să-ți dai seama dacă se potrivește cu obiectivele tale pe termen lung.</span> <span style="font-weight: 400;">Învățarea lui C++ nu este pentru cei slabi de inimă. Fără îndoială că îți va lua ani de studiu și practică. Așadar, ar trebui să fii foarte sigur de decizie înainte de porni în călătoria asta lungă. </span> <span style="font-weight: 400;">Pentru că probabil nu vei putea învăța C++ fără cunoștințe anterioare în programare, le recomandăm novicilor să înceapă cu limbaje de bază, precum </span><a href="https://codeberryschool.com/ro/cursul-creatorul-de-websiteuri" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">HTML</span></a><span style="font-weight: 400;">, CSS și </span><a href="https://codeberryschool.com/ro/cursul-bazele-programarii" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">JavaScript</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Pentru a vedea dacă C++ ți se potrivește, te rugăm să citești și articolul nostru </span><a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external"><span style="font-weight: 400;">„Ce limbaj de programare ți se potrivește?”</span></a><span style="font-weight: 400;">. În acesta, vei descoperi o varietate de alte limbaje de programare și ce poți realiza cu fiecare.</span>   <strong>În seria „Ghidul începătorului” de la Școala de Programare CodeBerry</strong>, vom răspunde la întrebările pe care le poți avea despre <a href="https://codeberryschool.com/blog/ro/ce-limbaj-de-programare-ti-se-potriveste/" data-wpel-link="external" target="_blank" rel="external">limbajul de programare pe care trebuie să-l alegi</a>, <a href="https://codeberryschool.com/blog/ro/salarii-programatori-2020/" data-wpel-link="external" target="_blank" rel="external">cât vei câștiga</a>, ce poți face în calitate de programator și de unde să începi.</p>
+<h3>Ghidul începătorului</h3>
+<ul>
+<li><a href="https://codeberryschool.com/blog/ro/ghidul-incepatorului-pentru-dezvoltare-web/" data-wpel-link="external" target="_blank" rel="external">Ghidul începătorului pentru dezvoltare web</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-java/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Java – Programare Java pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-python/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul Python – Programare Python pentru începători</a></li>
+<li><strong>Bazele programării în C++ &#8211; Programarea în C++ pentru începători</strong></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-limbajul-php/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în limbajul PHP &#8211; Programare PHP pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-c-sharp/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în C# – Programarea în C# pentru începători</a></li>
+<li><a href="https://codeberryschool.com/blog/ro/bazele-programarii-in-javascript/" data-wpel-link="external" target="_blank" rel="external">Bazele programării în JavaScript &#8211; Programare Javascript pentru începători</a></li>
+<li> </li>
+</ul>
+<p>Ți-ar plăcea să înveți programare online? Vino și <a href="https://orange.codeberryschool.com/auth/signup" data-wpel-link="external" target="_blank" rel="external">încearcă primele 25 de lecții gratuit</a> la Școala de Programare CodeBerry.</p>
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 100%;">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 100%;">
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis: 100%;">
+<h2></h2>
+<h2 class="has-text-align-center"><span class="has-inline-color" style="color: #ef5350;"><strong>Learn to code and change your career!</strong></span></h2>
+<div class="wp-block-spacer" style="height: 40px;" aria-hidden="true"></div>
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12065" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon1-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>100% ONLINE</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-thumbnail is-resized"><img loading="lazy" class="wp-image-12066" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4-440x440.png 440w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon4.png 512w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>IDEAL FOR BEGINNERS</strong></h4>
+</div>
+</div>
+</div>
+<div class="wp-block-column" style="flex-basis: 50%;">
+<div class="wp-block-columns are-vertically-aligned-top">
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12067" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon3-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SUPPORTIVE COMMUNITY</strong></h4>
+</div>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis: 50%;">
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12068" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2.png 512w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-300x300.png 300w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-150x150.png 150w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/web_icon2-440x440.png 440w" alt="" width="200" height="200" /></figure>
+</div>
+<h4 class="has-text-align-center"><strong>SELF-PACED LEARNING</strong></h4>
+</div>
+</div>
+</div>
+</div>
+<div class="wp-block-spacer" style="height: 10px;" aria-hidden="true"></div>
+<h3 class="has-text-align-center"><span class="has-inline-color" style="color: #20c997;">Not sure if programming is for you? With CodeBerry you’ll like it.</span></h3>
+<div class="wp-block-spacer" style="height: 30px;" aria-hidden="true"></div>
+<div class="wp-block-buttons aligncenter">
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-text-color has-background" style="border-radius: 10px; background-color: #ef5350;" href="https://orange.codeberryschool.com/auth/signup" target="_blank" rel="noreferrer noopener external" data-wpel-link="external"><strong>TRY THE FIRST LESSONS FOR FREE</strong></a></div>
+</div>
+<div class="wp-block-spacer" style="height: 25px;" aria-hidden="true"></div>
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img loading="lazy" class="wp-image-12074" src="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png" sizes="(max-width: 282px) 100vw, 282px" srcset="https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1.png 564w, https://codeberryschool.com/blog/wp-content/uploads/2021/02/logo_green-1-300x47.png 300w" alt="" width="282" height="45" /></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
